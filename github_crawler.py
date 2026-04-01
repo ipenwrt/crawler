@@ -52,6 +52,15 @@ SUB_PATTERNS = [
     "&flag=clash", "&flag=v2ray", "clash=1", "sub/subscribe"
 ]
 
+# 1.5 TG 频道源
+TG_CHANNELS = [
+    "https://t.me/s/v2board_share", "https://t.me/s/free_v2board", "https://t.me/s/v2board_channel",
+    "https://t.me/s/v2ray_free_dy", "https://t.me/s/v2board_dy", "https://t.me/s/v2ray_free_clash",
+    "https://t.me/s/clash_v2board", "https://t.me/s/Jichang_Share", "https://t.me/s/vpn_free_link",
+    "https://t.me/s/nodes_share", "https://t.me/s/v2ray_free_nodes", "https://t.me/s/free_jichang_share",
+    "https://t.me/s/jichang_shiyong", "https://t.me/s/free_node_channel", "https://t.me/s/jichang_list"
+]
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 }
@@ -136,6 +145,19 @@ def fetch_github():
         time.sleep(2) # 遵守速率限制
     return all_links
 
+def fetch_tg():
+    """从 TG 频道采集"""
+    links = set()
+    for url in TG_CHANNELS:
+        res = http_get(url, timeout=15)
+        if res:
+            found = URL_PATTERN.findall(res.text)
+            valid = [l.rstrip('.,/;\'"') for l in found if is_valid_url(l)]
+            links.update(valid)
+            if len(valid) > 0:
+                print(f" -> [TG] 频道: {url.split('/')[-1]} | 获取有效 URL: {len(valid)}")
+    return links
+
 def load_existing(filename):
     """加载本地历史数据"""
     if os.path.exists(filename):
@@ -150,10 +172,13 @@ def load_existing(filename):
 
 if __name__ == "__main__":
     start_time = time.time()
-    print(f"=== BOT 启动：开始 GitHub 深度采集 (时间: {time.strftime('%Y-%m-%d %H:%M:%S')}) ===")
+    print(f"=== BOT 启动：开始深度采集 (时间: {time.strftime('%Y-%m-%d %H:%M:%S')}) ===")
     
-    # 1. 抓取 GitHub
-    all_found = fetch_github()
+    # 1. 抓取 (并行)
+    with ThreadPoolExecutor(max_workers=2) as executor:
+        f1 = executor.submit(fetch_github)
+        f2 = executor.submit(fetch_tg)
+        all_found = f1.result().union(f2.result())
 
     # 2. 增量去重逻辑
     old_domains = load_existing("domains.txt")
