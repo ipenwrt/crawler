@@ -31,11 +31,11 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add utils.txt trial.csv
+        git add urls.txt trial.csv
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "Update utils.txt and trial.csv [skip ci]"
+          git commit -m "Update urls.txt and trial.csv [skip ci]"
           git push
         fi
       env:
