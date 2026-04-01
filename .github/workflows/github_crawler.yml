@@ -31,7 +31,7 @@ jobs:
 
       - name: Run Crawler
         env:
-          GH_TOKEN: ${{ secrets.GITHUBH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python github_crawler.py
 
       - name: Push Results
