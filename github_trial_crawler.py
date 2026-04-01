@@ -150,10 +150,10 @@ async def main(token=None):
         
         # 输出文件
         print(f"\n=== 最终结果 ===")
-        with open('utils.txt', 'w', encoding='utf-8') as f:
+        with open('urls.txt', 'w', encoding='utf-8') as f:
             for link in sorted(all_links):
                 f.write(link.strip() + '\n')
-        print(f"Total unique links: {len(all_links)} -> utils.txt")
+        print(f"Total unique links: {len(all_links)} -> urls.txt")
         
         with open('trial.csv', 'w', newline='', encoding='utf-8') as f:
             writer = csv.writer(f)
