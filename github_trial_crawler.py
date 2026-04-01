@@ -1,23 +1,3 @@
-# GitHub Trial Cache Crawler
-
-**GitHub Trial Cache Crawler** 是一个自动化工具，用于搜索 GitHub 全网公开仓库中的 `trial.cache` 文件，提取其中的订阅链接（vmess、vless、ss、ssr、trojan 等协议），并生成输出文件。
-
-**注意**：
-- GitHub Search API 结果上限为 **1000 个**（无法真正“全网所有”，但覆盖大部分公开结果）。
-- 每页 100 个结果，分页爬取。
-- 使用 GitHub Token 提高速率限制（Actions 中自动使用 `${{ secrets.GITHUB_TOKEN }}`）。
-- 提取逻辑：使用正则匹配常见订阅协议链接，支持 Base64 解码尝试。
-- 去重后写入 `utils.txt`。
-- 爬取记录写入 `trial.csv`（包含仓库、路径、Raw URL、提取链接数）。
-
-## 输出文件
-
-- `utils.txt`：提取的所有唯一订阅链接（一行一个，已去重）。
-- `trial.csv`：爬取统计（Repository, Path, Raw URL, Link Count）。
-
-## 脚本：`github_trial_crawler.py`
-
-```python
 import aiohttp
 import asyncio
 import re
