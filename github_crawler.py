@@ -1,5 +1,4 @@
 # coding=utf-8
-# github_tg_crawler.py (已移除所有 TG 相关功能，仅保留 GitHub 搜索)
 import requests
 import re
 import os
