@@ -39,8 +39,8 @@ jobs:
         
     - name: 执行任务
       run: |
-        if [ ! -f "urls.txt" ]; then
-          echo "Error: urls.txt not found. Exiting."
+        if [ ! -f "domains.txt" ]; then
+          echo "Error: domains.txt not found. Exiting."
           exit 1
         fi
         python ./TG_proxy_main.py || echo "Script finished with some errors"
