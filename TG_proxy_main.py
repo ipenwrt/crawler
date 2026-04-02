@@ -12,7 +12,7 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # --- 文件配置 ---
-URLS_FILE = "urls.txt"
+URLS_FILE = "domains.txt"
 CACHE_FILE = "tg.cache"
 
 class AirportCommander:
