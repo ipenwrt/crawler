@@ -41,7 +41,7 @@ jobs:
           dt=$(date "+%Y-%m-%d %H:%M:%S")
           
           # 检查是否有文件变动
-          git add domains.txt subscribes.txt
+          git add urls.txt subscribes.txt
           if git diff --staged --quiet; then
             echo "没有新数据，跳过推送。"
           else
