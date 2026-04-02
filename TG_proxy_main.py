@@ -12,7 +12,7 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # --- 文件配置 ---
-URLS_FILE = "domains.txt"
+URLS_FILE = "urls.txt"
 CACHE_FILE = "tg.cache"
 
 class AirportCommander:
@@ -294,8 +294,8 @@ def main():
             except: pass
 
     unique_n = sorted(list(set(all_n)))
-    with open("nodes_plain.txt", "w", encoding="utf-8") as f: f.write("\n".join(unique_n))
-    with open("subscription", "w", encoding="utf-8") as f:
+    with open("nodes_plain.txt", "a", encoding="utf-8") as f: f.write("\n".join(unique_n))
+    with open("subscription", "a", encoding="utf-8") as f:
         f.write(base64.b64encode("\n".join(unique_n).encode()).decode())
     with open(CACHE_FILE, "w", encoding="utf-8") as f: f.writelines(all_l)
     print(f"\n任务结束！共抓取节点: {len(unique_n)} 个")
