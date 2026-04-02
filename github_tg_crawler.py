@@ -215,7 +215,7 @@ if __name__ == "__main__":
 
     # 3. 数据持久化 (排序并写入)
     try:
-        with open("domains.txt", "w", encoding="utf-8") as f:
+        with open("urls.txt", "w", encoding="utf-8") as f:
             f.write("\n".join(sorted(list(final_domains))))
         
         with open("subscribes.txt", "w", encoding="utf-8") as f:
