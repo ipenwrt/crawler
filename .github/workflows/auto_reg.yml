@@ -1,0 +1,67 @@
+name: Airport_Auto_Register
+
+on:
+  workflow_dispatch: # 手动触发
+  push:
+    # 当以下文件发生变动并推送时，自动触发运行
+    paths:
+      - 'auto_reg.py'
+      - 'urls.txt'
+      - '.github/workflows/auto_reg.yml'
+  schedule:
+   
+    - cron: "0 6,18 * * 1"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions: # 赋予推送权限
+      contents: write
+      
+    steps:
+    - name: 迁出代码
+      uses: actions/checkout@v3
+
+    - name: 安装Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: 加载缓存
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: 设置上海时区
+      run: sudo timedatectl set-timezone 'Asia/Shanghai'
+
+    - name: 安装依赖
+      run: |
+        pip install requests
+
+    - name: 执行注册任务
+      run: |
+        python ./auto_reg.py
+      
+    - name: 提交并推送更改
+      run: |                 
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # 拉取最新远程改动，防止冲突
+        git pull origin main
+        
+        # 添加生成的文件
+        git add trial.cache sub_links.txt nodes.txt
+       
+        
+        # 如果有变动则提交，没有则优雅退出
+        if [ -n "$(git status --porcelain)" ]; then
+          git commit -m "$(date '+%Y-%m-%d %H:%M:%S') 自动注册更新 [上海时区]"
+          git push origin main
+        else
+          echo "没有任何变动，无需提交。"
+        fi
