@@ -50,7 +50,7 @@ EXCLUDE_KEYWORDS = [
     "glpat-", "ghp_", "gho_", "ghu_", "ghs_", "ghr_", "rulesets", "subconverter",
     "baidu", "aliyun", "beian", "gov.cn", "crashlytics", "sentry.io", "umeng.com", 
     "ampproject", "schema.org", "wordpress.org", "gravatar.com", "jquery.com",
-    "cloudfront.net", "akamaized.net", "azureedge.net", "fastly.net",
+    "cloudfront.net", "akamaized.net", "azureedge.net", "fastly.net","fast8888",
     "v2ray.com", "clash.wiki", "shadowsocks.org", "getbootstrap.com"
 ]
 
