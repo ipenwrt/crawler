@@ -6,9 +6,9 @@ on:
       - main
     paths:
       - 'TG_proxy_main.py'
-      - '.github/workflows/main.yml'
+      - '.github/workflows/TG_proxy_main.yml'
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: 0 0 1 * *
 
 jobs:
   deploy:
@@ -50,11 +50,8 @@ jobs:
         export TZ='Asia/Shanghai'
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Action"
-        
         URL_COUNT=$(wc -l < urls.txt 2>/dev/null || echo "0")
-        
-        git add ./report.csv ./subscription ./nodes_plain.txt ./tg.cache 2>/dev/null || echo "No result files found"
-        
+        git add ./report.csv ./subscription.txt ./nodes_plain.txt ./tg.cache 2>/dev/null || echo "No result files found"
         if git diff --staged --quiet; then
           echo "没有产生任何变化，跳过提交。"
         else
