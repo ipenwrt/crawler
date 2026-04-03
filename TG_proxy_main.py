@@ -16,10 +16,10 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # --- 核心配置 ---
 URLS_FILE = "urls.txt"
 CACHE_FILE = "tg.cache"
-SUB_FILE = "subscription.txt"  # 保存注册成功的订阅链接
-MAX_WORKERS = 100               # 保持 100 并发
-DEFAULT_TIMEOUT = 5             # 5秒超时过滤死链
-MAIL_WAIT_TIMEOUT = 35          # 邮件等待上限
+SUB_FILE = "subscription.txt"
+MAX_WORKERS = 100               
+DEFAULT_TIMEOUT = 5             
+MAIL_WAIT_TIMEOUT = 35          
 
 # ==================== 日志逻辑 ====================
 logging.basicConfig(
@@ -41,8 +41,7 @@ def request_with_retry(max_tries=1, backoff=1.0):
                     resp = func(*args, **kwargs)
                     if resp and resp.status_code not in (429, 500, 502, 503, 504):
                         return resp
-                except Exception:
-                    pass
+                except Exception: pass
                 time.sleep(delay + random.uniform(0.1, 0.5))
                 tries += 1
                 delay *= 1.5
@@ -50,12 +49,10 @@ def request_with_retry(max_tries=1, backoff=1.0):
         return wrapper
     return decorator
 
-# ==================== 速率限制器 ====================
 class RateLimiter:
     def __init__(self, max_per_sec):
         self.interval = 1.0 / max_per_sec
         self._last = {}
-
     def wait(self, host):
         now = time.time()
         last = self._last.get(host, 0)
@@ -63,7 +60,6 @@ class RateLimiter:
             time.sleep(self.interval - (now - last))
         self._last[host] = time.time()
 
-# ==================== OCR 预处理 ====================
 def preprocess_captcha(img_bytes):
     try:
         nparr = np.frombuffer(img_bytes, np.uint8)
@@ -74,10 +70,8 @@ def preprocess_captcha(img_bytes):
         clean = cv2.morphologyEx(bin_img, cv2.MORPH_OPEN, kernel)
         _, buf = cv2.imencode('.png', clean)
         return buf.tobytes()
-    except:
-        return img_bytes
+    except: return img_bytes
 
-# ==================== 机场指挥官主类 ====================
 class AirportCommander:
     def __init__(self):
         self.old_cache = self.parse_existing_cache()
@@ -113,14 +107,12 @@ class AirportCommander:
     def _get(self, session, url, **kwargs):
         host = url.split('/')[2] if '/' in url else "default"
         self.limiter.wait(host)
-        if 'timeout' not in kwargs: kwargs['timeout'] = DEFAULT_TIMEOUT
         return session.get(url, **kwargs)
 
     @request_with_retry()
     def _post(self, session, url, **kwargs):
         host = url.split('/')[2] if '/' in url else "default"
         self.limiter.wait(host)
-        if 'timeout' not in kwargs: kwargs['timeout'] = DEFAULT_TIMEOUT
         return session.post(url, **kwargs)
 
     def get_session(self, url=""):
@@ -185,8 +177,6 @@ class AirportCommander:
         try:
             s = session if session else self.get_session()
             client_uas = ["ClashforWindows/0.19.29", "Shadowrocket/1054 CFNetwork/1333.0.4", "v2rayN/6.23"]
-            
-            # 修正：移除强制 flag=clash，以直接获取包含 anytls 等协议的 Base64 订阅内容
             res = s.get(sub_url, headers={"User-Agent": random.choice(client_uas)}, timeout=DEFAULT_TIMEOUT + 5)
             header = res.headers.get('subscription-userinfo', '')
             nodes_text = res.text
@@ -205,56 +195,50 @@ class AirportCommander:
         except: return 0, 0, 0, ""
 
     def auto_buy_plan(self, url, session):
+        """关键改进：增加 onetime_price 识别，确保买到试用流量"""
         for path in ["/api/v1/user/plan/fetch", "/api/v1/guest/plan/fetch"]:
             try:
                 res = self._get(session, f"{url}{path}", timeout=DEFAULT_TIMEOUT).json()
-                for p in res.get("data", []):
-                    free_cycles = [k for k, v in p.items() if '_price' in k and v == 0]
-                    for cycle in free_cycles:
-                        order = self._post(session, f"{url}/api/v1/user/order/save", json={'plan_id': p['id'], 'cycle': cycle.replace('_price','')}, timeout=DEFAULT_TIMEOUT).json()
-                        trade_no = order.get('data')
-                        if trade_no:
-                            self._post(session, f"{url}/api/v1/user/order/checkout", json={'trade_no': trade_no, 'method': 1}, timeout=DEFAULT_TIMEOUT)
-                            return True
+                plans = res.get("data", [])
+                best_plan = None
+                max_transfer = -1
+                for p in plans:
+                    # 检查月付、年付或“一次性(onetime)”是否为 0
+                    free_cycles = [k for k, v in p.items() if '_price' in k and v == 0 and k != 'reset_price']
+                    if free_cycles:
+                        if p.get('transfer_enable', 0) > max_transfer:
+                            max_transfer = p.get('transfer_enable', 0)
+                            best_plan = {'id': p['id'], 'cycle': free_cycles[0].replace('_price','')}
+                if best_plan:
+                    order = self._post(session, f"{url}/api/v1/user/order/save", json={'plan_id': best_plan['id'], 'cycle': best_plan['cycle']}, timeout=DEFAULT_TIMEOUT).json()
+                    trade_no = order.get('data')
+                    if trade_no:
+                        self._post(session, f"{url}/api/v1/user/order/checkout", json={'trade_no': trade_no, 'method': 1}, timeout=DEFAULT_TIMEOUT)
+                        return True
             except: continue
         return False
 
-    # ==================== 核心增强：精准提取节点 ====================
     def extract_nodes_strict(self, content):
-        """精准提取真实 URI 节点，支持 Base64 混合格式，移除伪节点"""
         if not content: return []
-        
-        # 协议正则表达式
         uri_regex = r'(?:vmess|vless|ss|ssr|trojan|hysteria|hy2|anytls|tuic)://[^\s\'"<>]+'
-        
-        def find_uris(text):
-            return re.findall(uri_regex, text, re.I)
-
-        # 1. 直接搜寻
-        results = find_uris(content)
-
-        # 2. 如果没搜到，尝试对整个内容进行 Base64 解码后再匹配
+        results = re.findall(uri_regex, content, re.I)
         if not results:
             try:
-                # 预清洗：移除所有非 Base64 字符
                 cleaned = re.sub(r'[^a-zA-Z0-9+/=]', '', content)
-                # 自动补全 Padding
                 missing_padding = len(cleaned) % 4
                 if missing_padding: cleaned += '=' * (4 - missing_padding)
-                
                 decoded = base64.b64decode(cleaned).decode('utf-8', errors='ignore')
-                if "://" in decoded:
-                    results = find_uris(decoded)
+                if "://" in decoded: results = re.findall(uri_regex, decoded, re.I)
             except: pass
-            
         return list(set([r.strip() for r in results]))
 
     def process_task(self, url):
         url = url.rstrip('/')
+        last_err = "无法连接"
         try:
             host = url.split('//')[-1].split('/')[0].split(':')[0]
             socket.gethostbyname(host)
-        except: return [], "", ""
+        except Exception as e: return [], self.format_error_log(url, f"DNS失败: {str(e)}"), ""
 
         sess = self.get_session(url)
         if url in self.old_cache:
@@ -262,73 +246,72 @@ class AirportCommander:
             sub_url = info.get('sub_url', '')
             if sub_url:
                 u, t, exp, sub_txt = self.get_info_from_sub_header(sub_url, sess, url)
-                log = self.format_log(url, info['email'], u, t, exp, sub_url)
-                return self.extract_nodes_strict(sub_txt), log, sub_url
+                if t > 0:
+                    return self.extract_nodes_strict(sub_txt), self.format_log(url, info['email'], u, t, exp, sub_url), sub_url
 
         try:
-            self._get(sess, url, timeout=DEFAULT_TIMEOUT)
             email_base = ''.join(random.choices(string.ascii_lowercase, k=9))
             pw = "Pass123456"
-            
             for reg_path in self.REG_PATHS:
                 strategies = [
-                    {'name': '小蜜蜂/Form', 'is_json': False, 'payload': {'email': f"{email_base}@gmail.com", 'password': pw, 'invite_code': '', 'email_code': ''}},
-                    {'name': '标准/JSON', 'is_json': True, 'payload': {'email': f"{email_base}@gmail.com", 'password': pw, 'repassword': pw, 'invite_code': ''}},
-                    {'name': '经典/Form', 'is_json': False, 'payload': {'email': f"{email_base}@gmail.com", 'password': pw, 'repassword': pw, 'invite_code': ''}},
+                    {'name': 'JSON', 'is_json': True, 'payload': {'email': f"{email_base}@gmail.com", 'password': pw, 'repassword': pw}},
+                    {'name': 'Form', 'is_json': False, 'payload': {'email': f"{email_base}@gmail.com", 'password': pw, 'repassword': pw}},
                 ]
-
                 for st in strategies:
                     try:
                         p = st['payload'].copy()
                         def fire(data):
                             if st['is_json']: return self._post(sess, f"{url}{reg_path}", json=data)
-                            return self._post(sess, f"{url}{reg_path}", data=data, headers={"Content-Type": "application/x-www-form-urlencoded"})
+                            return self._post(sess, f"{url}{reg_path}", data=data)
 
                         res_raw = fire(p)
-                        if not res_raw or res_raw.status_code == 404: break
+                        if not res_raw or res_raw.status_code == 404: continue
                         res_data = res_raw.json()
                         msg = str(res_data.get('message', '')).lower()
+                        last_err = msg
 
-                        if "captcha" in msg or res_data.get('data') is False:
-                            for _ in range(2):
-                                code = self.get_captcha_code(sess, url)
-                                if code:
-                                    p['captcha_code'] = code
-                                    res_data = fire(p).json()
-                                    if res_data.get("data", {}).get("token"): break
-                                else: break
-
-                        if any(x in msg for x in ["邮箱验证码", "不能为空", "required", "email_code", "verification code"]):
+                        # 验证码和邮箱逻辑保持不变
+                        if "captcha" in msg:
+                            code = self.get_captcha_code(sess, url)
+                            if code: p['captcha_code'] = code; res_data = fire(p).json()
+                        
+                        if any(x in msg for x in ["邮箱", "email_code", "required"]):
                             t_email, t_token = self.create_temp_mail()
                             if t_email:
                                 cap = self.get_captcha_code(sess, url)
-                                for m_path in self.MAIL_PATHS:
-                                    if st['is_json']: self._post(sess, f"{url}{m_path}", json={'email': t_email, 'captcha_code': cap})
-                                    else: self._post(sess, f"{url}{m_path}", data={'email': t_email, 'captcha_code': cap})
+                                self._post(sess, f"{url}/api/v1/passport/comm/sendEmailVerify", json={'email': t_email, 'captcha_code': cap})
                                 ec = self.wait_for_code(t_token)
-                                if ec:
-                                    p.update({'email': t_email, 'email_code': ec})
-                                    res_data = fire(p).json()
+                                if ec: p.update({'email': t_email, 'email_code': ec}); res_data = fire(p).json()
 
                         tk = res_data.get("data", {}).get("token")
                         if tk:
                             sess.headers.update({"Authorization": tk})
                             self.auto_buy_plan(url, sess)
+                            
+                            # 关键改进：通过 API 获取官方订阅链接，解决 /s/ 链接问题
                             sub_url = f"{url}/api/v1/client/subscribe?token={tk}"
+                            try:
+                                # 尝试获取官方配置的短链接
+                                sub_res = self._get(sess, f"{url}/api/v1/user/getSubscribe", timeout=DEFAULT_TIMEOUT).json()
+                                if sub_res.get('data'): sub_url = sub_res['data']
+                            except: pass
+
                             u, t, exp, sub_txt = self.get_info_from_sub_header(sub_url, sess, url)
                             log = self.format_log(url, p['email'], u, t, exp, sub_url)
                             self.append_cache(log)
                             return self.extract_nodes_strict(sub_txt), log, sub_url
                     except: continue
-        except: pass
-        return [], "", ""
+        except Exception as e: last_err = str(e)
+        return [], self.format_error_log(url, last_err), ""
 
     def format_log(self, url, email, u, t, exp, sub_url):
         exp_s = datetime.fromtimestamp(exp).strftime('%Y-%m-%d %H:%M:%S') if exp and exp > 0 else "永久有效"
-        rem_s = self.f_size(max(0, t - u))
         return (f"[{url}]\nbuy  pass\nemail  {email}\n"
-                f"sub_info  {self.f_size(u)}  {self.f_size(t)}  {exp_s}  (剩余 {rem_s})\n"
+                f"sub_info  {self.f_size(u)}  {self.f_size(t)}  {exp_s}  (剩余 {self.f_size(max(0,t-u))})\n"
                 f"sub_url  {sub_url}\ntime  {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\ntype  v2board\n\n")
+
+    def format_error_log(self, url, reason):
+        return (f"[{url}]\nstatus  failed\nreason  {reason}\ntime  {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
 
     def f_size(self, s):
         try:
@@ -340,51 +323,29 @@ class AirportCommander:
             return f"{s:.1f}PB"
         except: return "0B"
 
-# ==================== 主函数 ====================
 def main():
-    if not os.path.exists(URLS_FILE):
-        print(f"找不到 {URLS_FILE}")
-        return
-    
+    if not os.path.exists(URLS_FILE): return
     with open(URLS_FILE, "r", encoding="utf-8") as f:
         urls = list(set([l.strip() for l in f if l.strip().startswith('http')]))
-    
     random.shuffle(urls) 
     commander = AirportCommander()
     all_nodes, all_logs, all_sub_urls = [], [], []
-    
-    print(f"任务启动：共 {len(urls)} 条网址，并发数: {MAX_WORKERS}")
-    
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as exe:
         fut = {exe.submit(commander.process_task, u): u for u in urls}
-        processed_count = 0
         for f in as_completed(fut):
-            processed_count += 1
             try:
                 res = f.result()
                 if res and res[1]:
                     nodes, log, sub_url = res
                     if nodes: all_nodes.extend(nodes)
-                    all_logs.append(log)
+                    all_logs.append(log); 
                     if sub_url: all_sub_urls.append(sub_url)
-                    print(f"[{processed_count}/{len(urls)}] 成功: {log.splitlines()[0]} 节点数: {len(nodes)}")
-            except Exception: pass
-
-    # 1. 保存纯文本节点到 nodes_plain.txt
-    unique_nodes = list(set(all_nodes))
-    with open("nodes_plain.txt", "w", encoding="utf-8") as f: 
-        f.write("\n".join(unique_nodes))
-    
-    # 2. 保存注册成功的订阅链接到 subscription.txt
-    unique_subs = list(set(all_sub_urls))
-    with open(SUB_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(unique_subs))
-    
-    # 3. 最终更新 CACHE_FILE
-    with open(CACHE_FILE, "w", encoding="utf-8") as f: 
-        f.writelines(all_logs)
-        
-    print(f"任务结束！共提取订阅链接: {len(unique_subs)} 个，有效节点: {len(unique_nodes)} 个")
+                    tag = "成功" if "buy  pass" in log else "失败"
+                    print(f"{tag}: {log.splitlines()[0]}")
+            except: pass
+    with open("nodes_plain.txt", "w", encoding="utf-8") as f: f.write("\n".join(list(set(all_nodes))))
+    with open(SUB_FILE, "w", encoding="utf-8") as f: f.write("\n".join(list(set(all_sub_urls))))
+    with open(CACHE_FILE, "w", encoding="utf-8") as f: f.writelines(all_logs)
 
 if __name__ == '__main__':
     main()
