@@ -3,14 +3,12 @@ name: Airport_Auto_Register
 on:
   workflow_dispatch: # 手动触发
   push:
-    # 当以下文件发生变动并推送时，自动触发运行
     paths:
       - 'auto_reg.py'
-      - 'urls.txt'
       - '.github/workflows/auto_reg.yml'
   schedule:
    
-    - cron: "0 6,18 * * 1"
+    - cron: 0 0 1 * *
 
 jobs:
   deploy:
