@@ -1,4 +1,5 @@
 name: github_tg_crawler
+
 on:
   workflow_dispatch: # 支持手动运行
   schedule:
@@ -30,6 +31,7 @@ jobs:
 
       - name: Run Crawler
         env:
+          
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python github_tg_crawler.py
 
