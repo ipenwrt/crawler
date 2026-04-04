@@ -37,8 +37,8 @@ jobs:
       - name: Commit and Push
         run: |
           # 1. 配置 Git 用户信息
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "GitHub Action"
+          git config --local user.name "action@github.com"
           
           # 2. 强制添加所有生成的节点文件
           git add sub_parser.txt sub_parser.csv sub_parser_base64.txt sub_parser.yaml
