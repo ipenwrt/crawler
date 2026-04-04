@@ -174,8 +174,15 @@ async def main():
     with open(OUTPUT_B64, "w", encoding="utf-8") as f: f.write(encode_base64("\n".join(final_links)))
     
     # 3. 统计报表
+    success_stats = [item for item in stats if item[1] >= 1]
+
     with open(OUTPUT_CSV, "w", encoding="utf-8", newline="") as f:
-        writer = csv.writer(f); writer.writerow(["订阅链接", "节点数量"]); writer.writerows(stats)
+        writer = csv.writer(f)
+        writer.writerow(["订阅链接", "节点数量"])
+        if success_stats:
+            writer.writerows(success_stats)
+
+    print(f"--- CSV 生成完成！仅保留成功源: {len(success_stats)} 个（已丢弃 {len(stats) - len(success_stats)} 个无效源） ---")
 
     # 4. Clash YAML
     yaml_header = f"""# 订阅节点聚合器
