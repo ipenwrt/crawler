@@ -1,0 +1,59 @@
+name: sub_parser
+
+on:
+  workflow_dispatch:  # 支持手动运行
+  schedule:
+    - cron: '0 */4 * * *'  
+  push:
+    paths:
+      - 'sub_parser.py'
+      - '.github/workflows/sub_parser.yml'
+
+jobs:
+  run-and-push:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install aiohttp geoip2 pyyaml
+
+      - name: Run Sub Parser
+        run: python sub_parser.py
+
+      - name: Commit and Push
+        run: |
+          # 1. 配置 Git 用户信息
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # 2. 强制添加所有生成的节点文件
+          git add sub_parser.txt sub_parser.csv sub_parser_base64.txt sub_parser.yaml
+          
+          # 3. 检查是否有变动，避免生成空提交
+          if git diff --cached --quiet; then
+            echo "No changes to commit, skipping push."
+          else
+            export TZ='Asia/Shanghai'
+            git commit -m "Update nodes: $(date +'%Y-%m-%d %H:%M:%S')"
+            
+            # 4. 关键：解决冲突。先拉取远程更改并进行变基
+            # 这会将你的 "Update nodes" 提交移动到远程最新提交之后
+            git pull --rebase origin main
+            
+            # 5. 推送到当前分支
+            git push origin HEAD:${{ github.ref }}
+          fi
