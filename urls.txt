@@ -83,6 +83,7 @@ http://dkd-api.dysdk.com
 http://dl.hajvpn.online
 http://dls2.iran-gamecenter-host.com
 http://docs.aws.amazon.com
+http://docs.grafana.org
 http://docs.mongodb.org
 http://docs.oasis-open.org
 http://docs.z.ai
@@ -350,6 +351,7 @@ https://10339983.ghelper.me
 https://10ncydlf.flsubcn.cc:2096
 https://10th.sub-airport.com
 https://1122.yunjijd.xyz
+https://119dot29dot29dot29.cloudflare-dns.com
 https://12123.org
 https://123.tsm.cc.cd
 https://123789.pp.ua
@@ -371,6 +373,7 @@ https://1a.xg-hub.icu
 https://1b49776e.ghelper.me
 https://1bc9a3b6.ghelper.me
 https://1c94341a.ghelper.me
+https://1dot1dot1dot1.cloudflare-dns.com
 https://1e01e53f.ghelper.me
 https://1ed106bd.ghelper.me
 https://1g.gay
@@ -913,6 +916,7 @@ https://bakconntoserver.nuomi.info
 https://bandwagonhost.com
 https://bansub7.bplink.xyz
 https://bansub8.bplink.xyz
+https://banzaicloud.com
 https://base64.bigwatermelon.org
 https://basedbin.fly.dev
 https://basic.rethinkdns.com
@@ -958,6 +962,7 @@ https://biubiux.online
 https://blackpink.lulu.autos
 https://blazeai.boxu.dev
 https://ble.ir
+https://blog.aifutures.org
 https://blog.banyunxiaoxi.icu
 https://blog.laputa.io
 https://blog.maxmind.com
@@ -1059,6 +1064,7 @@ https://cf-workers-sub-691.pages.dev
 https://cf-workers-sub-6g0.pages.dev
 https://cf-workers-sub-9s8.pages.dev
 https://cf.7854128.xyz
+https://cf.cloudflare-gateway.com
 https://cf.hughhad.us.kg
 https://cf.lemshow.top
 https://cf.loveqyun.cyou
@@ -1139,6 +1145,7 @@ https://configuration.osk2.com
 https://console.easemob.com
 https://console.ly520.me
 https://coronavirus.jhu.edu
+https://cors.buildtest.site
 https://count.getloli.com
 https://cozhli177055.pages.dev
 https://cp.cloudflare.com
@@ -1182,6 +1189,7 @@ https://daka778.top
 https://damp-mode-4de5.6006101.workers.dev
 https://danke.sbs
 https://dash.djjc.cfd
+https://dash.domain.digitalplat.org
 https://dash.f9vip.net
 https://dash.ftclashcloud.mom
 https://dash.hot123.me
@@ -1280,6 +1288,7 @@ https://dns.alidns.com
 https://dns.cloudflare.com
 https://dns.dnswarden.com
 https://dns.gi.co.id
+https://dns.ipv6dns.com
 https://dns.kerekes.xyz
 https://dns.melalandia.tk
 https://dns.nextdns.io
@@ -1320,6 +1329,7 @@ https://docs.stackstorm.com
 https://doh-de.blahdns.com
 https://doh-own-recursion.nicolas-dorriere.fr
 https://doh-random-upstream.nicolas-dorriere.fr
+https://doh.18bit.cn
 https://doh.360.cn
 https://doh.apad.pro
 https://doh.cleanbrowsing.org
@@ -1327,6 +1337,7 @@ https://doh.dns.sb
 https://doh.dnspod.com
 https://doh.opendns.com
 https://doh.pub
+https://doh3.dns.nextdns.io
 https://donnadie.top
 https://doucat.top
 https://down.nigx.cn
@@ -1462,6 +1473,7 @@ https://faa16212.ghelper.me
 https://faf047da-5e7e-4da7-8414-2799d48ad63a.nginxcatnet.xyz
 https://falco.pwzvd.cn
 https://falcocloud.730894.xyz
+https://family.adguard-dns.com
 https://fanhua.qeayr.cn
 https://fanqiangdang.com
 https://fanqiangvpn.com
@@ -1725,6 +1737,7 @@ https://invite.xlcc.live
 https://invite.xn--yvsa48r.com
 https://iois.me
 https://ios.aneeo.com
+https://ip.ikez.dpdns.org
 https://ipcfsub.mrfodi1.workers.dev
 https://iplcq.com
 https://ipngc.no-mad-world.club
@@ -1743,6 +1756,7 @@ https://itjustasub.shop
 https://iwefhljnsdmc.naiyun.uk
 https://iy141tu-kvs9ovmer97fkkjfidqz581z.pages.dev
 https://j2s.buzz
+https://jamesdaily.life
 https://jb.taipeicity.news
 https://jc.fanqiangdang.com
 https://jc.huasuan666.top
@@ -1910,6 +1924,7 @@ https://lmjc.xyz
 https://lnk.ink
 https://login.djjc.cfd
 https://login.yfjc.xyz
+https://love.52pokemon66.cc
 https://love.lulu.autos
 https://love.p6m6.com
 https://loveguihai.asia
@@ -2078,6 +2093,7 @@ https://nmsubs.com
 https://nn0310.xn--8stx8olrwkucjq3b.com
 https://nnmjk.wc0.ccwu.cc
 https://nnnnnmj.huangshang.site
+https://nobitex.ir
 https://node-share.web.app
 https://node.666666222.xyz
 https://node.freeclashnode.com
@@ -2154,6 +2170,7 @@ https://pb.jiedianxielou.workers.dev
 https://pc.ctyun.cn
 https://pdda.me
 https://pdfcandy.com
+https://pdns.itxe.net
 https://peace.mimon.cc
 https://peige.dpkj.qzz.io
 https://persepolis.getty.edu
@@ -2306,6 +2323,7 @@ https://rsslinghun1.xyz
 https://rssstarlink2.ei38d3if3.xyz
 https://rubika.ir
 https://rubyfish.cn
+https://rubyfish.cn.cloudflare-dns.com
 https://rukawa.pages.dev
 https://rule.kelee.one
 https://ruleset.skk.moe
@@ -2378,6 +2396,7 @@ https://securityserver.dev01.devland.is
 https://see-mybb-6.com
 https://seed4.me
 https://seele.stadynode.online
+https://senders.yahooinc.com
 https://ser.3hjpc1daso.workers.dev
 https://server.fylink.link
 https://serverv.net
@@ -2571,6 +2590,7 @@ https://sub.nysubs.xyz
 https://sub.okjc.xyz
 https://sub.onlineweb.work
 https://sub.oooooq.us.kg
+https://sub.ops.ci
 https://sub.oudd.de
 https://sub.ouoboom.xyz
 https://sub.paasmi.com
@@ -2804,6 +2824,7 @@ https://suo.st
 https://suo.yt
 https://sup.kelayun.top
 https://superbiu.com
+https://support.bale.ai
 https://support.claude.com
 https://supz1.6128888.xyz
 https://sus.alicenetwork.cloud
@@ -2976,6 +2997,7 @@ https://vess.zhuk.dpdns.org
 https://vifast.net
 https://vip.365cloud.me
 https://vip.kernel-mirrors.org
+https://vip.putata.eu.org
 https://vip.sgjc.top
 https://vips.lol
 https://vipurl.giize.com
@@ -3087,6 +3109,8 @@ https://wwtg.lanzn.com
 https://www.02er.com
 https://www.066664.xyz
 https://www.1112244.xyz
+https://www.123865.com
+https://www.123912.com
 https://www.123xn.cc
 https://www.233660.xyz
 https://www.267s.com
@@ -3198,6 +3222,7 @@ https://www.kaikaiyun.beauty
 https://www.kakacloud.xyz
 https://www.karzar.net
 https://www.kdcloud.uk
+https://www.keycloak.org
 https://www.kscloud.xyz
 https://www.kuaidog.xyz
 https://www.kuaidog008.top
