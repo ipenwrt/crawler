@@ -196,6 +196,7 @@ http://shoppingmall.electricbanana.click
 http://shoujiyanxishe.tk
 http://snail2020.com
 http://snippit.in
+http://spr.ly
 http://ssrdingyue.ueuo.com
 http://stackoverflow.com
 http://steamcommunity.com
@@ -665,6 +666,7 @@ https://a10k.co
 https://a2673b60-aca1-48c2-a4ad-abeb518e18f9.fengchenginx.com
 https://a2789293-639e-49f5-9506-c8040b488438.nginxxy.xyz
 https://a302cc23.ghelper.me
+https://a429f925-f4ea-4faf-92df-cb3a833e05e8.eevpn.xyz
 https://a47cbea8-e7c5-3977-9cdc-5b83e50a6d48.subdotu.com
 https://a50f7e56.ghelper.me
 https://a76.aaa7.info
@@ -729,6 +731,7 @@ https://alice.dns-dynamic.net
 https://alpha.sagittarius-link.com
 https://aluzz.mmzhk.website
 https://alvless.filegear-sg.me
+https://am-cf-tunnel-sub.lyqnihao.dpdns.org
 https://amatrixap.com
 https://amber85.qjty.buzz
 https://amclubss.com
@@ -758,6 +761,7 @@ https://api.1vpn.sbs
 https://api.abyssyun.top
 https://api.acaisbest.shop
 https://api.apihs.cfd
+https://api.asailor.org
 https://api.bigme.online:8211
 https://api.biqibao.site
 https://api.bppp.shop
@@ -794,6 +798,7 @@ https://api.nexconvert.com
 https://api.nicepay.co.kr
 https://api.nutbit-node.lat
 https://api.nylz.xyz
+https://api.oaibest.com
 https://api.otcopusvpn.cc:18008
 https://api.pay.pm
 https://api.pithecia.com
@@ -1031,6 +1036,7 @@ https://bvzlp5yfwo0g6jplac5ko4yw97srx0of.guybat-e-s-750-4-6.workers.dev
 https://bxy.org.uk
 https://bxy.re
 https://by.xbygood.xyz
+https://byjoeycfnew.lyqnihao.dpdns.org
 https://bypassgo.com
 https://c.066664.xyz
 https://c.jichangs.com
@@ -1111,6 +1117,7 @@ https://chaoxie.351264.xyz
 https://chaoxn.top
 https://chaozhijc.xyz
 https://charts.bitnami.com
+https://chat.deepseek.com
 https://chat.whatsapp.com
 https://checker.in
 https://checkhere.top
@@ -1127,6 +1134,8 @@ https://clash.llleman.com
 https://clash.nite07.com
 https://clash.realiti.me
 https://clash.shinvck.com
+https://clash0811-backup.rss-node.com
+https://clash0811-main.rss-node.com
 https://clashe.eu.org
 https://clashmi.app
 https://clashparty.org
@@ -1156,6 +1165,7 @@ https://cloudcat.top
 https://cloudfisher.net
 https://cloudfisher.top
 https://cloudflare-dns.com
+https://cloudflare-vless-trojan.lyqnihao.dpdns.org
 https://cloudflareiran1.pages.dev
 https://cloudflaresub.yuwan.link
 https://cloudlink123.me
@@ -1176,6 +1186,7 @@ https://configuration.osk2.com
 https://connect.rom.miui.com
 https://console.easemob.com
 https://console.ly520.me
+https://convert.zephyrwork.work
 https://coronavirus.jhu.edu
 https://cors.buildtest.site
 https://count.getloli.com
@@ -1263,6 +1274,7 @@ https://ddys.yunjisuan.gq
 https://deb.nodesource.com
 https://debe9623.ghelper.me
 https://defucloud.vip
+https://detectportal.firefox.com
 https://dev-re.crm4.dynamics.com
 https://developer.okta.com
 https://developers.sap.com
@@ -1313,6 +1325,7 @@ https://dls.iran-gamecenter-host.com
 https://dls2.iran-gamecenter-host.com
 https://dnf-plugins-core.readthedocs.io
 https://dns-unfiltered.adguard.com
+https://dns.403.online
 https://dns.aa.net.uk
 https://dns.adguard-dns.com
 https://dns.adguard.com
@@ -1327,6 +1340,7 @@ https://dns.nextdns.io
 https://dns.pub
 https://dns.quad9.net
 https://dns.rubyfish.cn
+https://dns.shecan.ir
 https://dns.smartguard.io
 https://dns.surfshark.com
 https://dns.tls-data.de
@@ -1346,6 +1360,8 @@ https://docs.cherry-ai.com
 https://docs.datastax.com
 https://docs.emqx.com
 https://docs.fluentbit.io
+https://docs.gofiber.io
+https://docs.metacubex.one
 https://docs.minio.io
 https://docs.mongodb.com
 https://docs.oasis-open.org
@@ -1373,6 +1389,7 @@ https://doh3.dns.nextdns.io
 https://donnadie.top
 https://doucat.top
 https://down.nigx.cn
+https://download-config.windows98.link
 https://download-configb.windows98.link
 https://download.nextcloud.com
 https://download.wireguard.com
@@ -1437,6 +1454,7 @@ https://dy6.mmydy.xyz
 https://dy7.mmydy.xyz
 https://dy9.mmydy.xyz
 https://dy927.dukadi.cv
+https://dya.qqjdzh.xyz
 https://dyapp123.355m.cn
 https://dycd.gsjc.sbs
 https://dycd.knjc.cfd
@@ -1476,7 +1494,9 @@ https://eck8.miemie.uk
 https://ed451bf1.ghelper.me
 https://ed5d65ca.ghelper.me
 https://edfd8348.ghelper.me
+https://edgetunnel-cmliu.lyqnihao.dpdns.org
 https://edns.apad.pro:3306
+https://edtunnel-1g9.pages.dev
 https://edu.dianping.men
 https://edu.kuaifaka.me
 https://ee7b114b-2dff-4e9d-b427-4d1c2ac2e12f.fengchenginx.com
@@ -1494,6 +1514,7 @@ https://epg.pw
 https://erciyun.net
 https://erfanzadeh.ir
 https://esimsetup.android.com
+https://etcd.io
 https://evef8ow37e.execute-api.us-east-1.amazonaws.com
 https://even.axxi.site
 https://events.pagerduty.com
@@ -1732,6 +1753,7 @@ https://hs.huasuan666.top
 https://hssl8088.icu
 https://htcmi-20240805.mozhiti.top
 https://htdy02.mozhiti.top
+https://html.spec.whatwg.org
 https://html5-apps-repo-rt.cfapps.eu12.hana.ondemand.com
 https://htvviru.top
 https://huahe.link
@@ -1769,6 +1791,7 @@ https://img.ikaka.in
 https://img.shields.io
 https://img.xn--mesv8bx6xmtl.com
 https://img.ytools.cc
+https://imperialb.in
 https://inangua.lwjyj.com
 https://infini-cloud.net
 https://info.iic08924f5w3b65o.xyz
@@ -1777,6 +1800,7 @@ https://insidead.ru
 https://instagram.com
 https://install.appcenter.ms
 https://install.cdn-sd.xyz
+https://install.portworx.com
 https://install.sdconfig.pro
 https://investor.uber.com
 https://invite.xlcc.live
@@ -1788,6 +1812,7 @@ https://ipcfsub.mrfodi1.workers.dev
 https://iplcq.com
 https://ipngc.no-mad-world.club
 https://ipv4-zepto-mci-1.edge.nextdns.io
+https://iqiaqia.xyz
 https://iranbax.net
 https://irancell.ir
 https://iranosc.ir
@@ -1834,6 +1859,7 @@ https://jlhcloud.us.kg
 https://jmoesub.bygcloud.com
 https://jmp.sh
 https://jnir.lightnright.com
+https://jnzstatic.cs.com.cn
 https://join.yondercard.com
 https://jp.taishan1.pro
 https://jp.tiar.app
@@ -1888,6 +1914,7 @@ https://komarev.com
 https://kortuyou.us.kg
 https://koumakan.quickline.top
 https://kqdfk.no-mad-world.club
+https://kronos.plan9-dns.com
 https://ktm001.top
 https://ktmcloud.cc
 https://ktmcloud.club
@@ -1957,6 +1984,7 @@ https://link01.pikachucloud.site
 https://link02.pikachucloud.site
 https://link08.shanhai.one
 https://link1.db-sub.xyz
+https://link123.52pokemon99.cc
 https://link2.proxylink.xyz
 https://link4.proxylink.xyz
 https://link5.proxylink.xyz
@@ -1994,6 +2022,7 @@ https://ly.ba000.cc
 https://ly.ccwink.cc
 https://lyly.649844.xyz
 https://lzsub.zzko.cn
+https://lzw.me
 https://lzysub.online
 https://m.weibo.cn
 https://m11.spwvpn.com
@@ -2052,6 +2081,7 @@ https://mly1.543412546.xyz
 https://mly518.com
 https://mm.hnekoo.top
 https://mm.mibei77.com
+https://mm.xlw.app
 https://mmyyds.xyz
 https://mo.mojieurl.com
 https://mochizuki.top
@@ -2138,6 +2168,7 @@ https://neurotoxinw.coding.net
 https://new.crosswall.dpdns.org
 https://new.xn--pbt38zg4v.com
 https://newrss.starlinkclash.ggff.net
+https://news.samsung.com
 https://newsroom.ibm.com
 https://ng.69hub.cc
 https://ng.s2fjeyeeyafe.bond
@@ -2153,6 +2184,7 @@ https://nobitex.ir
 https://node-share.web.app
 https://node.666666222.xyz
 https://node.freeclashnode.com
+https://node.nodefree.me
 https://node.yifang02.men
 https://node.zasublinkv1.com
 https://nodefree.org
@@ -2302,6 +2334,7 @@ https://public.393930.xyz
 https://public.dns.iij.jp
 https://pubmed.ncbi.nlm.nih.gov
 https://pumpkinsinfo.top
+https://punkpaste.ir
 https://pur.xkg09s1a1b.workers.dev
 https://pvn4hq.subxly.cfd
 https://pvn4hq.subxly.cfd:8443
@@ -2332,6 +2365,7 @@ https://qwe.097482.xyz
 https://qwen.ai
 https://qwerzfdsfgrtds.mejd.cn
 https://qxuig4.youxuan.wiki
+https://qxx.app
 https://qybndbviblvt.us-west-1.clawcloudrun.com
 https://qyoo.aibvs.cn
 https://r1.840501.xyz
@@ -2371,6 +2405,7 @@ https://rss.ccgfw.top
 https://rss.cnrss.xyz
 https://rss.epon.cloud
 https://rss.getfree.win
+https://rss.jkl-sub.com
 https://rss.linghunyun.xyz
 https://rss.msclm.net
 https://rss.mugua-sub2.xyz
@@ -2382,6 +2417,7 @@ https://rss2.jkl-sub.com
 https://rss2024.jkl-sub.com
 https://rss202407.mugua-sub.com
 https://rsslinghun1.xyz
+https://rssstarlink.ei38d3if3.xyz
 https://rssstarlink2.ei38d3if3.xyz
 https://rubika.ir
 https://rubyfish.cn
@@ -2415,6 +2451,7 @@ https://s.subcsub.com
 https://s.sublank.xyz
 https://s.sublink.me
 https://s.suying666.info
+https://s.sylu.cyou
 https://s.trojanflare.com
 https://s.youyun666.site
 https://s.yyzzyyds.xyz
@@ -2492,6 +2529,7 @@ https://sinhvien4g.com
 https://sinsocloud.top
 https://skkdff.doggygo.top:8443
 https://skr.daozhang.site
+https://skr8oblwwy.chinat.eu.org
 https://skrspc.com
 https://sky.rethinkdns.com
 https://slimy-janine-lirtpass-0136632c.koyeb.app
@@ -2647,6 +2685,7 @@ https://sub.miku.llc
 https://sub.mine.com.cn
 https://sub.minizz.online
 https://sub.mogufan.com
+https://sub.mugua.one
 https://sub.narutos.link
 https://sub.netv2.cc
 https://sub.nex7.us.kg
@@ -2864,6 +2903,7 @@ https://subscribe.nhhcloud.com
 https://subscribe.pdjc.cc
 https://subscribe.seyyedmt.blog
 https://subscribe.speedypro.xyz
+https://subscribe.sublucky.top
 https://subscribe.suwas.xyz
 https://subscribe.xsus.net.co
 https://subscribe.xxmad.com
@@ -2932,6 +2972,7 @@ https://taskfile.dev
 https://tc.qy1357.top
 https://tc.ztcloud.xyz
 https://tcxf.hssl8088.icu
+https://techcrunch.com
 https://telega.io
 https://telegra.ph
 https://telegram.me
@@ -3009,6 +3050,7 @@ https://unity3d.bujiasu.com
 https://unpkg.com
 https://uo.q3w2jbx3xx.workers.dev
 https://up.bllare.ir
+https://up4.filetolinkborbot.pics
 https://upcyrku4.subxly.cfd:8443
 https://update-y.download-config-ppy.cyou
 https://update.cdn-sd.xyz
@@ -3062,6 +3104,7 @@ https://v2.porter6.eu.org
 https://v2.sisc.ga
 https://v2.udid8.com
 https://v2board.life
+https://v2clash.blog
 https://v2r.proxypools.xyz
 https://v2rayse.com
 https://v2rayshare.com
@@ -3171,6 +3214,7 @@ https://wordvice.ai
 https://worker2.alavi-sina-1977-5fc.workers.dev
 https://wow.dogss-host.bond
 https://wow.dogss-host.store
+https://wpds.qzz.io
 https://wpjlzq00.xiaoliyusub.top:8443
 https://wr60yd.subxly.cfd:8443
 https://wub.zongyunti.site
@@ -3187,6 +3231,7 @@ https://wwn.trx1.cyou
 https://wws.lanzous.com
 https://wws.s2fjeyeeyafe.bond
 https://wwtg.lanzn.com
+https://wwvq.lanzoub.com
 https://www.02er.com
 https://www.066664.xyz
 https://www.1112244.xyz
@@ -3210,6 +3255,7 @@ https://www.apache.org
 https://www.aparat.com
 https://www.applnn.com
 https://www.awyyds.one
+https://www.axios.com
 https://www.baiyunvpn.xyz
 https://www.bbc.com
 https://www.bestblogs.dev
@@ -3219,6 +3265,7 @@ https://www.bjch999.com
 https://www.bloomberg.com
 https://www.bptz.xyz
 https://www.bqg888.com
+https://www.businessinsider.com
 https://www.butnono.com
 https://www.bybit.eu
 https://www.bygcloud.com
@@ -3241,6 +3288,7 @@ https://www.cloudshops.xyz
 https://www.cls.cn
 https://www.cnbeta.com.tw
 https://www.cocotoyou.com
+https://www.consul.io
 https://www.conventionalcommits.org
 https://www.crosswall.org
 https://www.csyyds.xyz
@@ -3261,6 +3309,7 @@ https://www.elinksapi.com
 https://www.emqx.com
 https://www.engadget.com
 https://www.epubit.com
+https://www.etnews.com
 https://www.evernote.com
 https://www.exalead.com
 https://www.farsroid.com
@@ -3281,6 +3330,7 @@ https://www.geedea.pro
 https://www.gfwstable.icu
 https://www.ginfem.com
 https://www.gitbook.com
+https://www.gitlabip.xyz
 https://www.gjufbg.cn
 https://www.goodsunlc.com
 https://www.gstatic.com
@@ -3339,6 +3389,8 @@ https://www.naiun.co
 https://www.namecheap.com
 https://www.nbd.com.cn
 https://www.nertron.net
+https://www.newapi.ai
+https://www.newyorker.com
 https://www.nite07.com
 https://www.nodeseek.com
 https://www.notion.so
@@ -3374,6 +3426,7 @@ https://www.roc-taiwan.taipei
 https://www.rouydad24.ir
 https://www.ruanyifeng.com
 https://www.ruby-lang.org
+https://www.samsung.com
 https://www.scmp.com
 https://www.servicemesher.com
 https://www.shuyz.com
@@ -3544,6 +3597,7 @@ https://xn--fhqu06a8m1asto.icu
 https://xn--hxyvm.xn--4gqs5ymhk43c.works
 https://xn--i01ay92b.xn--4gqs5ymhk43c.eu.org
 https://xn--i8sv73g.xn--4gqs5ymhk43c.eu.org
+https://xn--ihqu10cn4cf3cfv5a.com
 https://xn--iiq540h.com
 https://xn--ioru3fc2t1hb.com
 https://xn--l6qx3l9s1a.com
