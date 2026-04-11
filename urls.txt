@@ -60,6 +60,7 @@ http://chiguayun.fun
 http://ciallo.elegy.icu:7001
 http://cinowu.duoshuo.com
 http://clash77.top
+http://claude.ai
 http://cloudhead.io
 http://cloudify.co
 http://cloudupup.com
@@ -93,6 +94,7 @@ http://dkd-api.dysdk.com
 http://dl.hajvpn.online
 http://dls2.iran-gamecenter-host.com
 http://docs.aws.amazon.com
+http://docs.ceph.com
 http://docs.grafana.org
 http://docs.mongodb.org
 http://docs.oasis-open.org
@@ -430,6 +432,8 @@ https://13533c57.ghelper.me
 https://139df38b.ghelper.me
 https://1510de96.ghelper.me
 https://15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org
+https://163cfn.232885.xyz
+https://163cml.232885.xyz
 https://16th.sub-airport.com
 https://172.lot-ml.com
 https://17852.xyz
@@ -651,6 +655,7 @@ https://866774ca.ghelper.me
 https://87c78586.ghelper.me
 https://88.ee88.tk
 https://888.868988.xyz
+https://88cfn.dupontjoy.shop
 https://893996753.xyz
 https://89826f80.ghelper.me
 https://89ed1dface28.ai-163cdn.com
@@ -1219,6 +1224,7 @@ https://clashmi.app
 https://clashparty.org
 https://clashsub.org
 https://clashx-addtionrules.test1234.workers.dev
+https://claude.ai
 https://claude.com
 https://clavis.to
 https://clck.ru
@@ -1253,6 +1259,7 @@ https://clv.lshan.eu.org
 https://cm-sub.pz.pe
 https://cm.douwie.workers.dev
 https://cm.qc77.cn
+https://cml88.dupontjoy.shop
 https://cn.xn--iiq540h.com
 https://cn4.cyberairport.work
 https://cococloud.online
@@ -1685,6 +1692,7 @@ https://flybit.pages.dev
 https://flydog.pro
 https://flynb.site
 https://fm-sub-mainpanel-vygijfogpm.cn-shanghai.fcapp.run
+https://fm.sdnlv0.cn
 https://fm3.pages.dev
 https://fn1.170809.xyz
 https://foldjc.top
@@ -1813,6 +1821,7 @@ https://haibucuo.xyz
 https://haitunfree.luodaifan.top
 https://haitunyun.online
 https://haolll.me
+https://harryyifei.notion.site
 https://hdfy8sub.achaemenidempireofpersia.uk
 https://heihu880.pages.dev
 https://heikejilaila.xyz
@@ -1824,6 +1833,7 @@ https://help.router-for.me
 https://help.sap.com
 https://help.wwkejishe.top
 https://henet.icu
+https://hermes.xiaoyao-88.com
 https://hero-sms.com
 https://heroku.com
 https://hexo.io
@@ -1833,6 +1843,7 @@ https://hhhhhhhhj.191266.xyz
 https://hiddify0422.pages.dev
 https://hjdy-3i1.608618.xyz
 https://hk.bjjii.com
+https://hk10m.wxgqlfx.vip
 https://hk59.wxgqlfx.top
 https://hkj.lanzous.com
 https://hktixcloud.pwzvd.cn
@@ -1956,6 +1967,7 @@ https://iy141tu-kvs9ovmer97fkkjfidqz581z.pages.dev
 https://j.seaspirit.dpdns.org
 https://j20-cloud.com
 https://j2s.buzz
+https://jack.cab
 https://jamesdaily.life
 https://jb.taipeicity.news
 https://jc.fanqiangdang.com
@@ -3412,6 +3424,7 @@ https://www.066664.xyz
 https://www.1112244.xyz
 https://www.123865.com
 https://www.123912.com
+https://www.1239999.xyz
 https://www.123xn.cc
 https://www.233660.xyz
 https://www.267s.com
@@ -3709,6 +3722,7 @@ https://www8th.ga-sub.lat
 https://www9.9th-subscription-from-chickenfarmer.top
 https://wwwjs.pro
 https://wwwk.qyshare.com:2083
+https://wwwx.qyshare.com
 https://wwx.lanzout.com
 https://wx.wuxianjc.top
 https://wy-paste.lly.cz
@@ -3841,6 +3855,7 @@ https://xxx.b.com
 https://xxxu.xyz
 https://xycc24424.xskj.dedyn.io
 https://xysxwk250428.3344550.xyz
+https://y.kukeyun.cc
 https://y1k.live
 https://y4ckkxagxaxxefca.duboji.vip
 https://y6-3cj.pages.dev
