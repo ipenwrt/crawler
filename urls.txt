@@ -1228,6 +1228,7 @@ https://cdn.fraternizey.com
 https://cdn.huojian999.xyz
 https://cdn.jsdelivr.net
 https://cdn.jsdelivr.us
+https://cdn.nodeimage.com
 https://cdn.teaartcloud.com
 https://cdn.wumaojichang.com
 https://cdn.z.wiki
@@ -1378,6 +1379,7 @@ https://cve.mitre.org
 https://cxsub.club
 https://cxsub.pro
 https://cyberguard.cfd
+https://cybernews.com
 https://cygw.ciyuan78.help
 https://d.palu123.com
 https://d.waka.plus
@@ -1742,6 +1744,7 @@ https://ep.0318.cyou
 https://epclub.xyz
 https://epg.112114.xyz
 https://epg.pw
+https://epoch.ai
 https://erciyun.net
 https://erfanzadeh.ir
 https://esimsetup.android.com
@@ -1768,6 +1771,7 @@ https://faf047da-5e7e-4da7-8414-2799d48ad63a.nginxcatnet.xyz
 https://falco.656266656.xyz
 https://falco.pwzvd.cn
 https://falcocloud.730894.xyz
+https://falvorn.kosingcloudt.cc
 https://family.adguard-dns.com
 https://fanhua.qeayr.cn
 https://fanqiangdang.com
@@ -2060,6 +2064,7 @@ https://imperialb.in
 https://inangua.lwjyj.com
 https://infini-cloud.net
 https://info.iic08924f5w3b65o.xyz
+https://ino.school
 https://ins77.link
 https://insidead.ru
 https://instagram.com
@@ -2330,6 +2335,7 @@ https://lzsub.zzko.cn
 https://lzw.me
 https://lzysub.online
 https://m.weibo.cn
+https://m.yicai.com
 https://m11.spwvpn.com
 https://m1564f3c46-a084-46fa-b4af-3224a41e7485.131.pp.ua
 https://m2net.lol
@@ -2494,6 +2500,8 @@ https://news.layervault.com
 https://news.samsung.com
 https://news.xbox.com
 https://newsroom.ibm.com
+https://newsroom.snap.com
+https://nexdora.sogoyunt.cc
 https://ng.69hub.cc
 https://ng.s2fjeyeeyafe.bond
 https://nginx-proxy-123.69hub.cc
@@ -2535,6 +2543,7 @@ https://nxt.puroc.cc
 https://nylohb.yau96.com
 https://o7pl1.no-mad-world.club
 https://obdo.cc
+https://obfusgated.com
 https://ocean.likelike.ip-ddns.com
 https://odysseycdn.cyou
 https://oiiccdn.yydsii.com
@@ -2918,6 +2927,7 @@ https://snangua.com
 https://sni.111000.dynv6.net
 https://snowy.xiaonuo.vip
 https://sockboom.me
+https://solmira.sogoyunt.cc
 https://solon.noear.org
 https://songlh.top
 https://sonyinteractive.com
@@ -3712,6 +3722,7 @@ https://www.ccsub.org
 https://www.cfmem.com
 https://www.chaojijichang.com
 https://www.chinadaily.com.cn
+https://www.chinastarmarket.cn
 https://www.chituma.top
 https://www.ckckssl.top
 https://www.ckcloud.xyz
@@ -3775,6 +3786,7 @@ https://www.gjufbg.cn
 https://www.goodsunlc.com
 https://www.gstatic.com
 https://www.haidaobot.xyz
+https://www.handelsblatt.com
 https://www.haproxy.org
 https://www.helingqi.com
 https://www.helius.dev
@@ -3898,6 +3910,7 @@ https://www.sjys6.cloud
 https://www.sockscap64.com
 https://www.solidot.org
 https://www.somersaultcloud.top
+https://www.sonyalpharumors.com
 https://www.speedtest.net
 https://www.speedtestmobile.de
 https://www.ssrtool.com
