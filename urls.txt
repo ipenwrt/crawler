@@ -101,6 +101,7 @@ http://demo.ninesix.cc:4433
 http://demoa5.tongzhouyun.com
 http://dev.duoshuo.com
 http://dev.t.qq.com
+http://developer.openstack.org
 http://developers.openai.com
 http://dingyue.myzone.site
 http://dingyue2.qyjc.xyz
@@ -115,6 +116,7 @@ http://docs.ceph.com
 http://docs.grafana.org
 http://docs.mongodb.org
 http://docs.oasis-open.org
+http://docs.openstack.org
 http://docs.z.ai
 http://download.oracle.com
 http://duoshuo.com
@@ -722,6 +724,7 @@ https://866774ca.ghelper.me
 https://87c78586.ghelper.me
 https://88.ee88.tk
 https://888.868988.xyz
+https://88888.ee88.tk
 https://88cfn.dupontjoy.shop
 https://893996753.xyz
 https://89826f80.ghelper.me
@@ -1034,6 +1037,7 @@ https://app.ppssqq.com
 https://app.rebrandly.com
 https://app.rookiebase.cn
 https://app.shokichan.com
+https://app.sublink.works
 https://app.tline.website
 https://app.tlyn.ir
 https://app.wallabag.it
@@ -1247,6 +1251,7 @@ https://c429532b.ghelper.me
 https://c4ad11f6.ghelper.me
 https://c59d6f0d.ghelper.me
 https://c6.y.qq.com
+https://c842122.parspack.net
 https://c99a91a9.ghelper.me
 https://c9k.buzz
 https://cac.adfgawidhioawjd.site
@@ -1993,6 +1998,7 @@ https://ghj.apocalypse.cc.cd
 https://ghostcc.cc
 https://ghproxy.com
 https://git.io
+https://git.ir
 https://git.k8s.io
 https://gitee.com
 https://gitlab.com
@@ -2112,6 +2118,7 @@ https://htvviru.top
 https://huahe.link
 https://huaxia.tcekx.cn
 https://huaxia.wueh.cn
+https://hub.linux.do
 https://hufe.club
 https://hugeicons.com
 https://huggingface.co
@@ -2144,6 +2151,7 @@ https://ikuajingbus.com
 https://im.iamtsm.cn
 https://imagestool.com
 https://img.ikaka.in
+https://img.ozzo.top
 https://img.shields.io
 https://img.xn--mesv8bx6xmtl.com
 https://img.ytools.cc
@@ -3778,6 +3786,7 @@ https://webget.yfjc.xyz
 https://webinar.openai.com
 https://webnote.cc
 https://webridge.pokeryun.link
+https://wed.13333331.xyz
 https://weekly.manong.io
 https://weekly.tw93.fun
 https://weibo.com
@@ -3974,6 +3983,8 @@ https://www.ibm.com
 https://www.icloud.com
 https://www.idc.com
 https://www.instagram.com
+https://www.iranintl.com
+https://www.irannsr.org
 https://www.isc.org
 https://www.ithome.com
 https://www.itonlyasub.xyz
@@ -4135,6 +4146,7 @@ https://www.v2youzi.top
 https://www.vchangyi.com
 https://www.videolan.org
 https://www.vns735p8.xyz
+https://www.vpnmiao.site
 https://www.vpnunlimitedapp.com
 https://www.vtwoc3.top
 https://www.vtwoc4.top
