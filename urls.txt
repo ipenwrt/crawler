@@ -97,6 +97,7 @@ http://club.i50dh.net
 http://clustrmaps.com
 http://cmall.magestack.cn
 http://cn.nikkei.com
+http://code.claude.com
 http://concurrent.redspider.group
 http://connect.rom.miui.com
 http://connectivitycheck.gstatic.com
@@ -154,6 +155,7 @@ http://e8a580bd3a51b6050aabd8919a17d106.52pokemon.top
 http://em7.buzz
 http://epg.51zmt.top:8000
 http://exchange.gameaurela.click:52952
+http://fanleme.vip
 http://fanqiang88.top
 http://fbapiv1.fbsublink.com
 http://fdevops.com:8001
@@ -286,6 +288,7 @@ http://proxy.moo.jp
 http://proxypool.turinglabs.net
 http://py.kjol.cc
 http://qe83xk711.sabkt.gdipper.com
+http://qeshmyar.com
 http://qm.qq.com
 http://reader.youdao.com
 http://responsivedesignweekly.com
@@ -486,6 +489,7 @@ http://www.zhihu.com
 http://www.zhuaxia.com
 http://wxshi.top:9090
 http://wy.hkaa0.top
+http://x.com
 http://x.juzi.lat
 http://x1yjc.top
 http://x2.xueshan.shop
@@ -606,6 +610,7 @@ https://1st.sub-airport.com
 https://1wfafs.life
 https://1ytcom01.1yunti.net
 https://1yuanfly.live
+https://2.342242.icu
 https://2.juanwangjc.top
 https://20.lcvpn.top
 https://20240802.canadapost-vip.com
@@ -639,6 +644,7 @@ https://2c99ed84.ghelper.me
 https://2e0b4f45.ghelper.me
 https://2k00l.no-mad-world.club
 https://3.cundu.eu.org
+https://3.mimoe4.ru
 https://30158025.ghelper.me
 https://30178aeb-8299-045d-fb67-ae12ce73dd2c.buou.lol
 https://302acd11.ghelper.me
@@ -827,6 +833,7 @@ https://89826f80.ghelper.me
 https://89ed1dface28.ai-163cdn.com
 https://8ade4ad6.ghelper.me
 https://8ca0ddc9.ghelper.me
+https://8d16.ejwsfatz.com
 https://8d491095.ghelper.me
 https://8ed5ead6.ghelper.me
 https://8eec4500.ghelper.me
@@ -875,6 +882,8 @@ https://N2VOlP.mcsslk.xyz
 https://NcLAhc.subxly.cfd:8443
 https://QTjDQsor6e7D.configbit.com
 https://SOS.CMLiussss.net
+https://UqYEryVb.doggygosubs.com:8443
+https://YQZQQHGLWm.prosubnet02.eu:8443
 https://Yu7lu0.tosslk.xyz
 https://a-gvgya9fuh2fyd7bx.z01.azurefd.net
 https://a.545437.xyz
@@ -998,6 +1007,7 @@ https://amin.karkas1.ir
 https://aminpanel.marketepic.ir:8000
 https://amvne.ofourl.xyz
 https://amz.awsy.top
+https://another.020118118.best
 https://another.com
 https://another1.264869.xyz
 https://ansuyun.xyz
@@ -1027,6 +1037,7 @@ https://api-zz.xn--14ra41gd24b.xyz
 https://api.10101.io
 https://api.14kbuy.com
 https://api.1vpn.sbs
+https://api.278986.xyz
 https://api.abyssyun.top
 https://api.acaisbest.online
 https://api.acaisbest.shop
@@ -1193,6 +1204,7 @@ https://ascii2d.net
 https://asdf-vm.com
 https://asdf.888545.xyz
 https://asia.nikkei.com
+https://asiatech.ir
 https://aspoem.com
 https://atacyun.yydsii.com
 https://atong88.top
@@ -2165,6 +2177,7 @@ https://form-create.com
 https://forms.gle
 https://forum.koishi.xyz
 https://forum.proxmox.com
+https://frame.work
 https://free-fs.top
 https://free-ss.site
 https://free.andiliba.cc
@@ -2571,6 +2584,7 @@ https://k61kz.no-mad-world.club
 https://k6rcy6a2leyehqhlphlwkkuppm0xxubn.lambda-url.us-east-1.on.aws
 https://kad520.uk
 https://kaimenlai.com
+https://kami.tw93.fun
 https://kaochang.click
 https://karing.app
 https://kawaiifreevpn-7ds.pages.dev
@@ -2798,6 +2812,7 @@ https://meoovpn.net
 https://mercedes1208.xn--3iq226gfdb94q.com
 https://merge.zabc.net
 https://merlinblog.xyz
+https://messengerlivec26.iranlms.ir
 https://meta-7fk.pages.dev
 https://metersphere.io
 https://mfbot.tcip.top
@@ -2813,6 +2828,7 @@ https://mikasa.cloud
 https://miku.onl
 https://milli.gold
 https://milvus.io
+https://mimo.xiaomi.com
 https://min.io
 https://mind-elixir.com
 https://mindoc.com.cn
@@ -3104,9 +3120,11 @@ https://pingme.tel
 https://pinpoint-apm.gitbook.io
 https://pk.g3yyun3hyz.workers.dev
 https://pkvwq.no-mad-world.club
+https://plainapp.app
 https://platform.adobe.io
 https://platform.claude.com
 https://platform.djjc.cfd
+https://platform.xiaomimimo.com
 https://pm.enjoy.cloudns.biz
 https://pm2.keymetrics.io
 https://pmn.uitsrt.top
@@ -3195,8 +3213,10 @@ https://q.qlogo.cn
 https://qcjs.ovh
 https://qd1.8811334.xyz
 https://qdkfweb.cn
+https://qeshmyar.com
 https://qfg.dukadi.shop
 https://qianggewangluo.cc
+https://qianjin1586.8811334.xyz
 https://qidijichang.xyz
 https://qifei.daytimemeteor.top
 https://qifei.today.elementfx.com
@@ -4535,6 +4555,7 @@ https://www.mibei77.com
 https://www.mindskip.net
 https://www.mirusubs.com
 https://www.miyun.me
+https://www.mojie.cool
 https://www.moonriver.sbs
 https://www.msit.go.kr
 https://www.mtruning.club
@@ -4784,6 +4805,7 @@ https://xbrss.xyz
 https://xcyun.co
 https://xf88j.no-mad-world.club
 https://xfa9.eu.org
+https://xfm.xz61.cn
 https://xfsnet.com
 https://xg25418.xskjsvip.dpdns.org
 https://xgxiongdi.com
@@ -4829,6 +4851,7 @@ https://xn--9kq838ftid.shop
 https://xn--9kq85xcu6b.com
 https://xn--9kqt60cjmy.shop
 https://xn--9kqx21a0sv.com
+https://xn--9kqz23b19z.com
 https://xn--9krt36k.com
 https://xn--bnq37rc0nw50b.com
 https://xn--cp3a08l.com
@@ -4879,6 +4902,7 @@ https://xship.top
 https://xsj520.top
 https://xsjv2.live
 https://xsus.buzz
+https://xsus.jolqx.cn
 https://xsus.moe
 https://xsus.wiki
 https://xsyg25417.xskjsvip.dpdns.org
@@ -4952,6 +4976,7 @@ https://youxiu9571.xiaofeixia.click
 https://youyoo.ccwink.cc
 https://yro.slashdot.org
 https://ysjc.us.kg
+https://yuanbao.yuanbaojc.store
 https://yugogo.xyz
 https://yume.cyou
 https://yun.xiaoyao01.com
@@ -4963,6 +4988,7 @@ https://yuqidingyue.yuqi.best
 https://yuxi.fanqiev2.work
 https://yuyan.online
 https://ywl.201593.xyz
+https://yx.ye-xiao.top
 https://yx1.281968.xyz
 https://yy.yudou66.top
 https://yyds.emovpn.buzz
