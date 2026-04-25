@@ -630,6 +630,7 @@ https://1dot1dot1dot1.cloudflare-dns.com
 https://1e01e53f.ghelper.me
 https://1ed106bd.ghelper.me
 https://1g.gay
+https://1o2.690423.xyz:8081
 https://1panel.cn
 https://1rmb.tk
 https://1rzy6c5.wxll4.cfd
@@ -1005,6 +1006,7 @@ https://ai.meta.com
 https://ai.ssrsub.com
 https://aicccc.top
 https://aideadlin.es
+https://aidn.jp
 https://aieditor.com.cn
 https://aier.eu.cc
 https://aifun.trafficmanager.net
@@ -1231,6 +1233,7 @@ https://artislg.com
 https://arweave.net
 https://arxiv.org
 https://as.al
+https://as.cnqq.de
 https://as.zcr25.dedyn.io
 https://asa.lol
 https://asa01.888545.xyz
@@ -1431,6 +1434,7 @@ https://bpbng.n06.us.kg
 https://bpbng.zcr06.filegear-sg.me
 https://bpbzb9.zb9.us.kg
 https://bpbzb9.zbb06.filegear-sg.me
+https://bpfxs.ccwu.cc
 https://bpjc.lol
 https://bpjc.pics
 https://bptz.xyz
@@ -2447,6 +2451,7 @@ https://hexo.io
 https://heysocks.net
 https://hh.haibucuo.xyz
 https://hh.hnekoo.top
+https://hha.albertabobbi.ndjp.net
 https://hhhhhhhhj.191266.xyz
 https://hi.10010.dev
 https://hi94740.gitee.io
@@ -3142,6 +3147,7 @@ https://obdo.cc
 https://obfusgated.com
 https://ocean.likelike.ip-ddns.com
 https://odysseycdn.cyou
+https://oics.net
 https://oiiccdn.yydsii.com
 https://ok.tcip.top
 https://okztwo.com
@@ -3459,6 +3465,7 @@ https://runner-cortex-tenant.beta.runwhen.com
 https://rvps.duckking.shop:26720
 https://rxl-nc.xyz
 https://rxxqa.no-mad-world.club
+https://s-dywrwizazu.cn-shanghai.fcapp.run
 https://s.33y.run
 https://s.feisucloud.xyz
 https://s.haituncloud.vip
@@ -3488,6 +3495,7 @@ https://s.weibo.com
 https://s.winniezz.top
 https://s.youyun666.site
 https://s.yyzzyyds.xyz
+https://s1-u2-b3.484845845.xyz
 https://s1.bnpublicsub.com
 https://s1.bnpublicsub.net
 https://s1.bnsubservdom.com
@@ -4565,6 +4573,7 @@ https://www.cocotoyou.com
 https://www.codewoody.com
 https://www.consul.io
 https://www.conventionalcommits.org
+https://www.coursera.org
 https://www.cross666.top:9423
 https://www.crosswall.org
 https://www.csyyds.xyz
@@ -4751,6 +4760,7 @@ https://www.mysubsoft.com
 https://www.mz-fast.net
 https://www.naiun.co
 https://www.namecheap.com
+https://www.nanobananamaker.com
 https://www.nasa.gov
 https://www.navidrome.org
 https://www.nbd.com.cn
@@ -5033,6 +5043,7 @@ https://xingcloud.pwzvd.cn
 https://xingjiabijichang.com
 https://xingtu.kangda1818.com
 https://xiongchumo.shop
+https://xjj.zzxi.de
 https://xmake.io
 https://xmission-slc-1.edge.nextdns.io
 https://xmm.maimaiyun.shop
