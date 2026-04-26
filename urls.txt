@@ -245,6 +245,7 @@ http://latency-test.skk.moe
 http://lianjiasub.work
 http://liberize.me
 http://link.busuu.com
+http://list.ciron.net
 http://loo2k.com
 http://loongqing.me
 http://love2wind.cn
@@ -630,6 +631,7 @@ https://1dot1dot1dot1.cloudflare-dns.com
 https://1e01e53f.ghelper.me
 https://1ed106bd.ghelper.me
 https://1g.gay
+https://1nf.top
 https://1o2.690423.xyz:8081
 https://1panel.cn
 https://1rmb.tk
@@ -1021,6 +1023,7 @@ https://air.tuanzi.gq
 https://airi.moeru.ai
 https://airport.rabbitfish.now.cc
 https://airport.raloar.top
+https://aix.cdn.cn.eo.dnse66.com
 https://ajreport.beliefteam.cn
 https://akarin.dev
 https://alexproxy001.herokuapp.com
@@ -1198,6 +1201,7 @@ https://app.chartdb.io
 https://app.cloudcone.com
 https://app.cloudlion.me
 https://app.diagrams.net
+https://app.farnet.top
 https://app.geniusping.ir
 https://app.gomeow.cloud
 https://app.initnil.com
@@ -1719,6 +1723,7 @@ https://d58fca27.ghelper.me
 https://d5baa892.ghelper.me
 https://d7346690.ghelper.me
 https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz
+https://d8.dbcloud.sbs
 https://d83b2ea7.ghelper.me
 https://d860cd7f.ghelper.me
 https://d8f56dd0.ghelper.me
@@ -2490,6 +2495,7 @@ https://hrqiea.subxly.cfd:8443
 https://hs.huasuan666.top
 https://hsdgbuys.pages.dev
 https://hssl8088.icu
+https://ht.shunc.xyz
 https://htcmi-20240805.mozhiti.top
 https://htdy02.mozhiti.top
 https://html.spec.whatwg.org
@@ -2557,6 +2563,7 @@ https://in.mesl.cloud
 https://inangua.lwjyj.com
 https://infini-cloud.net
 https://info.iic08924f5w3b65o.xyz
+https://ino.ir
 https://ino.school
 https://ins77.link
 https://insdy.cloudoo.xyz
@@ -2615,6 +2622,7 @@ https://itdog.cloud
 https://item.jd.com
 https://itjustasub.icu
 https://itjustasub.shop
+https://itubego.com
 https://iw233.cn
 https://iwefhljnsdmc.naiyun.uk
 https://iy141tu-kvs9ovmer97fkkjfidqz581z.pages.dev
@@ -3543,6 +3551,7 @@ https://schemas.ably.com
 https://scmscjmvjs.583838.xyz
 https://screego.net
 https://scsc.fefeef.cn
+https://scwljsq.cfooov.xyz
 https://sdgvps.com
 https://sdk-fls53vl6.27101666.com
 https://sdo.gsfc.nasa.gov
@@ -4697,6 +4706,7 @@ https://www.kawabangga.com
 https://www.kdcloud.uk
 https://www.kernel.org
 https://www.keycloak.org
+https://www.khabaronline.ir
 https://www.kimi.com
 https://www.kindle8.cc
 https://www.koogua.com
