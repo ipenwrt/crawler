@@ -1150,6 +1150,7 @@ https://api.oaibest.com
 https://api.otcopusvpn.cc:18008
 https://api.pay.pm
 https://api.pithecia.com
+https://api.prprcloud.life
 https://api.qrserver.com
 https://api.sanfen013.xyz
 https://api.secure-tunnel.site
@@ -1687,6 +1688,7 @@ https://cn.xn--iiq540h.com
 https://cn4.cyberairport.work
 https://cococloud.online
 https://code.claude.com
+https://code.visualstudio.com
 https://codeberg.org
 https://codecov.io
 https://codeleilei.gitee.io
@@ -1903,6 +1905,7 @@ https://dl.apktops.ir
 https://dl.flyingbird.vip
 https://dl.k8s.io
 https://dl.owokkvsxks.store
+https://dl.toolschi.com
 https://dl.vfkum.website
 https://dl1.androidcloob.com
 https://dl2-extractleech.runflare.run
@@ -2626,6 +2629,7 @@ https://ip.ikez.dpdns.org
 https://ip.skk.moe
 https://ipcfsub.mrfodi1.workers.dev
 https://ipcheck.ing
+https://ipinfo.io
 https://iplcq.com
 https://ipmyp.ir
 https://ipngc.no-mad-world.club
@@ -2742,6 +2746,7 @@ https://kad520.uk
 https://kaimenlai.com
 https://kaix.in
 https://kalami-eew.pages.dev
+https://kalbodteam.ir
 https://kami.tw93.fun
 https://kaochang.click
 https://karing.app
@@ -2886,6 +2891,7 @@ https://link4.proxylink.xyz
 https://link5.proxylink.xyz
 https://linka.lmscunb.cc:2087
 https://linke.phantasy.life
+https://linkhub.mobi
 https://linklick.ir
 https://links.azurefd.net
 https://links.bocchi2b.top
@@ -2927,6 +2933,7 @@ https://luosiqimeng.freegangkou.top
 https://lutaonan.com
 https://luv.xem.lat
 https://luyuyun.com
+https://lwn.net
 https://ly.ba000.cc
 https://ly.ccwink.cc
 https://lyly.649844.xyz
@@ -3135,6 +3142,7 @@ https://net.17181922.xyz
 https://net.sled.lol
 https://netease-music.fe-mm.com
 https://neteasecloudmusicapi-docs.4everland.app
+https://netmodvpn.com
 https://networks002.ridefullspeed.us
 https://neurotoxinw.coding.net
 https://new.crosswall.dpdns.org
@@ -3164,6 +3172,7 @@ https://nicevpn.top
 https://nicevpns.com
 https://nihaojob.gitbook.io
 https://ninjasub.com
+https://nmfan1.com
 https://nmsubs.com
 https://nn0310.xn--8stx8olrwkucjq3b.com
 https://nnmjk.wc0.ccwu.cc
@@ -3237,6 +3246,7 @@ https://opencollective.com
 https://opencut.app
 https://opendatalab.com
 https://openit.littlesite.ml
+https://openjdk.org
 https://opensource.org
 https://openui.fly.dev
 https://openvidu.io
@@ -3278,6 +3288,7 @@ https://paste.centos.org
 https://paste.ee
 https://paste.gg
 https://paste.wmlabs.net
+https://paste.xz88.ml
 https://pastebin.com
 https://pastebin.pl
 https://pastehub.ir
@@ -3845,6 +3856,7 @@ https://sub.hazz.win
 https://sub.hktix.net
 https://sub.hot123.me
 https://sub.htg8866.us.kg
+https://sub.hycloud.shop
 https://sub.id9.cc
 https://sub.infininode.xyz
 https://sub.jige.li
@@ -3988,6 +4000,7 @@ https://sub.yspeeds.uk
 https://sub.yume.cyou
 https://sub.yun.cat
 https://sub.yxhc.date
+https://sub.yxrcr.com
 https://sub.yz006.xyz
 https://sub.yztcloud.moe
 https://sub.zhilian.best
@@ -3996,6 +4009,7 @@ https://sub.zlwl.org
 https://sub.zyfx6.xyz
 https://sub.zzxxccvv.top
 https://sub01.jishu168.xyz
+https://sub1.591haoka.com
 https://sub1.91qaq.lol
 https://sub1.all--green.com
 https://sub1.bbjc.xyz
@@ -4202,6 +4216,7 @@ https://test-123.westus.logic.azure.com:443
 https://test-huld.sjukra.is
 https://test.989819.xyz
 https://test.herokuapp.com
+https://test.qhrgobull.fun
 https://testingcf.jsdelivr.net
 https://texon.io
 https://textcortex.com
@@ -4394,6 +4409,7 @@ https://vben.vvbin.cn
 https://vdfbdi.dou.it.com
 https://vdmwy.itr.lol
 https://vdocs.vmr.dpdns.org
+https://veoaifree.com
 https://veops.cn
 https://verdaccio.org
 https://vess.zhuk.dpdns.org
@@ -4864,6 +4880,7 @@ https://www.newapi.ai
 https://www.newlearner.site
 https://www.news.cn
 https://www.newyorker.com
+https://www.nist.gov
 https://www.nite07.com
 https://www.niulaoban.shop
 https://www.nodeseek.com
