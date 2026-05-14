@@ -92,6 +92,7 @@ http://boto3.readthedocs.io
 http://burpsuite.applinzi.com
 http://by.xbygood.xyz
 http://c.biancheng.net
+http://c9k.buzz
 http://cafebazaar.ir
 http://capture3millionsubscribers.thm
 http://casabio.org
@@ -254,6 +255,7 @@ http://identifiers.org
 http://ikuai.6.guochenjie.asia:3001
 http://img.nsmc.org.cn
 http://instagram.com
+http://internal-sub.local
 http://invite.xn--yvsa48r.com
 http://ip-api.com
 http://ip.koolcenter.com
@@ -325,6 +327,7 @@ http://mp.weixin.qq.com
 http://mrpm.cc
 http://msvpn.gougouvpn.xyz:88
 http://mvilla.it
+http://mvo-dl.top
 http://my.eoe.cn
 http://my.feedlounge.com
 http://my.kubecost.url
@@ -373,6 +376,7 @@ http://qingmang.me
 http://qm.qq.com
 http://rakuen.thec.me
 http://reader.youdao.com
+http://realnode.me
 http://responsivedesignweekly.com
 http://rk2.izoizoizo.top:43505
 http://rot.9o9.top:880
@@ -1420,12 +1424,14 @@ https://app.tethera.org
 https://app.tline.website
 https://app.tlyn.ir
 https://app.wallabag.it
+https://appbhteffsi3308.h5.xiaoeknow.com
 https://applink.feishu.cn
 https://apps.airfree.cloud
 https://apps.irancdn.org
 https://apps.kde.org
 https://appssalon.de
 https://aps-workspaces.us-west-2.amazonaws.com
+https://apt-y-install.sd-yun.xyz
 https://apt.download-config-ppy.cyou
 https://apt.izzysoft.de
 https://arax.ncats.io
@@ -1655,6 +1661,7 @@ https://blog.touchczy.top
 https://blog.turn.tw
 https://blog.vadxq.com
 https://blog.vuejs.org
+https://blog.wdssmq.com
 https://blog.wizos.me
 https://blog.yitianshijie.net
 https://blog.ywcccz.cn
@@ -1701,6 +1708,7 @@ https://briefcake.com
 https://browser.geekbench.com
 https://browser.networkwebmail.com
 https://bsc-blockbook.nownodes.io
+https://bscscan.com
 https://bst.xlkjjs.top
 https://bsub.douyincdns.top:8888
 https://bteam.tw
@@ -1743,6 +1751,7 @@ https://c4ad11f6.ghelper.me
 https://c5.wtf
 https://c59d6f0d.ghelper.me
 https://c6.y.qq.com
+https://c795577.parspack.net
 https://c842122.parspack.net
 https://c99a91a9.ghelper.me
 https://c9k.buzz
@@ -1875,6 +1884,7 @@ https://clash.shinvck.com
 https://clash0811-backup.rss-node.com
 https://clash0811-main.rss-node.com
 https://clashe.eu.org
+https://clashforwindows100.com
 https://clashmi.app
 https://clashparty.org
 https://clashsub.org
@@ -1944,6 +1954,7 @@ https://codeberg.org
 https://codecov.io
 https://codeleilei.gitee.io
 https://coderwall.com
+https://coding.net
 https://cola.xn--chqu2nzsxv3y.com
 https://colaleo.top
 https://colobu.com
@@ -2265,6 +2276,7 @@ https://docs.jumpserver.org
 https://docs.kplayer.net
 https://docs.kubecost.com
 https://docs.link-ai.tech
+https://docs.llamaindex.ai
 https://docs.meedu.vip
 https://docs.metacubex.one
 https://docs.minio.io
@@ -2280,6 +2292,7 @@ https://docs.osgi.org
 https://docs.phpmyadmin.net
 https://docs.pingcap.com
 https://docs.projectcalico.org
+https://docs.pyrogram.org
 https://docs.qq.com
 https://docs.ray.io
 https://docs.requarks.io
@@ -2290,6 +2303,7 @@ https://docs.spring.io
 https://docs.stackstorm.com
 https://docs.taro.zone
 https://docs.termix.site
+https://docs.turso.tech
 https://docs.volta.sh
 https://docsify.js.org
 https://docusaurus.io
@@ -2310,6 +2324,7 @@ https://doh.qis.io
 https://doh3.dns.nextdns.io
 https://doi.org
 https://domain-admin.readthedocs.io
+https://domain.com
 https://donnadie.top
 https://doucat.top
 https://douyun.sbs
@@ -2550,6 +2565,7 @@ https://fastestcloud.xyz
 https://fastly.jsdelivr.net
 https://fastraw.ixnic.net
 https://fatalentropy.com
+https://fb.fastnb.top
 https://fb.umgtb.cn
 https://fbinv02.fbaff.cc
 https://fbweb02.flyingbird.id
@@ -2608,6 +2624,7 @@ https://fhcloud.gweuc.cn
 https://fhfdf.ghkjfgjkdfghrjfghjvbnm.cfd
 https://file.sbno.de
 https://filecxx.com
+https://files.bokhary.fun
 https://files.bokhary.ir
 https://files.catbox.moe
 https://filmserver.ir
@@ -2648,6 +2665,7 @@ https://form-create.com
 https://forms.gle
 https://forum.koishi.xyz
 https://forum.proxmox.com
+https://fosstodon.org
 https://frame.work
 https://fredchan.org
 https://free-fs.top
@@ -2938,6 +2956,7 @@ https://hugeicons.com
 https://huggingface.co
 https://huiweishijie.com
 https://huotuichang.top
+https://hurl.dev
 https://hutaod.com
 https://hutool.ml
 https://hutusi.com
@@ -3406,6 +3425,7 @@ https://macshuo.com
 https://magic-api.ssssssss.org.cn
 https://magicae.pics
 https://maho.chipsfuck.fish
+https://mail.networkwebmail.com
 https://mail.serv00.com
 https://mail.tm
 https://mailchi.mp
@@ -3551,6 +3571,7 @@ https://my.mingri.icu
 https://my.nekocloud.top
 https://my.pathx.me
 https://my.racknerd.com
+https://my.uupload.ir
 https://my.zone.id
 https://my5353.com
 https://myapp.com
@@ -3615,6 +3636,7 @@ https://neo.facal.one
 https://neo1-3zc.pages.dev
 https://neodev.team
 https://neolink.nkkc.one
+https://neovim.io
 https://net.17181922.xyz
 https://net.sled.lol
 https://netease-music.fe-mm.com
@@ -3740,6 +3762,7 @@ https://oozz.tk
 https://open.10086.quest
 https://open.163.com
 https://open.feishu.cn
+https://open.itc.cn
 https://open.larkoffice.com
 https://open.spotify.com
 https://openai.com
@@ -3749,6 +3772,7 @@ https://opencut.app
 https://opendatalab.com
 https://openit.daycat.space
 https://openit.littlesite.ml
+https://openit.ml
 https://openjdk.org
 https://opensource.org
 https://openui.fly.dev
@@ -3850,6 +3874,7 @@ https://platform.claude.com
 https://platform.djjc.cfd
 https://platform.xiaomimimo.com
 https://platypush.readthedocs.io
+https://playwright.dev
 https://plus.chongzhi.art
 https://pm.enjoy.cloudns.biz
 https://pm2.keymetrics.io
@@ -4111,6 +4136,7 @@ https://rxl-nc.xyz
 https://rxxqa.no-mad-world.club
 https://s-dywrwizazu.cn-shanghai.fcapp.run
 https://s.33y.run
+https://s.666676.xyz
 https://s.feisucloud.xyz
 https://s.haituncloud.vip
 https://s.hajimi.icu
@@ -4160,6 +4186,7 @@ https://s31.uupload.ir
 https://s33.uupload.ir
 https://s34.picofile.com
 https://s4-f45.pages.dev
+https://s5.995677.xyz
 https://s6.ssysub1.xyz
 https://s6.uplod.ir:182
 https://s7.sub.gfw.gg
@@ -4605,6 +4632,7 @@ https://sub.xn--mes91t7ofgnw.com
 https://sub.xn--mesv7f5toqlp.com
 https://sub.xn--vpn-3f0h822m.com
 https://sub.xn--wlqw2sc0nwqq.com
+https://sub.xnyun.wiki
 https://sub.xunicard.cc
 https://sub.xunlian.site
 https://sub.yifenjichang.online
@@ -4828,6 +4856,7 @@ https://tailchat.msgbyte.com
 https://tailscale.com
 https://tailwindcss.com
 https://tamlok.gitee.io
+https://tanstack.com
 https://tanz.dog
 https://tao.zz.ac
 https://taoshu.in
@@ -4962,6 +4991,7 @@ https://tudou.igken.com
 https://tugeda.xyz
 https://tumutanzi.com
 https://turbooserver.xyz
+https://turso.tech
 https://tuzi226.top
 https://tv-l4um.onrender.com
 https://tv.cctv.com
@@ -5146,6 +5176,7 @@ https://vpn.linuxdo.pro
 https://vpn.nguyendinhnghi.id.vn
 https://vpn.shunjianboy.top
 https://vpn6688.com
+https://vpngiare.net
 https://vpnhack.com
 https://vpnyyds.link
 https://vps.aifoxin.com:37970
@@ -5275,6 +5306,7 @@ https://wuxianliulianng.xyz
 https://wuyouyun.shop
 https://wvw.guanxi.cloudns.be
 https://ww1.mfssr.xyz
+https://wwbbd.lanzouw.com
 https://wwbfs.lanzouv.com
 https://wwe.trx1.cyou
 https://wwi.lanzoui.com
@@ -5323,6 +5355,7 @@ https://www.alibabacloud.com
 https://www.aljazeera.net
 https://www.amazon.com
 https://www.androidauthority.com
+https://www.androidheadlines.com
 https://www.androidpolice.com
 https://www.anothervpn520.us.ci
 https://www.anthropic.com
@@ -5492,6 +5525,7 @@ https://www.freepik.com
 https://www.ft.com
 https://www.ftclashcloud.mom
 https://www.funds2growth.com
+https://www.fusejs.io
 https://www.gamespot.com
 https://www.gaojiyun.vip
 https://www.gatsbyjs.com
@@ -5634,9 +5668,11 @@ https://www.mibei77.com
 https://www.midjourney.com
 https://www.mifengtd.cn
 https://www.mindskip.net
+https://www.mir.com.my
 https://www.mirusubs.com
 https://www.mittrchina.com
 https://www.miyun.me
+https://www.mk.co.kr
 https://www.mojie.cool
 https://www.mooc.cn
 https://www.moonriver.sbs
@@ -5644,6 +5680,7 @@ https://www.morningstar.com
 https://www.mpyit.com
 https://www.msit.go.kr
 https://www.msra.cn
+https://www.mtfol.com
 https://www.mtruning.club
 https://www.mxnzp.com
 https://www.mxssr1.top
@@ -5674,12 +5711,14 @@ https://www.nite07.com
 https://www.niulaoban.shop
 https://www.nodeseek.com
 https://www.notebookcheck.net
+https://www.notion.com
 https://www.notion.so
 https://www.now61.com
 https://www.nowcoder.com
 https://www.npmjs.com
 https://www.nsa.gov
 https://www.nsmc.org.cn
+https://www.nushell.sh
 https://www.nutsfind.com
 https://www.nytimes.com
 https://www.ollama.com
@@ -5830,6 +5869,7 @@ https://www.uniprot.org
 https://www.uoyun.com
 https://www.uploadina.com
 https://www.upx8.com
+https://www.ure.best
 https://www.usdt.gl
 https://www.v2board.cc
 https://www.v2board.uk
@@ -5856,6 +5896,7 @@ https://www.w1y1.xyz
 https://www.wangdu.site
 https://www.wangyunf.com
 https://www.war.gov
+https://www.wdssmq.com
 https://www.weave.works
 https://www.wexgc.com
 https://www.wezm.net
@@ -5960,6 +6001,7 @@ https://wy.flylink.cyou
 https://wylztxfq.qjty1.buzz
 https://wyy.14kbuy.com
 https://x-file-storage.xuyanwu.cn
+https://x.ai
 https://x.com
 https://x.dnsss.top
 https://x.juzi.lat
@@ -6165,6 +6207,8 @@ https://your-airport-2.com
 https://your-domain.com
 https://your-domain.workers.dev
 https://your-oidc.issuer.com
+https://your-provider.com
+https://your-server.com
 https://your-worker.workers.dev
 https://your.subscription.com
 https://yourco.webhook.office.com
@@ -6182,6 +6226,7 @@ https://youyoo.ccwink.cc
 https://ypso.cc
 https://yro.slashdot.org
 https://ysjc.us.kg
+https://yt.xn--49sq15btnijvp.xn--fiqs8s
 https://yts.mx
 https://yuanbao.yuanbaojc.store
 https://yugogo.xyz
