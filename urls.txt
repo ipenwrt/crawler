@@ -23,6 +23,7 @@ http://6465307854ab0a2c82b66d32ffa2107e.52pokemon.top
 http://66ds.dishujichang.xyz
 http://6b.zhunchuanpb.com
 http://6bsub.zhunchuanpb.com
+http://7.mm
 http://777.hz.cz
 http://88cfn.232885.qzz.io
 http://9.douban.com
@@ -92,6 +93,7 @@ http://blog.zhaojie.me
 http://blogpage.xiaozhuhouses.asia
 http://book.douban.com
 http://boto3.readthedocs.io
+http://bp.wbno1.xyz
 http://burpsuite.applinzi.com
 http://by.xbygood.xyz
 http://c.biancheng.net
@@ -113,6 +115,7 @@ http://cinowu.duoshuo.com
 http://clash.razord.top
 http://clash77.top
 http://claude.ai
+http://cliffle.com
 http://cloudhead.io
 http://cloudify.co
 http://cloudupup.com
@@ -500,6 +503,7 @@ http://v2board.mcark.tk
 http://v2ex.com
 http://v2rayse.com
 http://v3.pkqshidazhubi.live
+http://vegapit.com
 http://vip.365cloud.me
 http://vip2.xxyjc.xyz
 http://vip3.myspacex.shop:80
@@ -525,6 +529,7 @@ http://wiki.cifaz.com
 http://wow.mio.gay
 http://wpaudioplayer.com
 http://wqfuinwqffq.dfcloud.xyz:30818
+http://www-staging.rust-lang.org
 http://www.111003.cf
 http://www.199it.com
 http://www.360doc.com
@@ -648,6 +653,7 @@ http://www.w3cplus.com
 http://www.w3ctech.com
 http://www.w3schools.com
 http://www.webwag.com
+http://www.wezm.net
 http://www.wikiwand.com
 http://www.woshipm.com
 http://www.wujieliulan.com
@@ -775,6 +781,7 @@ https://16th.sub-airport.com
 https://172.lot-ml.com
 https://17852.xyz
 https://17c.zljnnygqd.cc
+https://1842880324.share.123865.com
 https://1872974.editorx.io
 https://196284.nginxzfd.xyz
 https://1a.xg-hub.icu
@@ -1183,6 +1190,7 @@ https://afdian.com
 https://afdian.net
 https://afun-waf.trafficmanager.net
 https://ag.bnpm.dynu.net:30443
+https://agmprojects.com
 https://ai-bot.cn
 https://ai.jiedianxielou.workers.dev
 https://ai.meta.com
@@ -1279,6 +1287,7 @@ https://api.abyssyun.top
 https://api.acaisbest.online
 https://api.acaisbest.shop
 https://api.akijp.tokyo
+https://api.aniuo.com
 https://api.anquanke.com
 https://api.apihs.cfd
 https://api.asailor.org
@@ -1435,6 +1444,7 @@ https://app.lbankfa.com
 https://app.legeth.cc
 https://app.lwjyj.com
 https://app.mitce.net
+https://app.mokahr.com
 https://app.netlify.com
 https://app.nextvpn.xyz
 https://app.operately.com
@@ -1644,6 +1654,7 @@ https://blazeai.boxu.dev
 https://ble.ir
 https://blog.adobe.com
 https://blog.aifutures.org
+https://blog.approveapi.com
 https://blog.banyunxiaoxi.icu
 https://blog.bytebytego.com
 https://blog.cloudflare.com
@@ -1802,6 +1813,7 @@ https://cap.cloud.sap
 https://careers.mozilla.org
 https://castbox.fm
 https://cat.ikkt.cn
+https://catupload.937870.ir.cdn.ir
 https://cb132499.ghelper.me
 https://cb3dc995.ghelper.me
 https://cc.dreamlinkc.top
@@ -1892,6 +1904,7 @@ https://chentiansaber.notion.site
 https://chexlo.tryuhu235.tk
 https://chidd.net
 https://chiguayun.pro
+https://chilimatic.hashnode.dev
 https://china.caixin.com
 https://china.huawei-cloud.shop
 https://china.kyodonews.net
@@ -1969,6 +1982,7 @@ https://cloudflare-dns.com
 https://cloudflare-vless-trojan.lyqnihao.dpdns.org
 https://cloudflareiran1.pages.dev
 https://cloudflaresub.yuwan.link
+https://cloudfree.in
 https://cloudlink123.me
 https://cloudlion.me
 https://clv.lshan.eu.org
@@ -2459,6 +2473,7 @@ https://dy.xn--mesx48ahb331x.com
 https://dy.ydzhi.cfd
 https://dy0.mmydy.xyz
 https://dy001.maikcloud.top
+https://dy005.maikcloud.top
 https://dy01.mmydy.xyz
 https://dy1.hhyun.in
 https://dy1.mmydy.xyz
@@ -2778,6 +2793,7 @@ https://fsc.jiediandingyuejiji.homes
 https://fsofso.com
 https://ft-sub.tutunode.com
 https://fuckme.lovebabyforever.workers.dev
+https://fullyfaithful.eu
 https://fun513.cf
 https://fun513.top
 https://functional.works-hub.com
@@ -3050,6 +3066,7 @@ https://i.ifeng.com
 https://i.passcloud.xyz
 https://i.tjvpn.top
 https://i.ytimg.com
+https://i3wm.org
 https://i4.fit
 https://iBrRN.subxly.cfd:8443
 https://iGap.net
@@ -3099,6 +3116,7 @@ https://ins77.link
 https://insdy.cloudoo.xyz
 https://inside.ad
 https://insidead.ru
+https://insights.stackoverflow.com
 https://inssr.pro
 https://instagram.com
 https://install.appcenter.ms
@@ -3224,7 +3242,10 @@ https://jnir.lightnright.com
 https://jnzstatic.cs.com.cn
 https://jobs.lever.co
 https://join.yondercard.com
+https://jonathanklimt.de
 https://joplinapp.org
+https://josh.robsonchase.com
+https://joshlf.com
 https://journals.aps.org
 https://jp.taishan1.pro
 https://jp.tiar.app
@@ -3233,6 +3254,7 @@ https://jq.qq.com
 https://js.stripe.com
 https://jsd.cdn.zzko.cn
 https://jsd.vxo.im
+https://jsdw.me
 https://jshou.top
 https://jsjc.cfd
 https://jsm.apqiang.com
@@ -3553,6 +3575,7 @@ https://mcs-mimp-web.sf-express.com
 https://mcwy.xyz
 https://mdmmra.subxly.cfd:8443
 https://meal.leftright.buzz
+https://media.ccc.de
 https://medium.com
 https://meee.com.tw
 https://meetups.lacrypta.ar
@@ -3712,6 +3735,7 @@ https://nageoffer.com
 https://nahidacloud.top
 https://naikosub.com
 https://nairobi.saymyname.website
+https://naiyun0315.xn--8stx8olrwkucjq3b.com
 https://nameless-tessa826.826972411.workers.dev
 https://nanbei.cloud
 https://nanbeicloud.net
@@ -4029,6 +4053,7 @@ https://pr.kuaifaka.com
 https://pre.paimon.gq
 https://prefab.prefect.io
 https://premproxy.com
+https://preshing.com
 https://prestonrichey.com
 https://preview.pro.ant.design
 https://preview.smartadmin.vip
@@ -4467,6 +4492,7 @@ https://source.android.com
 https://sourceb.in
 https://sourceforge.net
 https://sourl.cn
+https://soxnr0iulrkh.info
 https://soybean.pro
 https://space.bilibili.com
 https://spcloud.info
@@ -4614,6 +4640,7 @@ https://sub.dc-sub1.com
 https://sub.dingzige.ga
 https://sub.domiw.com
 https://sub.dwlei.com
+https://sub.extc.shop
 https://sub.eyujichang.com
 https://sub.feiji.ddns-ip.net
 https://sub.feiji.ip-ddns.com
@@ -4965,6 +4992,7 @@ https://support.bale.ai
 https://support.claude.com
 https://support.cpanel.net
 https://support.packet.com
+https://support.tagsssubscribe.com
 https://supz1.6128888.xyz
 https://sus.alicenetwork.cloud
 https://sus.clodom.link
@@ -4980,6 +5008,7 @@ https://svip8.cn
 https://svn.xn--gmqaaaaaaaa.com
 https://swanhub.co
 https://syjccloud.com
+https://synthesize.rs
 https://syt.sytcloud.top
 https://sytcloud.top
 https://syyn.ianong.cn
@@ -5016,6 +5045,7 @@ https://tc.qy1357.top
 https://tc.r07.cloudns.be
 https://tc.ztcloud.xyz
 https://tcxf.hssl8088.icu
+https://tech.channable.com
 https://tech.ifeng.com
 https://tech.localenby.is
 https://tech.meituan.com
@@ -5095,6 +5125,7 @@ https://tmr.js.org
 https://tmrcfylw.qjty1.buzz
 https://tn.zcr25.rr.nu
 https://tnetvpn.com
+https://tnetz.pro
 https://to2026.xyz
 https://token604.us.kg
 https://tokenapi.fbcloud.lol
@@ -5103,6 +5134,7 @@ https://tool.oschina.net
 https://tool.ren
 https://tools.ietf.org
 https://tools.video
+https://toolschi.com
 https://topiam.cn
 https://tor-bridge.scaledra.com
 https://torna.cn
@@ -5550,6 +5582,7 @@ https://www.bmpi.dev
 https://www.boxim.online
 https://www.bptz.xyz
 https://www.bqg888.com
+https://www.breakdown-notes.com
 https://www.builder.io
 https://www.bumingbai.net
 https://www.businessinsider.com
@@ -5607,6 +5640,7 @@ https://www.coolapk.com
 https://www.coursera.org
 https://www.cross666.top:9423
 https://www.crosswall.org
+https://www.crosszcloud.xyz
 https://www.cs.cornell.edu
 https://www.csyyds.xyz
 https://www.ctee.com.tw
@@ -5820,6 +5854,7 @@ https://www.lirensr.com
 https://www.lizhi.io
 https://www.logicjake.xyz
 https://www.loyhome.com
+https://www.lpalmieri.com
 https://www.lujun9972.win
 https://www.luronn.com
 https://www.lvchaapp.site
@@ -5933,6 +5968,7 @@ https://www.ptt.cc
 https://www.python.org
 https://www.qhrgo.sbs
 https://www.qhrgobull.fun
+https://www.qilin2.com
 https://www.qlgq.top
 https://www.qqorw.cn
 https://www.qunima.cc
@@ -5960,6 +5996,7 @@ https://www.rjctx.com
 https://www.robustperception.io
 https://www.roc-taiwan.taipei
 https://www.rouydad24.ir
+https://www.rs-pbrt.org
 https://www.rss.style
 https://www.rssboard.org
 https://www.rsslibrarian.ch
@@ -6103,6 +6140,7 @@ https://www.xhei.ml
 https://www.xiabingbao.com
 https://www.xiaobot.net
 https://www.xiaoglt.top
+https://www.xiaohongshu.com
 https://www.xiaoli.vip
 https://www.xiaoyuzhoufm.com
 https://www.xiejingyang.com
@@ -6302,6 +6340,7 @@ https://xn--pbt777k.art
 https://xn--pssq69d.xyz
 https://xn--qwttwj2pf89b.365236.xyz
 https://xn--tfrza798rop1a.site
+https://xn--thqr2kqvdd1vchs.xyz
 https://xn--vpn-rw7eh25o.com
 https://xn--vuqy45c.top
 https://xn--wlqw2sc0nwqq.xyz
