@@ -524,6 +524,7 @@ http://weibo.com
 http://weike.jd.com
 http://weiwuhui.com
 http://weoknow.com
+http://wifi.vivo.com.cn
 http://wiki.apache.org
 http://wiki.cifaz.com
 http://wow.mio.gay
@@ -948,6 +949,7 @@ https://5fda5c35.ghelper.me
 https://5u35p8m9i7.cloudflare-gateway.com
 https://6-8xn.pages.dev
 https://6.66jc.top
+https://6.6bcloud.top
 https://60310b73.ghelper.me
 https://6068162b.ghelper.me
 https://60a662d2.ghelper.me
@@ -2659,6 +2661,7 @@ https://fdyes.shop
 https://fed.chanceyu.com
 https://fed.taobao.org
 https://feed.iggv5.com
+https://feed1.chitanda-eru.com
 https://feed2exec.readthedocs.io
 https://feedafever.com
 https://feedback.yaak.app
@@ -2675,6 +2678,7 @@ https://feeds.bbci.co.uk
 https://feeds.feedburner.com
 https://feedwrangler.net
 https://feedx.net
+https://feel.xylive.cc
 https://feichanghaotlszuduanshiwodeyumingxuanzhuan.esucloud.com
 https://feijige.rujiao.icu
 https://feima.xn--fiqr3f3yq87hgq1c.com
@@ -2850,6 +2854,7 @@ https://gh.sunguoqi.com
 https://ghj.apocalypse.cc.cd
 https://ghostcc.cc
 https://ghproxy.com
+https://giftarticle.ft.com
 https://giorgiocalderolla.com
 https://giscus.app
 https://git.captnemo.in
@@ -3535,6 +3540,7 @@ https://mac2winer.cfd
 https://macshuo.com
 https://magic-api.ssssssss.org.cn
 https://magicae.pics
+https://mahanmusic.net
 https://maho.chipsfuck.fish
 https://mail.networkwebmail.com
 https://mail.serv00.com
@@ -3683,6 +3689,7 @@ https://music.ydev.tech
 https://music.youtube.com
 https://musicfe.dev
 https://musicfreepluginshub.2020818.xyz
+https://musics-fa.com
 https://my.335570.xyz
 https://my.auth.server
 https://my.cat66.lol
@@ -3923,6 +3930,7 @@ https://ossrs.net
 https://outlinekeysrobotgb.outlinekeys.net
 https://outlook.live.com
 https://ovooa.com
+https://ow1.rouhe88.com:8888
 https://owo.ecydy.com
 https://owo.o00o.ooo
 https://oxdtang.top
@@ -3970,6 +3978,7 @@ https://pb.jiedianxielou.workers.dev
 https://pb.z9678.dns.army
 https://pb.z9678.v6.army
 https://pb.zcr9.dedyn.io
+https://pbs.twimg.com
 https://pc.ctyun.cn
 https://pcstory.ml
 https://pdda.me
@@ -4437,6 +4446,7 @@ https://shop.wwkejishe.top
 https://shop.xiaolongyun.buzz
 https://shorturl.731808.eu.org
 https://shouyeren.uk
+https://shuiniu.web.app
 https://shurufa.doubao.com
 https://shz.al
 https://sider.ai
@@ -4595,6 +4605,7 @@ https://sub.521177.xyz
 https://sub.54unique.com
 https://sub.591haoka.com
 https://sub.666676666.xyz
+https://sub.789.st
 https://sub.91dao.xyz
 https://sub.966888.xyz
 https://sub.998link.xyz
@@ -4709,6 +4720,7 @@ https://sub.ops.ci
 https://sub.oudd.de
 https://sub.ouoboom.xyz
 https://sub.paasmi.com
+https://sub.pai.yt
 https://sub.passgfw.top
 https://sub.pddf.shop
 https://sub.pianyi.info
@@ -5009,6 +5021,7 @@ https://svn.xn--gmqaaaaaaaa.com
 https://swanhub.co
 https://syjccloud.com
 https://synthesize.rs
+https://syragpt.ir
 https://syt.sytcloud.top
 https://sytcloud.top
 https://syyn.ianong.cn
@@ -5229,6 +5242,7 @@ https://uploadgirl.ir
 https://uploadkon.ir
 https://uplod.ir
 https://upm8kfu.nicecloud.win:8443
+https://upmusics.com
 https://url.409648.xyz
 https://url.cy
 https://url.funhub.cc
@@ -6051,6 +6065,7 @@ https://www.tdznode.xyz
 https://www.technologyreview.com
 https://www.techug.com
 https://www.terabox.com
+https://www.testingcatalog.com
 https://www.textmagic.com
 https://www.thatprivacyguy.com
 https://www.theatlantic.com
@@ -6334,6 +6349,7 @@ https://xn--mesr8b36x.com
 https://xn--mesr8b36xr0o.com
 https://xn--mest48anb1j.com
 https://xn--mesv7f5toqlp.com
+https://xn--mesx36n.com
 https://xn--mesz9ptugxg.com
 https://xn--nos792g.com
 https://xn--pbt777k.art
