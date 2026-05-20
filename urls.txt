@@ -1758,6 +1758,7 @@ https://archive.org
 https://arctic-intelligence.com
 https://arena.ai
 https://aricke.com
+https://ark.cn-beijing.volces.com
 https://arminli.com
 https://arnoldvink.com
 https://arstechnica.com
@@ -2014,6 +2015,7 @@ https://blog.postmaster.yahooinc.com
 https://blog.pushengage.com
 https://blog.python.org
 https://blog.qawf.de
+https://blog.railway.com
 https://blog.richasy.cn
 https://blog.rust-lang.org
 https://blog.sekoia.io
@@ -2075,6 +2077,7 @@ https://bpbng.zcr06.filegear-sg.me
 https://bpbzb9.zb9.us.kg
 https://bpbzb9.zbb06.filegear-sg.me
 https://bpfxs.ccwu.cc
+https://bpjc.cc
 https://bpjc.lol
 https://bpjc.pics
 https://bpjc.xyz
@@ -2413,6 +2416,7 @@ https://cola.xn--chqu2nzsxv3y.com
 https://colaleo.top
 https://colobu.com
 https://commission.europa.eu
+https://companies.caixin.com
 https://conda-forge.org
 https://conf1.hokkaido-toyoni.com
 https://config.51mdss.com
@@ -2783,6 +2787,7 @@ https://docs.dify.ai
 https://docs.digitalocean.com
 https://docs.djangoproject.com
 https://docs.emqx.com
+https://docs.flipper.net
 https://docs.fluentbit.io
 https://docs.getoutline.com
 https://docs.gitea.com
@@ -3655,6 +3660,7 @@ https://i.tjvpn.top
 https://i.v2xo.com
 https://i.ytimg.com
 https://i0.hdslb.com
+https://i03.1ytaff.com
 https://i1.hdslb.com
 https://i3wm.org
 https://i4.fit
@@ -4050,6 +4056,7 @@ https://leezn.eu.org
 https://left.pink
 https://legalhackers.com
 https://legeth.tk
+https://legiscan.com
 https://lei-su.me
 https://lemmy.ml
 https://lemonade.changedetection.io
@@ -4130,6 +4137,7 @@ https://live.kankanews.com
 https://live.yang-1989.eu.org
 https://livecapital.com.au
 https://livid.v2ex.com
+https://liying-sub.buzz
 https://llcool.xyz
 https://llgjc.shop
 https://lllo.x19890604.qzz.io
@@ -4368,6 +4376,7 @@ https://mplx.run
 https://mqk4azjxg8skg6gfelpb.stcserver-cloud.com
 https://mremoteng.readthedocs.io
 https://mro5n.no-mad-world.club
+https://mrpm.cc
 https://mrxn.net
 https://ms.jr.jd.com
 https://ms2564.mangshe.one
@@ -4512,6 +4521,7 @@ https://news.ifeng.com
 https://news.itsfoss.com
 https://news.layervault.com
 https://news.mindynode.com
+https://news.now.com
 https://news.remarkable.com
 https://news.samsung.com
 https://news.skhynix.co.kr
@@ -4926,6 +4936,7 @@ https://punkpaste.ir
 https://pur.xkg09s1a1b.workers.dev
 https://pushalert.co
 https://pushover.net
+https://pvk.ca
 https://pvn4hq.subxly.cfd
 https://pvn4hq.subxly.cfd:8443
 https://pvn4hq.xiaoliyusub.top:8443
@@ -5050,6 +5061,7 @@ https://research.myshell.ai
 https://research.web3.foundation
 https://resolver2.dns.watch
 https://restless-cherry-a0b5.yasinsky980.workers.dev
+https://reubenbrooks.dev
 https://reurl.cc
 https://revanced.app
 https://revezone.com
@@ -5385,6 +5397,7 @@ https://spcloud.info
 https://spec.openapis.org
 https://speedcncn.co
 https://speice.io
+https://spidermonkey.dev
 https://splus.ir
 https://spr.278986.xyz
 https://spring.io
@@ -6015,6 +6028,7 @@ https://tategaki.de
 https://tc.qy1357.top
 https://tc.r07.cloudns.be
 https://tc.ztcloud.xyz
+https://tcptest.cn
 https://tcxf.hssl8088.icu
 https://tecentapi.yunqing.work
 https://tech.channable.com
@@ -6386,6 +6400,7 @@ https://vless3.datatestvless.click
 https://vlesscm.fuyiwl.com
 https://vlesss.xttd.eu.org
 https://vlipsy.com
+https://vmax.ai
 https://vms.drweb.com
 https://vms.drweb.ru
 https://vn.zcr25.netlib.re
@@ -6401,6 +6416,7 @@ https://vox.nockserv.cloud
 https://vpiv.ing
 https://vpn-1yo.pages.dev
 https://vpn-4.tgvpnbot.com:3296
+https://vpn.209966.xyz
 https://vpn.28.al
 https://vpn.583180.xyz
 https://vpn.583181.xyz
@@ -6612,6 +6628,7 @@ https://www.360vpn.org
 https://www.36kr.com
 https://www.3kla.cn
 https://www.404media.co
+https://www.4f7kia.vip:7443
 https://www.4gtv.tv
 https://www.4spaces.org
 https://www.52nlp.cn
@@ -6636,6 +6653,7 @@ https://www.aladingnet.com
 https://www.alibabacloud.com
 https://www.alipan.com
 https://www.aljazeera.net
+https://www.alqst.org
 https://www.amazon.co.jp
 https://www.amazon.com
 https://www.amethyst.rs
@@ -6669,6 +6687,7 @@ https://www.awyyds.site
 https://www.axios.com
 https://www.baeksangawards.co.kr
 https://www.baijing.cn
+https://www.baipiaoo.site
 https://www.baiyunvpn.xyz
 https://www.bbc.com
 https://www.bee2.cloud
@@ -6676,6 +6695,7 @@ https://www.behance.net
 https://www.ben-evans.com
 https://www.bestblogs.dev
 https://www.bestreven.top
+https://www.beyondplastics.org
 https://www.bfyun.top
 https://www.bigmodel.cn
 https://www.bilibili.com
@@ -7054,6 +7074,7 @@ https://www.macrumors.com
 https://www.maikami.vip
 https://www.make8.com
 https://www.makeuseof.com
+https://www.manton.org
 https://www.mate.vip
 https://www.maxkey.top
 https://www.mefcl.com
@@ -7076,6 +7097,8 @@ https://www.mirusubs.com
 https://www.mittrchina.com
 https://www.miyun.me
 https://www.mk.co.kr
+https://www.mk2040.com:9163
+https://www.mk2120.com:9979
 https://www.mm9.ltd
 https://www.mnucv.xyz
 https://www.moakt.com
@@ -7201,6 +7224,7 @@ https://www.readme-i18n.com
 https://www.realclearpolitics.com
 https://www.rectg.com
 https://www.reddit.com
+https://www.redhat.com
 https://www.redleaf.app
 https://www.redox-os.org
 https://www.redsharknews.com
@@ -7229,6 +7253,7 @@ https://www.samsung.com
 https://www.samsung.com.cn
 https://www.sbs.com.au
 https://www.schneier.com
+https://www.science.org
 https://www.scifinow.co.uk
 https://www.scmp.com
 https://www.sec-wiki.com
@@ -7255,6 +7280,7 @@ https://www.solidot.org
 https://www.somersaultcloud.top
 https://www.sonyalpharumors.com
 https://www.spacebar.news
+https://www.spacex.com
 https://www.spcloud.us
 https://www.speedtest.net
 https://www.speedtestmobile.de
@@ -7339,6 +7365,7 @@ https://www.uploadina.com
 https://www.upx8.com
 https://www.ure.best
 https://www.usdt.gl
+https://www.usni.org
 https://www.v2board.cc
 https://www.v2board.uk
 https://www.v2ex.com
@@ -7497,6 +7524,7 @@ https://wyy.yyenh.cn
 https://wzry-doc.pages.dev
 https://x-file-storage.xuyanwu.cn
 https://x.ai
+https://x.ant.design
 https://x.com
 https://x.dnsss.top
 https://x.fengwo.online
