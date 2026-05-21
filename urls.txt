@@ -78,6 +78,7 @@ http://appium.io
 http://apt.thebigboss.org
 http://archive.ubuntu.com
 http://awcloud.life
+http://aws.amazon.com
 http://b.naiun.node-is.green:51112
 http://b.u9v.cn
 http://b19.se
@@ -115,6 +116,7 @@ http://boto3.readthedocs.io
 http://bp.wbno1.xyz
 http://brovee.myds.me:12580
 http://bugs.python.org
+http://build.clusterhq.com
 http://buoujichang.xyz
 http://burpsuite.applinzi.com
 http://by.xbygood.xyz
@@ -181,6 +183,7 @@ http://dd.cxld.sbs
 http://dd.ewmld2.one
 http://deanattali.com
 http://deepquery.cn
+http://deepyeti.ucsd.edu
 http://defyxvpn.com
 http://demo-go-ldap-admin.eryajf.net
 http://demo.ninesix.cc:4433
@@ -462,6 +465,7 @@ http://orzer.zhangzichuan.cn
 http://ovooa.com
 http://p.qlogo.cn
 http://p.tech
+http://packetstormsecurity.com
 http://panda.xn--i8sx78aisa52z.com
 http://panda.xn--lbrx91akmhm30c.com
 http://pandownload.net
@@ -471,6 +475,7 @@ http://pf.juzimao01.cloud
 http://pic.sdodo.com
 http://platform.minimaxi.com
 http://portablepython.com
+http://pr.k8s.io
 http://product.dangdang.com
 http://proxies.haisto.cn
 http://proxy.moo.jp
@@ -522,6 +527,7 @@ http://sidebar.io
 http://signup.privadovpn.com
 http://sixrevisions.com
 http://snail2020.com
+http://snapwc.com
 http://sni.111000.indevs.in
 http://sni.111000.v6.navy
 http://snippit.in
@@ -591,6 +597,7 @@ http://tiker.cc
 http://tiny.cc
 http://tinyletter.com
 http://tontof.net
+http://tool.mkblog.cn
 http://tool.ppkpub.org
 http://trac.parrot.org
 http://try.powerjob.tech
@@ -606,6 +613,7 @@ http://uicss.cn
 http://ukr.snaptext.shop
 http://unhandledexpression.com
 http://union.click.jd.com
+http://universaldependencies.org
 http://uploaded.ir
 http://user.dafeiji.one
 http://user.tsunaminet.cc
@@ -696,6 +704,7 @@ http://www.datagear.tech
 http://www.datastax.com
 http://www.devbridge.com
 http://www.dgtle.com
+http://www.domain.com
 http://www.dreamling.xyz
 http://www.e300daniu.com
 http://www.echojs.com
@@ -773,6 +782,7 @@ http://www.qianduan.net
 http://www.qianlong520.top
 http://www.qualcomm.cn
 http://www.rabbitmq.com
+http://www.rackspace.com
 http://www.randomhacks.net
 http://www.rjhixj.co
 http://www.ros.org
@@ -1368,6 +1378,7 @@ https://abyssvpn.com
 https://abyssvpnya.net
 https://ac1f3b35-1d03-3a85-beab-258d8f23edc6.nginxdotu.xyz
 https://acad.link
+https://academic.oup.com
 https://acc38639.ghelper.me
 https://access.redhat.com
 https://acck.364685.xyz:2098
@@ -1466,6 +1477,7 @@ https://am.zcr4.ip-ddns.com
 https://amatrixap.com
 https://amazing-apps.gitbook.io
 https://amazon-eks.s3-us-west-2.amazonaws.com
+https://amazon-eks.s3.us-west-2.amazonaws.com
 https://amber85.qjty.buzz
 https://amclubss.com
 https://amin.karkas1.ir
@@ -1691,6 +1703,7 @@ https://apidy.pqjc.site
 https://apifox.com
 https://apii.xqc.best
 https://apilayer.com
+https://apinainiucloud.lat
 https://apisix.apache.org
 https://apisub.mcwy.xyz
 https://apisudunw.sudunv.com
@@ -1978,6 +1991,7 @@ https://blog.aifutures.org
 https://blog.approveapi.com
 https://blog.banyunxiaoxi.icu
 https://blog.bytebytego.com
+https://blog.changs.co.uk
 https://blog.cloudflare.com
 https://blog.cmliussss.com
 https://blog.cnbang.net
@@ -1991,6 +2005,7 @@ https://blog.dmitrykankalovich.com
 https://blog.est.im
 https://blog.farmostwood.net
 https://blog.feediary.com
+https://blog.flipper.net
 https://blog.getpushmonkey.com
 https://blog.goatpeng.cn
 https://blog.guowenfh.com
@@ -2021,6 +2036,7 @@ https://blog.rust-lang.org
 https://blog.sekoia.io
 https://blog.shuiba.co
 https://blog.shuziyimin.org
+https://blog.simbastack.com
 https://blog.skk.moe
 https://blog.strongwong.top
 https://blog.t9t.io
@@ -2061,6 +2077,7 @@ https://bobapp.xuebifast.com
 https://book.douban.com
 https://book.hostnow.top
 https://bookfere.com
+https://bootstrap.pypa.io
 https://boou.colacloud.free.hr
 https://bordn1.xyz
 https://bot.chenoto.cn
@@ -2175,9 +2192,12 @@ https://capify.com.au
 https://careers.mozilla.org
 https://castbox.fm
 https://cat.ikkt.cn
+https://catchup.mainnet.concordium.software
 https://catupload.937870.ir.cdn.ir
+https://cb.dabai.in
 https://cb132499.ghelper.me
 https://cb3dc995.ghelper.me
+https://cc.default.svc.cluster.local:8091
 https://cc.dreamlinkc.top
 https://cc13caca.ghelper.me
 https://cc4c0b8b.ghelper.me
@@ -2329,6 +2349,7 @@ https://clck.ru
 https://cleardynamics.com.au
 https://cleave.edudigy.cc
 https://click.adtrace.io
+https://clickhouse.yandex
 https://client-api.riolu.link
 https://client-sub.cloudlion.top
 https://client.webhostmost.com
@@ -2367,6 +2388,7 @@ https://cloud.xn--pbt38zg4v.com
 https://cloud.ykkk.tech
 https://cloud.yuanbaojc.site
 https://cloud.yydschina.top
+https://cloud3.fanqiecloud.top
 https://cloudaccess.icu
 https://cloudcat.top
 https://cloudfast.cc
@@ -2382,6 +2404,9 @@ https://cloudfree.in
 https://cloudlink123.me
 https://cloudlion.me
 https://cloudog.us.kg
+https://cloudposse.com
+https://cloudreve.top
+https://clusterhq.atlassian.net
 https://clv.lshan.eu.org
 https://cm-sub.pz.pe
 https://cm.c08.rr.nu
@@ -2395,6 +2420,7 @@ https://cn.quarkus.io
 https://cn.serverless.com
 https://cn.wsj.com
 https://cn.xn--iiq540h.com
+https://cn.yna.co.kr
 https://cn4.cyberairport.work
 https://cnfeat.com
 https://cnnic.cnnic.link
@@ -2457,6 +2483,7 @@ https://crap.cn
 https://crates.io
 https://crawlee.dev
 https://creativecommons.org
+https://crocidb.com
 https://crontab.guru
 https://crushs.cyou
 https://crushs.top
@@ -2547,7 +2574,9 @@ https://dashboard.bazinnn.ga
 https://dashboard.flygogo.app
 https://dashboard.helius.dev
 https://dashboard.heroku.com
+https://dashboard.mainnet.concordium.software
 https://dashboard.ngrok.com
+https://dashboard.yunagrp.com
 https://dashuai.us
 https://data.bilibili.com
 https://data.huasheng.cn
@@ -2599,6 +2628,7 @@ https://deepfakevfx.com
 https://deepimg.io
 https://deepweb.net
 https://deepwiki.com
+https://deershare.com
 https://defold.com
 https://defucloud.vip
 https://demo.aapanel.com
@@ -2640,9 +2670,11 @@ https://dev-notifications-frontend.ashevillenc.gov
 https://dev-re.crm4.dynamics.com
 https://dev.emby.media
 https://dev.iw233.cn
+https://dev.maxmind.com
 https://dev.to
 https://developer.android.com
 https://developer.chrome.com
+https://developer.hashicorp.com
 https://developer.huawei.com
 https://developer.huaweicloud.com
 https://developer.mozilla.org
@@ -2651,6 +2683,7 @@ https://developer.plex.tv
 https://developer.salesforce.com
 https://developer.samsung.com
 https://developer.themoviedb.org
+https://developers.bitgo-dev.com
 https://developers.cloudflare.com
 https://developers.openai.com
 https://developers.redhat.com
@@ -2697,6 +2730,7 @@ https://direct.heavenlyprinciple.top
 https://discord.com
 https://discord.gg
 https://discordapp.com
+https://discover.swns.com
 https://discovery-center.cloud.sap
 https://discu.eu
 https://discuss-cn.bestxtools.com
@@ -2706,6 +2740,7 @@ https://djjc.cfd
 https://dk11.testdd.us.ci
 https://dk3.yunxiangvip.mom
 https://dl.apktops.ir
+https://dl.filefabot.ir
 https://dl.flyingbird.vip
 https://dl.k8s.io
 https://dl.owokkvsxks.store
@@ -2780,23 +2815,29 @@ https://docs.bunkerweb.io
 https://docs.ceph.com
 https://docs.cfw.lbyczf.com
 https://docs.cherry-ai.com
+https://docs.cloudbees.com
 https://docs.codax.site
+https://docs.cozy.io
 https://docs.crawlab.cn
 https://docs.datastax.com
 https://docs.dify.ai
 https://docs.digitalocean.com
 https://docs.djangoproject.com
 https://docs.emqx.com
+https://docs.emqx.io
 https://docs.flipper.net
 https://docs.fluentbit.io
+https://docs.fluentd.org
 https://docs.getoutline.com
 https://docs.gitea.com
 https://docs.godoos.com
 https://docs.gofiber.io
 https://docs.hedgedoc.org
 https://docs.honeycomb.io
+https://docs.immudb.io
 https://docs.influxdata.com
 https://docs.jumpserver.org
+https://docs.konghq.com
 https://docs.kplayer.net
 https://docs.kubecost.com
 https://docs.link-ai.tech
@@ -2834,6 +2875,7 @@ https://docs.taro.zone
 https://docs.termix.site
 https://docs.turso.tech
 https://docs.volta.sh
+https://docs.xtdb.com
 https://docsify.js.org
 https://docusaurus.io
 https://dogpan.com
@@ -2954,6 +2996,7 @@ https://dy0.mmydy.xyz
 https://dy001.maikcloud.top
 https://dy005.maikcloud.top
 https://dy01.mmydy.xyz
+https://dy01.nfsq.lol
 https://dy1.hhyun.in
 https://dy1.mmydy.xyz
 https://dy11.baipiaoyes.com
@@ -3020,6 +3063,7 @@ https://easywithai.com
 https://ebe396da.ghelper.me
 https://ec5smonchl973s.wca1rs59sefb1kl655b0.online
 https://eck8.miemie.uk
+https://economy.caixin.com
 https://ed.zcr3.ddns-ip.net
 https://ed451bf1.ghelper.me
 https://ed5d65ca.ghelper.me
@@ -3394,6 +3438,7 @@ https://ggghj.www890604.dpdns.org
 https://ggiuwegivhe123.a123.bond
 https://gh-proxy.net
 https://gh.sunguoqi.com
+https://ghcr.io
 https://ghj.apocalypse.cc.cd
 https://ghostcc.cc
 https://ghproxy.com
@@ -3472,6 +3517,7 @@ https://gscloud.bond
 https://gsea.buzz
 https://gsjc.sbs
 https://gsou.link
+https://gsoustar.cloud
 https://gstatic.com
 https://gta.wiki
 https://gtk-rs.org
@@ -3674,6 +3720,7 @@ https://id.discourse.com
 https://id.keepsolid.com
 https://idealclover.top
 https://identity-server.dev01.devland.is
+https://ieeexplore.ieee.org
 https://iehswe.lobonet.cn
 https://ieplcloud.xyz
 https://ierboryt.spphhnhg.top
@@ -3798,12 +3845,14 @@ https://ishare.ifeng.com
 https://isi.gay
 https://isignthis.com
 https://issues.apache.org
+https://issues.k8s.io
 https://istio.io
 https://itdog.cloud
 https://item.jd.com
 https://itjustasub.icu
 https://itjustasub.shop
 https://itlao6.com
+https://itns.s3.us-east-2.amazonaws.com
 https://itubego.com
 https://ivuxy.tech
 https://iw233.cn
@@ -3815,6 +3864,7 @@ https://j20-cloud.com
 https://j2s.buzz
 https://jacarandafinance.com.au
 https://jack.cab
+https://jamanetwork.com
 https://james82.ga
 https://jamesdaily.life
 https://japidocs.agilestudio.cn
@@ -4039,6 +4089,7 @@ https://lanxincloud.xyz
 https://lanzoui.com
 https://lanzoul.com
 https://laobideng.xyz
+https://laodayun.com
 https://laogongshuo.com
 https://laosijicc.top
 https://latiaocloud.net
@@ -4078,6 +4129,7 @@ https://lightningspeed.zh-a-fengniaogames.com
 https://lightyearvpn.com
 https://lihi.cc
 https://lihuayun1232.cfd
+https://liljohnidc.store
 https://limbopro.com
 https://limbopro.cyou
 https://limboy.me
@@ -4138,6 +4190,7 @@ https://live.yang-1989.eu.org
 https://livecapital.com.au
 https://livid.v2ex.com
 https://liying-sub.buzz
+https://lizhi.shop
 https://llcool.xyz
 https://llgjc.shop
 https://lllo.x19890604.qzz.io
@@ -4286,6 +4339,7 @@ https://merlinblog.xyz
 https://messengerlivec26.iranlms.ir
 https://meta-7fk.pages.dev
 https://meta.wikimedia.org
+https://metallb.universe.tf
 https://metersphere.io
 https://mfbot.tcip.top
 https://mfqtybrzstkf.ap-northeast-1.clawcloudrun.com
@@ -4409,6 +4463,7 @@ https://my.bfhk.xyz
 https://my.cat66.lol
 https://my.catfaka.com
 https://my.dafeicnd.com
+https://my.f5.com
 https://my.files.ir
 https://my.hxcq.cc
 https://my.kei.one
@@ -4427,6 +4482,7 @@ https://my.xn--9kqv25eu2o.com
 https://my.zone.id
 https://my5353.com
 https://myapp.com
+https://myassetserver.com
 https://mybatis.org
 https://mybear.xyz
 https://myboard.co
@@ -4614,6 +4670,7 @@ https://nyxt-browser.com
 https://o7pl1.no-mad-world.club
 https://obdo.cc
 https://obfusgated.com
+https://obis-open-data.s3.amazonaws.com
 https://obsidian.md
 https://ocean.likelike.ip-ddns.com
 https://ocloudvpn.com
@@ -4662,9 +4719,11 @@ https://open.spotify.com
 https://openai.com
 https://openai.justsong.cn
 https://openai01.net
+https://openart.ai
 https://opencollective.com
 https://opencut.app
 https://opendatalab.com
+https://openid.net
 https://openit-fq.ml
 https://openit.daycat.space
 https://openit.littlesite.ml
@@ -4691,6 +4750,7 @@ https://ossrs.io
 https://ossrs.net
 https://outlinekeysrobotgb.outlinekeys.net
 https://outlook.live.com
+https://outofthisworld.dropyourlove.top
 https://ovooa.com
 https://ow1.rouhe88.com:8888
 https://owellixsa.shop
@@ -4830,6 +4890,7 @@ https://pool-840979.asia1.kinto.io
 https://pool.sagithome.com
 https://popcornlab.de
 https://portal.7inet.com.cn
+https://portal.aws.amazon.com
 https://portal.gdmmdo.ga
 https://portal.mofeiyun.com
 https://portal.qiniu.com
@@ -4862,6 +4923,7 @@ https://preview.pro.ant.design
 https://preview.smartadmin.vip
 https://preview.szadmin.cn
 https://pris.ly
+https://prismreports.org
 https://privacycheck.sec.lrz.de
 https://pro-api.coingecko.com
 https://pro.76898102.xyz
@@ -4878,6 +4940,7 @@ https://prod.222222212.xyz
 https://productcloud.com.au
 https://prof.222222212.xyz
 https://profun.island.is
+https://prometheus-operator.dev
 https://prometheus.ac.cn
 https://prometheus.io
 https://prometheus.monitor.azure.com
@@ -4934,6 +4997,7 @@ https://pumpkinsinfo.top
 https://punica.ml
 https://punkpaste.ir
 https://pur.xkg09s1a1b.workers.dev
+https://push-api.cloud.huawei.com
 https://pushalert.co
 https://pushover.net
 https://pvk.ca
@@ -5034,6 +5098,7 @@ https://record.piao.news
 https://red.anthropic.com
 https://red.colacloud.free.hr
 https://redash.io
+https://redis.io
 https://redis.tinycraft.cc
 https://redmonk.com
 https://redspider.gitbook.io
@@ -5060,6 +5125,7 @@ https://repzt3P1yq.qinyues4.cc
 https://research.myshell.ai
 https://research.web3.foundation
 https://resolver2.dns.watch
+https://restheart.org
 https://restless-cherry-a0b5.yasinsky980.workers.dev
 https://reubenbrooks.dev
 https://reurl.cc
@@ -5266,6 +5332,7 @@ https://selfwealth.com.au
 https://sematec-co.com
 https://semver.org
 https://senders.yahooinc.com
+https://sendi.ir
 https://sep.bbdmfetch.com
 https://sequoia-pgp.org
 https://ser.3hjpc1daso.workers.dev
@@ -5273,6 +5340,7 @@ https://serv00.mai9900.dpdns.org
 https://server.fylink.link
 https://serverv.net
 https://service-a4rgovvz-202402.lycoris.asia
+https://service.furyun.org
 https://service.mf-api1.site
 https://service.mofangcloud.shop
 https://seup.shop
@@ -5321,6 +5389,7 @@ https://shuzijumin.com
 https://shz.al
 https://sick.codes
 https://sider.ai
+https://sigs.k8s.io
 https://simonwillison.net
 https://simonword.com
 https://simplex.chat
@@ -5360,6 +5429,7 @@ https://smsauth.top
 https://sn0int.readthedocs.io
 https://snailjob.opensnail.com
 https://snangua.com
+https://snapwc.com
 https://sni.111000.dynv6.net
 https://sni.skylee4.cloudns.ch
 https://snowy.xiaonuo.vip
@@ -5392,9 +5462,11 @@ https://soxnr0iulrkh.info
 https://soybean.pro
 https://sp.nfsq.me
 https://space.bilibili.com
+https://spacex2036.net
 https://spatie.be
 https://spcloud.info
 https://spec.openapis.org
+https://spectrum.ieee.org
 https://speedcncn.co
 https://speice.io
 https://spidermonkey.dev
@@ -5448,6 +5520,7 @@ https://star.starflycloud.com
 https://starchart.cc
 https://starlink.cx
 https://starlinkcloud.club
+https://starlinkcloud.org
 https://starlinkcloud.xyz
 https://starrailstation.com
 https://starsail.cloud
@@ -5470,6 +5543,7 @@ https://storage.iran.liara.space
 https://storage.to
 https://store.epicgames.com
 https://store.kakocloud.pro
+https://store.lizhi.io
 https://store.steampowered.com
 https://streamable.com
 https://streams.canonical.com
@@ -5604,6 +5678,7 @@ https://sub.krsd.xyz
 https://sub.leco.buzz
 https://sub.lianpi.tk
 https://sub.lingche.icu
+https://sub.lly.cz
 https://sub.lmspeed.top
 https://sub.lyunsub.win
 https://sub.lzyjc.xyz
@@ -6051,6 +6126,7 @@ https://tempr.email
 https://tenapi.cn
 https://tengine.taobao.org
 https://terfghtll.dashuai.us
+https://terminusdb.org
 https://test-123.westus.logic.azure.com:443
 https://test-huld.sjukra.is
 https://test-zone-3axlnqnxuxze-1356608074.eo-edgefunctions.com
@@ -6309,6 +6385,7 @@ https://v0.crosswall.dpdns.org
 https://v1-4-2.qwunessles.online
 https://v1.chaojiji.one
 https://v1.cutdog.net
+https://v1.dogapi.yachts
 https://v1.mk
 https://v1.v2ai.top
 https://v1.v2free.net
@@ -6333,6 +6410,7 @@ https://v2.tjiasu.xyz
 https://v2.udid8.com
 https://v2.yukiss.eu.org
 https://v2b.hinetlove.site
+https://v2b.n20.top
 https://v2b.xlr-ml.tk
 https://v2board.life
 https://v2board.uk
@@ -6367,6 +6445,7 @@ https://veoaifree.com
 https://veops.cn
 https://vercel.com
 https://verdaccio.org
+https://veroniiiica.com
 https://vess.zhuk.dpdns.org
 https://vfox.dev
 https://vi.icarephone.com
@@ -6543,6 +6622,7 @@ https://wiki.audacityteam.org
 https://wiki.digitalmethods.net
 https://wiki.hetzner.de
 https://wiki.hoki.work
+https://wiki.jenkins-ci.org
 https://wiki.kache.moe
 https://wiki.mcy.im
 https://wiki.metacubex.one
@@ -6609,6 +6689,7 @@ https://wwtg.lanzn.com
 https://wwvq.lanzoub.com
 https://www.02er.com
 https://www.066664.xyz
+https://www.0xsid.com
 https://www.1112244.xyz
 https://www.112112789.xyz
 https://www.12371.cn
@@ -6689,6 +6770,7 @@ https://www.baeksangawards.co.kr
 https://www.baijing.cn
 https://www.baipiaoo.site
 https://www.baiyunvpn.xyz
+https://www.barebones.com
 https://www.bbc.com
 https://www.bee2.cloud
 https://www.behance.net
@@ -6800,6 +6882,7 @@ https://www.devontechnologies.com
 https://www.dginv.click
 https://www.dgtle.com
 https://www.dgycom.com
+https://www.diagnijmegen.nl
 https://www.diatec.co.jp
 https://www.diffchecker.com
 https://www.digitalocean.com
@@ -6921,6 +7004,7 @@ https://www.haijiaoshi.com
 https://www.handelsblatt.com
 https://www.hao6v.cc
 https://www.happ.su
+https://www.haproxy.com
 https://www.haproxy.org
 https://www.hcaptcha.com
 https://www.heavens-above.com
@@ -6933,6 +7017,7 @@ https://www.himalaya.com
 https://www.hjtnt.link
 https://www.hkfaa.com
 https://www.hneko.world
+https://www.hollywoodreporter.com
 https://www.honeycomb.io
 https://www.hongx.sbs
 https://www.hotlaplantat.com
@@ -6983,6 +7068,7 @@ https://www.itonlyasub.xyz
 https://www.itrhx.com
 https://www.ixigua.com
 https://www.ixiqin.com
+https://www.jaegertracing.io
 https://www.jafiyun.today
 https://www.jafiyun2023.buzz
 https://www.jaided.ai
@@ -7132,6 +7218,7 @@ https://www.navidrome.org
 https://www.nayax.com
 https://www.nbd.com.cn
 https://www.ncameron.org
+https://www.ncbi.nlm.nih.gov
 https://www.nertron.net
 https://www.neteasegames.site
 https://www.netflix.com
@@ -7140,6 +7227,7 @@ https://www.newlearner.site
 https://www.news.cn
 https://www.newyorker.com
 https://www.nginx.com
+https://www.niemanlab.org
 https://www.nintendo.co.jp
 https://www.nintendolife.com
 https://www.nist.gov
@@ -7147,6 +7235,7 @@ https://www.nite07.com
 https://www.niulaoban.shop
 https://www.nodeloc.com
 https://www.nodeseek.com
+https://www.notebookcheck-cn.com
 https://www.notebookcheck.net
 https://www.notion.com
 https://www.notion.so
@@ -7257,6 +7346,7 @@ https://www.science.org
 https://www.scifinow.co.uk
 https://www.scmp.com
 https://www.sec-wiki.com
+https://www.sec.gov
 https://www.servicemesher.com
 https://www.sharetribe.com
 https://www.sharpgan.com
@@ -7382,6 +7472,7 @@ https://www.videogameschronicle.com
 https://www.videolan.org
 https://www.vidu.studio
 https://www.virustotal.com
+https://www.vmware.com
 https://www.vns735p8.xyz
 https://www.volcengine.com
 https://www.vpngate.net
@@ -7570,6 +7661,7 @@ https://xhtoken.huyun.nl
 https://xiamiyun.top
 https://xianpoqiang.com
 https://xianyuwangluo.pro
+https://xianyuwangluo.vip
 https://xiaobai.klizi.cn
 https://xiaobing-my.sharepoint.com
 https://xiaobot.net
