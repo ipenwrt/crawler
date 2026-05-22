@@ -82,6 +82,7 @@ http://aws.amazon.com
 http://b.naiun.node-is.green:51112
 http://b.u9v.cn
 http://b19.se
+http://bale.lovlytehran.ir:2095
 http://beautyandbeast.link
 http://beetle.lander.work
 http://beiyuu.com
@@ -435,6 +436,7 @@ http://n2.us.nexiocloud.com:25439
 http://nVx81Q0ouJA21x8U.xn--fiqs8s40dz2j.com
 http://nanbei.cloud
 http://nangang.pro
+http://nbvpn.top
 http://nc.cm.xiaomi-api.xyz:19581
 http://nekox.eu5.org
 http://nffs.tk
@@ -550,6 +552,7 @@ http://sub.crosswall.org
 http://sub.duckcloud.cc
 http://sub.hideu.cc
 http://sub.infininode.xyz
+http://sub.jarvistech.club
 http://sub.kjdjakskl.cyou
 http://sub.sqeven.me
 http://sub.store
@@ -1161,6 +1164,7 @@ https://66-88.cc
 https://66.66jc.top
 https://66195e16-0a53-4563-8515-f6f97d22f4ef.fengchenginx.com
 https://662.id88888888.com
+https://666.66jc.top
 https://666119.xyz
 https://666676666.xyz
 https://668993.xyz
@@ -1722,6 +1726,7 @@ https://app.bybit.com
 https://app.cal.com
 https://app.chartdb.io
 https://app.cloudcone.com
+https://app.cloudcone.com.cn
 https://app.cloudlion.me
 https://app.denza.xyz
 https://app.diagrams.net
@@ -1999,6 +2004,7 @@ https://blog.codingnow.com
 https://blog.crimx.com
 https://blog.csdn.net
 https://blog.daliansky.net
+https://blog.datalust.co
 https://blog.devtang.com
 https://blog.diqigan.cn
 https://blog.dmitrykankalovich.com
@@ -2908,9 +2914,11 @@ https://doubledou.win
 https://doucat.top
 https://douyun.sbs
 https://dove.589669.xyz
+https://down.dginv.click
 https://down.feituyun.xyz
 https://down.mptext.top
 https://down.nigx.cn
+https://downdetector.com
 https://download-config.windows98.link
 https://download-configb.windows98.link
 https://download.8886698.xyz
@@ -3479,6 +3487,7 @@ https://glitch.com
 https://global.tagonline.asia
 https://globalyun.cc
 https://gloria.social
+https://gma.tavis.tw
 https://gmcenter.prim-e-cloud.com
 https://go.dev
 https://go.go2048.top
@@ -3566,6 +3575,7 @@ https://haojiahuo.top
 https://haokawx.lot-ml.com
 https://haolll.me
 https://haowallpaper.com
+https://happens.lol
 https://harryyifei.notion.site
 https://hashcloud.cz
 https://hawstein.com
@@ -4368,11 +4378,13 @@ https://mindoc.com.cn
 https://mine.ex-girlfriendis.best
 https://minedigital.exchange
 https://mingtian.lol
+https://miniapps.ai
 https://miniflux.app
 https://minizz.online
 https://minority-extreme-thompson-elite.trycloudflare.com
 https://mireya233.com
 https://mirror.ghproxy.com
+https://mirrors.huaweicloud.com
 https://misakafree.ml
 https://misskey-hub.net
 https://mistral.ai
@@ -6737,6 +6749,7 @@ https://www.aljazeera.net
 https://www.alqst.org
 https://www.amazon.co.jp
 https://www.amazon.com
+https://www.amd.com
 https://www.amethyst.rs
 https://www.androidauthority.com
 https://www.androidheadlines.com
@@ -6916,6 +6929,7 @@ https://www.efcloud.bio
 https://www.efcloud.cc
 https://www.eff.org
 https://www.eftposaustralia.com.au
+https://www.elecrow.com
 https://www.elinksapi.com
 https://www.emqx.com
 https://www.engadget.com
@@ -6924,6 +6938,7 @@ https://www.epubit.com
 https://www.erupt.xyz
 https://www.etnews.com
 https://www.evan888.top
+https://www.eventbrite.com
 https://www.evernote.com
 https://www.exalead.com
 https://www.f2ray.com
@@ -7649,6 +7664,7 @@ https://xf.gl
 https://xf88j.no-mad-world.club
 https://xfa9.eu.org
 https://xfeed.app
+https://xfltd.org
 https://xfm.xz61.cn
 https://xfsnet.com
 https://xft.666676.xyz
