@@ -153,6 +153,7 @@ http://cn.nikkei.com
 http://cocoacake.net
 http://code.claude.com
 http://code.org
+http://concisecoder.io
 http://concurrent.redspider.group
 http://connect.rom.miui.com
 http://connectivitycheck.gstatic.com
@@ -644,6 +645,7 @@ http://vpn.loveskywroks.us.kg
 http://vps.huanshi88.sbs
 http://vsgyajsb.zahramehri.ir
 http://vue3.ccbpm.cn
+http://vulkano.rs
 http://vyy.idsduf.com
 http://vyysub.euquw.cn
 http://wa.me
@@ -753,6 +755,7 @@ http://www.leagueofheroes.ml
 http://www.liaolz.com
 http://www.linkops.cn
 http://www.lizherui.com
+http://www.luduminis.com
 http://www.lvchaapp.vip
 http://www.lvchavpn.vip
 http://www.mantou88.xyz
@@ -1487,6 +1490,7 @@ https://amclubss.com
 https://amin.karkas1.ir
 https://aminpanel.marketepic.ir:8000
 https://amiya.pro
+https://amos.me
 https://amvne.ofourl.xyz
 https://amz.awsy.top
 https://amzn.to
@@ -2059,6 +2063,7 @@ https://blog.waffles.space
 https://blog.wdssmq.com
 https://blog.wizos.me
 https://blog.yitianshijie.net
+https://blog.yoshuawuyts.com
 https://blog.ywcccz.cn
 https://blogs.gentoo.org
 https://blogs.nvidia.com
@@ -2477,6 +2482,7 @@ https://coolshell.cn
 https://copy.sh
 https://copyq.readthedocs.io
 https://cordys.cn
+https://coreyja.com
 https://corich.cc
 https://coronavirus.jhu.edu
 https://cors.buildtest.site
@@ -3664,6 +3670,7 @@ https://hrydy.1111345.xyz
 https://hs.huasuan666.top
 https://hsaii.mejd.cn
 https://hsdgbuys.pages.dev
+https://hsivonen.fi
 https://hssl8088.icu
 https://ht.shunc.xyz
 https://htcmi-20240805.mozhiti.top
@@ -4321,6 +4328,7 @@ https://masuit.com
 https://matcha.su
 https://matrix.to
 https://matrixap.com
+https://matthias-endler.de
 https://mattw.io
 https://maxhjd.jjzcloud.top
 https://maxkb.cn
@@ -4336,6 +4344,7 @@ https://me.csdn.net
 https://meal.leftright.buzz
 https://media.ccc.de
 https://medium.com
+https://medium.freecodecamp.org
 https://meee.com.tw
 https://meetups.lacrypta.ar
 https://mega.nz
@@ -4585,6 +4594,7 @@ https://new.xn--pbt38zg4v.com
 https://newdee.cf
 https://newhua99.com
 https://newrss.starlinkclash.ggff.net
+https://newrustacean.com
 https://news.ifeng.com
 https://news.itsfoss.com
 https://news.layervault.com
@@ -4846,6 +4856,7 @@ https://petapixel.com
 https://pf.apz3xggbio.workers.dev
 https://pfjc.im
 https://pgbps.ccwu.cc
+https://phaazon.net
 https://photos.caixin.com
 https://php.404003.xyz
 https://phwalls.com
@@ -4875,9 +4886,11 @@ https://plainapp.app
 https://planetable.eth.limo
 https://platform.adobe.io
 https://platform.claude.com
+https://platform.deepseek.com
 https://platform.djjc.cfd
 https://platform.xiaomimimo.com
 https://platypush.readthedocs.io
+https://play.rust-lang.org
 https://playfast.org
 https://playwright.dev
 https://plinkc.click
@@ -6064,6 +6077,7 @@ https://suti.skin
 https://sux.lol
 https://suying148.xyz
 https://sv1.otruyencdn.com
+https://svartalf.info
 https://svelte.dev
 https://svip.365cloud.me
 https://svip.dovenweb.com
@@ -6076,6 +6090,7 @@ https://sy.wgkzg.com
 https://syjccloud.com
 https://synthesize.rs
 https://syragpt.ir
+https://system76.com
 https://syt.sytcloud.top
 https://sytcloud.top
 https://syyn.ianong.cn
@@ -6173,6 +6188,7 @@ https://themarkup.org
 https://themeisle.com
 https://thenextweb.com
 https://theoldreader.com
+https://theoriginals.io
 https://thepoint1.free886.site
 https://think.codingit.cn
 https://this-week-in-rust.org
@@ -7059,6 +7075,7 @@ https://www.ikuayu.top
 https://www.imgurl.ir
 https://www.infomaniak.com
 https://www.infoq.cn
+https://www.infoq.com
 https://www.inoreader.com
 https://www.insidehighered.com
 https://www.inspektor-gadget.io
@@ -7132,6 +7149,7 @@ https://www.kuaidog010.top
 https://www.kuaigou.life
 https://www.kymjs.com
 https://www.labno3.com
+https://www.landian.news
 https://www.lanjinger.com
 https://www.lanka.cn
 https://www.lanzoup.com
@@ -7490,6 +7508,7 @@ https://www.virustotal.com
 https://www.vmware.com
 https://www.vns735p8.xyz
 https://www.volcengine.com
+https://www.vpnbook.com
 https://www.vpngate.net
 https://www.vpnmiao.site
 https://www.vpnunlimitedapp.com
