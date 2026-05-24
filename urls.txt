@@ -237,6 +237,7 @@ http://en.cppreference.com
 http://en.wikibooks.org
 http://epg.51zmt.top:8000
 http://epg.aptvapp.com
+http://event.weibo.com
 http://exchange.gameaurela.click:52952
 http://fanleme.vip
 http://fanqiang88.top
@@ -371,6 +372,7 @@ http://kasku.ai
 http://kitty.sb
 http://kittyai.tech
 http://kiwi2.cgweb.top
+http://koo.websiteorg.ir:80
 http://koolshare.cn
 http://krasimirtsonev.com
 http://ksria.com
@@ -811,6 +813,7 @@ http://www.tutorialspoint.com
 http://www.uderzo.it
 http://www.uisdc.com
 http://www.umtry.com
+http://www.uucampus.com
 http://www.v2ex.com
 http://www.vogella.com
 http://www.w3cfuns.com
@@ -818,6 +821,7 @@ http://www.w3cplus.com
 http://www.w3ctech.com
 http://www.w3schools.com
 http://www.webwag.com
+http://www.weibo.com
 http://www.wezm.net
 http://www.wikiwand.com
 http://www.woshipm.com
@@ -1408,6 +1412,7 @@ https://adguard-dns.io
 https://adguard-vpn.com
 https://adguard.com
 https://admin-tmpl-test.rencaiyoujia.cn
+https://admin.nezha.su
 https://admin.shanlian.app
 https://admin.vip.edu.kg
 https://admin.xn--iiq451n.com
@@ -2947,6 +2952,7 @@ https://drmobjay.com
 https://droidyue.com
 https://dropmail.me
 https://ds-33.xyz
+https://dt.shdetai.cn
 https://dt666.xyz
 https://dtjc.xyz
 https://duangks.com
@@ -3239,6 +3245,7 @@ https://feeded.xyz
 https://feeder.co
 https://feederss.com
 https://feedless.org
+https://feedly.com
 https://feeds.acast.com
 https://feeds.arstechnica.com
 https://feeds.bbci.co.uk
@@ -3737,6 +3744,7 @@ https://id.discourse.com
 https://id.keepsolid.com
 https://idealclover.top
 https://identity-server.dev01.devland.is
+https://idev.dev
 https://ieeexplore.ieee.org
 https://iehswe.lobonet.cn
 https://ieplcloud.xyz
@@ -4268,6 +4276,7 @@ https://m.huanqiu.com
 https://m.jdjygold.com
 https://m.jiemian.com
 https://m.leiphone.com
+https://m.lionhd.com
 https://m.mpaypass.com.cn
 https://m.stopa.io
 https://m.sub12345.org
@@ -6276,6 +6285,7 @@ https://trumpyun.com
 https://truthout.org
 https://truthsocial.com
 https://tryhackme.com
+https://trynoguard.com
 https://ts.xship.top
 https://tsbx.6128888.xyz
 https://tsjc.xyz
@@ -7640,6 +7650,7 @@ https://wwy.yyenh.cn
 https://wwz.lanzout.com
 https://wx.phocoon.com
 https://wx.wuxianjc.top
+https://wxw.moe
 https://wy-paste.lly.cz
 https://wy.flylink.cyou
 https://wy.somg.xyz
@@ -7853,6 +7864,7 @@ https://xycc24424.xskj.dedyn.io
 https://xysxwk250428.3344550.xyz
 https://xz.54264944.xyz
 https://y.kukeyun.cc
+https://y.yfkpay.com
 https://y1k.live
 https://y4ckkxagxaxxefca.duboji.vip
 https://y6-3cj.pages.dev
