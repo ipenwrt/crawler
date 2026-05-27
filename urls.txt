@@ -353,6 +353,7 @@ http://ipv6-test.ch
 http://iqdb.org
 http://ir.bbb-subbb.ir:2095
 http://ir.npvnot.com:10116
+http://ir.npvnot.com:10122
 http://ircf.space
 http://is.gd
 http://isna.ir
@@ -1062,6 +1063,7 @@ https://31465.543412546.xyz
 https://3148ccf4.ghelper.me
 https://31ee560f.ghelper.me
 https://32240957.ghelper.me
+https://32971.nginx24dotu.xyz
 https://33031fb8.ghelper.me
 https://33147899awhlop6658.hssl8088.icu
 https://3388ebe0.ghelper.me
@@ -1904,6 +1906,7 @@ https://b9d5f4ad.ghelper.me
 https://babayaga-6i7.pages.dev
 https://baca.342579.xyz
 https://back-starlink.publicrss.ggff.net
+https://backend.composio.dev
 https://backup.qqllxb.top
 https://bad69082.ghelper.me
 https://badge.fury.io
@@ -2608,6 +2611,7 @@ https://dash.yep.top
 https://dash.yfjc.xyz
 https://dashboard-132.3b.lol
 https://dashboard.bazinnn.ga
+https://dashboard.composio.dev
 https://dashboard.flygogo.app
 https://dashboard.helius.dev
 https://dashboard.heroku.com
@@ -3940,6 +3944,7 @@ https://jfjs.cc
 https://jfjs.xyz
 https://jgjs-connect.com
 https://jgjs2-connect.com
+https://jgpy.shop
 https://jgpyjc.top
 https://jich.tih2.eu.org
 https://jichang.123417.xyz
@@ -4528,10 +4533,12 @@ https://my.catfaka.com
 https://my.dafeicnd.com
 https://my.f5.com
 https://my.files.ir
+https://my.filestash.ir
 https://my.hxcq.cc
 https://my.kei.one
 https://my.linbit.com
 https://my.mingri.icu
+https://my.nearoute.com
 https://my.nekocloud.top
 https://my.niceduck.io
 https://my.niihost.com
@@ -4992,6 +4999,7 @@ https://preview.smartadmin.vip
 https://preview.szadmin.cn
 https://pris.ly
 https://prismreports.org
+https://privacy.openai.com
 https://privacycheck.sec.lrz.de
 https://pro-api.coingecko.com
 https://pro.76898102.xyz
@@ -6933,6 +6941,7 @@ https://www.cnbeta.com.tw
 https://www.cnblogs.com
 https://www.cncf.io
 https://www.cnfeat.com
+https://www.cnstock.com
 https://www.cocotoyou.com
 https://www.codewoody.com
 https://www.coindesk.com
@@ -7048,6 +7057,7 @@ https://www.freepik.com
 https://www.freess.best
 https://www.freie-messenger.de
 https://www.ft.com
+https://www.ftchinese.com
 https://www.ftclashcloud.mom
 https://www.funds2growth.com
 https://www.fusejs.io
@@ -7217,6 +7227,7 @@ https://www.lbxjc.online
 https://www.lengjiao.me
 https://www.lennyrachitsky.com
 https://www.lepton.ai
+https://www.lesswrong.com
 https://www.lfhacks.com
 https://www.lframework.com
 https://www.liangyuandian.at
@@ -7332,6 +7343,7 @@ https://www.now61.com
 https://www.nowcoder.com
 https://www.npmjs.com
 https://www.nsa.gov
+https://www.nsfwlover.com
 https://www.nsmc.org.cn
 https://www.nushell.sh
 https://www.nutsfind.com
