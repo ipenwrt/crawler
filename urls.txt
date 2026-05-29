@@ -236,6 +236,7 @@ http://edotstudios.com
 http://em7.buzz
 http://en.cppreference.com
 http://en.wikibooks.org
+http://ent.people.com.cn
 http://epg.51zmt.top:8000
 http://epg.aptvapp.com
 http://event.weibo.com
@@ -334,6 +335,7 @@ http://httb.ir
 http://httpbin.org
 http://huggingface.co
 http://hukai.me
+http://hypercritical.co
 http://i.bybit.com
 http://i.fei.best
 http://i.sqeven.me
@@ -516,6 +518,7 @@ http://rubika.ir
 http://ruby-china.org
 http://rubyinstaller.org
 http://s.33y.run
+http://s.api50951.ir:443
 http://s.kalaa.me
 http://s1.subcsyun.online
 http://s3.subcsyun.online
@@ -1066,6 +1069,7 @@ https://3148ccf4.ghelper.me
 https://31ee560f.ghelper.me
 https://32240957.ghelper.me
 https://32971.nginx24dotu.xyz
+https://33.nice2.sbs
 https://33031fb8.ghelper.me
 https://33147899awhlop6658.hssl8088.icu
 https://3388ebe0.ghelper.me
@@ -1805,6 +1809,7 @@ https://archive.org
 https://arctic-intelligence.com
 https://arena.ai
 https://aricke.com
+https://arjan.com.np
 https://ark.cn-beijing.volces.com
 https://arminli.com
 https://arnoldvink.com
@@ -2473,6 +2478,7 @@ https://code.mensbeam.com
 https://code.org
 https://code.visualstudio.com
 https://codeberg.org
+https://codeburn.app
 https://codecov.io
 https://codeleilei.gitee.io
 https://coderwall.com
@@ -2483,6 +2489,7 @@ https://cola.xn--chqu2nzsxv3y.com
 https://colaleo.top
 https://colobu.com
 https://commission.europa.eu
+https://commonedge.org
 https://companies.caixin.com
 https://conda-forge.org
 https://conf1.hokkaido-toyoni.com
@@ -2642,6 +2649,7 @@ https://daylysub.go4sharing.repl.co
 https://db.idrblab.net
 https://db540235.ghelper.me
 https://dbjc.xyz
+https://dbxio.com
 https://dc.arsalandalvand.ir
 https://dc289a58.ghelper.me
 https://dcf28d31.jego.vip
@@ -2795,6 +2803,7 @@ https://dl2-extractleech.runflare.run
 https://dlaa.me
 https://dler.cloud
 https://dlercloud.com
+https://dles.gg
 https://dlj.tf
 https://dllx.tk
 https://dlo3va.subxly.cfd:8443
@@ -2849,6 +2858,7 @@ https://doc.sun-panel.top
 https://doc.tduckcloud.com
 https://doc.traefik.io
 https://doc.yunxin.163.com
+https://dockhand.pro
 https://docs.amnezia.org
 https://docs.ansible.com
 https://docs.aptvapp.com
@@ -2869,6 +2879,7 @@ https://docs.datastax.com
 https://docs.dify.ai
 https://docs.digitalocean.com
 https://docs.djangoproject.com
+https://docs.docmd.io
 https://docs.emqx.com
 https://docs.emqx.io
 https://docs.flipper.net
@@ -3477,6 +3488,7 @@ https://gethomepage.dev
 https://geti2p.net
 https://getinfo.bigbigwatermelon.com
 https://getinfo.bigwatermelon.org
+https://getmalus.com
 https://getnode.dksb.store
 https://getomni.ai
 https://getstream.io
@@ -3907,6 +3919,7 @@ https://isignthis.com
 https://issues.apache.org
 https://issues.k8s.io
 https://istio.io
+https://isvoro.com
 https://itdog.cloud
 https://item.jd.com
 https://itjustasub.icu
@@ -4053,6 +4066,7 @@ https://kelee.one
 https://keleyun.app
 https://kenengba.com
 https://key.vlesvpn.ru
+https://key.zarazaex.xyz
 https://keylol.com
 https://kfc.v50.su
 https://kfccloud.com
@@ -4089,6 +4103,7 @@ https://knsub.xyz
 https://kob-xxkl.top
 https://kobcloud.com
 https://kobee.metatai.xyz
+https://koenvangilst.nl
 https://koishi.chat
 https://kolly.top
 https://komarev.com
@@ -4257,6 +4272,7 @@ https://livecapital.com.au
 https://livid.v2ex.com
 https://liying-sub.buzz
 https://lizhi.shop
+https://lkhq.cc
 https://llcool.xyz
 https://llgjc.shop
 https://lllo.x19890604.qzz.io
@@ -4297,6 +4313,7 @@ https://lucky666.cn
 https://lukefan.com
 https://luolei.org
 https://luonan.tech
+https://luongnv.com
 https://luosiqimeng.freegangkou.top
 https://lutaonan.com
 https://luv.xem.lat
@@ -4364,6 +4381,7 @@ https://manus.im
 https://maomeng.xyz
 https://maoy.cc
 https://maple.icu
+https://mappsv5.caixin.com
 https://markdoc.dev
 https://market.qeshmyar.com
 https://marketepicpanel.marketepic.ir:2087
@@ -4441,6 +4459,7 @@ https://minedigital.exchange
 https://mingtian.lol
 https://miniapps.ai
 https://miniflux.app
+https://minimaxir.com
 https://minizz.online
 https://minority-extreme-thompson-elite.trycloudflare.com
 https://mireya233.com
@@ -4746,6 +4765,7 @@ https://nypost.com
 https://nyxt-browser.com
 https://o7pl1.no-mad-world.club
 https://obdo.cc
+https://obeli.sk
 https://obfusgated.com
 https://obis-open-data.s3.amazonaws.com
 https://obsidian.md
@@ -4807,6 +4827,7 @@ https://openit.daycat.space
 https://openit.littlesite.ml
 https://openit.ml
 https://openjdk.org
+https://openpath.quest
 https://openproxylist.com
 https://opensource.com
 https://opensource.org
@@ -4826,6 +4847,7 @@ https://oss.pithecia.com
 https://oss.v2rayse.com
 https://ossrs.io
 https://ossrs.net
+https://ouraring.com
 https://outlinekeysrobotgb.outlinekeys.net
 https://outlook.live.com
 https://outofthisworld.dropyourlove.top
@@ -4922,6 +4944,7 @@ https://pianyi.sub.sub.subsub123456789.com
 https://pianyijc.xyz
 https://pichoro.horosama.com
 https://picx.xpoet.cn
+https://pierre.computer
 https://piligou88.top
 https://pincht.sbs
 https://pindan.tk
@@ -5208,6 +5231,7 @@ https://renzhesub.com
 https://replicate.com
 https://repzt3P1yq.qinyues4.cc
 https://research.myshell.ai
+https://research.roundtable.ai
 https://research.web3.foundation
 https://resolver2.dns.watch
 https://restheart.org
@@ -5228,6 +5252,7 @@ https://ripaojiedian.coding.net
 https://rk.wuxianliulianng.xyz
 https://rk.xn--mest45ax3al6m4k5cvwf.shop
 https://robertohuertas.com
+https://rockstarintel.com
 https://rockvpn.4bmg9.online
 https://rook.io
 https://ropsten.etherscan.io
@@ -5387,6 +5412,7 @@ https://scan.bestsky.tools
 https://schema.getpostman.com
 https://schemas.ably.com
 https://schiffer.tech
+https://science.caixin.com
 https://science.colacloud.net
 https://scmscjmvjs.583838.xyz
 https://screego.net
@@ -5689,6 +5715,7 @@ https://sub.axixw.cc
 https://sub.bailian.site
 https://sub.baozinet.top
 https://sub.bbjc.xyz
+https://sub.bbwwvip.org
 https://sub.bestbestbest.sbs
 https://sub.bestlink.cc
 https://sub.bgdy.link
@@ -6264,6 +6291,7 @@ https://ths1f9qf.xyz
 https://thunderbird.net
 https://tiamocloud.top
 https://tiamocloud.us.kg
+https://tianji.dev
 https://tianmaojichang.us.kg
 https://tidbcloud.com
 https://tikdownloader.io
@@ -6415,6 +6443,7 @@ https://up.20script.ir
 https://up.bllare.ir
 https://up.com.au
 https://up.docs.apex.sh
+https://up.theazizi.ir
 https://up4.filetolinkborbot.pics
 https://upan.tk
 https://upcyrku4.subxly.cfd:8443
@@ -6547,6 +6576,7 @@ https://vess.zhuk.dpdns.org
 https://vfox.dev
 https://vi.icarephone.com
 https://viarotel.eu.org
+https://vickiboykis.com
 https://videocardz.com
 https://videofetch.readthedocs.io
 https://vifast.net
@@ -6697,6 +6727,7 @@ https://weiyinfu.cn
 https://welink.233.tw
 https://welink345.233.tw
 https://welink345.com
+https://wellsoc.org
 https://wendingjichang.com
 https://wenews.caixin.com
 https://wentommy.wordpress.com
@@ -6896,6 +6927,7 @@ https://www.boxim.online
 https://www.bptz.xyz
 https://www.bqg888.com
 https://www.breakdown-notes.com
+https://www.broadcom.com
 https://www.builder.io
 https://www.bumingbai.net
 https://www.businessinsider.com
@@ -6961,6 +6993,7 @@ https://www.conventionalcommits.org
 https://www.coolapk.com
 https://www.coursera.org
 https://www.crazymailing.com
+https://www.cringely.com
 https://www.cross666.top:9423
 https://www.crosswall.org
 https://www.crosszcloud.xyz
@@ -7030,6 +7063,7 @@ https://www.evan888.top
 https://www.eventbrite.com
 https://www.evernote.com
 https://www.exalead.com
+https://www.expressvpn.works
 https://www.f2ray.com
 https://www.fandom.com
 https://www.farsroid.com
@@ -7152,12 +7186,14 @@ https://www.imgurl.ir
 https://www.infomaniak.com
 https://www.infoq.cn
 https://www.infoq.com
+https://www.inkandswitch.com
 https://www.inoreader.com
 https://www.insidehighered.com
 https://www.inspektor-gadget.io
 https://www.instagram.com
 https://www.insuredbyus.com
 https://www.integrapay.com.au
+https://www.invenglobal.com
 https://www.invid-project.eu
 https://www.invitevp.com
 https://www.iovevpn.com
@@ -7252,6 +7288,7 @@ https://www.lingjiangtai.com
 https://www.link4.co
 https://www.linkedin.com
 https://www.linuxfoundation.org
+https://www.liquid.ai
 https://www.lirensr.com
 https://www.lizhi.io
 https://www.ljyyds.top
@@ -7374,6 +7411,8 @@ https://www.oreilly.com
 https://www.oschina.net
 https://www.otcopusapp.cc
 https://www.ottcloud.net
+https://www.ourbit.com
+https://www.owenmcgrann.com
 https://www.panda-cloud.life
 https://www.paofusub.com
 https://www.paofusub2.com
@@ -7953,6 +7992,7 @@ https://yahahasub.top
 https://yaklang.io
 https://yalda.freedns.today
 https://yamcode.com
+https://yandex.cloud
 https://yandex.com
 https://yang-1989.eu.org
 https://yannis3987.us.kg
