@@ -360,6 +360,7 @@ http://ir.npvnot.com:10122
 http://ircf.space
 http://is.gd
 http://isna.ir
+http://it5.taskflowhub.org:2083
 http://iw233.fgimax2.fgnwctvip.com
 http://j2s.buzz
 http://javascriptweekly.com
@@ -391,6 +392,7 @@ http://kubecost-cost-analyzer-mimir-proxy.kubecost.svc:8085
 http://kubecost.com
 http://kubernetes.io
 http://kxhy.softprize.com
+http://kyiv02.npvnot.com:443
 http://kzfeed.com
 http://lab.lepture.com
 http://labnana.com
@@ -1977,6 +1979,7 @@ https://bee.82820.net
 https://bee2.cloud
 https://beedcdd6.ghelper.me
 https://beef1917.com
+https://befriends.concubine.top
 https://befweb.net
 https://bei.ewpbh.cn
 https://bellingcat.gitbook.io
@@ -3807,6 +3810,7 @@ https://ihuoqx.281968.xyz
 https://ijnet.org
 https://ikuajingbus.com
 https://im.iamtsm.cn
+https://imagefree.net
 https://imagestool.com
 https://imcys.com
 https://img.buymeacoffee.com
@@ -3945,6 +3949,7 @@ https://japidocs.agilestudio.cn
 https://javaguide.cn
 https://javascriptweekly.com
 https://javen205.gitee.io
+https://javidnetworkwatch.com
 https://jb.taipeicity.news
 https://jc.005431.xyz
 https://jc.fanqiangdang.com
@@ -5818,6 +5823,7 @@ https://sub.nfsn666.eu.org
 https://sub.ng165.dpdns.org
 https://sub.nicevpn.top
 https://sub.nimservers.site
+https://sub.nnsub.win
 https://sub.no626.link
 https://sub.nodeup.top
 https://sub.nya-cloud.com
@@ -7181,6 +7187,7 @@ https://www.idc.com
 https://www.iesdouyin.com
 https://www.ietf.org
 https://www.ifanr.com
+https://www.ign.com
 https://www.ikuayu.top
 https://www.imgurl.ir
 https://www.infomaniak.com
@@ -7839,6 +7846,7 @@ https://xingcloud.659747.xyz
 https://xingcloud.pwzvd.cn
 https://xingjiabijichang.com
 https://xingtu.kangda1818.com
+https://xingvoy.com
 https://xiongchumo.shop
 https://xjichang.buzz
 https://xjj.zzxi.de
@@ -7968,6 +7976,7 @@ https://xunlei-api.okay.casa
 https://xunlian.site
 https://xvideohub.lol
 https://xw0083.dpdns.org
+https://xx.pat-law.net
 https://xxjsm.xn--nrqu89ap6f632c.xn--io0a7i
 https://xxnmsl.com
 https://xxx.a.com
@@ -8084,6 +8093,7 @@ https://yuyan.online
 https://ywl.201593.xyz
 https://yx.ye-xiao.top
 https://yx1.281968.xyz
+https://yy-bvq.pages.dev
 https://yy-efhvclgdxf.ap-northeast-1.fcapp.run
 https://yy.yudou66.top
 https://yyds.emovpn.buzz
