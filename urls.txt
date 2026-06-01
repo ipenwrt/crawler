@@ -492,6 +492,7 @@ http://paste.c-net.org
 http://pf.juzimao01.cloud
 http://pic.sdodo.com
 http://platform.minimaxi.com
+http://plokasenuh.pro
 http://portablepython.com
 http://pr.k8s.io
 http://product.dangdang.com
@@ -1127,6 +1128,7 @@ https://4d5ad5dc.ghelper.me
 https://4e60bafd-0633-4e8d-a02a-eef51cd1ad8e.xn--mes358a.art
 https://4g.mkvn.net
 https://4g.quoctai.xyz
+https://4pyyqag4.monster
 https://4sq6zh6.cn
 https://4t7n4.subxly.cfd:8443
 https://4ulgur4.wuxianliuliang.cfd
@@ -1408,6 +1410,7 @@ https://abc.xhonor.top:9066
 https://abc.xn--8lt534m.ml
 https://abc.xyz
 https://abc111222.top
+https://abdownloadmanager.com
 https://abel.waringer-atg.de
 https://abhm.ir
 https://abjc.xyz
@@ -1475,6 +1478,7 @@ https://ai.aiguardcloud.tech
 https://ai.jiedianxielou.workers.dev
 https://ai.meta.com
 https://ai.ssrsub.com
+https://ai.tenorshare.com
 https://aicccc.top
 https://aideadlin.es
 https://aidn.jp
@@ -1617,6 +1621,7 @@ https://api.fuckvps.net
 https://api.fuckyun.cc
 https://api.fuzzypn.me
 https://api.fwcloud.xyz
+https://api.fwhzfyy.asia
 https://api.gitsponsors.com
 https://api.gpt-pool.com
 https://api.groq.com
@@ -1690,6 +1695,7 @@ https://api.sub-100.one
 https://api.sub-200.club
 https://api.sub-300.club
 https://api.sublink.dev
+https://api.together.ai
 https://api.toubiec.cn
 https://api.tshl.cc
 https://api.twitch.tv
@@ -1800,6 +1806,8 @@ https://app.tline.website
 https://app.tlyn.ir
 https://app.vnet.ltd
 https://app.wallabag.it
+https://app.wazhua.org
+https://app.webwap.cyou
 https://app.zilihaijichang.top
 https://appbhteffsi3308.h5.xiaoeknow.com
 https://applink.feishu.cn
@@ -1890,6 +1898,7 @@ https://azsub.acousticlab.site
 https://azyun.top
 https://b.bbydy.org
 https://b.jiedianxielou.workers.dev
+https://b.wazhua.org
 https://b.xfuti.buzz
 https://b.xfuti.shop
 https://b.xiaow.cc
@@ -2176,6 +2185,7 @@ https://bugs.python.org
 https://bugstack.cn
 https://bugzilla.redhat.com
 https://bugzilla.suse.com
+https://build.nvidia.com
 https://bujidao.cc
 https://bujidao302.com
 https://bujige.net
@@ -2262,11 +2272,13 @@ https://cc6baba1.ghelper.me
 https://ccbaohe.com
 https://cccloud.zangcloud.xyz
 https://cchh2.pages.dev
+https://ccymq.no-mad-sub.one
 https://cd2662bd.jego.vip
 https://cdc.smslease.link
 https://cdn-35.triplebit.dev
 https://cdn-web-api.moeu.top
 https://cdn.1454250.xyz
+https://cdn.akile.ai
 https://cdn.bitpin.ir
 https://cdn.brandfetch.io
 https://cdn.cnbj1.fds.api.mi-img.com
@@ -3216,6 +3228,7 @@ https://eway.com.au
 https://exo.cloudtaste.xyz
 https://expense-manager.com
 https://experienceleague.adobe.com
+https://expertmedias.org
 https://expressjs.com
 https://extractor-demos.pages.dev
 https://extrm.info
@@ -3665,6 +3678,7 @@ https://hellopool.herokuapp.com
 https://helloworld-gkhnaabtdcefa9d5.z01.azurefd.net
 https://helm.sh
 https://help.medium.com
+https://help.openai.com
 https://help.rasa.io
 https://help.router-for.me
 https://help.salesforce.com
@@ -4606,6 +4620,7 @@ https://myko.buzz
 https://mymy.lanyanyun.co
 https://myp.dpenly.org
 https://mypikpak.com
+https://mypublicwifi.com
 https://myrrlyn.net
 https://mysql.download-config-zfd.cyou
 https://mysub.cc
@@ -4877,6 +4892,7 @@ https://oxdtangx.top
 https://p0.mahilobia.org
 https://p30download.ir
 https://p888.cf
+https://pa.parsafhg.dev:8000
 https://packages.bleemeo.com
 https://packages.sury.org
 https://pai.yt
@@ -5923,6 +5939,7 @@ https://sub.vvcloud.us.kg
 https://sub.websubscribe.net
 https://sub.wendingjichang.com
 https://sub.westigon.me
+https://sub.whitedns.one
 https://sub.wl-sub1.com
 https://sub.wordvlog.link
 https://sub.wukong.bond
@@ -6758,6 +6775,7 @@ https://wfi.sahnama.com
 https://wg.moa.gay
 https://wg03u.no-mad-world.club
 https://wgffes.lobonet.cn
+https://wgtunnel.com
 https://whatismy-ipaddress.com
 https://whatsapp.com
 https://whatshub.top
@@ -7264,6 +7282,7 @@ https://www.kancloud.cn
 https://www.karzar.net
 https://www.kaspersky.com
 https://www.kawabangga.com
+https://www.kcex.com
 https://www.kdcloud.uk
 https://www.kdocs.cn
 https://www.kernel.org
@@ -7271,6 +7290,7 @@ https://www.keycloak.org
 https://www.khabaronline.ir
 https://www.kimi.com
 https://www.kindle8.cc
+https://www.kitslabs.com
 https://www.kjdsyun.com
 https://www.kkidc.com
 https://www.koogua.com
@@ -7348,11 +7368,13 @@ https://www.mifengtd.cn
 https://www.mijishu.xyz
 https://www.mikuyun.xyz
 https://www.mindskip.net
+https://www.minimax.io
 https://www.mir.com.my
 https://www.mirusubs.com
 https://www.mittrchina.com
 https://www.miyun.me
 https://www.mk.co.kr
+https://www.mk2021.com:6003
 https://www.mk2040.com:9163
 https://www.mk2120.com:9979
 https://www.mm9.ltd
@@ -7635,6 +7657,7 @@ https://www.upx8.com
 https://www.ure.best
 https://www.usdt.gl
 https://www.usni.org
+https://www.ut6owx.vip:9977
 https://www.v2board.cc
 https://www.v2board.uk
 https://www.v2ex.com
