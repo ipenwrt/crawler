@@ -168,6 +168,7 @@ http://csgo3.fask511.cfd:1588
 http://css-weekly.com
 http://cssanimation.rocks
 http://ctmm.gscloud.bond:31620
+http://cursor.com
 http://cybersyndrome.net
 http://d.firim.pro
 http://d.har01d.cn
@@ -1477,6 +1478,7 @@ https://ag.bnpm.dynu.net:30443
 https://agmprojects.com
 https://ai-bot.cn
 https://ai-coustics.com
+https://ai-router.dev
 https://ai.aiguardcloud.tech
 https://ai.jiedianxielou.workers.dev
 https://ai.meta.com
@@ -1534,6 +1536,7 @@ https://amclubss.com
 https://amin.karkas1.ir
 https://aminpanel.marketepic.ir:8000
 https://amiya.pro
+https://amnezia.org
 https://amos.me
 https://amvne.ofourl.xyz
 https://amz.awsy.top
@@ -1576,6 +1579,7 @@ https://api-hx.02000.net
 https://api-hy.02000.net
 https://api-hy.02000.top
 https://api-jx.02000.net
+https://api-jx.02000.xin
 https://api-linkcube.net
 https://api-qw.02000.net
 https://api-salkjdhajs-cdm.mcwy.xyz
@@ -2385,6 +2389,7 @@ https://chriscoyier.net
 https://chriswere.uk
 https://chronoframe.bh8.ga
 https://chuan-yun.cc
+https://chuanyun-endpoint.cc
 https://chuifengji.top
 https://chy888.xyz
 https://ciallo.775678.xyz
@@ -3149,6 +3154,7 @@ https://easycrypto.ai
 https://easylist-downloads.adblockplus.org
 https://easywithai.com
 https://ebe396da.ghelper.me
+https://ebike-test.s3.dualstack.ap-southeast-1.amazonaws.com
 https://ec.ltn.com.tw
 https://ec5smonchl973s.wca1rs59sefb1kl655b0.online
 https://eck8.miemie.uk
@@ -3647,6 +3653,7 @@ https://h.bbydy.org
 https://h.xfuti.com
 https://h2o.apad.pro
 https://h4.linklick.ir
+https://h5.guangyapan.com
 https://h5.mgtv.com
 https://h7-83w.pages.dev
 https://habitica.com
@@ -4018,6 +4025,7 @@ https://jilu.uuvpn.xyz
 https://jimmysong.io
 https://jindoucloud.xyz
 https://jindouyun88.life
+https://jira.mesosphere.com
 https://jisoo.lulu.autos
 https://jisovpn.site
 https://jisoyun.jiumaojiu.net
@@ -4401,6 +4409,7 @@ https://magic-api.ssssssss.org.cn
 https://magicae.pics
 https://mahanmusic.net
 https://maho.chipsfuck.fish
+https://mahour-music.ir:2053
 https://mail.networkwebmail.com
 https://mail.python.org
 https://mail.serv00.com
@@ -4770,6 +4779,7 @@ https://node.yifang02.men
 https://node.zasublink.com
 https://node.zasublinkv1.com
 https://nodeazureus1.gitspeed.cyou
+https://nodebuf.com
 https://nodefree.org
 https://nodejs.org
 https://nodequality.com
@@ -5039,6 +5049,7 @@ https://pooled.dev
 https://popcornlab.de
 https://portal.7inet.com.cn
 https://portal.aws.amazon.com
+https://portal.f2vip.net
 https://portal.gdmmdo.ga
 https://portal.mofeiyun.com
 https://portal.qiniu.com
@@ -5225,6 +5236,7 @@ https://rabbitpro-subscription.com
 https://radiumcapital.com.au
 https://rainyhush-rhk.hf.space
 https://rakuen.thec.me
+https://ran.ranhaha.zdjzhejshsxintaid.kuaivpn.app
 https://rancher.com
 https://ranchero.com
 https://random1sub.milocloud.xyz
@@ -5303,6 +5315,7 @@ https://rockvpn.4bmg9.online
 https://rook.io
 https://ropsten.etherscan.io
 https://rostam.app
+https://roxijet.cloud
 https://royal-tooth-f6f2.jamph131411.workers.dev
 https://rrrrrrrrrrrghhh.857657.xyz
 https://rs.yydsub.link
@@ -5627,6 +5640,7 @@ https://spcloud.info
 https://spec.openapis.org
 https://spectrum.ieee.org
 https://speedcncn.co
+https://speedx2net.postshup.ir:2052
 https://speice.io
 https://spidermonkey.dev
 https://splus.ir
@@ -5698,6 +5712,7 @@ https://status.x.ai
 https://steamstat.us
 https://steel68.qjty.buzz
 https://steemit.com
+https://step-vpn.cloud
 https://storage.iran.liara.space
 https://storage.to
 https://store.epicgames.com
@@ -6277,6 +6292,7 @@ https://tcptest.cn
 https://tcxf.hssl8088.icu
 https://tecentapi.yunqing.work
 https://tech.channable.com
+https://tech.huanqiu.com
 https://tech.ifeng.com
 https://tech.localenby.is
 https://tech.meituan.com
@@ -6539,6 +6555,7 @@ https://user.flylink.cyou
 https://user.moviecloud.org
 https://user.vvv123.store
 https://user.wolf-iran.ir
+https://user.xh-yun.top
 https://user192.dukadi.one
 https://user413.dukadi.one
 https://user5055.eyudy.one
@@ -6736,6 +6753,7 @@ https://watch.szlatteart.com
 https://wav.pub
 https://wbb.zc08.dpdns.org
 https://wbp.zcr05.v6.army
+https://wcc01.com
 https://wccftech.com
 https://wd-blue.com
 https://wd-purple.com
@@ -7102,6 +7120,7 @@ https://www.dw.com
 https://www.dynaconf.com
 https://www.eaimty.com
 https://www.eclipse.org
+https://www.economist.com
 https://www.edeyuan.com
 https://www.eet-china.com
 https://www.eevpn.com
@@ -7389,6 +7408,7 @@ https://www.mifengtd.cn
 https://www.mijishu.xyz
 https://www.mikuyun.xyz
 https://www.mindskip.net
+https://www.mindvideo.ai
 https://www.minimax.io
 https://www.mir.com.my
 https://www.mirusubs.com
