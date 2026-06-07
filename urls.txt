@@ -68,6 +68,7 @@ http://api.frest.ir
 http://api.guaqb.cn
 http://api.klizi.cn
 http://api.miloli.cc
+http://api.mlxsj.top
 http://api.mnhhnbb.com
 http://api.sgjc.xyz
 http://api.tangdouz.com
@@ -108,6 +109,7 @@ http://blog.grayson.org.cn
 http://blog.jiasule.com
 http://blog.jobbole.com
 http://blog.jsfor.com
+http://blog.keiruaprod.fr
 http://blog.luckly-mjw.cn
 http://blog.segmentfault.com
 http://blog.sina.com.cn
@@ -492,6 +494,7 @@ http://opensource.org
 http://oplist-de.dnss.cc:443
 http://opml.org
 http://orzer.zhangzichuan.cn
+http://oss.oracle.com
 http://ovooa.com
 http://p.qlogo.cn
 http://p.tech
@@ -520,6 +523,7 @@ http://qeshmyar.com
 http://qingmang.me
 http://qm.qq.com
 http://qws1002.serv00.net
+http://r3mrcg001269pz2.cybervena.com:50099
 http://r3mrcg001286ek2.cybervena.com:50099
 http://r3mrcg00129437x.cybervena.com:50099
 http://rabbitmq.com
@@ -821,6 +825,7 @@ http://www.paoche.ooo
 http://www.passjava.cn
 http://www.phodal.com
 http://www.pingzicloud.top
+http://www.pouet.net
 http://www.powereasy.net
 http://www.ppwaibao.com
 http://www.python.org
@@ -1500,6 +1505,7 @@ https://agmprojects.com
 https://ai-bot.cn
 https://ai-coustics.com
 https://ai-router.dev
+https://ai.17nas.com
 https://ai.aiguardcloud.tech
 https://ai.jiedianxielou.workers.dev
 https://ai.meta.com
@@ -2133,6 +2139,7 @@ https://blog.maximeheckel.com
 https://blog.maxmind.com
 https://blog.meilisearch.com
 https://blog.mikeoperfect.com
+https://blog.misaka.rest
 https://blog.playstation.com
 https://blog.postmaster.yahooinc.com
 https://blog.pushengage.com
@@ -2598,6 +2605,7 @@ https://contact.clearscore.com.au
 https://contrib.rocks
 https://controlplane.tailscale.com
 https://convert.zephyrwork.work
+https://coolace.site
 https://coolshell.cn
 https://copy.sh
 https://copyq.readthedocs.io
@@ -2825,6 +2833,7 @@ https://developers.cloudflare.com
 https://developers.openai.com
 https://developers.redhat.com
 https://developers.sap.com
+https://developers.slashdot.org
 https://devework.com
 https://dexidp.io
 https://df95abc8.ghelper.me
@@ -3528,6 +3537,7 @@ https://freeroad.org
 https://freesocks.org
 https://freesub.zjde5.de5.net
 https://freeuse.fastermi.com
+https://frehberg.com
 https://freshmusic.sg
 https://front.coffeecloud.top
 https://fs-im-kefu.7moor-fs1.com
@@ -4286,6 +4296,7 @@ https://labs.heygen.com
 https://lafuseevansbazc.only4subs.uk
 https://laibajc.top
 https://laibuji.pics
+https://lameizi.buzz
 https://lancellc.gitbook.io
 https://lancloud.zichuanlan.top
 https://lansecs.oxdtangx.top
@@ -4499,6 +4510,7 @@ https://mail.python.org
 https://mail.serv00.com
 https://mail.tm
 https://mailchi.mp
+https://mails.org
 https://maimaiyun.qzz.io
 https://main.filter-delivery-staging.eyeo.com
 https://maku.net
@@ -5771,6 +5783,7 @@ https://ss.dswang.ga
 https://ss.dswang.ga:8443
 https://ss.ejejje.com
 https://ss.ggame.cyou
+https://ss.hhll.qqs.me
 https://ss.hhyy.nn.kg
 https://ss.hxcq.cc
 https://ss.lrdxw.club
@@ -6182,6 +6195,7 @@ https://sub2.ipv6boy.xyz
 https://sub2.smallstrawberry.com
 https://sub2.yljc.online
 https://sub2.yunanyun.xyz
+https://sub2038.kaochangsubscribe.xyz
 https://sub3.bbjc.xyz
 https://sub3.gfw.gg
 https://sub3.hanghai.xyz
@@ -6499,6 +6513,7 @@ https://tippla.com.au
 https://tiptap.dev
 https://titrvar.com
 https://tizi-82p.pages.dev
+https://tj.hhll.qqs.me
 https://tjjd.yzyx1.v6.army
 https://tjsd.site
 https://tjvpn.ml
@@ -6516,6 +6531,7 @@ https://tnetz.pro
 https://to2026.xyz
 https://toepub.com
 https://token-plan-cn.xiaomimimo.com
+https://token.sensenova.cn
 https://token604.us.kg
 https://tokenapi.fbcloud.lol
 https://too.st
@@ -6787,6 +6803,7 @@ https://visitor-badge.laobi.icu
 https://vite.itnavs.com
 https://vivaldi.com
 https://vk.c08.rr.nu
+https://vl.hhll.qqs.me
 https://vl.zacharybilly.ndjp.net
 https://vlc.zcr5.ddns-ip.net
 https://vle.mai9900.dpdns.org
@@ -7527,6 +7544,7 @@ https://www.macrumors.com
 https://www.maikami.vip
 https://www.make8.com
 https://www.makeuseof.com
+https://www.manning.com
 https://www.manton.org
 https://www.mate.vip
 https://www.maxkey.top
@@ -7546,6 +7564,7 @@ https://www.mijishu.xyz
 https://www.mikuyun.xyz
 https://www.mindskip.net
 https://www.mindvideo.ai
+https://www.minecraft.net
 https://www.minimax.io
 https://www.mir.com.my
 https://www.mirusubs.com
