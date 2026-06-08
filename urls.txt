@@ -518,6 +518,7 @@ http://proxypool.turinglabs.net
 http://putao.i2345.me
 http://putao.i2345.org
 http://py.kjol.cc
+http://python.org
 http://qe83xk711.sabkt.gdipper.com
 http://qeshmyar.com
 http://qingmang.me
@@ -4067,6 +4068,7 @@ https://j20-cloud.com
 https://j2s.buzz
 https://jacarandafinance.com.au
 https://jack.cab
+https://jadeai.cturing.cn
 https://jahannews.com
 https://jamanetwork.com
 https://james82.ga
@@ -4308,6 +4310,7 @@ https://lanzoul.com
 https://laobideng.xyz
 https://laodayun.com
 https://laogongshuo.com
+https://laosdjqowd.naigai.me
 https://laosijicc.top
 https://laratranslate.com
 https://latiaocloud.net
@@ -5617,6 +5620,7 @@ https://seekingalpha.com
 https://seele.stadynode.online
 https://selfwealth.com.au
 https://sematec-co.com
+https://seminar.mobilensm.ir
 https://semver.org
 https://senders.yahooinc.com
 https://sendi.ir
@@ -6366,6 +6370,7 @@ https://svip.365cloud.me
 https://svip.dovenweb.com
 https://svip.xy666.ggff.net
 https://svip8.cn
+https://svn.redmine.org
 https://svn.xn--gmqaaaaaaaa.com
 https://swanhub.co
 https://swiftnet.wiki
@@ -6800,6 +6805,7 @@ https://vipurl.giize.com
 https://vipxgyun.com
 https://virtserver.swaggerhub.com
 https://visitor-badge.laobi.icu
+https://vistar.lat
 https://vite.itnavs.com
 https://vivaldi.com
 https://vk.c08.rr.nu
@@ -6989,6 +6995,7 @@ https://wjkc66.vip
 https://wk-auto-update-3e7.pages.dev
 https://wk.baodaoji.com
 https://wl.awcmam.com
+https://wly312.buzz
 https://wm01dy.wmyun.men
 https://wocao.su7.me
 https://woeprgivbh.packios.com
@@ -7246,6 +7253,7 @@ https://www.diagnijmegen.nl
 https://www.diatec.co.jp
 https://www.diffchecker.com
 https://www.digitalocean.com
+https://www.digitimes.com
 https://www.diva.so
 https://www.dji.com
 https://www.djjc.cfd
@@ -7325,6 +7333,7 @@ https://www.forrestthewoods.com
 https://www.foxnews.com
 https://www.franxx.cloud
 https://www.freebuf.com
+https://www.freecadweb.org
 https://www.freeclashnode.com
 https://www.freeflyingcloud.xyz
 https://www.freefq.com
@@ -7706,6 +7715,7 @@ https://www.rainbond.com
 https://www.ralfj.de
 https://www.ranker.com
 https://www.raspberrypi.com
+https://www.raspberrypi.org
 https://www.raycast.com
 https://www.raygo.cc
 https://www.rbc.ru
