@@ -70,6 +70,7 @@ http://api.klizi.cn
 http://api.miloli.cc
 http://api.mlxsj.top
 http://api.mnhhnbb.com
+http://api.moreweb.ir
 http://api.sgjc.xyz
 http://api.tangdouz.com
 http://api.wtcloud.xyz
@@ -417,6 +418,7 @@ http://lichuanyang.top
 http://link.busuu.com
 http://link.linkdns.xyz:9092
 http://list.ciron.net
+http://llvm.org
 http://lokistack-dev-gateway-http.openshift-logging.svc:8080
 http://loo2k.com
 http://loongqing.me
@@ -464,6 +466,7 @@ http://n15uvht4r659107p.eastasia.cloudapp.azure.com
 http://n2.us.nexiocloud.com:25416
 http://n2.us.nexiocloud.com:25439
 http://nVx81Q0ouJA21x8U.xn--fiqs8s40dz2j.com
+http://namrcg001640lrm.cybervena.com:50099
 http://nanbei.cloud
 http://nangang.pro
 http://nbvpn.top
@@ -1227,6 +1230,7 @@ https://65.r07.cloudns.be
 https://65b72027.ghelper.me
 https://66-88.cc
 https://66.66jc.top
+https://66.meituanssp.xyz
 https://66195e16-0a53-4563-8515-f6f97d22f4ef.fengchenginx.com
 https://662.id88888888.com
 https://666.66jc.top
@@ -1478,6 +1482,7 @@ https://adguard-dns.io
 https://adguard-vpn.com
 https://adguard.com
 https://admin-tmpl-test.rencaiyoujia.cn
+https://admin.apigyuyjioh.xyz
 https://admin.nezha.su
 https://admin.shanlian.app
 https://admin.vip.edu.kg
@@ -2046,6 +2051,7 @@ https://beedcdd6.ghelper.me
 https://beef1917.com
 https://befriends.concubine.top
 https://befweb.net
+https://behzisti.porsline.ir
 https://bei.ewpbh.cn
 https://bellingcat.gitbook.io
 https://bengalj.com
@@ -2447,6 +2453,7 @@ https://chuan-yun.cc
 https://chuanyun-endpoint.cc
 https://chuifengji.top
 https://chy888.xyz
+https://chyyuu.gitbooks.io
 https://ciallo.775678.xyz
 https://circlevpn.net
 https://circloud123.com
@@ -4427,6 +4434,7 @@ https://lm.laomaoyun.me
 https://lmaff01.lmspeed.co
 https://lmjc.xyz
 https://lmskk.lanzouv.com
+https://lmstudio.ai
 https://lnk.ink
 https://lobehub.com
 https://localsend.org
@@ -4503,6 +4511,7 @@ https://m7tez.no-mad-sub.one
 https://mQzmgK.mcsslk.xyz
 https://mac2winer.cfd
 https://macshuo.com
+https://mafclub.online
 https://magic-api.ssssssss.org.cn
 https://magicae.pics
 https://mahanmusic.net
@@ -4641,6 +4650,7 @@ https://mochizuki.top
 https://mocloudplus.com
 https://modal.com
 https://modelcontextprotocol.io
+https://modelscope.ai
 https://modelscope.cn
 https://moemail.app
 https://moes.lnaspiring.com
@@ -4989,6 +4999,7 @@ https://openit.ml
 https://openjdk.org
 https://openpath.quest
 https://openproxylist.com
+https://opensend.namuh.co
 https://opensource.com
 https://opensource.org
 https://opentip.kaspersky.com
@@ -5431,6 +5442,7 @@ https://robertohuertas.com
 https://rockstarintel.com
 https://rockvpn.4bmg9.online
 https://rook.io
+https://ropayi2026.ir
 https://ropsten.etherscan.io
 https://rostam.app
 https://roxijet.cloud
@@ -5753,6 +5765,7 @@ https://southamerica-east1-hocapp-44760.cloudfunctions.net
 https://souyun.club
 https://soxnr0iulrkh.info
 https://soybean.pro
+https://sozd.duma.gov.ru
 https://sp.nfsq.me
 https://space.bilibili.com
 https://spacex2036.net
@@ -5997,6 +6010,7 @@ https://sub.minizz.online
 https://sub.mlsao.top
 https://sub.mogufan.com
 https://sub.mugua.one
+https://sub.murphyweb.sbs
 https://sub.narutos.link
 https://sub.netv2.cc
 https://sub.nex7.us.kg
@@ -6023,6 +6037,7 @@ https://sub.paasmi.com
 https://sub.pai.yt
 https://sub.passgfw.top
 https://sub.pddf.shop
+https://sub.phantombot.ru
 https://sub.pianyi.info
 https://sub.pianyijichang.com
 https://sub.pmsub.me
@@ -6058,6 +6073,7 @@ https://sub.sheepcloud.xyz
 https://sub.shengbenku.tk
 https://sub.sjsub.xyz
 https://sub.speed17sub.com
+https://sub.speedur.org:2096
 https://sub.sqfly.site
 https://sub.sslinks.co.in
 https://sub.ssr.sh
@@ -6674,6 +6690,7 @@ https://uptime.yourdomain.com
 https://url.409648.xyz
 https://url.bsawc.shop
 https://url.cy
+https://url.fdjgnejw.lol
 https://url.funhub.cc
 https://url.mtdwoodwork.com
 https://url.spec.whatwg.org
@@ -6966,6 +6983,7 @@ https://whk.life
 https://whoer.net
 https://whoisyourdady.gfw-wdnmd.com
 https://widget.yfjc.xyz
+https://wifi.vivo.com.cn
 https://wiki.arcaea.cn
 https://wiki.audacityteam.org
 https://wiki.digitalmethods.net
@@ -7039,6 +7057,7 @@ https://wws.lanzous.com
 https://wws.s2fjeyeeyafe.bond
 https://wwtg.lanzn.com
 https://wwvq.lanzoub.com
+https://www-cdn.anthropic.com
 https://www.02er.com
 https://www.066664.xyz
 https://www.0xsid.com
@@ -7921,6 +7940,7 @@ https://www.winxray.com
 https://www.wired.com
 https://www.wireguard.com
 https://www.wiresock.net
+https://www.wog2.top
 https://www.woggdingyueyuming.top
 https://www.wogwog.top
 https://www.woniucloud.cyou
