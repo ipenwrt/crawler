@@ -341,6 +341,7 @@ http://hk.bazhuayujiasu.cc:9922
 http://hm.suol.cc
 http://home.tiscali.cz
 http://hooshran.app
+http://hotforknowledge.com
 http://hpyjc.top
 http://html5weekly.com
 http://httb.ir
@@ -358,6 +359,7 @@ http://ibcl.us
 http://ice77.top
 http://identifiers.org
 http://ikuai.6.guochenjie.asia:3001
+http://imdocs.readthedocs.org
 http://img.nsmc.org.cn
 http://instagram.com
 http://internal-sub.local
@@ -471,10 +473,12 @@ http://nanbei.cloud
 http://nangang.pro
 http://nbvpn.top
 http://nc.cm.xiaomi-api.xyz:19581
+http://nedellis.com
 http://nekox.eu5.org
 http://nffs.tk
 http://nginx.org
 http://nicepub.ml
+http://nicktasios.nl
 http://node4.lunes.host:2036
 http://node4.lunes.host:2270
 http://noinnion.com
@@ -735,6 +739,7 @@ http://www.apache.org
 http://www.battware.co.uk
 http://www.benmutou.com
 http://www.bfyun.top
+http://www.blakesmith.me
 http://www.bloglines.com
 http://www.boardchannels.com.cn
 http://www.bogotobogo.com
@@ -754,6 +759,7 @@ http://www.crosswall.org
 http://www.cssforest.org
 http://www.cttz.xyz
 http://www.datagear.tech
+http://www.dataorienteddesign.com
 http://www.datastax.com
 http://www.devbridge.com
 http://www.dgtle.com
@@ -809,6 +815,7 @@ http://www.lvchavpn.vip
 http://www.mantou88.xyz
 http://www.matrix67.com
 http://www.mfdragon.com
+http://www.middle.cc.cd
 http://www.mmsbs.buzz
 http://www.mojie.me
 http://www.msftconnecttest.com
@@ -1569,6 +1576,7 @@ https://amazon-eks.s3-us-west-2.amazonaws.com
 https://amazon-eks.s3.us-west-2.amazonaws.com
 https://amber85.qjty.buzz
 https://amclubss.com
+https://amethyst.rs
 https://amin.karkas1.ir
 https://aminpanel.marketepic.ir:8000
 https://amiya.pro
@@ -1783,6 +1791,7 @@ https://api.yebekhe.link
 https://api.ymvpnpro.cc:8700
 https://api.yourapp.com
 https://api.yuyan.lol
+https://api.yuyan.vin
 https://api.zuanshivpn.cn
 https://api.zzzzzl.me
 https://api0.bigmelook.com
@@ -2054,6 +2063,7 @@ https://befweb.net
 https://behzisti.porsline.ir
 https://bei.ewpbh.cn
 https://bellingcat.gitbook.io
+https://benchmarksgame-team.pages.debian.net
 https://bengalj.com
 https://bensll.top
 https://bento.me
@@ -2147,6 +2157,7 @@ https://blog.maxmind.com
 https://blog.meilisearch.com
 https://blog.mikeoperfect.com
 https://blog.misaka.rest
+https://blog.paulme.ng
 https://blog.playstation.com
 https://blog.postmaster.yahooinc.com
 https://blog.pushengage.com
@@ -2155,6 +2166,7 @@ https://blog.qawf.de
 https://blog.railway.com
 https://blog.richasy.cn
 https://blog.rust-lang.org
+https://blog.rustfest.eu
 https://blog.sekoia.io
 https://blog.shuiba.co
 https://blog.shuziyimin.org
@@ -2903,6 +2915,7 @@ https://dl.vfkum.website
 https://dl1.androidcloob.com
 https://dl2-extractleech.runflare.run
 https://dlaa.me
+https://dlang.org
 https://dler.cloud
 https://dlercloud.com
 https://dles.gg
@@ -2911,6 +2924,7 @@ https://dllx.tk
 https://dlo3va.subxly.cfd:8443
 https://dls.iran-gamecenter-host.com
 https://dls2.iran-gamecenter-host.com
+https://dna.hamilton.ie
 https://dnf-plugins-core.readthedocs.io
 https://dns-adguard.heinu.cf
 https://dns-nyc.aaflalo.me
@@ -3020,6 +3034,7 @@ https://docs.oracle.com
 https://docs.osgi.org
 https://docs.phpmyadmin.net
 https://docs.pingcap.com
+https://docs.private-ai.com
 https://docs.projectcalico.org
 https://docs.pyrogram.org
 https://docs.qq.com
@@ -3690,6 +3705,7 @@ https://goodme.pro
 https://gooii.ml
 https://goplay.space
 https://gopro.com
+https://gotham.rs
 https://gotraceui.dev
 https://gougou123.umgtb.cn
 https://goumaituijian.xyz
@@ -3790,6 +3806,7 @@ https://help.wwkejishe.top
 https://henet.icu
 https://her.blue
 https://hermanradtke.com
+https://hermes-agent.nousresearch.com
 https://hermes.xiaoyao-88.com
 https://hero-sms.com
 https://heroku.com
@@ -3896,6 +3913,7 @@ https://hxy.xco001.xyz
 https://hy-2.sbs
 https://hydra.plan9-ns1.com
 https://hyliu.me
+https://hyperbo.la
 https://hyui.apocalypse.cc.cd
 https://hyvps.hytron.io
 https://hz.dport.top
@@ -4061,6 +4079,7 @@ https://isvoro.com
 https://itdog.cloud
 https://item.jd.com
 https://itjustasub.icu
+https://itjustasub.net
 https://itjustasub.shop
 https://itlao6.com
 https://itns.s3.us-east-2.amazonaws.com
@@ -4345,6 +4364,7 @@ https://letsencrypt.org
 https://liangxin.xyz
 https://liangyuandian.vip
 https://liangyuandian.xyz
+https://liangyuandian01.top
 https://lianjia.me
 https://lianjiajichang.com
 https://lianjiasub.work
@@ -4541,6 +4561,7 @@ https://mappsv5.caixin.com
 https://markdoc.dev
 https://market.qeshmyar.com
 https://marketepicpanel.marketepic.ir:2087
+https://marketplace.visualstudio.com
 https://markmap.js.org
 https://markonreview.com
 https://martinfowler.com
@@ -4966,6 +4987,7 @@ https://one-off.email
 https://one.ginfem.com
 https://one.one.one.one
 https://oneclash.cc
+https://onedock.i3m.upv.es:11443
 https://onefall.top
 https://onelighter.site
 https://online.jobtool.cn
@@ -5013,6 +5035,7 @@ https://origamiboy.herokuapp.com
 https://osf.io
 https://osintteam.blog
 https://osjdkdkk6469uajsm197.xn--5hqx9e52gdss.xyz
+https://oso.sh
 https://oss-alibabaclod.fsddsadsavgroup.top
 https://oss.pithecia.com
 https://oss.v2rayse.com
@@ -5359,6 +5382,7 @@ https://rabbitpro-subscription.com
 https://radiumcapital.com.au
 https://rainyhush-rhk.hf.space
 https://rakuen.thec.me
+https://ran.do
 https://ran.ranhaha.zdjzhejshsxintaid.kuaivpn.app
 https://rancher.com
 https://ranchero.com
@@ -5584,6 +5608,7 @@ https://samradapi-test.devland.is
 https://sandstone.com.au
 https://sanfen002.xyz
 https://sanfen003.xyz
+https://sanfen005.xyz
 https://sanguayun.jiumaojiu.net
 https://sanxijichang.com
 https://sapi.ssapi.net
@@ -6422,6 +6447,7 @@ https://taibai0201.xn--8stx8olrwkucjq3b.com
 https://tailchat.msgbyte.com
 https://tailscale.com
 https://tailwindcss.com
+https://tam.gov.taipei
 https://tamlok.gitee.io
 https://tanstack.com
 https://tanu095.tntvipaff.cc
@@ -6781,6 +6807,7 @@ https://v2rayshare.com
 https://v2s.ip-ddns.com
 https://v2y.xyz
 https://v3.ganglink.sbs
+https://v4.dogapi.yachts
 https://v4e51426181d1e514.yunding.lat
 https://v5.net
 https://v7.zcr25.dedyn.io
@@ -6984,6 +7011,7 @@ https://whoer.net
 https://whoisyourdady.gfw-wdnmd.com
 https://widget.yfjc.xyz
 https://wifi.vivo.com.cn
+https://wiki.alopex.li
 https://wiki.arcaea.cn
 https://wiki.audacityteam.org
 https://wiki.digitalmethods.net
@@ -7061,6 +7089,7 @@ https://www-cdn.anthropic.com
 https://www.02er.com
 https://www.066664.xyz
 https://www.0xsid.com
+https://www.0z.gs
 https://www.1112244.xyz
 https://www.112112789.xyz
 https://www.12371.cn
@@ -7313,6 +7342,7 @@ https://www.engadget.com
 https://www.envoyproxy.io
 https://www.epicgames.com
 https://www.epubit.com
+https://www.erikpartridge.com
 https://www.erupt.xyz
 https://www.etnews.com
 https://www.evan888.top
@@ -7389,6 +7419,7 @@ https://www.goldenhillsoftware.com
 https://www.goodsunlc.com
 https://www.googo.ml
 https://www.grc.com
+https://www.greyblake.com
 https://www.gstatic.com
 https://www.guanguans.cn
 https://www.guanxi.cloudns.be
@@ -7516,6 +7547,7 @@ https://www.kitslabs.com
 https://www.kjdsyun.com
 https://www.kkidc.com
 https://www.koogua.com
+https://www.kostyas.blog
 https://www.krea.ai
 https://www.kscloud.xyz
 https://www.kuaidianlianjienode.sbs
@@ -7645,6 +7677,7 @@ https://www.news.cn
 https://www.newyorker.com
 https://www.nginx.com
 https://www.niemanlab.org
+https://www.nikon.com
 https://www.nintendo.co.jp
 https://www.nintendo.com
 https://www.nintendolife.com
@@ -7767,6 +7800,7 @@ https://www.ruanyifeng.com
 https://www.ruby-lang.org
 https://www.runningcheese.com
 https://www.runoob.com
+https://www.rustsim.org
 https://www.sammobile.com
 https://www.samsung.com
 https://www.samsung.com.cn
@@ -7816,6 +7850,7 @@ https://www.star-history.com
 https://www.starlinkss.vip
 https://www.startracecloud.com
 https://www.stcn.com
+https://www.stellar.org
 https://www.stewed.top
 https://www.strofe.com
 https://www.sub-nthu.com
@@ -7978,6 +8013,7 @@ https://www.xn--9kq10e0y7h.site
 https://www.xn--9kq5ua.com
 https://www.xn--9kq89dn23b.top
 https://www.xn--9kqa370h.app
+https://www.xn--9kqv63b.xyz
 https://www.xn--9kqx21a0sv.top
 https://www.xn--9kqz09d4qq.com
 https://www.xn--gmq09hwyu.fun
@@ -7993,11 +8029,13 @@ https://www.yangzhiping.com
 https://www.yay520.com
 https://www.ycombinator.com
 https://www.ye-xiao.top
+https://www.yetpage.com
 https://www.yfjc.xyz
 https://www.yhc1314dy.link
 https://www.yicai.com
 https://www.yiibai.com
 https://www.yiyuanjichang.net
+https://www.yizhibo.com
 https://www.yjk.im
 https://www.ymmk.xyz
 https://www.yodlee.com
@@ -8366,6 +8404,7 @@ https://yunjijd.xyz
 https://yunlu.jiumaojiu.net
 https://yunmianshi.com.cn
 https://yunti.club
+https://yuntong.live
 https://yuntong.org
 https://yunzhiyidy.54188a.cyou
 https://yuqi.best
