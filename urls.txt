@@ -141,6 +141,7 @@ http://catchen.biz
 http://cdn.kcz66.com
 http://cdnfire.xiaomispeed.com
 http://cfcloud.cyou
+http://cfhycoprmrr.shop
 http://chabudai.org
 http://chaojiji.one
 http://chatgpt.com
@@ -2530,6 +2531,7 @@ https://clickhouse.yandex
 https://client-api.riolu.link
 https://client-sub.cloudlion.top
 https://client.webhostmost.com
+https://client00.chat.mibbit.com
 https://clomonitor.io
 https://cloud-images.ubuntu.com
 https://cloud.133010.xyz
@@ -2614,7 +2616,9 @@ https://codeburn.app
 https://codecov.io
 https://codeleilei.gitee.io
 https://coder.com
+https://codereview.stackexchange.com
 https://coderwall.com
+https://codesearch.aelve.com
 https://coding.net
 https://coinjar.com
 https://coinmarketcap.com
@@ -3009,6 +3013,7 @@ https://dockhand.pro
 https://docs.amnezia.org
 https://docs.ansible.com
 https://docs.aptvapp.com
+https://docs.astral.sh
 https://docs.aws.amazon.com
 https://docs.bitnami.com
 https://docs.blinko.space
@@ -3807,6 +3812,7 @@ https://h7-83w.pages.dev
 https://habitica.com
 https://hackage.haskell.org
 https://hacker-podcast.agi.li
+https://hackernoon.com
 https://hackerone.com
 https://hacks.mozilla.org
 https://hacs.xyz
@@ -3857,6 +3863,7 @@ https://heroku.com
 https://hexo.io
 https://hey.com
 https://heysocks.net
+https://hfjghm.8746578.xyz
 https://hg.mozilla.org
 https://hh.haibucuo.xyz
 https://hh.hnekoo.top
@@ -4465,6 +4472,7 @@ https://link2.proxylink.xyz
 https://link4.proxylink.xyz
 https://link5.proxylink.xyz
 https://linka.lmscunb.cc:2087
+https://linkbuild.pro
 https://linke.phantasy.life
 https://linkedin.com
 https://linkhub.mobi
@@ -4539,6 +4547,8 @@ https://lucide.dev
 https://lucifer.ren
 https://lucky666.cn
 https://lukefan.com
+https://lumina.yakit.de5.net
+https://luminak.net
 https://luolei.org
 https://luonan.tech
 https://luongnv.com
@@ -4908,6 +4918,7 @@ https://networks002.ridefullspeed.us
 https://neurotoxinw.coding.net
 https://new.crosswall.dpdns.org
 https://new.globe.com.ph
+https://new.lingj.online
 https://new.subbudingcat.top
 https://new.xn--pbt38zg4v.com
 https://newdee.cf
@@ -5199,6 +5210,7 @@ https://pianyi.jiediandingyuejiji.homes
 https://pianyi.sub.sub.subsub123456789.com
 https://pianyijc.xyz
 https://pichoro.horosama.com
+https://pickitup247.com
 https://picx.xpoet.cn
 https://pierre.computer
 https://piligou88.top
@@ -5665,6 +5677,7 @@ https://s6.ssysub1.xyz
 https://s6.uplod.ir:182
 https://s7.sub.gfw.gg
 https://sa-token.cc
+https://sabbatical.one
 https://saber.bladex.vip
 https://saerasoft.com
 https://sagiri.xyz
@@ -5863,6 +5876,7 @@ https://soybean.pro
 https://sozd.duma.gov.ru
 https://sp.nfsq.me
 https://space.bilibili.com
+https://spacewarofdonation.surgutgame.ru
 https://spacex2036.net
 https://spatie.be
 https://spcloud.info
@@ -6138,6 +6152,7 @@ https://sub.pddf.shop
 https://sub.phantombot.ru
 https://sub.pianyi.info
 https://sub.pianyijichang.com
+https://sub.pigeon-sub.one
 https://sub.pmsub.me
 https://sub.porter6.eu.org
 https://sub.ppbox.xyz
@@ -6461,6 +6476,7 @@ https://suo.st
 https://suo.yt
 https://sup.kelayun.top
 https://supabase.com
+https://superanalyzer.rocks
 https://superbiu.com
 https://supermario-game.com
 https://support.audacityteam.org
@@ -6792,6 +6808,7 @@ https://uploadkon.ir
 https://uplod.ir
 https://upm8kfu.nicecloud.win:8443
 https://upmusics.com
+https://uppermosttwelffmen.com
 https://uptime.yourdomain.com
 https://url.409648.xyz
 https://url.bsawc.shop
@@ -7027,6 +7044,7 @@ https://wbb.zc08.dpdns.org
 https://wbp.zcr05.v6.army
 https://wcc01.com
 https://wccftech.com
+https://wcsjc.cloud
 https://wd-blue.com
 https://wd-purple.com
 https://wd.vovo.pp.ua
@@ -7300,6 +7318,7 @@ https://www.c-span.org
 https://www.c6nw0s.vip:6001
 https://www.cacapex.com
 https://www.caixin.com
+https://www.callofduty.com
 https://www.canva.com
 https://www.carpetpacific.com
 https://www.catssr.host
@@ -8540,11 +8559,13 @@ https://zangyun.xyz
 https://zarinp.al
 https://zaya.io
 https://zcjd.top
+https://zcode.z.ai
 https://zcsub.xyz
 https://zdnet.co.kr
 https://zds.u07.dpdns.org
 https://zed.dev
 https://zedping8.shop
+https://zeit.co
 https://zentao.demo.qucheng.cc
 https://zentora.2maoyuntt.club
 https://zero.76898102.xyz
