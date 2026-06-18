@@ -113,6 +113,7 @@ http://blog.jobbole.com
 http://blog.jsfor.com
 http://blog.keiruaprod.fr
 http://blog.luckly-mjw.cn
+http://blog.piston.rs
 http://blog.segmentfault.com
 http://blog.sina.com.cn
 http://blog.smartbear.com
@@ -1178,6 +1179,7 @@ https://4d5ad5dc.ghelper.me
 https://4e60bafd-0633-4e8d-a02a-eef51cd1ad8e.xn--mes358a.art
 https://4g.mkvn.net
 https://4g.quoctai.xyz
+https://4pda.to
 https://4pyyqag4.monster
 https://4sq6zh6.cn
 https://4t7n4.subxly.cfd:8443
@@ -1448,6 +1450,7 @@ https://a8e1574d.ghelper.me
 https://a92856fb.ghelper.me
 https://a94d418e-1898-42df-bcf2-d970a5f3a939.mysubsoft.com
 https://a9cee272.ghelper.me
+https://a9xk2q.ofody.vip
 https://aL2fvKp4.doggygosubs.com:8443
 https://aa.dabai.in
 https://aa.xn--pzypc.store
@@ -1713,6 +1716,7 @@ https://api.ipify.org
 https://api.ixiaowai.cn
 https://api.jsm.one
 https://api.kkhhyytt.cn
+https://api.krill-ai.com
 https://api.ktcat.online
 https://api.kuangbiaoyun.com
 https://api.lanfan.site
@@ -1893,6 +1897,7 @@ https://appbhteffsi3308.h5.xiaoeknow.com
 https://applink.feishu.cn
 https://apps.airfree.cloud
 https://apps.irancdn.org
+https://apps.karthikkaranth.me
 https://apps.kde.org
 https://appssalon.de
 https://aps-workspaces.us-west-2.amazonaws.com
@@ -1977,6 +1982,7 @@ https://azadnet-freedom-iranian2.pages.dev
 https://azadnet-freedom-iranian3.pages.dev
 https://azsub.acousticlab.site
 https://azyun.top
+https://b.545437.xyz
 https://b.bbydy.org
 https://b.jiedianxielou.workers.dev
 https://b.wazhua.org
@@ -2922,6 +2928,7 @@ https://dingyue.trojanws.xyz
 https://dingyue.wenlianyun.vip
 https://dingyue.xftld.xyz
 https://dingyue.xjay.xyz
+https://dingyue.xn--9kq09e124d.xyz
 https://dingyue.xn--9kqr64b41s.gq
 https://dingyue.xxss.org
 https://dingyue1.b-cdn.net
@@ -3619,6 +3626,7 @@ https://fs123121.cdn.22.jiacdnd123456789.com
 https://fsc.jiediandingyuejiji.homes
 https://fsofso.com
 https://ft-sub.tutunode.com
+https://fuchsia-docs.firebaseapp.com
 https://fuckme.lovebabyforever.workers.dev
 https://fullyfaithful.eu
 https://fun513.cf
@@ -5044,6 +5052,7 @@ https://ocypod.readthedocs.io
 https://oddetall.no
 https://odysee.com
 https://odysseycdn.cyou
+https://official.b-cdn.net
 https://ohayoo-pm.hf.space
 https://oics.net
 https://oiiccdn.yydsii.com
@@ -5162,6 +5171,7 @@ https://panel.ykkk.best
 https://panel3.touhou.tel
 https://paolu.pics
 https://paper.dropbox.com
+https://pars.show
 https://parsroute.net
 https://passer-by.com
 https://passport.8338.hk
@@ -5792,6 +5802,7 @@ https://shenyuan.in
 https://shibaadearner.top
 https://shimo.im
 https://shiyuanyinian.passwallwall.world
+https://shizuku.rikka.app
 https://shop-piqiu.makadns.com
 https://shop.banyunxiaoxi.icu
 https://shop.mci.ir
@@ -5864,6 +5875,7 @@ https://sockboom.me
 https://sockpuppet.org
 https://sodacloud.pw
 https://soft98.ir
+https://sogomn.gitlab.io
 https://soho.komect.com
 https://sokg.net
 https://solmira.sogoyunt.cc
@@ -6124,6 +6136,7 @@ https://sub.marshopco.ir
 https://sub.marsix.cc
 https://sub.mianfeiyun.online
 https://sub.miaolianyun.vip
+https://sub.miaolianyunurl.com
 https://sub.miaopu.cf
 https://sub.miaosusub.cfd
 https://sub.miku.llc
@@ -6340,6 +6353,7 @@ https://sub2.smallstrawberry.com
 https://sub2.yljc.online
 https://sub2.yunanyun.xyz
 https://sub2038.kaochangsubscribe.xyz
+https://sub3.7878787878.top
 https://sub3.bbjc.xyz
 https://sub3.gfw.gg
 https://sub3.hanghai.xyz
@@ -6635,6 +6649,7 @@ https://this-week-in-rust.org
 https://tholman.com
 https://threedots.tech
 https://ths1f9qf.xyz
+https://tht.fangraphs.com
 https://thunderbird.net
 https://tiamocloud.top
 https://tiamocloud.us.kg
@@ -6752,6 +6767,7 @@ https://tv.cctv.com
 https://tv.modemhub.work
 https://tv.zaringo.sbs
 https://tv2.zaringo.sbs
+https://tw.stock.yahoo.com
 https://tweedegolf.nl
 https://txt.nb6.qzz.io
 https://tympanus.net
@@ -7790,6 +7806,7 @@ https://www.nayax.com
 https://www.nbd.com.cn
 https://www.ncameron.org
 https://www.ncbi.nlm.nih.gov
+https://www.neowin.net
 https://www.nertron.net
 https://www.neteasegames.site
 https://www.netflix.com
