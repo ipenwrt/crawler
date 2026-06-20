@@ -1,5 +1,6 @@
 http://-185-turk1.turkabr.ir:43019
 http://-njhgj64.info:443
+http://000uuuu.com
 http://0dianyun3.xyz
 http://1.1596666.xyz
 http://1.1598888.xyz
@@ -219,6 +220,7 @@ http://dkd-api.dysdk.com
 http://dl.hajvpn.online
 http://dlib.org
 http://dls2.iran-gamecenter-host.com
+http://doc.zhangwj.com
 http://docs.aws.amazon.com
 http://docs.ceph.com
 http://docs.feedland.org
@@ -901,6 +903,7 @@ http://www.xiaoqiang.org
 http://www.yopmail.com
 http://www.youtube.com
 http://www.yslow.net
+http://www.zhangwj.com
 http://www.zhangxinxu.com
 http://www.zhanxin.info
 http://www.zhenyevpn.xyz
@@ -1550,6 +1553,7 @@ https://aideadlin.es
 https://aidn.jp
 https://aieditor.com.cn
 https://aier.eu.cc
+https://aifreeforever.com
 https://aifun.trafficmanager.net
 https://aigame.totwo.xyz
 https://aikebang.net
@@ -1730,6 +1734,7 @@ https://api.meomiao.me
 https://api.meomiao.us
 https://api.minimaxi.com
 https://api.misakanet.buzz
+https://api.mittarovo.cz
 https://api.mtyqx.cn
 https://api.mudidi1.win
 https://api.mxlweb.xyz
@@ -2277,6 +2282,7 @@ https://bqbjcdy.ljfxz.com
 https://brave.com
 https://breakwa11.blogspot.jp
 https://brew.sh
+https://bridge.lovecloud.me
 https://briefcake.com
 https://browser.geekbench.com
 https://browser.networkwebmail.com
@@ -2391,6 +2397,7 @@ https://cd2662bd.jego.vip
 https://cdc.smslease.link
 https://cdn-35.triplebit.dev
 https://cdn-39.triplebit.dev
+https://cdn-40.triplebit.dev
 https://cdn-web-api.moeu.top
 https://cdn.1454250.xyz
 https://cdn.akile.ai
@@ -3138,6 +3145,7 @@ https://doubledou.win
 https://doucat.top
 https://douyun.sbs
 https://dove.589669.xyz
+https://down.000zb09.com
 https://down.dginv.click
 https://down.feituyun.xyz
 https://down.mptext.top
@@ -4274,6 +4282,7 @@ https://jysperm.me
 https://k.hy2yyds.top
 https://k3d.io
 https://k61kz.no-mad-world.club
+https://k6k7.xyz
 https://k6rcy6a2leyehqhlphlwkkuppm0xxubn.lambda-url.us-east-1.on.aws
 https://kad520.uk
 https://kaimenlai.com
@@ -4596,6 +4605,7 @@ https://m.lionhd.com
 https://m.mpaypass.com.cn
 https://m.stopa.io
 https://m.sub12345.org
+https://m.tb.cn
 https://m.thepaper.cn
 https://m.tmtpost.com
 https://m.weibo.cn
@@ -4618,6 +4628,7 @@ https://macshuo.com
 https://mafclub.online
 https://magic-api.ssssssss.org.cn
 https://magicae.pics
+https://magiceraser.org
 https://mahanmusic.net
 https://maho.chipsfuck.fish
 https://mahour-music.ir:2053
@@ -6650,6 +6661,7 @@ https://thenewstack.io
 https://thenextweb.com
 https://theoldreader.com
 https://theoriginals.io
+https://theosintvault.io
 https://thepoint1.free886.site
 https://think.codingit.cn
 https://this-week-in-rust.org
@@ -7163,6 +7175,7 @@ https://wiki.videolan.org
 https://win2.h5e8s7tcqe.workers.dev
 https://win263.top
 https://windard.com
+https://windowsv1.com
 https://windscribe.com
 https://wingpt.winning.com.cn
 https://wisr.com.au
@@ -7197,6 +7210,7 @@ https://wub.zongyunti.site
 https://wukong.baiwk.top
 https://wukong.bond
 https://wukongyun.club
+https://wulass.org
 https://wumao.jiumaojiu.net
 https://wumaojichang.com
 https://wuxianjc.top
@@ -8048,6 +8062,7 @@ https://www.tianxianbaby.com
 https://www.tintup.com
 https://www.tiny.cloud
 https://www.tiobe.com
+https://www.tiraniddo.dev
 https://www.tiziwrops.com
 https://www.tline.website
 https://www.tnhh.net
@@ -8150,6 +8165,7 @@ https://www.xg-hub.icu
 https://www.xg-site03.xyz
 https://www.xhei.ml
 https://www.xiabingbao.com
+https://www.xiaobaicloud.tk
 https://www.xiaobot.net
 https://www.xiaoglt.top
 https://www.xiaohongshu.com
@@ -8233,6 +8249,7 @@ https://www1.gus.computer
 https://www11.henet.uk
 https://www16.bigairport-eleventh-sub.top
 https://www2.bigairport-eleventh-sub.com
+https://www2.ruhnama.net
 https://www2.shouldiblockads.com
 https://www3.nhk.or.jp
 https://www4.bing.com
