@@ -30,6 +30,7 @@ http://66ds.dishujichang.xyz
 http://6b.zhunchuanpb.com
 http://6bsub.zhunchuanpb.com
 http://7.mm
+http://763352.top
 http://777.hz.cz
 http://88cfn.232885.qzz.io
 http://9.douban.com
@@ -205,6 +206,7 @@ http://demo-go-ldap-admin.eryajf.net
 http://demo.ninesix.cc:4433
 http://demo.open.renren.io
 http://demoa5.tongzhouyun.com
+http://detectportal.firefox.com
 http://dev.duoshuo.com
 http://dev.t.qq.com
 http://developer.openstack.org
@@ -940,6 +942,7 @@ http://xn--ihq15i3w6b.club
 http://xn--mes358a6kt95e.com
 http://xsj520.top
 http://xueqiu.com
+http://xuhsdaryte.shop
 http://xxxu.xyz
 http://xyyjc.top
 http://ya555.top
@@ -1018,6 +1021,7 @@ https://10ncydlf.flsubcn.cc:2096
 https://10th.sub-airport.com
 https://1111-releases.cloudflareclient.com
 https://1122.yunjijd.xyz
+https://1122331.xyz
 https://119dot29dot29dot29.cloudflare-dns.com
 https://12123.org
 https://12222.xn--yfr360ebxhhsu.com
@@ -1217,6 +1221,7 @@ https://54efa77f.ghelper.me
 https://55.77vy.xyz
 https://557d0133.ghelper.me
 https://5587c578.ghelper.me
+https://56.77vy.xyz
 https://562dd2da-d6a6-49ca-8ec2-f65fbb4b2e2c.xn--l6qx3lcvp58x.com
 https://562f.ffcjiiyrt.cc
 https://569.2.passwallwall.life
@@ -2128,6 +2133,7 @@ https://bieshawo321.top
 https://big.bilibili.com
 https://big234.com
 https://bigairport-sixth-sub.top
+https://bigairport-sub.top
 https://bigairport.date
 https://bigairport.icu
 https://bigairport.loan
@@ -2387,6 +2393,7 @@ https://cat.ikkt.cn
 https://catchup.mainnet.concordium.software
 https://catupload.937870.ir.cdn.ir
 https://cb.dabai.in
+https://cb.xn--u0x.site
 https://cb132499.ghelper.me
 https://cb3dc995.ghelper.me
 https://cc.default.svc.cluster.local:8091
@@ -2595,6 +2602,7 @@ https://cloud.ykkk.tech
 https://cloud.yuanbaojc.site
 https://cloud.yydschina.top
 https://cloud3.fanqiecloud.top
+https://cloud5.colacloud.site
 https://cloudaccess.icu
 https://cloudcat.top
 https://cloudfast.cc
@@ -3910,6 +3918,7 @@ https://hi94740.gitee.io
 https://hiddify0422.pages.dev
 https://hintsnet.com
 https://hitokoto.cn
+https://hivemoderation.com
 https://hizrj.xyz
 https://hjcloud.02000.net
 https://hjcm0.pages.dev
@@ -4164,6 +4173,7 @@ https://iress.com.au
 https://ishare.ifeng.com
 https://isi.gay
 https://isignthis.com
+https://isitai.com
 https://issues.apache.org
 https://issues.k8s.io
 https://istio.io
@@ -4356,6 +4366,7 @@ https://kkocdko.site
 https://kl05.ximicloud.net
 https://klausvpn.posyao.com
 https://klc.kunlun01.com
+https://klinkcc.one
 https://knip.dev
 https://knjc.cfd
 https://knotic.net
@@ -4613,6 +4624,7 @@ https://m.jiemian.com
 https://m.leiphone.com
 https://m.lionhd.com
 https://m.mpaypass.com.cn
+https://m.o29o.xyz
 https://m.stopa.io
 https://m.sub12345.org
 https://m.tb.cn
@@ -4915,6 +4927,7 @@ https://nameless-tessa826.826972411.workers.dev
 https://nanase.cc
 https://nanbei.click
 https://nanbei.cloud
+https://nanbei.cyou
 https://nanbeicloud.net
 https://nano.nachoneko.cn
 https://nanobrew.trilok.ai
@@ -5849,6 +5862,7 @@ https://shuzijumin.com
 https://shz.al
 https://sick.codes
 https://sider.ai
+https://sightengine.com
 https://sigs.k8s.io
 https://silverrainz.me
 https://simonwillison.net
@@ -7362,6 +7376,7 @@ https://www.bitduct.net
 https://www.bizcover.com.au
 https://www.bjch999.com
 https://www.bloomberg.com
+https://www.bm-link.com
 https://www.bmpi.dev
 https://www.bogotobogo.com
 https://www.bookipi.com
@@ -7586,6 +7601,7 @@ https://www.gitbook.com
 https://www.gitlabip.xyz
 https://www.gitpoap.io
 https://www.gjufbg.cn
+https://www.globenewswire.com
 https://www.gnu.org
 https://www.godofprompt.ai
 https://www.goftino.com
@@ -8166,6 +8182,7 @@ https://www.wheresyoured.at
 https://www.wihlidal.com
 https://www.wikihow.com
 https://www.wikimoe.com
+https://www.wildberries.ru
 https://www.windowscentral.com
 https://www.wings666.me
 https://www.winxray.com
