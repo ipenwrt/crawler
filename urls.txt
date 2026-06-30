@@ -237,6 +237,7 @@ http://docs.z.ai
 http://down.dxiazaicc.com
 http://download.oracle.com
 http://download.riferoser.icu:56594
+http://dribbble.com
 http://duoshuo.com
 http://durbinlive.org
 http://dy.2983839.xyz
@@ -562,6 +563,7 @@ http://redbeardlab.com
 http://redis.io
 http://refactoring.guru
 http://responsivedesignweekly.com
+http://rickyhan.com
 http://rj.lmapp.cc
 http://rk2.izoizoizo.top:43505
 http://rot.9o9.top:880
@@ -605,6 +607,7 @@ http://snippit.in
 http://snlcw.com
 http://socialife.sony.net
 http://soft.clang.cn
+http://soft.cs.tsinghua.edu.cn
 http://soft.vpser.net
 http://somewhere.com
 http://source.scripting.com
@@ -982,6 +985,7 @@ http://zzy.my
 https://00.222333123.xyz
 https://001.583180.xyz
 https://001.6891256.xyz
+https://007e.icu
 https://031216.xyz
 https://03d.microcloudvm.com
 https://03d9d44f.jego.vip
@@ -1305,6 +1309,7 @@ https://6e473888.ghelper.me
 https://6f1f2886.ghelper.me
 https://6f8d546b.ghelper.me
 https://6pjjh.tdwj.net:108
+https://6r7k3.no-mad-sub.one
 https://6url.cn
 https://6xvzd.no-mad-world.club
 https://6ygEvL.absslk.xyz
@@ -1405,6 +1410,7 @@ https://9kzt7.no-mad-world.club
 https://9pvc9ewxcc.r.worldssl.net
 https://9spokes.com
 https://9to5mac.com
+https://9to5toys.com
 https://API.OKAB3.COM
 https://Api.ikuuu.science
 https://BASIC.rethinkdns.com
@@ -1747,6 +1753,7 @@ https://api.jsm.one
 https://api.kkhhyytt.cn
 https://api.krill-ai.com
 https://api.ktcat.online
+https://api.kuaimiaov4.com
 https://api.kuangbiaoyun.com
 https://api.lanfan.site
 https://api.laodayun.com
@@ -1973,6 +1980,7 @@ https://aspoem.com
 https://assets-uat.ajio.ril.com
 https://astro.build
 https://astutewheel.com.au
+https://async.rs
 https://at4am.io
 https://atacyun.yydsii.com
 https://atjason.com
@@ -2122,6 +2130,7 @@ https://befriends.concubine.top
 https://befweb.net
 https://behzisti.porsline.ir
 https://bei.ewpbh.cn
+https://beiyon.hanbao.lol
 https://beiyon4.hanbao.lol
 https://bellingcat.gitbook.io
 https://benchmarksgame-team.pages.debian.net
@@ -3449,6 +3458,7 @@ https://expertmedias.org
 https://expressjs.com
 https://extractor-demos.pages.dev
 https://extrm.info
+https://ez-a0a517.ezaccess15bd9b0.workers.dev
 https://ezidebit.com
 https://f-droid.org
 https://f.kxyz.eu.org
@@ -3597,6 +3607,7 @@ https://fliphtml5.com
 https://flow.mldong.com
 https://flower1314.us.kg
 https://flowlong.gitee.io
+https://flowpick.net
 https://flux.comnergy.com
 https://fly.j-s.us.kg
 https://fly.lo-lita.ru
@@ -4121,6 +4132,7 @@ https://in.mesl.cloud
 https://inangua.lwjyj.com
 https://indieapps.space
 https://inessential.com
+https://inews.hket.com
 https://infini-cloud.net
 https://inflact.com
 https://info.iic08924f5w3b65o.xyz
@@ -4216,6 +4228,7 @@ https://issues.apache.org
 https://issues.k8s.io
 https://istio.io
 https://isvoro.com
+https://itch.io
 https://itdog.cloud
 https://item.jd.com
 https://itjustasub.icu
@@ -4234,6 +4247,7 @@ https://j20-cloud.com
 https://j2s.buzz
 https://jacarandafinance.com.au
 https://jack.cab
+https://jacko.io
 https://jadeai.cturing.cn
 https://jahannews.com
 https://jamanetwork.com
@@ -4606,6 +4620,7 @@ https://lmaff01.lmspeed.co
 https://lmjc.xyz
 https://lmskk.lanzouv.com
 https://lmstudio.ai
+https://lnithefedhwadf2qhhald5l23zdadzci.skygo0527.top
 https://lnk.ink
 https://lobehub.com
 https://localsend.org
@@ -4615,6 +4630,7 @@ https://login.yfjc.xyz
 https://logspot.hocgin.top
 https://lokistack-dev-gateway-http.openshift-logging.svc:8080
 https://lolicode.gitee.io
+https://longcat.chat
 https://longying.us.kg
 https://lookscanned.io
 https://lore.kernel.org
@@ -5204,6 +5220,7 @@ https://openvidu.io
 https://openvpn.net
 https://openweathermap.org
 https://opinion.caixin.com
+https://orbot.app
 https://ordns.he.net
 https://origamiboy.herokuapp.com
 https://osf.io
@@ -5962,6 +5979,7 @@ https://snailjob.opensnail.com
 https://snangua.com
 https://snapwc.com
 https://sni.111000.dynv6.net
+https://sni.868001.xyz
 https://sni.skylee4.cloudns.ch
 https://snowy.xiaonuo.vip
 https://snyk.io
@@ -6613,6 +6631,7 @@ https://support.packet.com
 https://support.tagsssubscribe.com
 https://supz1.6128888.xyz
 https://surfcat.store
+https://suricata-ids.org
 https://survey.porsline.ir
 https://sus.alicenetwork.cloud
 https://sus.clodom.link
@@ -6747,6 +6766,7 @@ https://theoldreader.com
 https://theoriginals.io
 https://theosintvault.io
 https://thepoint1.free886.site
+https://thereallo.dev
 https://think.codingit.cn
 https://this-week-in-rust.org
 https://tholman.com
@@ -7067,6 +7087,7 @@ https://videofetch.readthedocs.io
 https://vifast.net
 https://vikunja.io
 https://viloh.xyz
+https://vimeo.com
 https://vincode.io
 https://vip-03.fl-sub.site:2096
 https://vip.365cloud.me
@@ -7369,6 +7390,7 @@ https://www.aadhav.me
 https://www.aakashweb.com
 https://www.aapanel.com
 https://www.aboutamazon.com
+https://www.abubalay.com
 https://www.ag-grid.com
 https://www.aibase.com
 https://www.aignes.com
@@ -7698,6 +7720,7 @@ https://www.hcaptcha.com
 https://www.heavens-above.com
 https://www.helingqi.com
 https://www.helius.dev
+https://www.heyunidc.cn
 https://www.hi-id.com
 https://www.hideipvpn.com
 https://www.hidemyass.com
@@ -7994,6 +8017,7 @@ https://www.paopao.info
 https://www.paopaoyunyi.top
 https://www.paperbunny.asia
 https://www.parallels.com
+https://www.parity.io
 https://www.pasyun.com
 https://www.patreon.com
 https://www.pcgamer.com
@@ -8089,6 +8113,7 @@ https://www.scmp.com
 https://www.sec-wiki.com
 https://www.sec.gov
 https://www.semafor.com
+https://www.sensenova.cn
 https://www.servicemesher.com
 https://www.servicenow.com
 https://www.sharetribe.com
@@ -8163,6 +8188,7 @@ https://www.thatprivacyguy.com
 https://www.theatlantic.com
 https://www.thedeepview.com
 https://www.thedp.com
+https://www.theguardian.com
 https://www.theinformation.com
 https://www.thelec.kr
 https://www.thelec.net
