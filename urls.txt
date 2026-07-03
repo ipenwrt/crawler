@@ -675,6 +675,7 @@ http://this.how
 http://thume.ca
 http://tianyi.qrspeed.pro
 http://tiker.cc
+http://tilin.ir
 http://tiny.cc
 http://tinyletter.com
 http://tontof.net
@@ -1173,6 +1174,7 @@ https://391101980.xyz
 https://39f0777a.ghelper.me
 https://3ae574b2.ghelper.me
 https://3b0795de.ghelper.me
+https://3cc4f296.wyxhuawei.com
 https://3dns.eu
 https://3dxre.no-mad-world.club
 https://3e693477.ghelper.me
@@ -2901,6 +2903,7 @@ https://ddns.shecan.ir
 https://ddsfsdfsdf.tiktok.casa
 https://ddys.yunjisuan.cf
 https://ddys.yunjisuan.gq
+https://ddyun.org
 https://deamnetd.3seed.ru:8888
 https://deb.nodesource.com
 https://debe9623.ghelper.me
@@ -4309,6 +4312,7 @@ https://jiedian.faka77.tk
 https://jiedian.gooii.ml
 https://jiedian1.coding.net
 https://jige.li
+https://jiguang.dev
 https://jihuyun.icu
 https://jike.info
 https://jikipedia.com
@@ -4532,6 +4536,7 @@ https://ld.i365.tech
 https://ld246.com
 https://ldgb.pages.dev
 https://ldld.whtjdasha.com
+https://ldp2642.brucewang777.eu.cc
 https://leaflow.net
 https://learngitbranching.js.org
 https://leezn.eu.org
@@ -5686,6 +5691,7 @@ https://research.web3.foundation
 https://resolver2.dns.watch
 https://restheart.org
 https://restless-cherry-a0b5.yasinsky980.workers.dev
+https://rethinkdns.com
 https://reubenbrooks.dev
 https://reurl.cc
 https://revanced.app
@@ -6242,6 +6248,7 @@ https://sub.feiji.ddns-ip.net
 https://sub.feiji.ip-ddns.com
 https://sub.fnf.one
 https://sub.fnf.xyz
+https://sub.foxvpn.im
 https://sub.fqzsnai.ggff.net
 https://sub.free.n125.xyz
 https://sub.fuckyou.pp.ua
@@ -6657,6 +6664,7 @@ https://superbiu.com
 https://supermario-game.com
 https://support.audacityteam.org
 https://support.bale.ai
+https://support.captureone.com
 https://support.claude.com
 https://support.cpanel.net
 https://support.getflix.com
@@ -7039,6 +7047,7 @@ https://v.spwvpn.com
 https://v.vivia.cc.cd
 https://v.youku.com
 https://v.zcr07.dynv6.net
+https://v0.app
 https://v0.crosswall.dpdns.org
 https://v1-4-2.qwunessles.online
 https://v1.chaojiji.one
@@ -7325,6 +7334,7 @@ https://windard.com
 https://windowsv1.com
 https://windscribe.com
 https://wingpt.winning.com.cn
+https://winro.io
 https://wiresock.net
 https://wisr.com.au
 https://within.sephirah.icu
@@ -7358,6 +7368,7 @@ https://wub.zongyunti.site
 https://wukong.baiwk.top
 https://wukong.bond
 https://wukongyun.club
+https://wulan.sbs
 https://wulass.org
 https://wumao.jiumaojiu.net
 https://wumaojichang.com
@@ -7418,6 +7429,7 @@ https://www.6666543.xyz
 https://www.6g04.top
 https://www.992266.xyz
 https://www.998877.best
+https://www.9vqmr3.vip:8663
 https://www.a.aifjj.asia
 https://www.a100.sbs
 https://www.aadhav.me
@@ -7495,6 +7507,7 @@ https://www.bing.com
 https://www.bitduct.net
 https://www.bizcover.com.au
 https://www.bjch999.com
+https://www.bleepingcomputer.com
 https://www.bloomberg.com
 https://www.bm-link.com
 https://www.bmpi.dev
@@ -7657,6 +7670,7 @@ https://www.erikpartridge.com
 https://www.erupt.xyz
 https://www.eset.com
 https://www.etnews.com
+https://www.euractiv.com
 https://www.evan888.top
 https://www.eventbrite.com
 https://www.evernote.com
@@ -8139,6 +8153,7 @@ https://www.ruby-lang.org
 https://www.runningcheese.com
 https://www.runoob.com
 https://www.rustsim.org
+https://www.rxbb71.vip:7443
 https://www.sammobile.com
 https://www.samsung.com
 https://www.samsung.com.cn
@@ -8835,6 +8850,7 @@ https://zhengzexin.com
 https://zhenshihui.shop
 https://zhenxunkeai.top
 https://zhepaolu.com
+https://zhidx.com
 https://zhimunplus.com
 https://zhongzhuan.mxmxmx.lol
 https://zhs.futbol
