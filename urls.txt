@@ -128,6 +128,7 @@ http://blogpage.xiaozhuhouses.asia
 http://bobapp.xuebispeed.com
 http://book.douban.com
 http://boss.hdslb.com
+http://bot.sobhanpor.ir:1080
 http://boto3.readthedocs.io
 http://bp.wbno1.xyz
 http://brovee.myds.me:12580
@@ -259,6 +260,7 @@ http://e8a580bd3a51b6050aabd8919a17d106.52pokemon.top
 http://easylist.to
 http://edotstudios.com
 http://em7.buzz
+http://en.community.dell.com
 http://en.cppreference.com
 http://en.wikibooks.org
 http://ent.people.com.cn
@@ -406,6 +408,7 @@ http://jjz.31465.cfd
 http://jling.tk
 http://joelglovier.com
 http://jonathanturner.org
+http://jp01.network-cdn-gw-yd.net:48801
 http://jp01.vezzura.net:25084
 http://jshou.top
 http://julio.meroh.net
@@ -586,12 +589,15 @@ http://s4.subcsyun.online
 http://scary.beasts.org
 http://schemas.android.com
 http://schemas.auth0.com
+http://schemas.dmtf.org
+http://schemas.xmlsoap.org
 http://script.hub
 http://sdfdfgdhsghf.hne4vh.site
 http://sdfvs.cxfbhy.live
 http://seclists.org
 http://securityserver.dev01.devland.is
 http://segmentfault.com
+http://sgp02.network-cdn-gw-yd.net:45507
 http://shadowmere.akiel.dev
 http://shiyuanyinian.xyz
 http://shop.oreilly.com
@@ -638,6 +644,7 @@ http://sub.sub.sub.subsub123456789.com
 http://sub.xn--4gq62f8yih87b.xyz
 http://sub.xn--54qu5qypuo1o.xn--fiqs8s
 http://sub.yunzoa.com
+http://sub.zynavo.ir
 http://sub1.127665.xyz
 http://sub2.127665.xyz
 http://sub2086.fnyune.shop:2086
@@ -699,6 +706,7 @@ http://union.click.jd.com
 http://universaldependencies.org
 http://updates.jenkins-ci.org
 http://uploaded.ir
+http://us08.network-cdn-gw-yd.net:43212
 http://user.dafeiji.one
 http://user.tsunaminet.cc
 http://uxwkly.com
@@ -793,6 +801,7 @@ http://www.cttz.xyz
 http://www.datagear.tech
 http://www.dataorienteddesign.com
 http://www.datastax.com
+http://www.dell.com
 http://www.devbridge.com
 http://www.dgtle.com
 http://www.domain.com
@@ -3241,6 +3250,7 @@ https://dpaste.org
 https://dpkj0402.indevs.in
 https://dracor.org
 https://drand.cloudflare.com
+https://draper.chat
 https://dreamlinkc.top
 https://drfytjmjhggnrgergergergerg6555.saojc.xyz
 https://dribbble.com
@@ -3414,6 +3424,7 @@ https://edu.dianping.men
 https://edu.kuaifaka.me
 https://eduos.roncoo.net
 https://ee.seaspirit.dpdns.org
+https://ee2.ee88.tk
 https://ee7b114b-2dff-4e9d-b427-4d1c2ac2e12f.fengchenginx.com
 https://eed.z07.cloudns.be
 https://eee-cor.pages.dev
@@ -4412,6 +4423,7 @@ https://keepandroidopen.org
 https://kejalrn7ffb572qu0jeb.fznfzn.cn
 https://kelee.one
 https://keleyun.app
+https://kenari.id
 https://kenengba.com
 https://key.vlesvpn.ru
 https://key.zarazaex.xyz
@@ -4567,12 +4579,14 @@ https://lightningspeed.zh-a-fengniaogames.com
 https://lightyearvpn.com
 https://lihi.cc
 https://lihuayun1232.cfd
+https://likejennie.pages.dev
 https://liljohnidc.store
 https://limbopro.com
 https://limbopro.cyou
 https://limboy.me
 https://limiaocloud.org
 https://line1.nowjiasu.com
+https://linebet4434j14x03.com
 https://ling.0u0-cdn.link
 https://ling.school
 https://ling2.fnjs7.cc
@@ -4761,6 +4775,7 @@ https://maomeng.xyz
 https://maoy.cc
 https://maple.icu
 https://mappsv5.caixin.com
+https://mar.bbc.xx.kg
 https://markdoc.dev
 https://market.qeshmyar.com
 https://marketepicpanel.marketepic.ir:2087
@@ -5522,6 +5537,7 @@ https://proxypoolsstest.herokuapp.com
 https://proxypoolv2.tk
 https://proxyway.com
 https://psce.pw
+https://psiphon.ca
 https://psiphon3.com
 https://psub.xxxx.xxxx
 https://pub-api-1.bianyuan.xyz
@@ -5696,6 +5712,7 @@ https://reubenbrooks.dev
 https://reurl.cc
 https://revanced.app
 https://revezone.com
+https://review.opendev.org
 https://rewards.bing.com
 https://rgergergergerg6555.saojc.xyz
 https://ridiqulous.com
@@ -8433,6 +8450,7 @@ https://www.zaochenbao.com
 https://www.zdoc.app
 https://www.zeiss.com
 https://www.zentao.net
+https://www.zeroscience.mk
 https://www.zhangxinxu.com
 https://www.zhaobg.com
 https://www.zhenyevpn.xyz
