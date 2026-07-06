@@ -255,6 +255,7 @@ http://dy007.sanxi.cyou
 http://dydz.xn--mesv8bx6xtx3b.com:2006
 http://dynamic.yuanjingtech.com
 http://e.weibo.com
+http://e4.cover20.ir:16156
 http://e54.site
 http://e8a580bd3a51b6050aabd8919a17d106.52pokemon.top
 http://easylist.to
@@ -491,6 +492,7 @@ http://n.huasenjio.top
 http://n15uvht4r659107p.eastasia.cloudapp.azure.com
 http://n2.us.nexiocloud.com:25416
 http://n2.us.nexiocloud.com:25439
+http://n4.cover20.ir:19964
 http://nVx81Q0ouJA21x8U.xn--fiqs8s40dz2j.com
 http://namrcg001640lrm.cybervena.com:50099
 http://nanbei.cloud
@@ -2481,6 +2483,7 @@ https://cdn.kineticbloom.org
 https://cdn.maxo.top
 https://cdn.nlark.com
 https://cdn.nodeimage.com
+https://cdn.pikayun.com
 https://cdn.rei.my.id
 https://cdn.seyhello.sbs:2096
 https://cdn.statically.io
@@ -2796,6 +2799,7 @@ https://cyanmori.com
 https://cybdetective.com
 https://cyberguard.cfd
 https://cybernews.com
+https://cyberpress.org
 https://cyberscoop.com
 https://cybersecuritynews.com
 https://cygw.ciyuan78.help
@@ -3247,6 +3251,7 @@ https://downloader.caorushizi.cn
 https://downloads.onelighter.site
 https://downloads.snapp.site
 https://dozzle.dev
+https://dp3.config-sync.com
 https://dpaste.com
 https://dpaste.org
 https://dpkj0402.indevs.in
@@ -4413,6 +4418,7 @@ https://kawaiifreevpn-7ds.pages.dev
 https://kawaiifreevpn.pages.dev
 https://kaze1.aisaka-taiga.com
 https://kazlauskas.me
+https://kc8ehydtznmmxbcihofm3hkhdmq8ansb.skygo0527.top
 https://kcssr.me
 https://kcsub.click
 https://kcsub.vip
@@ -4477,6 +4483,7 @@ https://kortuyou.us.kg
 https://koumakan.quickline.top
 https://kqdfk.no-mad-world.club
 https://kr-sel.doh.sb
+https://kr00lwbck8finkxhvskf8i7fhx4pwbfb.skygo0527.top
 https://krebsonsecurity.com
 https://krillapps.com
 https://kronos.plan9-dns.com
@@ -5100,6 +5107,7 @@ https://news.samsung.com
 https://news.skhynix.co.kr
 https://news.xbox.com
 https://news.ycombinator.com
+https://newsdig.tbs.co.jp
 https://newshacker.me
 https://newsify.co
 https://newsroom.arm.com
@@ -5200,6 +5208,7 @@ https://ocean.likelike.ip-ddns.com
 https://ocloudvpn.com
 https://ocrmypdf.readthedocs.io
 https://octohide.com
+https://octopuspalm.top
 https://ocypod.readthedocs.io
 https://oddetall.no
 https://odysee.com
@@ -5387,6 +5396,7 @@ https://pichoro.horosama.com
 https://pickitup247.com
 https://picx.xpoet.cn
 https://pierre.computer
+https://pikayun.com
 https://piligou88.top
 https://pincht.sbs
 https://pindan.tk
@@ -6767,6 +6777,7 @@ https://tc.r07.cloudns.be
 https://tc.ztcloud.xyz
 https://tcptest.cn
 https://tcxf.hssl8088.icu
+https://te.tuotuoyun.fyi
 https://tecentapi.yunqing.work
 https://tech.channable.com
 https://tech.huanqiu.com
@@ -6889,6 +6900,7 @@ https://token.sensenova.cn
 https://token604.us.kg
 https://tokenapi.fbcloud.lol
 https://too.st
+https://tool.chinaz.com
 https://tool.oschina.net
 https://tool.ren
 https://tools.ietf.org
@@ -7217,6 +7229,7 @@ https://vpnfast.online
 https://vpngiare.net
 https://vpnhack.com
 https://vpnse.org
+https://vpnserverhub.com
 https://vpnyyds.link
 https://vps.aifoxin.com:37970
 https://vps.hosting
@@ -7284,6 +7297,7 @@ https://web.nnpy.org
 https://web.pandarobot.chat
 https://web.resource.org
 https://web.snappfood.com.tr:2096
+https://web.staryun.xyz
 https://web.tline.website
 https://web.xn--gwt061a.top
 https://web02.fbcn.pro
@@ -7543,6 +7557,7 @@ https://www.brendangregg.com
 https://www.broadcom.com
 https://www.builder.io
 https://www.bumingbai.net
+https://www.business-standard.com
 https://www.businessinsider.com
 https://www.butnono.com
 https://www.buymeacoffee.com
@@ -7570,6 +7585,7 @@ https://www.ceipa.net
 https://www.centrify.com
 https://www.cfmem.com
 https://www.chainnode.com
+https://www.change.org
 https://www.changhai.org
 https://www.chaojijichang.com
 https://www.chenqiushi.cf
@@ -7883,6 +7899,7 @@ https://www.jiux001.cc
 https://www.jiuyuelu.xyz
 https://www.jokerps.com
 https://www.joshmatthews.net
+https://www.js8686.top
 https://www.json.org
 https://www.jsy38.com
 https://www.kaikaiyun.beauty
@@ -8062,6 +8079,7 @@ https://www.nsfwlover.com
 https://www.nsmc.org.cn
 https://www.nushell.sh
 https://www.nutsfind.com
+https://www.nvenix.icu
 https://www.nvidia.com
 https://www.nytimes.com
 https://www.oiioii.ai
