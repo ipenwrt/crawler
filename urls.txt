@@ -463,6 +463,7 @@ http://m.cna.com.tw
 http://m.yhd.com
 http://macshuo.com
 http://mail.qq.com
+http://mail2.thirdpaull.monster:57327
 http://man7.org
 http://maprdocs.mapr.com
 http://mesos.apache.org
@@ -1691,6 +1692,7 @@ https://aoop.top
 https://aotu.io
 https://ap.niaodi.top
 https://ap.niubi.site
+https://ap.waclaw.org
 https://api-bigbear-v2-sub.sodtool.com
 https://api-comq7a.studyservice.top
 https://api-docs.aevo.xyz
@@ -1766,6 +1768,7 @@ https://api.hk03.fysub.com
 https://api.honeycomb.io
 https://api.huasheng.cn
 https://api.hy2.lol
+https://api.iamhc.cn
 https://api.ikuuu.science
 https://api.immtel.co
 https://api.immtel.me
@@ -1846,6 +1849,7 @@ https://api.v1.mk
 https://api.v2fly.org
 https://api.v2paw.com
 https://api.v7ssyhub.top
+https://api.valconfig.com
 https://api.vvhan.com
 https://api.vvv123.store
 https://api.wannaflix.link
@@ -2390,6 +2394,7 @@ https://by.shandiandog.com
 https://by.xbygood.xyz
 https://byijsq.com
 https://byjoeycfnew.lyqnihao.dpdns.org
+https://byom.de
 https://bypassgo.com
 https://byvoid.com
 https://bzim.gitlab.io
@@ -2923,6 +2928,7 @@ https://deamnetd.3seed.ru:8888
 https://deb.nodesource.com
 https://debe9623.ghelper.me
 https://decrypt.co
+https://dedirock.cn
 https://deepfakevfx.com
 https://deepimg.io
 https://deepweb.net
@@ -4885,6 +4891,7 @@ https://misty-limit-ed241123.jamph137.workers.dev
 https://misub-eld.pages.dev
 https://mitce.com
 https://mitce.net
+https://mjj.ee
 https://mkewfoduja.shop
 https://mktnews.net
 https://ml6.hfhfb.homes
@@ -5049,6 +5056,7 @@ https://nano.nachoneko.cn
 https://nanobrew.trilok.ai
 https://nat.freecloud.ltd
 https://nautil.us
+https://navatel.app
 https://navi.onamae.com
 https://nbphp.mqywl.cn
 https://nbsoftsolutions.com
@@ -6834,6 +6842,7 @@ https://theidco.com
 https://theinitium.com
 https://themarkup.org
 https://themeisle.com
+https://thenewcamera.com
 https://thenewstack.io
 https://thenextweb.com
 https://theoldreader.com
