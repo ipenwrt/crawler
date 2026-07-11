@@ -273,6 +273,7 @@ http://docs.openstack.org
 http://docs.z.ai
 http://dopebox.to
 http://down.dxiazaicc.com
+http://download.cirros-cloud.net
 http://download.oracle.com
 http://download.riferoser.icu:56594
 http://download.way-of-freedom.com
@@ -540,6 +541,7 @@ http://moboir.990586.ir.cdn.ir
 http://modash.io
 http://mopl.v2try.sbs:32062
 http://mosi.monster.freehost.io
+http://mozilla.org
 http://mp.weixin.qq.com
 http://mrpm.cc
 http://msvpn.gougouvpn.xyz:88
@@ -1114,6 +1116,7 @@ http://zh.d2l.ai
 http://zhangwenli.com
 http://zhouql.vip
 http://ziye.xn--94q649d.live
+http://zkwn.plan.ji8.site
 http://zkwn.plan.jpn.im
 http://zzy.my
 https://00.222333123.xyz
@@ -1782,6 +1785,7 @@ https://airtcplink3.top
 https://airwhite.re
 https://aisaver.io
 https://aisu.me
+https://aitoearn.ai
 https://aix.cdn.cn.eo.dnse66.com
 https://aixdownloader.com
 https://aizaozao.com
@@ -1802,6 +1806,7 @@ https://alizare.websites.co.in
 https://all.dns.mullvad.net
 https://allnet-vip.lmxtinl.com
 https://alpha.sagittarius-link.com
+https://alumninpustedutw-my.sharepoint.com
 https://aluzz.mmzhk.website
 https://alvless.filegear-sg.me
 https://am-cf-tunnel-sub.lyqnihao.dpdns.org
@@ -2988,6 +2993,7 @@ https://community.openai.com
 https://companies.caixin.com
 https://compressjpg.io
 https://conda-forge.org
+https://conda.anaconda.org
 https://conduit.psiphon.ca
 https://conf1.hokkaido-toyoni.com
 https://config.51catss.com
@@ -3060,6 +3066,7 @@ https://csscoco.com
 https://csserver.ir
 https://csyun.t1csyun.shop
 https://ctrn.club
+https://cubic.dev
 https://curl.qcloud.com
 https://currencyfair.com
 https://cursor.com
@@ -3437,6 +3444,7 @@ https://docs.cloudbees.com
 https://docs.codax.site
 https://docs.cozy.io
 https://docs.crawlab.cn
+https://docs.cubic.dev
 https://docs.datastax.com
 https://docs.dify.ai
 https://docs.digitalocean.com
@@ -3560,6 +3568,7 @@ https://download.eset.com
 https://download.gamescdn.ir:2050
 https://download.mcloud.139.com
 https://download.nextcloud.com
+https://download.pytorch.org
 https://download.sekurvpn.com
 https://download.wireguard.com
 https://downloader.caorushizi.cn
@@ -3988,6 +3997,7 @@ https://flare089.sunyi.io
 https://flash.jin10.com
 https://flashcat.cloud
 https://flathub.org
+https://flclash.cc
 https://flingtrainer.com
 https://fliphtml5.com
 https://flow.mldong.com
@@ -4367,9 +4377,11 @@ https://hello4g.pw
 https://hellopool.herokuapp.com
 https://helloworld-gkhnaabtdcefa9d5.z01.azurefd.net
 https://helm.sh
+https://help.instagram.com
 https://help.medium.com
 https://help.nextdns.io
 https://help.openai.com
+https://help.puppet.com
 https://help.rasa.io
 https://help.router-for.me
 https://help.salesforce.com
@@ -4679,6 +4691,7 @@ https://iqiaqia.xyz
 https://ir.amd.com
 https://ir.bbb-subbb.ir
 https://ir.logitech.com
+https://irananker.com
 https://iranbax.net
 https://irancell.ir
 https://iranopasmigirim.com
@@ -4915,6 +4928,7 @@ https://knjc.cfd
 https://knotic.net
 https://knovhov.com
 https://knsub.xyz
+https://ko-fi.com
 https://kob-xxkl.top
 https://kobcloud.com
 https://kobee.metatai.xyz
@@ -5227,6 +5241,7 @@ https://mQzmgK.mcsslk.xyz
 https://mac2winer.cfd
 https://macoshome.com
 https://macshuo.com
+https://mafbet.com
 https://mafclub.online
 https://magic-api.ssssssss.org.cn
 https://magicae.pics
@@ -5392,6 +5407,7 @@ https://mm.mibei77.com
 https://mm.xlw.app
 https://mmyyds.xyz
 https://mn7gcvn1iul6.top
+https://mnkcloud.xyz
 https://mo.mojieurl.com
 https://mobomb.ir
 https://mochizuki.top
@@ -5588,6 +5604,7 @@ https://neovim.io
 https://net.17181922.xyz
 https://net.sled.lol
 https://netbird.io
+https://netcatty.app
 https://netease-music.fe-mm.com
 https://neteasecloudmusicapi-docs.4everland.app
 https://netflixtechblog.com
@@ -6120,6 +6137,7 @@ https://psce.pw
 https://psiphon.ca
 https://psiphon3.com
 https://psub.xxxx.xxxx
+https://pub-a1becde5f2744674983c81fb22f5113d.r2.dev
 https://pub-api-1.bianyuan.xyz
 https://pub.dartlang.org
 https://pub.dev
@@ -6205,6 +6223,7 @@ https://qr.alipay.com
 https://qrbaknw9lnde.top
 https://qriowkpqhgxjnapxpdgc.supabase.co
 https://qu.ax
+https://quay.io
 https://quicksnap.fujifilm.com
 https://quillbot.com
 https://quilljs.com
@@ -6259,6 +6278,7 @@ https://rcktnl.site
 https://rcvps.cn
 https://reabble.cn
 https://react.dev
+https://reactbits.dev
 https://reader.960960.xyz
 https://readhub.cn
 https://readine.app
@@ -6579,6 +6599,7 @@ https://shardingsphere.apache.org
 https://share.bwb.global
 https://share.feijipan.com
 https://share.lanol.cn
+https://share.note.youdao.com
 https://share.pmsub.me
 https://sharecuts.cn
 https://sharepoint.handsontek.net
@@ -6788,6 +6809,7 @@ https://stat.ripe.net
 https://static-file-global.353355.xyz
 https://static.ranker.com
 https://static.rust-lang.org
+https://static.v2rayshare.net
 https://station.tuotuoyun.vip
 https://station26-cnbr512.ac2026.live
 https://stats.uptimerobot.com
@@ -7529,6 +7551,7 @@ https://tiamocloud.us.kg
 https://tianji.dev
 https://tianmaojichang.us.kg
 https://tidbcloud.com
+https://tika.apache.org
 https://tikdownloader.io
 https://tiktok.com
 https://tiktokcn.xyz
@@ -7611,6 +7634,7 @@ https://translator.broadinstitute.org
 https://travis-ci.org
 https://trc.metrix.ir
 https://trello.com
+https://trendshift.io
 https://trj.zcr5.ddns-ip.net
 https://tro.zqwnan.tk
 https://trojanfree-76s.pages.dev
@@ -8204,11 +8228,13 @@ https://www.alibabacloud.com
 https://www.alipan.com
 https://www.aljazeera.net
 https://www.alqst.org
+https://www.alwaysdata.com
 https://www.amazon.co.jp
 https://www.amazon.com
 https://www.ambionics.io
 https://www.amd.com
 https://www.amethyst.rs
+https://www.amitisbet.com
 https://www.androidauthority.com
 https://www.androidcentral.com
 https://www.androidcloob.com
@@ -8331,6 +8357,7 @@ https://www.chituma.top
 https://www.chongbuluo.com
 https://www.chriskrycho.com
 https://www.cisa.gov
+https://www.citizen.org
 https://www.citna.ir
 https://www.ckckssl.top
 https://www.ckcloud.xyz
@@ -8438,6 +8465,7 @@ https://www.easyfastcloud.com
 https://www.eclipse.org
 https://www.economist.com
 https://www.edeyuan.com
+https://www.eesel.ai
 https://www.eet-china.com
 https://www.eevpn.com
 https://www.efcloud.bio
@@ -8634,6 +8662,7 @@ https://www.iovevpn.com
 https://www.ip-adress.com
 https://www.iphonecake.com
 https://www.iptvsmarters.com
+https://www.iranicard.ir
 https://www.iranintl.com
 https://www.iranketab.ir
 https://www.irannsr.org
@@ -8732,6 +8761,7 @@ https://www.lfhacks.com
 https://www.lframework.com
 https://www.liangyuandian.at
 https://www.liangyuandian.life
+https://www.librechat.ai
 https://www.liesauer.net
 https://www.lightnode.com
 https://www.lime345.buzz
@@ -8796,6 +8826,7 @@ https://www.mittrchina.com
 https://www.miyun.me
 https://www.mk.co.kr
 https://www.mk2021.com:6003
+https://www.mk2031.com:9443
 https://www.mk2040.com:9163
 https://www.mk2120.com:9979
 https://www.mm9.ltd
@@ -8868,12 +8899,14 @@ https://www.notebookcheck.net
 https://www.notion.com
 https://www.notion.so
 https://www.novipnoad.net
+https://www.now61.cn
 https://www.now61.com
 https://www.nowcoder.com
 https://www.nowsecure.com
 https://www.npmjs.com
 https://www.nsa.gov
 https://www.nsfwlover.com
+https://www.nsloon.com
 https://www.nsmc.org.cn
 https://www.nushell.sh
 https://www.nutbit.net
@@ -9026,6 +9059,7 @@ https://www.shiyanlou.com
 https://www.showdoc.com.cn
 https://www.shuge.org
 https://www.shuyz.com
+https://www.siderolabs.com
 https://www.silvergames.com
 https://www.sismics.com
 https://www.sixyin.com
@@ -9112,6 +9146,7 @@ https://www.theregister.com
 https://www.thestreet.com
 https://www.thesun.co.uk
 https://www.theverge.com
+https://www.thewrap.com
 https://www.thiings.co
 https://www.thordata.com
 https://www.threads.net
@@ -9403,6 +9438,7 @@ https://xbyun.live
 https://xcancel.com
 https://xclient.info
 https://xcyun.co
+https://xdxsb.top
 https://xf.gl
 https://xf88j.no-mad-world.club
 https://xfa9.eu.org
