@@ -1831,6 +1831,7 @@ https://analyze.intezer.com
 https://andaofu.xyz
 https://andreafortuna.org
 https://andrewzuo.com
+https://android.codeideally.com
 https://andy.usuallyask.dpdns.org
 https://andygrove.io
 https://angel.co
@@ -1960,6 +1961,7 @@ https://api.krill-ai.com
 https://api.ktcat.online
 https://api.kuaimiaov4.com
 https://api.kuangbiaoyun.com
+https://api.kuke-sub.com
 https://api.lanfan.site
 https://api.laodayun.com
 https://api.liltjay.ip-ddns.com
@@ -2825,6 +2827,7 @@ https://china.caixin.com
 https://china.huawei-cloud.shop
 https://china.kyodonews.net
 https://chinese.aljazeera.net
+https://choc.watfaq.com
 https://chodocs.cn
 https://chomthong.central-world.org
 https://chreke.com
@@ -3065,6 +3068,7 @@ https://css-tricks.com
 https://csscoco.com
 https://csserver.ir
 https://csyun.t1csyun.shop
+https://ctp.ct8.pl
 https://ctrn.club
 https://cubic.dev
 https://curl.qcloud.com
@@ -3788,6 +3792,7 @@ https://eli.thegreenplace.net
 https://eliv2ray.cloud
 https://elytra.app
 https://emacs-china.org
+https://emkdl9db.xtd8.top:2083
 https://emm-7zy.pages.dev
 https://emoji.build
 https://emooo.ml
@@ -4071,6 +4076,7 @@ https://free.shecan.ir
 https://free.smallsite.sbs:8443
 https://free.tharuwa.store:2096
 https://free.tharuwa.store:500
+https://free.xlajiao.xyz
 https://free2.govmail.top
 https://free4all.rapidoserver.ir:8000
 https://freebrowser.org
@@ -4138,6 +4144,7 @@ https://galaxy.starcloud.monster
 https://galaxystore.samsung.com
 https://game.skport.com
 https://gap.im
+https://gapi.mailsapi.com
 https://gates.djjc.cfd
 https://gateway-api.sigs.k8s.io
 https://gateway.51tu.lol
@@ -4149,6 +4156,7 @@ https://gaxcdn.koihost.com
 https://gbshct.spphhnhg.top
 https://gbtgurl.me
 https://gcore.jsdelivr.net
+https://gdpr.tvtime.com
 https://geektutu.com
 https://geflcq9kd6ft.top
 https://genkit.dev
@@ -5259,6 +5267,7 @@ https://mailchi.mp
 https://mails.org
 https://maimaiyun.qzz.io
 https://main.filter-delivery-staging.eyeo.com
+https://main.laoda666.com
 https://maktabkhooneh.org
 https://maktabsharif.ir
 https://maku.net
@@ -5833,6 +5842,7 @@ https://opinion.caixin.com
 https://orbot.app
 https://ordns.he.net
 https://origamiboy.herokuapp.com
+https://orymi.net
 https://osf.io
 https://osintteam.blog
 https://osjdkdkk6469uajsm197.xn--5hqx9e52gdss.xyz
@@ -6319,6 +6329,7 @@ https://renshui.so-fast.org
 https://rentry.co
 https://renzhesub.com
 https://replicate.com
+https://reports.exodus-privacy.eu.org
 https://repzt3P1yq.qinyues4.cc
 https://research.myshell.ai
 https://research.roundtable.ai
@@ -6487,6 +6498,7 @@ https://s31.uupload.ir
 https://s33.uupload.ir
 https://s34.picofile.com
 https://s4-f45.pages.dev
+https://s4.laoda666.com
 https://s5.8878.tech
 https://s5.995677.xyz
 https://s6.ssysub1.xyz
@@ -6795,6 +6807,7 @@ https://star-rail-map.appsample.com
 https://star.starflycloud.com
 https://starchart.cc
 https://starlink.cx
+https://starlinkboost.com
 https://starlinkcloud.club
 https://starlinkcloud.org
 https://starlinkcloud.xyz
@@ -7881,6 +7894,7 @@ https://vgaudicank.shop
 https://vi.icarephone.com
 https://viarotel.eu.org
 https://vickiboykis.com
+https://video.monikacloud.net
 https://videocardz.com
 https://videofetch.readthedocs.io
 https://videomazani.com
@@ -8899,6 +8913,7 @@ https://www.notebookcheck.net
 https://www.notion.com
 https://www.notion.so
 https://www.novipnoad.net
+https://www.novumsolar.vip
 https://www.now61.cn
 https://www.now61.com
 https://www.nowcoder.com
@@ -8981,6 +8996,7 @@ https://www.proxifier.com
 https://www.ptt.cc
 https://www.python.org
 https://www.q88q.ga
+https://www.qbitai.com
 https://www.qclnn.com
 https://www.qhrgo.sbs
 https://www.qhrgobull.fun
