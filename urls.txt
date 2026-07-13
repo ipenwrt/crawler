@@ -1912,6 +1912,7 @@ https://api.branch.io
 https://api.cloudflare.com
 https://api.cloudflareclient.com
 https://api.cloudindex.ai
+https://api.convexity.tools
 https://api.day.app
 https://api.dingyueapi.win
 https://api.dingyueddns.life
@@ -3053,6 +3054,7 @@ https://crazystresser.net
 https://creativecommons.org
 https://crocidb.com
 https://crontab.guru
+https://crontab.online
 https://crushs.cyou
 https://crushs.top
 https://cry33.com
@@ -3576,6 +3578,7 @@ https://download.pytorch.org
 https://download.sekurvpn.com
 https://download.wireguard.com
 https://downloader.caorushizi.cn
+https://downloads.immortalwrt.org
 https://downloads.onelighter.site
 https://downloads.snapp.site
 https://dozzle.dev
@@ -3712,6 +3715,7 @@ https://e.lllm.dpdns.org
 https://e04ecf1d.ghelper.me
 https://e1-f55.pages.dev
 https://e1.xxr9ft26m5.workers.dev
+https://e11e.alidayu.alipayqq.cn
 https://e1452652-32ee-b946-e3e7-d9be7070058e.buou.lol
 https://e1edeec0.ghelper.me
 https://e21c88bc.ghelper.me
@@ -5869,6 +5873,7 @@ https://oxdtang.top
 https://oxdtangx.top
 https://p0.mahilobia.org
 https://p30download.ir
+https://p3x9v.no-mad-sub.one
 https://p888.cf
 https://pa.parsafhg.dev:8000
 https://packages.bleemeo.com
@@ -6487,6 +6492,7 @@ https://s1.iajsy.lol
 https://s1.laoda666.com
 https://s1.mylinked.org
 https://s1.subbitznet.com
+https://s1.taoqitu.lol
 https://s1.trojanflare.one
 https://s2.equinoxaa.com
 https://s2.sub.gfw.gg
@@ -8549,6 +8555,7 @@ https://www.franxx.cloud
 https://www.freebuf.com
 https://www.freecadweb.org
 https://www.freeclashnode.com
+https://www.freedesktop.org
 https://www.freeflyingcloud.xyz
 https://www.freefq.com
 https://www.freepik.com
