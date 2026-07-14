@@ -80,6 +80,7 @@ http://ant77.top
 http://api-0609.m55u97uleod7lm5.download
 http://api-pzz03vm5.linedo.xyz
 http://api.123417.xyz
+http://api.aws
 http://api.bilibili.com
 http://api.buliang0.cf
 http://api.dbssl.ir
@@ -1519,6 +1520,7 @@ https://88.ee88.tk
 https://88.lyq.916899380.xyz:8711
 https://888.2beibei.com
 https://888.868988.xyz
+https://888.boostqz.com
 https://88888.ee88.tk
 https://888ssr.xyz
 https://88cfn.dupontjoy.shop
@@ -2215,6 +2217,7 @@ https://askmanyai.cn
 https://aspoem.com
 https://assets-uat.ajio.ril.com
 https://astro.build
+https://astropad.com
 https://astutewheel.com.au
 https://async.rs
 https://at4am.io
@@ -2619,6 +2622,7 @@ https://businesshub.avast.com
 https://butppo.473221.xyz
 https://butterfly-dag.gitee.io
 https://buy.stripe.com
+https://buy.veri-tickets.top
 https://buycrypt.com
 https://buymeacoffee.com
 https://bvzlp5yfwo0g6jplac5ko4yw97srx0of.guybat-e-s-750-4-6.workers.dev
@@ -2690,6 +2694,7 @@ https://capify.com.au
 https://careers.mozilla.org
 https://castbox.fm
 https://cat.ikkt.cn
+https://catalog.licenzy-supply.store:2096
 https://catchup.mainnet.concordium.software
 https://catupload.937870.ir.cdn.ir
 https://cb.dabai.in
@@ -2738,6 +2743,7 @@ https://cdn.seyhello.sbs:2096
 https://cdn.statically.io
 https://cdn.t9c.co
 https://cdn.teaartcloud.com
+https://cdn.tlsa.top
 https://cdn.v2ex.com
 https://cdn.wumaojichang.com
 https://cdn.wwkejishe.top
@@ -2872,6 +2878,7 @@ https://clashpool.ml
 https://clashproxy.net
 https://clashsub.org
 https://clashx-addtionrules.test1234.workers.dev
+https://classicgamezone.com
 https://claude.ai
 https://claude.com
 https://clavis.to
@@ -2964,6 +2971,7 @@ https://cn.serverless.com
 https://cn.wsj.com
 https://cn.xn--iiq540h.com
 https://cn.yna.co.kr
+https://cn2.cardsakura.buzz
 https://cn4.cyberairport.work
 https://cnfeat.com
 https://cnnic.cnnic.link
@@ -4129,6 +4137,7 @@ https://futawall.com
 https://fw0.fwsub.click
 https://fx.tmioe.com
 https://fxjc.xyz
+https://fxvpn.app
 https://fzusrs.xyz
 https://g-x.us.kg
 https://g.cn
@@ -4615,6 +4624,7 @@ https://inangua.lwjyj.com
 https://indieapps.space
 https://inessential.com
 https://inews.hket.com
+https://inference.dahl.global
 https://infini-cloud.net
 https://inflact.com
 https://info.iic08924f5w3b65o.xyz
@@ -4651,6 +4661,7 @@ https://investor.atmeta.com
 https://investor.uber.com
 https://investors.broadcom.com
 https://invideo.io
+https://invite.wgetcloud.ltd
 https://invite.xlcc.live
 https://invite.xn--yvsa48r.com
 https://invite3.jidan.cx
@@ -4749,6 +4760,7 @@ https://james82.ga
 https://jamesdaily.life
 https://jami.net
 https://japidocs.agilestudio.cn
+https://javagames.cc
 https://javaguide.cn
 https://javascriptweekly.com
 https://javen205.gitee.io
@@ -4915,6 +4927,7 @@ https://kitsch.xn--8stx8olrwkucjq3b.com
 https://kitty.beer
 https://kitty.sb
 https://kitty.su
+https://kitty.work
 https://kitty.works
 https://kittyai.tech
 https://kittycloud.xx.kg
@@ -5018,6 +5031,7 @@ https://lanternpay.com
 https://lanxincloud.xyz
 https://lanzoui.com
 https://lanzoul.com
+https://lanzoux.com
 https://laobideng.xyz
 https://laodayun.com
 https://laogongshuo.com
@@ -6012,6 +6026,8 @@ https://platform.openai.com
 https://platform.stepfun.com
 https://platform.xiaomimimo.com
 https://platypush.readthedocs.io
+https://play-cs.com
+https://play.games.vit-rin.com
 https://play.ht
 https://play.rust-lang.org
 https://playfast.org
@@ -6109,6 +6125,7 @@ https://prometheus-operator.dev
 https://prometheus.ac.cn
 https://prometheus.io
 https://prometheus.monitor.azure.com
+https://prompts.chat
 https://prop.cf
 https://propellme.com.au
 https://proprivacy.com
@@ -6727,6 +6744,7 @@ https://soft98.ir
 https://sogomn.gitlab.io
 https://soho.komect.com
 https://sokg.net
+https://sokuji.kizuna.ai
 https://solfi.pro
 https://solmira.sogoyunt.cc
 https://solon.noear.org
@@ -7913,6 +7931,7 @@ https://vip-03.fl-sub.site:2096
 https://vip-status.site
 https://vip.365cloud.me
 https://vip.kernel-mirrors.org
+https://vip.putata.dpdns.org
 https://vip.putata.eu.org
 https://vip.sgjc.top
 https://vip.taoqitu.pro
@@ -8010,6 +8029,7 @@ https://wEHx49R5Z4CJWf9iNF0r.yun.cat
 https://wa.me
 https://waf.uusec.com
 https://waifu.kurumi.biz.id
+https://waiyuka.cc
 https://wallabag.org
 https://wallcats.net
 https://wallgold.ir
@@ -8337,6 +8357,7 @@ https://www.builder.io
 https://www.bumingbai.net
 https://www.business-standard.com
 https://www.businessinsider.com
+https://www.businesskorea.co.kr
 https://www.butnono.com
 https://www.buymeacoffee.com
 https://www.bybit.eu
@@ -8346,6 +8367,7 @@ https://www.c-span.org
 https://www.c6nw0s.vip:6001
 https://www.cacapex.com
 https://www.cactusvpn.com
+https://www.caiwennews.com
 https://www.caixin.com
 https://www.calcalistech.com
 https://www.callofduty.com
@@ -8564,6 +8586,7 @@ https://www.freie-messenger.de
 https://www.ft.com
 https://www.ftchinese.com
 https://www.ftclashcloud.mom
+https://www.fujirumors.com
 https://www.funds2growth.com
 https://www.fusejs.io
 https://www.fxhcn.com
@@ -9277,6 +9300,7 @@ https://www.wikihow.com
 https://www.wikimoe.com
 https://www.wildberries.ru
 https://www.windowscentral.com
+https://www.windowslatest.com
 https://www.wings666.me
 https://www.winxray.com
 https://www.wired.com
@@ -9731,6 +9755,7 @@ https://yourdomain.com
 https://youtu.be
 https://youtube.com
 https://youtube.iiilab.com
+https://youtunice.com
 https://youxi.myyfqh.tech
 https://youxiu5004.xiaofeixia.click
 https://youxiu5172.xiaofeixia.cfd
