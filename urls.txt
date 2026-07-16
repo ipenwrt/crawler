@@ -634,6 +634,7 @@ http://product.dangdang.com
 http://proxies.haisto.cn
 http://proxy.moo.jp
 http://proxypool.turinglabs.net
+http://proxypool.zshabai.cc
 http://putao.i2345.me
 http://putao.i2345.org
 http://pwiyxuju6rm8.pro
@@ -772,8 +773,10 @@ http://telegraph.rayan-config.workers.dev
 http://tempr.email
 http://text.1210923.xyz
 http://tg.cyy200.xyz
+http://tgdev.io
 http://tgdingyuecenter.dmit.us.kg:31159
 http://tgideas.qq.com
+http://tgstat.com
 http://thanos-receiver-0.thanos-receiver:8081
 http://the-sz.com
 http://thefeedreaderbot.com
@@ -1082,6 +1085,7 @@ http://xn--ihq15i3w6b.club
 http://xn--mes358a6kt95e.com
 http://xn--wtq35pfyd55o.com
 http://xsj520.top
+http://xtea.io
 http://xueqiu.com
 http://xuhsdaryte.shop
 http://xxxu.xyz
@@ -1693,6 +1697,7 @@ https://acck.364685.xyz:2098
 https://account.arkain.io
 https://account.bilibili.com
 https://accounts.binance.com
+https://accounts.x.ai
 https://acg.dev
 https://acl.syyn.pw
 https://acme-v02.api.letsencrypt.org
@@ -4476,6 +4481,7 @@ https://home.eset.com
 https://home.m.jd.com
 https://home.treasury.gov
 https://home.wwkejishe.top
+https://home.xiaoniu8123.com
 https://hondrytravis.com
 https://honganyun.me
 https://hongxing.one
@@ -6035,6 +6041,7 @@ https://platform.adobe.io
 https://platform.claude.com
 https://platform.deepseek.com
 https://platform.djjc.cfd
+https://platform.kimi.com
 https://platform.openai.com
 https://platform.stepfun.com
 https://platform.xiaomimimo.com
@@ -6862,6 +6869,7 @@ https://stat.ripe.net
 https://static-file-global.353355.xyz
 https://static.ranker.com
 https://static.rust-lang.org
+https://static.stepfun.com
 https://static.v2rayshare.net
 https://station.tuotuoyun.vip
 https://station26-cnbr512.ac2026.live
@@ -8079,6 +8087,7 @@ https://wde.ae1autumn.cc.cd
 https://wds.ecsxs.com
 https://wdsl88cc-sl.shenlong.wiki
 https://weavr.ai
+https://web.archive.org
 https://web.coo.wiki
 https://web.dev
 https://web.elevengo.ru
@@ -8685,6 +8694,7 @@ https://www.huaweicloud.com
 https://www.huaxia.cyou
 https://www.huluohu.com
 https://www.humansecurity.com
+https://www.hume.ai
 https://www.huntress.com
 https://www.huweihuang.com
 https://www.huxiu.com
@@ -9101,6 +9111,7 @@ https://www.ruanyifeng.com
 https://www.ruby-lang.org
 https://www.runningcheese.com
 https://www.runoob.com
+https://www.rust-lang.org
 https://www.rustsim.org
 https://www.rxbb71.vip:7443
 https://www.sammobile.com
@@ -9309,6 +9320,7 @@ https://www.war.gov
 https://www.washingtonpost.com
 https://www.wdssmq.com
 https://www.weave.works
+https://www.weibo.com
 https://www.westernunion.com
 https://www.wexgc.com
 https://www.wezm.net
@@ -9672,6 +9684,7 @@ https://xsus.moe
 https://xsus.wiki
 https://xsus.xyz
 https://xsyg25417.xskjsvip.dpdns.org
+https://xtea.io
 https://xtls.rprx.vision
 https://xtom-osa-1.edge.nextdns.io
 https://xtyun.top
@@ -9727,6 +9740,7 @@ https://ycx.mxjs.xyz
 https://ydapi.dingyuetot.vip
 https://yefengjc.xyz
 https://yek.link
+https://yenab4kq3ohqbpj4lxmlm47lpahaf0bk.skygo0527.top
 https://yep.top
 https://yes1.xn--mesv7f5toqlp.xyz
 https://yeslivetv.com
