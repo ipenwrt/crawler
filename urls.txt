@@ -108,6 +108,7 @@ http://archive.ubuntu.com
 http://arrow.apache.org
 http://asb.dmhpro.top:2096
 http://asb.op-house.top:2096
+http://atcentra.com
 http://awcloud.life
 http://aws.amazon.com
 http://b.naiun.node-is.green:51112
@@ -681,6 +682,7 @@ http://s3.amazonaws.com
 http://s3.subcsyun.online
 http://s4.subcsyun.online
 http://s9.serv00.com:1074
+http://scamalytics.com
 http://scary.beasts.org
 http://schemas.android.com
 http://schemas.auth0.com
@@ -695,6 +697,7 @@ http://segmentfault.com
 http://sgp02.network-cdn-gw-yd.net:45507
 http://shadowmere.akiel.dev
 http://shiyuanyinian.xyz
+http://shop.88hy.top
 http://shop.oreilly.com
 http://shoppingmall.electricbanana.click
 http://shortlink.nageoffer.com
@@ -866,6 +869,7 @@ http://weike.jd.com
 http://weiwuhui.com
 http://weoknow.com
 http://whatismyipaddress.com
+http://whoer.net
 http://wifi.vivo.com.cn
 http://wiki.apache.org
 http://wiki.cifaz.com
@@ -1228,6 +1232,7 @@ https://1nf.top
 https://1node.sbs
 https://1o2.690423.xyz:8081
 https://1panel.cn
+https://1password.com
 https://1q43.blog
 https://1rmb.tk
 https://1rzy6c5.wxll4.cfd
@@ -1323,6 +1328,7 @@ https://353g78qgfq.surfcat.store
 https://36kr.com
 https://374861a1.ghelper.me
 https://391101980.xyz
+https://399dd33c.ghelper.me
 https://39f0777a.ghelper.me
 https://3ae574b2.ghelper.me
 https://3b0795de.ghelper.me
@@ -2065,6 +2071,7 @@ https://api.x-bai.vip
 https://api.xfltd.xyz
 https://api.xhofe.top
 https://api.xiaofeigun.online
+https://api.xingyueapi.com
 https://api.xingzhige.com
 https://api.xinyo.vip
 https://api.xjichang.buzz
@@ -2466,6 +2473,7 @@ https://blog.5200515.xyz
 https://blog.adobe.com
 https://blog.aifutures.org
 https://blog.approveapi.com
+https://blog.atom.io
 https://blog.banyunxiaoxi.icu
 https://blog.bytebytego.com
 https://blog.changs.co.uk
@@ -2492,6 +2500,7 @@ https://blog.guillaume-gomez.fr
 https://blog.guowenfh.com
 https://blog.hartwork.org
 https://blog.huoding.com
+https://blog.iany.me
 https://blog.imalan.cn
 https://blog.japaric.io
 https://blog.jetbrains.com
@@ -3246,6 +3255,7 @@ https://dedirock.cn
 https://dedust.io
 https://deepfakevfx.com
 https://deepimg.io
+https://deepswe.datacurve.ai
 https://deepweb.net
 https://deepwiki.com
 https://deershare.com
@@ -3917,6 +3927,7 @@ https://fanqiang88.top
 https://fanqiangdang.com
 https://fanqiangvpn.com
 https://fanqie.buzz
+https://fanvpn.net
 https://fanyun.pro
 https://fararu.com
 https://farsnews.ir
@@ -4380,6 +4391,7 @@ https://hackernoon.com
 https://hackerone.com
 https://hacks.mozilla.org
 https://hacs.xyz
+https://hagsteel.com
 https://haibucuo.xyz
 https://hailangya.com
 https://hailitum.giountal.top
@@ -5381,6 +5393,7 @@ https://meetups.lacrypta.ar
 https://mega.io
 https://mega.nz
 https://meganesulli.com
+https://megav.app
 https://memebase.cheezburger.com
 https://meoo.com
 https://meoovpn.net
@@ -5959,6 +5972,7 @@ https://paolu.pics
 https://paper.dropbox.com
 https://pars.show
 https://parsroute.net
+https://parsuptime.com
 https://parsvip0.sbs:8443
 https://parsvip0.xyz:8443
 https://passer-by.com
@@ -5982,6 +5996,7 @@ https://pati.s6zc5ybzea.workers.dev
 https://paugram.com
 https://pavo.eu.org
 https://paws.community
+https://pay.ldxp.cn
 https://paybtc.com.au
 https://paydock.com
 https://payoneer.custhelp.com
@@ -6272,6 +6287,7 @@ https://qidijichang.com
 https://qidijichang.xyz
 https://qifei.daytimemeteor.top
 https://qifei.today.elementfx.com
+https://qijia.qhrgobull.fun
 https://qingchayun.icu
 https://qinghuanyun.top
 https://qinglong.online
@@ -6588,6 +6604,7 @@ https://sanguayun.jiumaojiu.net
 https://sanqianlijinxiuheshan.us.kg
 https://sanxijichang.com
 https://sapi.ssapi.net
+https://saraf.app
 https://saucenao.com
 https://sb.swiftnet.cloud
 https://sb3.freeapp.buzz
@@ -6600,6 +6617,7 @@ https://scaffrey.coding.net
 https://scalar-staging.riot.im
 https://scalar-staging.vector.im
 https://scalar.vector.im
+https://scamalytics.com
 https://scamminder.com
 https://scan.bestsky.tools
 https://scdy03.scsub.com
@@ -7541,6 +7559,7 @@ https://tategaki.de
 https://tc.qy1357.top
 https://tc.r07.cloudns.be
 https://tc.ztcloud.xyz
+https://tcpquality.ibsgss.uk
 https://tcptest.cn
 https://tcxf.hssl8088.icu
 https://tdmmo.xyz
@@ -8725,6 +8744,7 @@ https://www.hypercubic.ai
 https://www.hyproxy.xyz
 https://www.hzcat.net
 https://www.i18ncode.com
+https://www.ia.ac.cn
 https://www.ibm.com
 https://www.icloud.com
 https://www.idc.com
@@ -9151,6 +9171,7 @@ https://www.sec-wiki.com
 https://www.sec.gov
 https://www.semafor.com
 https://www.sensenova.cn
+https://www.sensetime.com
 https://www.servicemesher.com
 https://www.servicenow.com
 https://www.sharetribe.com
@@ -9372,6 +9393,7 @@ https://www.woggdingyueyuming.top
 https://www.wogwog.top
 https://www.woniucloud.cyou
 https://www.wordvlog.link
+https://www.worldaic.com.cn
 https://www.worldvpn.net
 https://www.worthe-it.co.za
 https://www.woshipm.com
