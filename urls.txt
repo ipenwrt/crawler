@@ -3055,6 +3055,7 @@ https://console.yunna.net
 https://consumer.huawei.com
 https://conta.sub-mitce.com
 https://contact.clearscore.com.au
+https://content.monikacloud.net
 https://contrib.rocks
 https://controlplane.tailscale.com
 https://convert.zephyrwork.work
@@ -4777,6 +4778,7 @@ https://itjustasub.icu
 https://itjustasub.net
 https://itjustasub.shop
 https://itlao6.com
+https://itnext.io
 https://itns.s3.us-east-2.amazonaws.com
 https://itubego.com
 https://ivira.ai
@@ -5103,6 +5105,7 @@ https://lemoncake.xyz
 https://lepture.com
 https://let.bnsubservdom.com
 https://letsencrypt.org
+https://levelup.gitconnected.com
 https://lh2gry1fffkx.top
 https://li2.drsaina.com
 https://liangxin.xyz
@@ -5234,6 +5237,7 @@ https://love.52pokemon66.cc
 https://love.dingyu.cf
 https://love.lulu.autos
 https://love.p6m6.com
+https://love2.p6m6.com
 https://loveguihai.asia
 https://loveskyvpn.pages.dev
 https://lowendtalk.com
@@ -5516,6 +5520,7 @@ https://movie.douban.com
 https://movie1.dianying.lat
 https://movie2.dianying.lat
 https://mozilla.cloudflare-dns.com
+https://mozillagfx.wordpress.com
 https://mp.weixin.qq.com
 https://mp4.wanlidag.top
 https://mp4t.com
@@ -6844,6 +6849,7 @@ https://sputnik57.ru
 https://sputniknews.cn
 https://spys.one
 https://sq9xy6.cpminig.com
+https://square-force.diversant317.workers.dev
 https://squareup.com
 https://sr.ht
 https://src.ydcloud.us
@@ -8645,6 +8651,7 @@ https://www.franxx.cloud
 https://www.freebuf.com
 https://www.freecadweb.org
 https://www.freeclashnode.com
+https://www.freecustom.email
 https://www.freedesktop.org
 https://www.freeflyingcloud.xyz
 https://www.freefq.com
@@ -9483,6 +9490,7 @@ https://www.zabbix.com
 https://www.zaobao.com
 https://www.zaobao.com.sg
 https://www.zaochenbao.com
+https://www.zdf.de
 https://www.zdoc.app
 https://www.zeiss.com
 https://www.zentao.net
