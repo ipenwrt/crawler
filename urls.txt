@@ -2919,6 +2919,7 @@ https://clickhouse.yandex
 https://client-api.riolu.link
 https://client-sub.aisu.life
 https://client-sub.cloudlion.top
+https://client.mastershoop.ir:2096
 https://client.webhostmost.com
 https://client00.chat.mibbit.com
 https://clomonitor.io
@@ -3540,6 +3541,7 @@ https://docs.private-ai.com
 https://docs.projectcalico.org
 https://docs.pyrogram.org
 https://docs.qq.com
+https://docs.qwencloud.com
 https://docs.ray.io
 https://docs.replit.com
 https://docs.requarks.io
@@ -6435,6 +6437,7 @@ https://renzhesub.com
 https://replicate.com
 https://reports.exodus-privacy.eu.org
 https://repzt3P1yq.qinyues4.cc
+https://research.adobe.com
 https://research.myshell.ai
 https://research.roundtable.ai
 https://research.swtch.com
@@ -6771,6 +6774,7 @@ https://sinhvien4g.com
 https://sinsocloud.top
 https://sioyek-documentation.readthedocs.io
 https://siris.eu.org
+https://site.bzqjc.top
 https://site.com
 https://site.logic-flow.cn
 https://site01.dongligang.me
@@ -7107,6 +7111,7 @@ https://sub.lmspeed.top
 https://sub.lyunsub.win
 https://sub.lzyjc.xyz
 https://sub.magic.lat
+https://sub.maoxiongnet.com
 https://sub.marshopco.ir
 https://sub.marsix.cc
 https://sub.mianfeiyun.online
@@ -7232,6 +7237,7 @@ https://sub.wendingjichang.com
 https://sub.westigon.me
 https://sub.white.pp.ua
 https://sub.whitedns.one
+https://sub.wild233.cf
 https://sub.wl-sub1.com
 https://sub.wordvlog.link
 https://sub.wukong.bond
@@ -8526,6 +8532,7 @@ https://www.cnfeat.com
 https://www.cnstock.com
 https://www.cockroachlabs.com
 https://www.cocotoyou.com
+https://www.codeflicker.ai
 https://www.codewoody.com
 https://www.coindesk.com
 https://www.commoninja.com
@@ -8946,6 +8953,7 @@ https://www.m2net.lol
 https://www.macbl.com
 https://www.macrozheng.com
 https://www.macrumors.com
+https://www.macworld.com
 https://www.mahsaserver.com
 https://www.maikami.vip
 https://www.make8.com
@@ -9256,6 +9264,7 @@ https://www.star-history.com
 https://www.starlinkss.vip
 https://www.startracecloud.com
 https://www.stcn.com
+https://www.stdaily.com
 https://www.stellar.org
 https://www.stewed.top
 https://www.strofe.com
@@ -9352,6 +9361,7 @@ https://www.tv-tokyo.co.jp
 https://www.tvlnn.com
 https://www.tweedewereldoorlog.nl
 https://www.twitch.tv
+https://www.typeless.com
 https://www.u9bbbb.com
 https://www.uber.com
 https://www.udacity.com
@@ -9511,6 +9521,7 @@ https://www.youtube-nocookie.com
 https://www.youtube.com
 https://www.youxincloud.net
 https://www.youzi.pw
+https://www.youzikaryl.top
 https://www.ytdy666.buzz
 https://www.yunduovpn.xyz
 https://www.yunq001.xyz
