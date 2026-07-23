@@ -649,6 +649,7 @@ http://qm.qq.com
 http://qws1002.serv00.net
 http://r3mrcg001269pz2.cybervena.com:50099
 http://r3mrcg001286ek2.cybervena.com:50099
+http://r3mrcg001287h3p.cybervena.com:50099
 http://r3mrcg00129437x.cybervena.com:50099
 http://rabbitmq.com
 http://radar.cloudflare.com
@@ -1194,6 +1195,7 @@ https://123apps.com
 https://123x6y9z.d01olikp.thesyeec7l60ouav1lz0tesk.top
 https://12eb5f24.ghelper.me
 https://12o.ooo
+https://12sub.yylxjichangonline.top
 https://131002.net
 https://1311a05f.ghelper.me
 https://1333111.com
@@ -1256,6 +1258,7 @@ https://20189999.xyz
 https://2024.175698.xyz
 https://20240802.canadapost-vip.com
 https://20240913.sux.lol
+https://2025.youzizizi.top
 https://202502181121431.chibaba.ggff.net
 https://202503021722111.chibaba.ggff.net
 https://202503212313501.chibaba.ggff.net
@@ -1432,6 +1435,7 @@ https://6.66jc.top
 https://6.6bcloud.top
 https://6.6lian123.top
 https://6.nezuko.cc
+https://60.lvcha.one
 https://60310b73.ghelper.me
 https://6068162b.ghelper.me
 https://60a662d2.ghelper.me
@@ -3067,6 +3071,7 @@ https://console.yunna.net
 https://consumer.huawei.com
 https://conta.sub-mitce.com
 https://contact.clearscore.com.au
+https://content-static.cctvnews.cctv.com
 https://content.monikacloud.net
 https://contrib.rocks
 https://controlplane.tailscale.com
@@ -4868,6 +4873,7 @@ https://jilu.uuvpn.xyz
 https://jimmysong.io
 https://jindoucloud.xyz
 https://jindouyun88.life
+https://jindyun.xyz
 https://jira.mesosphere.com
 https://jisoo.lulu.autos
 https://jisovpn.site
@@ -5542,6 +5548,7 @@ https://moneyeasilyfkh.top
 https://moneyeasilyxfd.top
 https://monica.im
 https://morerss.com
+https://morphe-patches.software
 https://mosquitto.org
 https://motherboard.vice.com
 https://mouha.be
@@ -6129,6 +6136,7 @@ https://playwright.dev
 https://plinkc.click
 https://plus-doc.dromara.org
 https://plus.chongzhi.art
+https://plus.rainzone.ir
 https://pm.enjoy.cloudns.biz
 https://pm2.keymetrics.io
 https://pmn.uitsrt.top
@@ -7230,6 +7238,7 @@ https://sub.tagsub.net
 https://sub.tangping.cloud
 https://sub.texo.network
 https://sub.tgzdyz2.xyz
+https://sub.thugiping.info
 https://sub.tianmaojichang.us.kg
 https://sub.tku2.com
 https://sub.tms.us.kg
@@ -7948,6 +7957,7 @@ https://users.rust-lang.org
 https://usersgate.freebustraveler.uk
 https://usr.853873.xyz
 https://uu.iqq8.top
+https://uuidleishen.xn--cjz291d.co
 https://uupload.ir
 https://uuu.glass
 https://uy6.ur0njuu6gs.workers.dev
@@ -8204,6 +8214,7 @@ https://web888.naixue222.net
 https://webbrowsertools.com
 https://webget.yfjc.xyz
 https://webinar.openai.com
+https://weblog.rogueamoeba.com
 https://webnote.cc
 https://webridge.pokeryun.link
 https://webstatic-sea.mihoyo.com
@@ -8936,6 +8947,7 @@ https://www.laruence.com
 https://www.latepost.com
 https://www.lbank.com
 https://www.lbxjc.online
+https://www.leiphone.com
 https://www.lengjiao.me
 https://www.lennyrachitsky.com
 https://www.lepton.ai
@@ -9040,6 +9052,7 @@ https://www.mxssr3.top
 https://www.mysubmail.com
 https://www.mysubsoft.com
 https://www.mz-fast.net
+https://www.nacosoau.org
 https://www.nair.sh
 https://www.naiun.co
 https://www.naiun43582.cfd
@@ -9081,6 +9094,7 @@ https://www.nite07.com
 https://www.niulaoban.shop
 https://www.nodeloc.com
 https://www.nodeseek.com
+https://www.notateslaapp.com
 https://www.notebookcheck-cn.com
 https://www.notebookcheck.net
 https://www.notion.com
@@ -9856,6 +9870,7 @@ https://y4ckkxagxaxxefca.duboji.vip
 https://y5if3fpi0lqc.top
 https://y6-3cj.pages.dev
 https://yach.me
+https://yachen.com
 https://yahahasub.com
 https://yahahasub.top
 https://yaklang.io
