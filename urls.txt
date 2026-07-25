@@ -1904,6 +1904,7 @@ https://api-hx.02000.net
 https://api-hy.02000.net
 https://api-hy.02000.top
 https://api-jx.02000.net
+https://api-jx.02000.top
 https://api-jx.02000.xin
 https://api-linkcube.net
 https://api-qw.02000.net
@@ -5297,6 +5298,7 @@ https://luolei.org
 https://luonan.tech
 https://luongnv.com
 https://luosiqimeng.freegangkou.top
+https://luoyun6.com
 https://lutaonan.com
 https://luv.xem.lat
 https://luyuyun.com
@@ -6038,6 +6040,7 @@ https://parsroute.net
 https://parsuptime.com
 https://parsvip0.sbs:8443
 https://parsvip0.xyz:8443
+https://pasnet.ru
 https://passer-by.com
 https://passport.8338.hk
 https://passport.huasheng.cn
@@ -6354,6 +6357,7 @@ https://qidijichang.xyz
 https://qifei.daytimemeteor.top
 https://qifei.today.elementfx.com
 https://qijia.qhrgobull.fun
+https://qijiavpn.salnc.kuaivpn.app
 https://qingchayun.icu
 https://qinghuanyun.top
 https://qinglong.online
@@ -6935,6 +6939,7 @@ https://ss.hxcq.cc
 https://ss.lrdxw.club
 https://ss.reiz.link
 https://ss.suyunti.cc
+https://ss88.beifengyuns.top
 https://ssch.api.moji.com
 https://sshub.xyz
 https://ssl.ppt369.com
