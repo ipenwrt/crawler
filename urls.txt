@@ -358,6 +358,7 @@ http://gold.xitu.io
 http://gpt4o.so
 http://graphml.graphdrawing.org
 http://gromnitsky.users.sourceforge.net
+http://gtk-rs.org
 http://guanxi.cloudns.be:8000
 http://guardnet.ir
 http://guolicheng.windowsupdate.lol
@@ -1182,6 +1183,7 @@ https://10th.sub-airport.com
 https://1111-releases.cloudflareclient.com
 https://1122.yunjijd.xyz
 https://1122331.xyz
+https://114514.youzizizi.top
 https://115.com
 https://119dot29dot29dot29.cloudflare-dns.com
 https://12123.org
@@ -2871,6 +2873,7 @@ https://chidd.net
 https://chiguayun.me
 https://chiguayun.pro
 https://chilimatic.hashnode.dev
+https://china-3net-route-report.souldance4.chatgpt.site
 https://china.caixin.com
 https://china.huawei-cloud.shop
 https://china.kyodonews.net
@@ -3236,6 +3239,7 @@ https://datavpn.online
 https://datmicxg.mdssconfig.com
 https://davedoesdev.com
 https://daverupert.com
+https://davidlegare.ghost.io
 https://dawson0207.xn--3iq226gfdb94q.com
 https://daxpay.demo.bootx.cn
 https://daxun.buzz
@@ -4201,6 +4205,7 @@ https://fw0.fwsub.click
 https://fx.tmioe.com
 https://fxjc.xyz
 https://fxvpn.app
+https://fy.blackhats.net.au
 https://fzusrs.xyz
 https://g-x.us.kg
 https://g.cn
@@ -4525,6 +4530,7 @@ https://hkj.lanzous.com
 https://hktixcloud.pwzvd.cn
 https://hm2019721.herokuapp.com
 https://hm2019721.ml
+https://hmec.app
 https://hn1r5k7322.bitmusttw.com
 https://hnrss.org
 https://holdings.fujifilm.com
@@ -5554,6 +5560,7 @@ https://mojie0201.xn--8stx8olrwkucjq3b.com
 https://molunerfinn.com
 https://momoyu.app
 https://momu.coocs.lol
+https://monetizeai.site
 https://money.udn.com
 https://moneyeasilyfkh.top
 https://moneyeasilyxfd.top
@@ -6716,9 +6723,11 @@ https://sdyun.cc
 https://sea-5l8.pages.dev
 https://search.app
 https://search.bilibili.com
+https://search.brave.com
 https://search.naver.com
 https://secretinsociety.com
 https://security.cloudflare-dns.com
+https://securityaffairs.com
 https://securityserver.dev01.devland.is
 https://see-mybb-6.com
 https://seed.bytedance.com
@@ -8111,6 +8120,7 @@ https://vless3.datatestvless.click
 https://vlesscm.fuyiwl.com
 https://vlesss.xttd.eu.org
 https://vlipsy.com
+https://vlso.1d.mom
 https://vmax.ai
 https://vms.drweb.com
 https://vms.drweb.ru
@@ -9058,6 +9068,7 @@ https://www.mojie.cyou
 https://www.mooc.cn
 https://www.moonriver.sbs
 https://www.morningstar.com
+https://www.moviesho.com
 https://www.mozilla.org
 https://www.mpyit.com
 https://www.msit.go.kr
@@ -9967,6 +9978,7 @@ https://youxiu8168.xiaofeixia.info
 https://youxiu88.xiaofeixia.click
 https://youxiu9571.xiaofeixia.click
 https://youyoo.ccwink.cc
+https://youzi.win
 https://yoyapai.com
 https://ypso.cc
 https://yq8kx.no-mad-world.club
