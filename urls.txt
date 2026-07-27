@@ -1109,6 +1109,8 @@ http://yebekhe.link
 http://yebekhe.site
 http://yk.iot098.cn
 http://youhui.plus
+http://yourdomain.com
+http://yourdomain.com:1905
 http://youtu.be
 http://youtube.com
 http://ytjs.fun
@@ -1820,6 +1822,7 @@ https://aizaozao.com
 https://ajd239d3jh.jastmp.org
 https://ajreport.beliefteam.cn
 https://akarin.dev
+https://akile.ai
 https://akool.com
 https://alex0.dev
 https://alexproxy001.herokuapp.com
@@ -3918,6 +3921,7 @@ https://expressjs.com
 https://extractor-demos.pages.dev
 https://extrm.info
 https://ez-a0a517.ezaccess15bd9b0.workers.dev
+https://ezaccess1-spider-ezaccess1-c797.up.railway.app
 https://ezidebit.com
 https://f-35.store
 https://f-droid.org
@@ -4304,6 +4308,7 @@ https://git.tt-rss.org
 https://git.xmpp-it.net
 https://git.yulei.icu
 https://gitcode.com
+https://gitcode.net
 https://gitcoin.co
 https://gitea.com
 https://gitee.com
@@ -4743,6 +4748,7 @@ https://investors.broadcom.com
 https://invideo.io
 https://invite.payfun.com
 https://invite.wgetcloud.ltd
+https://invite.xingch.live
 https://invite.xlcc.live
 https://invite.xn--yvsa48r.com
 https://invite3.jidan.cx
@@ -4922,6 +4928,7 @@ https://josh.robsonchase.com
 https://joshlf.com
 https://josig-f74b41601fc7.herokuapp.com
 https://journals.aps.org
+https://journals.sagepub.com
 https://joust.com.au
 https://jp.taishan1.pro
 https://jp.tdns.dev
@@ -5090,6 +5097,7 @@ https://kunlun.kunlun01.com
 https://kurdstore.info
 https://kurominetwork.ggff.net
 https://kuromisubs.shop
+https://kutumu.top
 https://kuutamoinen.xyz
 https://kxswa.tk
 https://kyvless.pages.dev
@@ -8121,6 +8129,7 @@ https://vlesscm.fuyiwl.com
 https://vlesss.xttd.eu.org
 https://vlipsy.com
 https://vlso.1d.mom
+https://vlso1.1d.mom
 https://vmax.ai
 https://vms.drweb.com
 https://vms.drweb.ru
@@ -9525,6 +9534,7 @@ https://www.wyr.me
 https://www.xda-developers.com
 https://www.xg-hub.icu
 https://www.xg-site03.xyz
+https://www.xhby.net
 https://www.xhei.ml
 https://www.xiabingbao.com
 https://www.xiaobaicloud.tk
