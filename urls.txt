@@ -68,6 +68,7 @@ http://admin1337special.hackme.thm:40009
 http://adventofcode.com
 http://aelr.cc
 http://aiease.ai
+http://aiforensics.org
 http://ainita.net
 http://airbrush.com
 http://aiseeke.dpdns.org
@@ -2124,6 +2125,7 @@ https://api3.6yuan.top
 https://api3.cls.cn
 https://api7.6yuan.top
 https://apiceshi.51alibaba.top
+https://apidc.dnso.ccwu.cc:2096
 https://apidy.pqjc.site
 https://apifox.com
 https://apii.xqc.best
@@ -2807,6 +2809,7 @@ https://cdnbao.foxi4.com
 https://cdnrss.starlinkclash.ggff.net
 https://ce433ae2.jego.vip
 https://ce898261.jego.vip
+https://cellfie.ge
 https://cenguigui.cn
 https://cert-manager.io
 https://ceshi.888451.xyz
@@ -4571,6 +4574,7 @@ https://host.ssrbox.com
 https://hostloc.com
 https://hostry.com
 https://hotairballon.run.goorm.io
+https://houjoe.me
 https://howdy.id
 https://hpdifqq.pcf8enu.com
 https://hqjpea8p4xkd.top
@@ -6681,6 +6685,7 @@ https://saibolys.one
 https://sainaex.ir
 https://sakuracat1203.xn--3iq226gfdb94q.com
 https://salsa.debian.org
+https://sammyguru.com
 https://samradapi-test.devland.is
 https://sandstone.com.au
 https://sandworm.pages.dev
@@ -6769,6 +6774,7 @@ https://sfj.sufujia.top
 https://sg.adhole.org
 https://sgcloud.icu
 https://sh.dport.top
+https://shaap.eepzau.org
 https://shadow-socks-share.herokuapp.com
 https://shadowlink.vip
 https://shadowmere.akiel.dev
@@ -7028,6 +7034,7 @@ https://stripe.com
 https://strongvpn.com
 https://sttsub.top
 https://study.jaycloud11111.top
+https://study.small1999.sbs
 https://study1.v1999.sbs
 https://stytch.com
 https://su-b.yun.cat
@@ -8128,6 +8135,7 @@ https://vless3.datatestvless.click
 https://vlesscm.fuyiwl.com
 https://vlesss.xttd.eu.org
 https://vlipsy.com
+https://vllm.ai
 https://vlso.1d.mom
 https://vlso1.1d.mom
 https://vmax.ai
