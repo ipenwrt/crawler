@@ -669,6 +669,7 @@ http://rentry.co
 http://repo.or.cz
 http://responsivedesignweekly.com
 http://rickyhan.com
+http://rihou.cc:88
 http://rj.lmapp.cc
 http://rk2.izoizoizo.top:43505
 http://rot.9o9.top:880
@@ -1269,6 +1270,7 @@ https://202502181121431.chibaba.ggff.net
 https://202503021722111.chibaba.ggff.net
 https://202503212313501.chibaba.ggff.net
 https://202503230057441.chibaba.ggff.net
+https://2026.youzizizi.top
 https://2060224a.angel-7ih.pages.dev
 https://20647ea7.ghelper.me
 https://20cfe2ef.ghelper.me
@@ -1471,6 +1473,7 @@ https://668993.xyz
 https://66c4d4.brighthorizon.cc
 https://66c6d6.whisperingbreeze.cc
 https://675e7b11.ghelper.me
+https://6800.kstore.vip
 https://68123106-3e43-4958-b75a-b06e81eabf79.50d88e28-a870-497d-bf87-c20fb6802871.camdvr.org
 https://68422fde.jego.vip
 https://6953.sub-bpa8xsvb-huojian.top
@@ -1545,6 +1548,7 @@ https://866774ca.ghelper.me
 https://87c78586.ghelper.me
 https://88.ee88.tk
 https://88.lyq.916899380.xyz:8711
+https://8815.kstore.vip
 https://888.2beibei.com
 https://888.868988.xyz
 https://888.boostqz.com
@@ -1569,6 +1573,7 @@ https://911tg3rs.com
 https://9170cfd1.ghelper.me
 https://91chigua-vpn.com
 https://91sssvip.us.kg
+https://9280.kstore.vip
 https://92oosk.wcrcz.com
 https://93d1489c.ghelper.me
 https://94f8a327.ghelper.me
@@ -1580,6 +1585,7 @@ https://96c4b474.ghelper.me
 https://96fc0298.ghelper.me
 https://97-fz.rkn.gov.ru
 https://9770f00d98e.bigbigwatermelon.com
+https://9877.kstore.space
 https://98a6251b6cd7471da86cca993b6dbe6f.36d.biz
 https://98d8c292.ghelper.me
 https://9994a273.ghelper.me
@@ -2998,6 +3004,7 @@ https://cloudfisher.top
 https://cloudflare-dns.com
 https://cloudflare-gateway.com
 https://cloudflare-vless-trojan.lyqnihao.dpdns.org
+https://cloudflare.com
 https://cloudflare.mom
 https://cloudflare.net
 https://cloudflareiran1.pages.dev
@@ -3050,6 +3057,7 @@ https://codereview.stackexchange.com
 https://coderwall.com
 https://codesearch.aelve.com
 https://coding.net
+https://codypy.ir
 https://cognito-idp.eu-central-1.amazonaws.com
 https://coinjar.com
 https://coinlocally.com
@@ -3376,6 +3384,7 @@ https://dhhrp.no-mad-sub.one
 https://di4e.kefu.email
 https://di5.di5ji.lat
 https://di5ji.lat
+https://diamond.jp
 https://diffusesystems.net
 https://dify.ai
 https://digimoviez.com
@@ -3415,6 +3424,7 @@ https://discu.eu
 https://discuss-cn.bestxtools.com
 https://distractionfreeapps.com
 https://disusdt.vip
+https://dito.ph
 https://diygod.me
 https://dj.taipeicity.news
 https://djjc.cfd
@@ -3900,6 +3910,7 @@ https://ernestryu.com
 https://erp.lframework.com
 https://erpnext-demo.frappe.cloud
 https://eseminar.tv
+https://eshop.dito.ph
 https://esimsetup.android.com
 https://esp32.com
 https://et.seaspirit.dpdns.org
@@ -4121,6 +4132,8 @@ https://foldjc.top
 https://follow.is
 https://followcloud.space
 https://fonts.adobe.com
+https://foreverse.app
+https://foreverse.cn
 https://forks.giegie.loan
 https://form-create.com
 https://forms.gle
@@ -6121,6 +6134,7 @@ https://pgbps.ccwu.cc
 https://pgid.fx88888888.com
 https://phaazon.net
 https://photoeditor.ai
+https://photorumors.com
 https://photos.caixin.com
 https://php.404003.xyz
 https://phwalls.com
@@ -6475,6 +6489,7 @@ https://red90-hh.click
 https://redash.io
 https://redis.io
 https://redis.tinycraft.cc
+https://redisp.life
 https://redmonk.com
 https://rednafi.com
 https://redspider.gitbook.io
@@ -7021,6 +7036,7 @@ https://status.openai.com
 https://status.phootokar.ir
 https://status.soyoteam.com
 https://status.x.ai
+https://steamcommunity.com
 https://steamstat.us
 https://steel68.qjty.buzz
 https://steemit.com
@@ -7714,6 +7730,7 @@ https://test.com
 https://test.herokuapp.com
 https://test.qhrgobull.fun
 https://test.stytch.com
+https://testcf.motherfuck.dpdns.org
 https://testingcf.jsdelivr.net
 https://texon.io
 https://textcortex.com
@@ -7887,6 +7904,7 @@ https://tv.cctv.com
 https://tv.modemhub.work
 https://tv.zaringo.sbs
 https://tv2.zaringo.sbs
+https://tvbox.catvod.com
 https://tw.stock.yahoo.com
 https://tweedegolf.nl
 https://twox.ir
@@ -9014,6 +9032,7 @@ https://www.librechat.ai
 https://www.liesauer.net
 https://www.lightnode.com
 https://www.lime345.buzz
+https://www.limeesim.com
 https://www.limetorrents.pro
 https://www.lingchen.kim
 https://www.lingjiangtai.com
@@ -9224,6 +9243,7 @@ https://www.pkqcloud.com
 https://www.plantuml.com
 https://www.plonkit.net
 https://www.pluchon.com
+https://www.polarstars.org
 https://www.politico.com
 https://www.postgresql.org
 https://www.ppssqq.com
@@ -9426,6 +9446,7 @@ https://www.tiobe.com
 https://www.tiraniddo.dev
 https://www.tiziwrops.com
 https://www.tline.website
+https://www.tmtpost.com
 https://www.tnhh.net
 https://www.tntyun.cc
 https://www.tokeniko.com
@@ -10054,6 +10075,7 @@ https://yyds.emovpn.top
 https://yyds.loon.icu
 https://yyds.xh583.top
 https://yyds.xueshan.shop
+https://yydsys.top
 https://yyhj.ae1autumn.dpdns.org
 https://yysk.yitzu.cn.qingf.top
 https://yyzz.ink
