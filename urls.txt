@@ -3539,6 +3539,7 @@ https://docs.cfw.lbyczf.com
 https://docs.cherry-ai.com
 https://docs.cloudbees.com
 https://docs.codax.site
+https://docs.comfy.org
 https://docs.cozy.io
 https://docs.crawlab.cn
 https://docs.cubic.dev
@@ -5467,6 +5468,7 @@ https://max.rethinkdns.com
 https://max.ru
 https://maxhjd.jjzcloud.top
 https://maxkb.cn
+https://maya.net
 https://mb.manbo8.site
 https://mbinary.xyz
 https://mc.jiedianxielou.workers.dev
@@ -6063,6 +6065,7 @@ https://pan.qiwenshare.com
 https://pan.quark.cn
 https://pan.wxqqurl.cn
 https://pan.xunlei.com
+https://panda-sub.178278.xyz
 https://pandafly.site
 https://pandoc.org
 https://pandownload.net
@@ -7334,6 +7337,7 @@ https://sub.venurax.xyz
 https://sub.verybigball.org
 https://sub.viefast.vn
 https://sub.vip.sd
+https://sub.vlessfo.ru
 https://sub.vpntz.com
 https://sub.vvcloud.us.kg
 https://sub.websubscribe.net
@@ -8757,6 +8761,7 @@ https://www.epubit.com
 https://www.erikpartridge.com
 https://www.erupt.xyz
 https://www.eset.com
+https://www.ether.fi
 https://www.etnews.com
 https://www.euractiv.com
 https://www.evan888.top
@@ -9114,6 +9119,7 @@ https://www.mindskip.net
 https://www.mindvideo.ai
 https://www.minecraft.net
 https://www.minimax.io
+https://www.minimaxi.com
 https://www.mir.com.my
 https://www.mirusubs.com
 https://www.mittrchina.com
@@ -9351,6 +9357,7 @@ https://www.scifinow.co.uk
 https://www.scmp.com
 https://www.sec-wiki.com
 https://www.sec.gov
+https://www.sega.co.jp
 https://www.semafor.com
 https://www.sensenova.cn
 https://www.sensetime.com
