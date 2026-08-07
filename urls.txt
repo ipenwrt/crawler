@@ -388,6 +388,8 @@ http://hdtoday.cc
 http://helloreverb.com
 http://hemin.cn
 http://hg.nginx.org
+http://hg1.levikogjgfdd.ir:40028
+http://hhlfy.twiladaphne.ndjp.net
 http://hi.bonds.id
 http://highspeedinternet.com
 http://higrid.net
@@ -1677,6 +1679,10 @@ https://a04.flaff01.one
 https://a1-tss.pages.dev
 https://a1.8jiasu.com
 https://a1.allbluess.pro
+https://a105039.lvcha.me
+https://a105062.lvcha.me
+https://a105080.lvcha.me
+https://a105082.lvcha.me
 https://a10k.co
 https://a2.shidianban.top
 https://a241219.888545.xyz
@@ -5144,6 +5150,7 @@ https://kurominetwork.ggff.net
 https://kuromisubs.shop
 https://kutumu.top
 https://kuutamoinen.xyz
+https://kv.074167.xyz
 https://kxswa.tk
 https://kyvless.pages.dev
 https://l.dabai.in
@@ -5224,6 +5231,7 @@ https://lichuanyang.top
 https://ligahosting.com
 https://lightningspeed.zh-a-fengniaogames.com
 https://lightyearvpn.com
+https://lightyun.top
 https://lihi.cc
 https://lihuayun1232.cfd
 https://likejennie.pages.dev
@@ -6811,6 +6819,7 @@ https://seele.stadynode.online
 https://selectvisa.landin.ir
 https://selfwealth.com.au
 https://sematec-co.com
+https://semiconductor.samsung.com
 https://seminar.mobilensm.ir
 https://semver.org
 https://senders.yahooinc.com
@@ -9586,6 +9595,7 @@ https://www.videogameschronicle.com
 https://www.videolan.org
 https://www.vidu.studio
 https://www.viget.com
+https://www.vincentschmalbach.com
 https://www.vipole.com
 https://www.virustotal.com
 https://www.vividon.ai
@@ -9960,6 +9970,7 @@ https://xn--wtq35pfyd55o.co
 https://xn--wtq35pfyd55o.com
 https://xn--xc3ao8r.live
 https://xn--xnmesz9ptugxg-xn6g.com
+https://xn--yet.xn--766a.top
 https://xn--yets78bbhi.top
 https://xn--yetu3xij4b.com
 https://xn--z4q48lcvpsq0c.com
