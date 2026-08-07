@@ -2502,6 +2502,7 @@ https://bitplane.net
 https://biu001.com
 https://biubiufast.com
 https://biubiux.online
+https://blackhat.com
 https://blackpink.lulu.autos
 https://blag.nemo157.com
 https://blazeai.boxu.dev
@@ -2588,6 +2589,7 @@ https://blog.wdssmq.com
 https://blog.wizos.me
 https://blog.yitianshijie.net
 https://blog.yoshuawuyts.com
+https://blog.yunbai.icu
 https://blog.ywcccz.cn
 https://blog.zrf.me
 https://blog1.dmit.us.kg
@@ -4672,6 +4674,7 @@ https://hyui.apocalypse.cc.cd
 https://hyvps.hytron.io
 https://hz.dport.top
 https://hzyy.lanzoux.com
+https://i.12.kg
 https://i.chzbgr.com
 https://i.delta.chat
 https://i.fei.best
@@ -4912,6 +4915,7 @@ https://jetstream.site
 https://jf.mibu.eu.org
 https://jfjs.cc
 https://jfjs.xyz
+https://jfrog.com
 https://jgjs-connect.com
 https://jgjs2-connect.com
 https://jgpy.shop
@@ -6099,6 +6103,7 @@ https://panel.nfspeed01.com
 https://panel.quickv2.com
 https://panel.shabtaban.ir
 https://panel.v2ray.it
+https://panel.versland.io
 https://panel.xuebifast.com
 https://panel.ykkk.best
 https://panel3.touhou.tel
@@ -6551,6 +6556,7 @@ https://replicate.com
 https://reports.exodus-privacy.eu.org
 https://repzt3P1yq.qinyues4.cc
 https://research.adobe.com
+https://research.meta.ai
 https://research.myshell.ai
 https://research.roundtable.ai
 https://research.swtch.com
@@ -6647,6 +6653,7 @@ https://runapi.net
 https://runbooks.prometheus-operator.dev
 https://runlian.cc
 https://runner-cortex-tenant.beta.runwhen.com
+https://runtimewire.com
 https://rush.gold
 https://rushlmo.org
 https://rust.cc
@@ -7071,6 +7078,7 @@ https://status.openai.com
 https://status.phootokar.ir
 https://status.soyoteam.com
 https://status.x.ai
+https://stealward.app
 https://steamcommunity.com
 https://steamstat.us
 https://steel68.qjty.buzz
@@ -7233,6 +7241,7 @@ https://sub.lianpi.tk
 https://sub.lingche.icu
 https://sub.lly.cz
 https://sub.lmspeed.top
+https://sub.lyravault.ir:443
 https://sub.lyunsub.win
 https://sub.lzyjc.xyz
 https://sub.magic.lat
@@ -8041,6 +8050,7 @@ https://url.v1.mk
 https://url72.ctfile.com
 https://us-proxypool.herokuapp.com
 https://us.freecat.cloud
+https://us.nothing.tech
 https://us.ziyun.cyou
 https://us02-lax.beijing.st
 https://us1.zhuk.dpdns.org
@@ -8544,6 +8554,7 @@ https://www.anyanygame.com
 https://www.anything.com
 https://www.aomeitech.com
 https://www.aoxiangyun.win
+https://www.apa.org
 https://www.apache.org
 https://www.aparat.com
 https://www.aparatchi.com
@@ -8717,6 +8728,7 @@ https://www.daisee.com
 https://www.damai666.com
 https://www.darklaunch.com
 https://www.darkreading.com
+https://www.ddaily.co.kr
 https://www.ddinstagram.com
 https://www.deepl.com
 https://www.definestudio.in
@@ -9687,6 +9699,7 @@ https://www.yhc1314dy.link
 https://www.yicai.com
 https://www.yiibai.com
 https://www.yingzi01.com
+https://www.yingzi02.com
 https://www.yiyuanjichang.net
 https://www.yizhibo.com
 https://www.yjk.im
