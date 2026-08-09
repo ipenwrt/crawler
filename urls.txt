@@ -829,6 +829,7 @@ http://universaldependencies.org
 http://updates.jenkins-ci.org
 http://uploaded.ir
 http://urls.st
+http://us-ga-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe
 http://us08.network-cdn-gw-yd.net:43212
 http://us10.ssr.ee
 http://user.dafeiji.one
@@ -2344,6 +2345,7 @@ https://b06cdcb5.ghelper.me
 https://b0chi.r-yu.me
 https://b1.mikasass.pro
 https://b105039.lvcha.me
+https://b105082.lvcha.me
 https://b1a11a83.ghelper.me
 https://b1tf1t.top
 https://b2.seaspirit.dpdns.org
@@ -4930,6 +4932,7 @@ https://jgjs-connect.com
 https://jgjs2-connect.com
 https://jgpy.shop
 https://jgpyjc.top
+https://jianhancloud.cn
 https://jiasu.la
 https://jich.tih2.eu.org
 https://jichang.123417.xyz
@@ -7732,6 +7735,7 @@ https://tailchat.msgbyte.com
 https://tailscale.com
 https://tailwindcss.com
 https://takcharkh.snappfood.ir
+https://talalinks.lyracraft.ir
 https://talk.citahub.com
 https://tam.gov.taipei
 https://tamlok.gitee.io
@@ -8274,6 +8278,7 @@ https://vpnserverhub.com
 https://vpnyyds.link
 https://vps.aifoxin.com:37970
 https://vps.hosting
+https://vps.mc666.top
 https://vtwoc1.top
 https://vtwoc3.top
 https://vue-admin-beautiful.com
@@ -9753,6 +9758,7 @@ https://www.zhangxinxu.com
 https://www.zhaobg.com
 https://www.zhenyevpn.xyz
 https://www.zhihu.com
+https://www.ziyoufly.com
 https://www.zmonster.me
 https://www.zmrenwu.com
 https://www.zoomit.ir
