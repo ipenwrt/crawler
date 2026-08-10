@@ -251,6 +251,7 @@ http://developer.openstack.org
 http://developers.cloudflare.com
 http://developers.openai.com
 http://devicetree.org
+http://dey.lnmarketplace.net
 http://df.zweistein.cz
 http://dingyue.myzone.site
 http://dingyue2.qyjc.xyz
@@ -1072,6 +1073,7 @@ http://www.zhanxin.info
 http://www.zhenyevpn.xyz
 http://www.zhihu.com
 http://www.zhuaxia.com
+http://www.ziyoufly.com
 http://www.zmonster.me
 http://wxshi.top:9090
 http://wy.hkaa0.top
@@ -2234,6 +2236,7 @@ https://apps.kde.org
 https://apps2app.com
 https://appssalon.de
 https://appstoreprice.org
+https://appurl.ppacc.cc
 https://aps-workspaces.us-west-2.amazonaws.com
 https://apt-y-install.sd-yun.xyz
 https://apt.download-config-ppy.cyou
@@ -5310,6 +5313,7 @@ https://litewindy.top
 https://littleqqq.co
 https://liulangdiqiu.cc
 https://liuyingyun.work
+https://livdub.com
 https://live.404003.xyz
 https://live.fanmingming.cn
 https://live.fanmingming.com
@@ -6472,6 +6476,7 @@ https://qrbaknw9lnde.top
 https://qriowkpqhgxjnapxpdgc.supabase.co
 https://qu.ax
 https://quay.io
+https://quetta.net
 https://quicksnap.fujifilm.com
 https://quillbot.com
 https://quilljs.com
@@ -6764,6 +6769,7 @@ https://sakuracat1203.xn--3iq226gfdb94q.com
 https://salsa.debian.org
 https://sammyguru.com
 https://samradapi-test.devland.is
+https://sandogh.flowshipnet.com
 https://sandstone.com.au
 https://sandworm.pages.dev
 https://sanfen002.xyz
@@ -7249,6 +7255,7 @@ https://sub.jfjs.cc
 https://sub.jige.li
 https://sub.jileiyun.top
 https://sub.jileiyun.us.kg
+https://sub.jjz125abpay.top
 https://sub.jjzsub01.com:30010
 https://sub.juzicloud.vip
 https://sub.kaolacloud.site
@@ -8534,6 +8541,7 @@ https://www.a100.sbs
 https://www.aadhav.me
 https://www.aakashweb.com
 https://www.aapanel.com
+https://www.abc.net.au
 https://www.aboutamazon.com
 https://www.abubalay.com
 https://www.accountkiller.com
@@ -8728,6 +8736,7 @@ https://www.cra.ir
 https://www.crazymailing.com
 https://www.crew.icu
 https://www.cringely.com
+https://www.cromite.org
 https://www.cross666.top:9423
 https://www.crosswall.org
 https://www.crosszcloud.xyz
@@ -8831,6 +8840,7 @@ https://www.expressvpn.com
 https://www.expressvpn.works
 https://www.f-secure.com
 https://www.f2ray.com
+https://www.faceseek.online
 https://www.fakeaddressgenerator.com
 https://www.fakenamegenerator.com
 https://www.fakespot.com
