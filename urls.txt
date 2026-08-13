@@ -593,6 +593,7 @@ http://noorgpt.ir
 http://nosubscription.org
 http://notes.valdikss.org.ru
 http://notlsd.com
+http://ns.ch
 http://nuxyun.v2rayflash.top
 http://nvjiodsuhfb.shop
 http://ofdwqebhuzta.shop
@@ -1291,6 +1292,7 @@ https://221877f7-7b37-32f2-b6ad-d76cffb05c8d.nginx24tanz.xyz
 https://22cc.dbcloud.sbs
 https://231787.xyz
 https://23333.youzizizi.top
+https://234.qzz.io
 https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz
 https://25054128.xyz
 https://262235.xyz
@@ -1556,6 +1558,7 @@ https://81a6e0cd-5a8a-3500-997d-d7b3b73465d3.huaweippy.com
 https://81bfa329.ghelper.me
 https://822c634a.ghelper.me
 https://829f0f86.ghelper.me
+https://83232441.xyz
 https://835d842d.ghelper.me
 https://84b262c8.ghelper.me
 https://86400.com.au
@@ -1604,6 +1607,7 @@ https://97893-2-34-333-9-ioikkd.xswl-fff.com
 https://9877.kstore.space
 https://98a6251b6cd7471da86cca993b6dbe6f.36d.biz
 https://98d8c292.ghelper.me
+https://999.youtu0.com
 https://9994a273.ghelper.me
 https://999y.euquw.cn
 https://99ding.men
@@ -1719,6 +1723,7 @@ https://aaaa.gay
 https://aac.wzai.top
 https://aaxc.club
 https://ab.dabai.in
+https://abadis.ir
 https://abc.52pokemon.cc
 https://abc.com
 https://abc.gosurfing.net
@@ -2727,9 +2732,11 @@ https://c.buyzur.com
 https://c.eoa.ccwu.cc
 https://c.jichangs.com
 https://c.jiedianxielou.workers.dev
+https://c.kilxs.cn
 https://c.xcvpn.me
 https://c.xfuti.buzz
 https://c.xfuti.shop
+https://c.xiyou666.xyz
 https://c.yousu.cc
 https://c0660044.ghelper.me
 https://c0c6b56b.ghelper.me
@@ -3836,6 +3843,7 @@ https://e.coding.net
 https://e.dlife.cn
 https://e.ee88.tk
 https://e.lllm.dpdns.org
+https://e.pcloud.com
 https://e04ecf1d.ghelper.me
 https://e1-f55.pages.dev
 https://e1.xxr9ft26m5.workers.dev
@@ -3945,6 +3953,7 @@ https://epclub.xyz
 https://epg.112114.xyz
 https://epg.pw
 https://epg.v1.mk
+https://epg.zsdc.eu.org
 https://epoch.ai
 https://erciyun.net
 https://erfanzadeh.ir
@@ -4434,6 +4443,7 @@ https://gougou123.umgtb.cn
 https://goumaituijian.xyz
 https://gourav.io
 https://gpt4o.so
+https://gptvpnhelper.com
 https://gpukevzrsc.eastasia.cloudapp.azure.com
 https://grafana.com
 https://grail.cs.washington.edu
@@ -4760,6 +4770,7 @@ https://img.fastcybers.com
 https://img.ikaka.in
 https://img.otruyenapi.com
 https://img.ozzo.top
+https://img.petnooko.com
 https://img.shields.io
 https://img.xjh.me
 https://img.xn--mesv8bx6xmtl.com
@@ -5049,6 +5060,7 @@ https://kalbodteam.ir
 https://kami.tw93.fun
 https://kan.gar.ooo
 https://kanao.xyz
+https://kaneo.app
 https://kaochang.click
 https://kaolacloud.site
 https://karing.app
@@ -5221,6 +5233,7 @@ https://ldgb.pages.dev
 https://ldld.whtjdasha.com
 https://ldp2642.brucewang777.eu.cc
 https://leaflow.net
+https://learn.chatgpt.com
 https://learngitbranching.js.org
 https://leezn.eu.org
 https://left.pink
@@ -5459,6 +5472,7 @@ https://magic-api.ssssssss.org.cn
 https://magicae.pics
 https://magiceden.us
 https://magiceraser.org
+https://magicv.art
 https://mahanmusic.net
 https://maho.chipsfuck.fish
 https://mahour-music.ir:2053
@@ -5616,6 +5630,7 @@ https://ml6.hfhfb.homes
 https://mlimli.art
 https://mlsb.lol
 https://mlshu.com
+https://mlshu.top
 https://mlshu.xyz
 https://mly01-1111.miaolianyun.my
 https://mly01.miaolianyun.my
@@ -6537,6 +6552,7 @@ https://rarbg.to
 https://raspy-silence-6035.c7b1iy135u.workers.dev
 https://raw.fastgit.org
 https://raw.fgit.ml
+https://raw.giteeusercontent.com
 https://raw.githack.com
 https://raw.gitmirror.com
 https://raw.iqiq.io
@@ -6556,6 +6572,7 @@ https://readkit.app
 https://readpo.com
 https://readwise.io
 https://realvpn.v2yunvipaff.com
+https://realvtest.galaxyvipaff01.cc
 https://realvtest.qytvipaff.cc
 https://reborn.kaochang.ltd
 https://record.piao.news
@@ -7086,6 +7103,7 @@ https://st-sub.fly.dev
 https://stability.ai
 https://stackedit.io
 https://stackoverflow.com
+https://staffdeck.openbmb.cn
 https://stanforduniversity.qualtrics.com
 https://star-history.com
 https://star-rail-map.appsample.com
@@ -7942,6 +7960,7 @@ https://tools.video
 https://toolschi.com
 https://topiam.cn
 https://topsex.cc
+https://topsters.co
 https://tor-bridge.scaledra.com
 https://torna.cn
 https://toshare.tosslk.xyz
@@ -8004,6 +8023,7 @@ https://tv.modemhub.work
 https://tv.zaringo.sbs
 https://tv2.zaringo.sbs
 https://tvbox.catvod.com
+https://tw.boostqz.com
 https://tw.stock.yahoo.com
 https://tweedegolf.nl
 https://twox.ir
@@ -8637,6 +8657,7 @@ https://www.barebones.com
 https://www.base64encode.net
 https://www.base64encode.org
 https://www.bayeuxmuseum.com
+https://www.bbc.co.uk
 https://www.bbc.com
 https://www.bee2.cloud
 https://www.behance.net
@@ -8919,6 +8940,7 @@ https://www.ftclashcloud.mom
 https://www.fujirumors.com
 https://www.funds2growth.com
 https://www.fusejs.io
+https://www.futizi.net
 https://www.fxhcn.com
 https://www.fzyt1.com
 https://www.gamedeveloper.com
@@ -8969,6 +8991,7 @@ https://www.haijiaoshi.com
 https://www.handelsblatt.com
 https://www.hao6v.cc
 https://www.happ.su
+https://www.happymao.cat
 https://www.haproxy.com
 https://www.haproxy.org
 https://www.haraldjoergens.com
@@ -9022,6 +9045,7 @@ https://www.ikuayu.top
 https://www.imgurl.ir
 https://www.imperva.com
 https://www.imvbox.com
+https://www.imwzh.com
 https://www.infomaniak.com
 https://www.infoq.cn
 https://www.infoq.com
@@ -9233,6 +9257,7 @@ https://www.moonriver.sbs
 https://www.morningstar.com
 https://www.moviesho.com
 https://www.mozilla.org
+https://www.mplus.org.hk
 https://www.mpyit.com
 https://www.msit.go.kr
 https://www.msra.cn
@@ -9346,6 +9371,7 @@ https://www.pasyun.com
 https://www.patreon.com
 https://www.pcgamer.com
 https://www.pclnn.com
+https://www.pcloud.com
 https://www.pdda.me
 https://www.pddc.me
 https://www.persianboxx.com
@@ -9392,6 +9418,7 @@ https://www.qualcomm.cn
 https://www.qualcomm.com
 https://www.qunima.cc
 https://www.rabbitmq.com
+https://www.racevpn.com
 https://www.radiozamaneh.com
 https://www.radix-ui.com
 https://www.rainbond.com
