@@ -311,6 +311,7 @@ http://epg.51zmt.top:8000
 http://epg.aptvapp.com
 http://event.weibo.com
 http://exchange.gameaurela.click:52952
+http://fakexy.com
 http://fanleme.vip
 http://fanqiang88.top
 http://farsiland.com
@@ -616,6 +617,7 @@ http://opensource.org
 http://opentech.fund
 http://oplist-de.dnss.cc:443
 http://opml.org
+http://order.idwebhost.com
 http://orzer.zhangzichuan.cn
 http://oss.oracle.com
 http://outlinevstatus.outlinekeys.net
@@ -1318,6 +1320,7 @@ https://2c99ed84.ghelper.me
 https://2e0b4f45.ghelper.me
 https://2fa.forum
 https://2fa.web-ai.top
+https://2fas.com
 https://2ip.io
 https://2k00l.no-mad-world.club
 https://2mmtig2hz0ay3zsilc4shlph5lb3b1eb.skygo0527.top
@@ -2080,6 +2083,7 @@ https://api.proxypool.us
 https://api.prprcloud.life
 https://api.pubproxy.com
 https://api.qiduo.eu.org
+https://api.qihangj.shop
 https://api.qrserver.com
 https://api.rain.cyou:8443
 https://api.sanfen013.xyz
@@ -4068,6 +4072,7 @@ https://fc.zcr5.ddns-ip.net
 https://fc.zcr6.ggff.net
 https://fc447ae9.ghelper.me
 https://fc46d097.ghelper.me
+https://fcp-prod-mci1-remnawave.freesocks.org
 https://fctahfbxlk.eastasia.cloudapp.azure.com
 https://fddsf.zcr07.dns-dynamic.net
 https://fdhf-jhfksf.jilian.store
@@ -4284,6 +4289,7 @@ https://fuqing.ch
 https://fur.limoneneis.de
 https://furnacecreek.org
 https://futawall.com
+https://futurism.com
 https://fw0.fwsub.click
 https://fx.tmioe.com
 https://fxjc.xyz
@@ -5369,6 +5375,7 @@ https://llama.developer.meta.com
 https://llcool.xyz
 https://llgapi.tannel.asia
 https://llgjc.shop
+https://llhsyzgxdfnh.hctxse.cc
 https://lllo.x19890604.qzz.io
 https://lly.cz
 https://llyh.cc
@@ -7729,6 +7736,7 @@ https://support.claude.com
 https://support.cpanel.net
 https://support.getflix.com
 https://support.ipvanish.com
+https://support.nym.com
 https://support.packet.com
 https://support.tagsssubscribe.com
 https://supz1.6128888.xyz
