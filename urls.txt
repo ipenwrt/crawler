@@ -893,6 +893,7 @@ http://whoer.net
 http://wifi.vivo.com.cn
 http://wiki.apache.org
 http://wiki.cifaz.com
+http://windirstat.net
 http://windscribe.com
 http://wow.mio.gay
 http://wpaudioplayer.com
@@ -1730,6 +1731,7 @@ https://aaa.yunduanjc.top
 https://aaaa.gay
 https://aac.wzai.top
 https://aaxc.club
+https://ab.551221.xyz
 https://ab.dabai.in
 https://abadis.ir
 https://abc.52pokemon.cc
@@ -2054,6 +2056,7 @@ https://api.meomiao.us
 https://api.minimaxi.com
 https://api.misakanet.buzz
 https://api.mittarovo.cz
+https://api.mtvpn.net
 https://api.mtyqx.cn
 https://api.mudidi1.win
 https://api.mxlweb.xyz
@@ -3121,6 +3124,7 @@ https://colobu.com
 https://comments.app
 https://commission.europa.eu
 https://commonedge.org
+https://community.obsidian.md
 https://community.openai.com
 https://companies.caixin.com
 https://compressjpg.io
@@ -3225,6 +3229,7 @@ https://cylink.moe
 https://d.cdnpure.com
 https://d.cloudso.club
 https://d.cumen.xyz
+https://d.koo1.de5.net
 https://d.mtmt.tech
 https://d.palu123.com
 https://d.waka.plus
@@ -3233,6 +3238,7 @@ https://d00387b9.ghelper.me
 https://d01c076a.zjjjjyun.site
 https://d1.dlsdist.net
 https://d1.mk
+https://d105039.lvcha.me
 https://d222.d222.xyz
 https://d2f42a86-2a1f-49b5-bd2f-d2154daa6a09.com
 https://d34752ad.ghelper.me
@@ -4910,6 +4916,7 @@ https://ircd.me
 https://ircf.space
 https://iress.com.au
 https://irgfw.report
+https://is.domainforsub.work
 https://ishare.ifeng.com
 https://isherv.in
 https://isi.gay
@@ -5711,6 +5718,7 @@ https://mp4.wanlidag.top
 https://mp4t.com
 https://mplx.run
 https://mqk4azjxg8skg6gfelpb.stcserver-cloud.com
+https://mractive.pouyan.it
 https://mremoteng.readthedocs.io
 https://mro5n.no-mad-world.club
 https://mrpm.cc
@@ -5726,6 +5734,7 @@ https://msub.mjurl.com
 https://msub.xn--m7r52rosihxm.com
 https://mtf.lat
 https://mtt.xyz
+https://mtvpn.net
 https://muacloud3.live
 https://muguacloud.top
 https://mullvad.net
@@ -6178,6 +6187,7 @@ https://panel.maktabsharif.ir
 https://panel.nfspeed01.com
 https://panel.quickv2.com
 https://panel.shabtaban.ir
+https://panel.trxlnsnet.ir:2096
 https://panel.v2ray.it
 https://panel.versland.io
 https://panel.vpnpanel.pro
@@ -8506,6 +8516,7 @@ https://wiki.videolan.org
 https://win2.h5e8s7tcqe.workers.dev
 https://win263.top
 https://windard.com
+https://windirstat.net
 https://windowsv1.com
 https://windscribe.com
 https://wingpt.winning.com.cn
