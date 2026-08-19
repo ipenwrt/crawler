@@ -109,6 +109,7 @@ http://archive.ubuntu.com
 http://arrow.apache.org
 http://asb.dmhpro.top:2096
 http://asb.op-house.top:2096
+http://assets.gateway-stream.com
 http://atcentra.com
 http://awcloud.life
 http://aws.amazon.com
@@ -346,6 +347,7 @@ http://g3i.buzz
 http://gank.io
 http://gapgpt.app
 http://gb-ss-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.mitiVpN.lIfeStyLe
+http://gboard.dev
 http://gbtgurl01.org
 http://gchat.qpic.cn
 http://gcpaas.gccloud.com
@@ -390,6 +392,7 @@ http://hazz.win
 http://hbr.org
 http://hdtoday.cc
 http://helloreverb.com
+http://helsinki03.npvnot.com:995
 http://hemin.cn
 http://hg.nginx.org
 http://hg1.levikogjgfdd.ir:40028
@@ -2372,6 +2375,7 @@ https://b06cdcb5.ghelper.me
 https://b0chi.r-yu.me
 https://b1.mikasass.pro
 https://b105039.lvcha.me
+https://b105062.lvcha.me
 https://b105082.lvcha.me
 https://b1a11a83.ghelper.me
 https://b1tf1t.top
@@ -5425,6 +5429,7 @@ https://lsdm.laibajc.top
 https://lsmgy.xygyx.ggff.net
 https://lst.gg
 https://lting.cyou
+https://ltx.io
 https://lucide.dev
 https://lucifer.ren
 https://lucky666.cn
@@ -5562,6 +5567,7 @@ https://max.ru
 https://maxhjd.jjzcloud.top
 https://maxkb.cn
 https://maya.net
+https://maze.toys
 https://mb.manbo8.site
 https://mbinary.xyz
 https://mc.jiedianxielou.workers.dev
@@ -5815,6 +5821,7 @@ https://mytoken-1.huyun.nl
 https://mytoken.huyun.nl
 https://myu.best
 https://myworker.httpproxygo.workers.dev
+https://myyuyu.linkaa.xyz
 https://mzyglc.xyz
 https://n063ww4.wxll4.cfd
 https://n0z7w4tk.sdmao.online
@@ -6521,6 +6528,7 @@ https://qidijichang.com
 https://qidijichang.xyz
 https://qifei.daytimemeteor.top
 https://qifei.today.elementfx.com
+https://qihangj.shop
 https://qijia.qhrgobull.fun
 https://qijiavpn.salnc.kuaivpn.app
 https://qingchayun.icu
@@ -7629,6 +7637,7 @@ https://subcrib.vpnmiao.site
 https://subdl.com
 https://subds.yozzatquakxmlbejcpdk.work
 https://subhiddify.mmdv2.host
+https://subino.sanaiehdasti.com
 https://subkxy.pai50288.uk
 https://sublink-worker.hubentuan.workers.dev
 https://sublink.52cloud.eu.org
@@ -7907,6 +7916,7 @@ https://tgdev.io
 https://tghjjcp.bestcloud.lol
 https://tglink.io
 https://tgscan.onrender.com
+https://tgz.heidong.cyou
 https://thanos.io
 https://the-decoder.com
 https://the.exa.website
@@ -8161,6 +8171,7 @@ https://url.spec.whatwg.org
 https://url.v1.mk
 https://url72.ctfile.com
 https://us-proxypool.herokuapp.com
+https://us.fairphone.com
 https://us.freecat.cloud
 https://us.nothing.tech
 https://us.ziyun.cyou
@@ -9918,6 +9929,7 @@ https://wy.somg.xyz
 https://wylztxfq.qjty1.buzz
 https://wyy.14kbuy.com
 https://wyy.yyenh.cn
+https://wzknb.pages.dev
 https://wzry-doc.pages.dev
 https://x-file-storage.xuyanwu.cn
 https://x-minus.pro
@@ -10256,6 +10268,7 @@ https://yt5s.biz
 https://yts.mx
 https://yuanbao.yuanbaojc.store
 https://yuewen.cn
+https://yuexia.eepzau.org
 https://yugogo.xyz
 https://yuguo.us
 https://yuhaokun.xyz
