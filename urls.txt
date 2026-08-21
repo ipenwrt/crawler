@@ -863,6 +863,7 @@ http://v2rayse.com
 http://v3.pkqshidazhubi.live
 http://vegapit.com
 http://venus.hidencloud.com:25657
+http://vip-ca-1.hkd4fwmg.xyz:10586
 http://vip.365cloud.me
 http://vip2.xxyjc.xyz
 http://vip3.myspacex.shop:20700
@@ -1432,6 +1433,7 @@ https://520fly.520fly.uk
 https://523qaweg246.pandafly.site
 https://52bp.org
 https://52daishu.uk
+https://52pojie.cn
 https://52pokemon.xz61.cn
 https://52pokemon.yunjnet.com
 https://52xiaohongniang.com
@@ -2002,6 +2004,7 @@ https://api.cloudflareclient.com
 https://api.cloudindex.ai
 https://api.convexity.tools
 https://api.day.app
+https://api.deepseek.com
 https://api.dingyueapi.win
 https://api.dingyueddns.life
 https://api.dingyueddnshub.xyz
@@ -2191,6 +2194,7 @@ https://apinainiucloud.lat
 https://apisix.apache.org
 https://apisub.mcwy.xyz
 https://apisudunw.sudunv.com
+https://apit.yun7g.top
 https://apiv2.lemongg.top
 https://apiv2.lipulai.com
 https://apiv2.pptiok2020.com
@@ -2896,6 +2900,7 @@ https://cf.hughhad.us.kg
 https://cf.iranhope.org
 https://cf.lemshow.top
 https://cf.loveqyun.cyou
+https://cf.udpid.org:2096
 https://cf2.gwxiazai.com
 https://cfbdiuhebmr.shop
 https://cfcloud.cyou
@@ -3197,6 +3202,7 @@ https://creativecommons.org
 https://crocidb.com
 https://crontab.guru
 https://crontab.online
+https://crt.name
 https://crt.sh
 https://crushs.cyou
 https://crushs.top
@@ -6000,6 +6006,7 @@ https://nodejs.org
 https://nodequality.com
 https://nodes.fanqiang.network
 https://nodesecurity.io
+https://nodeseek.com
 https://nodetics.com
 https://nodew.me
 https://nodeweekly.com
@@ -6008,10 +6015,12 @@ https://nomino.11hi8itbaf.workers.dev
 https://nomo.dafork.com
 https://nordforme.net
 https://nordvpn.com
+https://nosignups.net
 https://notabug.org
 https://notamonadtutorial.com
 https://notegen.top
 https://notifications.ashevillenc.gov
+https://notion.so
 https://notls.11111111.eu.org
 https://notls.lukongtou.eu.org
 https://novaproxy.online
@@ -6140,6 +6149,7 @@ https://oracle.zoom.us
 https://orbot.app
 https://ordns.he.net
 https://origamiboy.herokuapp.com
+https://ornith.ai
 https://orymi.net
 https://os.phil-opp.com
 https://osf.io
@@ -6233,6 +6243,7 @@ https://paste.xz88.ml
 https://pastebin.com
 https://pastebin.pl
 https://pastehub.ir
+https://pastes.io
 https://pasteview.com
 https://pati.s6zc5ybzea.workers.dev
 https://paugram.com
@@ -6248,6 +6259,7 @@ https://pb.z9678.v6.army
 https://pb.zcr9.dedyn.io
 https://pbs.twimg.com
 https://pc.ctyun.cn
+https://pcloud.com
 https://pcq7y.no-mad-world.club
 https://pcstory.ml
 https://pdda.me
@@ -7933,6 +7945,7 @@ https://the.exa.website
 https://theasc.com
 https://thebuild.com
 https://thegameawards.com
+https://theguardian.com
 https://thehackerblog.com
 https://thehackernews.com
 https://theidco.com
@@ -9263,6 +9276,7 @@ https://www.liquid.ai
 https://www.lirensr.com
 https://www.lizhi.io
 https://www.ljyyds.top
+https://www.locarnofestival.ch
 https://www.logicjake.xyz
 https://www.loomos.co
 https://www.loyaltynow.com
@@ -9879,6 +9893,7 @@ https://www.youtube.com
 https://www.youxincloud.net
 https://www.youzi.pw
 https://www.youzikaryl.top
+https://www.youzizizi.top
 https://www.ytdy666.buzz
 https://www.yunduovpn.xyz
 https://www.yunq001.xyz
