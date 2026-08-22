@@ -312,6 +312,7 @@ http://ent.people.com.cn
 http://epg.51zmt.top:8000
 http://epg.aptvapp.com
 http://event.weibo.com
+http://evjd8xfji5of.cdn000.com:31404
 http://exchange.gameaurela.click:52952
 http://fakexy.com
 http://fanleme.vip
@@ -479,6 +480,7 @@ http://jling.tk
 http://jobsfortheworldtoday.com
 http://joelglovier.com
 http://jonathanturner.org
+http://josni.hoyes.cloudns.ch
 http://jp01.network-cdn-gw-yd.net:48801
 http://jp01.vezzura.net:25084
 http://jshou.top
@@ -2048,6 +2050,7 @@ https://api.ipify.org
 https://api.ixiaowai.cn
 https://api.jiux001.cc
 https://api.jsm.one
+https://api.justwoker.icu
 https://api.kkhhyytt.cn
 https://api.krill-ai.com
 https://api.ktcat.online
@@ -2150,6 +2153,7 @@ https://api.xingyueapi.com
 https://api.xingzhige.com
 https://api.xinyo.vip
 https://api.xjichang.buzz
+https://api.xkiro.com
 https://api.xmancdn.com
 https://api.xmancdn.net
 https://api.xn--14ra41gd24b.xyz
@@ -2162,6 +2166,7 @@ https://api.xtt777.com
 https://api.xuebifast.com
 https://api.xyurl.site
 https://api.yebekhe.link
+https://api.yjs.im
 https://api.ymvpnpro.cc:8700
 https://api.yourapp.com
 https://api.yuyan.lol
@@ -3275,6 +3280,7 @@ https://daimajia.com
 https://daka778.top
 https://dalao.ru
 https://damp-mode-4de5.6006101.workers.dev
+https://danaplus.net
 https://dango-docs.ap-sh.starivercs.cn
 https://daniel.haxx.se
 https://danke.sbs
@@ -4028,6 +4034,7 @@ https://f-35.store
 https://f-droid.org
 https://f.kxyz.eu.org
 https://f001.backblazeb2.com
+https://f105039.lvcha.me
 https://f1e7c332.ghelper.me
 https://f360da61.ghelper.me
 https://f43235f6.ghelper.me
@@ -5943,6 +5950,7 @@ https://news.ycombinator.com
 https://newsdig.tbs.co.jp
 https://newshacker.me
 https://newsify.co
+https://newsletter.semianalysis.com
 https://newsroom.amd.com
 https://newsroom.arm.com
 https://newsroom.ibm.com
@@ -9134,6 +9142,7 @@ https://www.imgurl.ir
 https://www.imperva.com
 https://www.imvbox.com
 https://www.imwzh.com
+https://www.independent.co.uk
 https://www.infomaniak.com
 https://www.infoq.cn
 https://www.infoq.com
@@ -9343,6 +9352,7 @@ https://www.mofang53.com
 https://www.mohmal.com
 https://www.mojie.cool
 https://www.mojie.cyou
+https://www.mongodb.com
 https://www.mooc.cn
 https://www.moonriver.sbs
 https://www.morningstar.com
@@ -10041,6 +10051,7 @@ https://xjichang.buzz
 https://xjj.zzxi.de
 https://xjyjc.top
 https://xkcd.com
+https://xkiro.com
 https://xlog.app
 https://xmake.io
 https://xmission-slc-1.edge.nextdns.io
@@ -10085,6 +10096,7 @@ https://xn--9kqt60cjmy.shop
 https://xn--9kqu5y58a.com
 https://xn--9kqv03dn4b.xyz
 https://xn--9kqx21a0sv.com
+https://xn--9kqx21a0sv.top
 https://xn--9kqy4sc0n77ra.com
 https://xn--9kqy92aw5h.com
 https://xn--9kqz23b19z.com
