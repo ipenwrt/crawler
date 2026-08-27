@@ -2037,6 +2037,7 @@ https://api.fwcloud.life
 https://api.fwcloud.xyz
 https://api.fwhzfyy.asia
 https://api.gitsponsors.com
+https://api.gmi-serving.com
 https://api.gpt-pool.com
 https://api.groq.com
 https://api.grouphelp.top
@@ -2827,6 +2828,7 @@ https://cat.ikkt.cn
 https://catalog.licenzy-supply.store:2096
 https://catchup.mainnet.concordium.software
 https://catupload.937870.ir.cdn.ir
+https://caviar.global
 https://caystc.cc
 https://cb.dabai.in
 https://cb.xn--u0x.site
@@ -3170,6 +3172,7 @@ https://connectivitycheck.platform.hicloud.com
 https://console.airrail.work
 https://console.aunoc.com
 https://console.easemob.com
+https://console.gmicloud.ai
 https://console.leancloud.cn
 https://console.ly520.me
 https://console.tancloud.cn
@@ -3694,6 +3697,7 @@ https://docs.vllm.ai
 https://docs.volta.sh
 https://docs.x.ai
 https://docs.xtdb.com
+https://docs.z.ai
 https://docsify.js.org
 https://docusaurus.io
 https://dogpan.com
@@ -4344,6 +4348,7 @@ https://g.cn-db01.top:40580
 https://g.luxury
 https://g1.subjsm.cyou
 https://g1.xfuti.com
+https://g105039.lvcha.me
 https://g15311cec.cdn.uunode.com
 https://g2a.xxx.cn
 https://g4rh0t1shzow.top
@@ -6042,6 +6047,7 @@ https://nosignups.net
 https://notabug.org
 https://notamonadtutorial.com
 https://notegen.top
+https://nothing.community
 https://notifications.ashevillenc.gov
 https://notion.so
 https://notls.11111111.eu.org
@@ -8772,6 +8778,7 @@ https://www.bbc.com
 https://www.bee2.cloud
 https://www.behance.net
 https://www.ben-evans.com
+https://www.benq.com
 https://www.bestblogs.dev
 https://www.bestreven.top
 https://www.beyondplastics.org
@@ -10303,6 +10310,7 @@ https://your-airport-1.com
 https://your-airport-2.com
 https://your-domain.com
 https://your-domain.workers.dev
+https://your-durev.com
 https://your-oidc.issuer.com
 https://your-org.zulipchat.com
 https://your-provider.com
