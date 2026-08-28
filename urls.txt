@@ -2217,6 +2217,7 @@ https://apnews.com
 https://apopcloud.com
 https://app.18sa.xyz
 https://app.1zp8.xyz
+https://app.adjust.com
 https://app.aibase.com
 https://app.alice.ws
 https://app.bybit.com
@@ -2319,6 +2320,7 @@ https://asahilinux.org
 https://ascii2d.net
 https://asdf-vm.com
 https://asdf.888545.xyz
+https://asdf.fifafa.vip
 https://asia.nikkei.com
 https://asiatech.ir
 https://ask.xsccusm.com:8888
@@ -3304,6 +3306,7 @@ https://dash.2cny.sbs
 https://dash.afun.la
 https://dash.cloudflare.com
 https://dash.djjc.cfd
+https://dash.dmitai.com
 https://dash.domain.digitalplat.org
 https://dash.doubao.one
 https://dash.f9vip.net
@@ -3389,11 +3392,13 @@ https://ddyun.org
 https://deamnetd.3seed.ru:8888
 https://deb.nodesource.com
 https://debe9623.ghelper.me
+https://deckforge.gtio.work
 https://decrypt.co
 https://dedirock.cn
 https://dedust.io
 https://deepfakevfx.com
 https://deepimg.io
+https://deepseek.com
 https://deepswe.datacurve.ai
 https://deepweb.net
 https://deepwiki.com
@@ -3451,6 +3456,7 @@ https://developer.hashicorp.com
 https://developer.huawei.com
 https://developer.huaweicloud.com
 https://developer.mozilla.org
+https://developer.nvidia.com
 https://developer.okta.com
 https://developer.plex.tv
 https://developer.salesforce.com
@@ -4475,6 +4481,7 @@ https://go.hhyun.in
 https://go.k8s.io
 https://go.nobitex.ir
 https://go.onelink.me
+https://go.oscarsia.com
 https://go.qianglie.cc
 https://go.shr.lc
 https://go.yueyun.de
@@ -4726,6 +4733,7 @@ https://hsy.zcamaf.com
 https://ht.shunc.xyz
 https://htcmi-20240805.mozhiti.top
 https://htdy02.mozhiti.top
+https://html.7li7li.com
 https://html.spec.whatwg.org
 https://html5-apps-repo-rt.cfapps.eu12.hana.ondemand.com
 https://httb.ir
@@ -6292,6 +6300,7 @@ https://pc.ctyun.cn
 https://pcloud.com
 https://pcq7y.no-mad-world.club
 https://pcstory.ml
+https://pd.qq.com
 https://pdda.me
 https://pdfcandy.com
 https://pdfcraft.devtoolcafe.com
@@ -6389,6 +6398,7 @@ https://pokelink.xn--4gsvmh74cwxi.cn
 https://poleurl.dy.wfcsy.com
 https://politepol.com
 https://polkascan.io
+https://pollen-robotics.com
 https://polyfloyd.net
 https://pontoon.rust-lang.org
 https://pool-840979.asia1.kinto.io
@@ -6400,6 +6410,7 @@ https://portal.aws.amazon.com
 https://portal.cloudnium.net
 https://portal.f2vip.net
 https://portal.gdmmdo.ga
+https://portal.mistea.cloud
 https://portal.mofeiyun.com
 https://portal.qiniu.com
 https://portal.runroad.cloud
@@ -7894,6 +7905,7 @@ https://tao.zz.ac
 https://taoshu.in
 https://taoyuanjiasu.com
 https://tap.squirrelloot.com
+https://tapirconvert.com
 https://taplink.cc
 https://tappr.io
 https://tapsi.link
@@ -8197,6 +8209,7 @@ https://update.dotusub.xyz
 https://update.glados-config.com
 https://update.glados-config.org
 https://update.softmeto.com:2087
+https://updates.midjourney.com
 https://updates.push.services.mozilla.com
 https://upee.substack.com
 https://upld.zone.id
@@ -8957,6 +8970,7 @@ https://www.doubao.com
 https://www.douluoyun.xyz
 https://www.douyin.com
 https://www.downloadnth.com
+https://www.dpreview.com
 https://www.drsaina.com
 https://www.drupal.org
 https://www.dtcc.com
@@ -9934,6 +9948,7 @@ https://www.youtube.com
 https://www.youxincloud.net
 https://www.youzi.pw
 https://www.youzikaryl.top
+https://www.youzilite.help
 https://www.youzizizi.top
 https://www.ytdy666.buzz
 https://www.yunduovpn.xyz
@@ -10058,6 +10073,7 @@ https://xhamster.com
 https://xhldy.yyenh.cn
 https://xhlxhlxiaohuolongjc.top
 https://xhslink.cn
+https://xhslink.com
 https://xhtoken.huyun.nl
 https://xiamiyun.top
 https://xianpoqiang.com
