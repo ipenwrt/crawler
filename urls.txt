@@ -450,6 +450,7 @@ http://iamsujie.com
 http://ibcl.us
 http://ice77.top
 http://identifiers.org
+http://iec.ch
 http://ikuai.6.guochenjie.asia:3001
 http://imdocs.readthedocs.org
 http://img.nsmc.org.cn
@@ -549,6 +550,7 @@ http://mail.qq.com
 http://mail2.thirdpaull.monster:57327
 http://main.pythash.tr
 http://man7.org
+http://mao.kipfel.kdns.fr
 http://maprdocs.mapr.com
 http://mengbaoyingshi.cn
 http://mesos.apache.org
@@ -667,6 +669,7 @@ http://proxies.haisto.cn
 http://proxy.moo.jp
 http://proxypool.turinglabs.net
 http://proxypool.zshabai.cc
+http://purl.org
 http://putao.i2345.me
 http://putao.i2345.org
 http://pwiyxuju6rm8.pro
@@ -3328,6 +3331,7 @@ https://d01c076a.zjjjjyun.site
 https://d1.dlsdist.net
 https://d1.mk
 https://d105039.lvcha.me
+https://d105062.lvcha.me
 https://d1d1.alibabadns.alipayqq.cn
 https://d222.d222.xyz
 https://d2f42a86-2a1f-49b5-bd2f-d2154daa6a09.com
@@ -4016,6 +4020,7 @@ https://ec.europa.eu
 https://ec.ltn.com.tw
 https://ec5smonchl973s.wca1rs59sefb1kl655b0.online
 https://eck8.miemie.uk
+https://eco.fe-spark.cn
 https://eco.us.ovhcloud.com
 https://economictimes.indiatimes.com
 https://economy.caixin.com
@@ -4156,6 +4161,7 @@ https://factcheckingday.com
 https://faf047da-5e7e-4da7-8414-2799d48ad63a.nginxcatnet.xyz
 https://fairfun.meme
 https://faka.wiki
+https://fal.ai
 https://falco.656266656.xyz
 https://falco.org
 https://falco.pwzvd.cn
@@ -4664,6 +4670,7 @@ https://gywanglug.xyz
 https://gyyun.top
 https://h.bbydy.org
 https://h.xfuti.com
+https://h105039.lvcha.me
 https://h2o.apad.pro
 https://h4.linklick.ir
 https://h5.gicai.vip
@@ -5644,6 +5651,7 @@ https://m.youtube.com
 https://m01.huidu520.com
 https://m11.spwvpn.com
 https://m1564f3c46-a084-46fa-b4af-3224a41e7485.131.pp.ua
+https://m19-1.999990009.xyz
 https://m2.spwvpn.com
 https://m2net.lol
 https://m2net.sbs
@@ -6312,6 +6320,7 @@ https://openvidu.io
 https://openvpn.net
 https://openvuln.vulnhunter.pro
 https://openweathermap.org
+https://openwrt.org
 https://opinion.caixin.com
 https://oracle.zoom.us
 https://orbot.app
@@ -6789,6 +6798,7 @@ https://rancher.com
 https://ranchero.com
 https://rande.huna.shabijcaonimade.bibaochi.sha.kuaivpn.app
 https://random1sub.milocloud.xyz
+https://ranjsq.goqf.efgo.my
 https://ransa.niubiliuliuliuwocao.a.kuaivpn.app
 https://raoku-pm.hf.space
 https://raphael.app
@@ -6887,6 +6897,7 @@ https://rio.ggusers.com
 https://riot.im
 https://riotvpn.eu
 https://ripaojiedian.coding.net
+https://riscv.org
 https://rk.wuxianliulianng.xyz
 https://rk.xn--mest45ax3al6m4k5cvwf.shop
 https://robertohuertas.com
@@ -7061,6 +7072,7 @@ https://sanfen003.xyz
 https://sanfen005.xyz
 https://sanguayun.jiumaojiu.net
 https://sanqianlijinxiuheshan.us.kg
+https://sansuy.site
 https://sanxijichang.com
 https://sapi.ssapi.net
 https://saraf.app
@@ -7158,6 +7170,7 @@ https://shandiandog.com
 https://shanlinks.com
 https://shardingsphere.apache.org
 https://share.bwb.global
+https://share.dmhy.org
 https://share.feijipan.com
 https://share.lanol.cn
 https://share.note.youdao.com
@@ -8107,6 +8120,7 @@ https://terfghtll.dashuai.us
 https://terminusdb.org
 https://terraframe-inc.gitbook.io
 https://test-123.westus.logic.azure.com:443
+https://test-api.asailor.org
 https://test-huld.sjukra.is
 https://test-ipv6.com
 https://test-zone-3axlnqnxuxze-1356608074.eo-edgefunctions.com
@@ -8388,6 +8402,7 @@ https://uppermosttwelffmen.com
 https://upstash.com
 https://uptime.yourdomain.com
 https://uptodown-android.en.uptodown.com
+https://ur.853873.xyz
 https://url.409648.xyz
 https://url.bsawc.shop
 https://url.cy
