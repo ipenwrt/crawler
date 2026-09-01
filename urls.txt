@@ -56,6 +56,7 @@ http://a.naiun.node-is.green:51105
 http://a.ydoo.vip:5917
 http://a123.buzz
 http://abduzeedo.com
+http://abtestmaster.com
 http://activemq.apache.org
 http://adkx.net
 http://adkz.net
@@ -207,6 +208,8 @@ http://cn.nikkei.com
 http://cocoacake.net
 http://code.claude.com
 http://code.org
+http://codepen.io
+http://colormind.io
 http://concisecoder.io
 http://concurrent.redspider.group
 http://connect.rom.miui.com
@@ -888,6 +891,7 @@ http://vip3.myspacex.shop:80
 http://vip8.myspacex.shop:443
 http://vip9.myspacex.shop:443
 http://vip9.myspacex.shop:80
+http://visualhierarchy.co
 http://vkvd127.mycdn.me
 http://vlife.cc
 http://vpn.gangko.cn
@@ -940,6 +944,7 @@ http://www.alloyteam.com
 http://www.amlpages.com
 http://www.anthropic.com
 http://www.apache.org
+http://www.appcooker.com
 http://www.battware.co.uk
 http://www.benmutou.com
 http://www.bfyun.top
@@ -948,6 +953,7 @@ http://www.blakesmith.me
 http://www.bloglines.com
 http://www.boardchannels.com.cn
 http://www.bogotobogo.com
+http://www.boxui.com
 http://www.britannica.com
 http://www.camael.top
 http://www.cbr.com
@@ -1050,6 +1056,7 @@ http://www.phodal.com
 http://www.pingzicloud.top
 http://www.pouet.net
 http://www.powereasy.net
+http://www.powermockup.com
 http://www.ppwaibao.com
 http://www.python.org
 http://www.qianduan.net
@@ -1068,6 +1075,7 @@ http://www.sitemaps.org
 http://www.sksla.pro
 http://www.skywind.me
 http://www.smallni.com
+http://www.solidifyapp.com
 http://www.springframework.org
 http://www.surfchen.org
 http://www.tcreator.info
@@ -3248,6 +3256,7 @@ https://conversiontools.io
 https://convert.zephyrwork.work
 https://convertio.co
 https://coolace.site
+https://coolors.co
 https://coolshell.cn
 https://coproducer.output.com
 https://copy.sh
@@ -3398,6 +3407,7 @@ https://dashboard.helius.dev
 https://dashboard.heroku.com
 https://dashboard.mainnet.concordium.software
 https://dashboard.ngrok.com
+https://dashboard.nowhere.best
 https://dashboard.yunagrp.com
 https://dashteparvane.com
 https://dashuai.us
@@ -3555,6 +3565,7 @@ https://diffusesystems.net
 https://dify.ai
 https://digimoviez.com
 https://digipostal.ir
+https://digital-strategy.ec.europa.eu
 https://dimo.dimoyun.top
 https://dimoyun.top
 https://ding.ov2rayo.top
@@ -3625,6 +3636,7 @@ https://dnf-plugins-core.readthedocs.io
 https://dns-adguard.heinu.cf
 https://dns-nyc.aaflalo.me
 https://dns-unfiltered.adguard.com
+https://dns.1111988.xyz
 https://dns.403.online
 https://dns.aa.net.uk
 https://dns.adguard-dns.com
@@ -4119,6 +4131,7 @@ https://eu1.app.sysdig.com
 https://evef8ow37e.execute-api.us-east-1.amazonaws.com
 https://even.axxi.site
 https://event.baai.ac.cn
+https://event.polarnode.vip
 https://events.ccc.de
 https://events.comp.nus.edu.sg
 https://events.humanitix.com
@@ -4390,7 +4403,9 @@ https://free.tharuwa.store:2096
 https://free.tharuwa.store:500
 https://free.u-8.cc:2096
 https://free.xlajiao.xyz
+https://free1.vpny.net:2096
 https://free2.govmail.top
+https://free2.vpny.net:2096
 https://free4all.rapidoserver.ir:8000
 https://freebrowser.org
 https://freecash.com
@@ -4445,6 +4460,7 @@ https://fxvpn.app
 https://fy.blackhats.net.au
 https://fzusrs.xyz
 https://g-x.us.kg
+https://g.cb.click
 https://g.cn
 https://g.cn-db01.top:40580
 https://g.luxury
@@ -4626,6 +4642,7 @@ https://greasyfork.org
 https://greatdk.com
 https://greatfirevpn.com
 https://greekreporter.com
+https://gridsetapp.com
 https://gridsome.org
 https://grok.com
 https://grr.la
@@ -7135,6 +7152,7 @@ https://seminar.mobilensm.ir
 https://semver.org
 https://senders.yahooinc.com
 https://sendi.ir
+https://senflare.ssdxz.cn
 https://sep.bbdmfetch.com
 https://sequoia-pgp.org
 https://ser.3hjpc1daso.workers.dev
@@ -7264,11 +7282,13 @@ https://smjm.ct.ws
 https://sms-activate.io
 https://sms-activate.org
 https://sms-online.co
+https://sms.nik.sh
 https://smsauth.top
 https://sn0int.readthedocs.io
 https://sn1.serverfraz.pw
 https://snailjob.opensnail.com
 https://snangua.com
+https://snapp.market
 https://snappfood.ir
 https://snapwc.com
 https://sni.111000.dynv6.net
@@ -7665,6 +7685,8 @@ https://sub.sheepcloud.xyz
 https://sub.shengbenku.tk
 https://sub.sjsub.xyz
 https://sub.speed17sub.com
+https://sub.speedest.org
+https://sub.speedest.sbs
 https://sub.speedur.org:2096
 https://sub.sqfly.site
 https://sub.sslinks.co.in
@@ -7880,6 +7902,7 @@ https://submit.xz61.cn:22443
 https://submit.xz61.cn:23443
 https://submitrg.057296.xyz
 https://subneko.v1999.sbs
+https://subnew.syq.tw
 https://subo.starnetcn.com
 https://subone.xyjc.xyz
 https://subpanghujichang.xn--y20az5i.xyz
@@ -8353,6 +8376,7 @@ https://ui.honeycomb.io
 https://ui.shadcn.com
 https://ui.toast.com
 https://uijduvfglbmnuqwefvg.ifxfg.cn
+https://uimovement.com
 https://uk.finance.yahoo.com
 https://ume.la
 https://uneasy.win
@@ -8567,6 +8591,7 @@ https://virtual.basilicasanpietro.va
 https://visitor-badge.laobi.icu
 https://vistar.lat
 https://vistart.art
+https://visualhierarchy.co
 https://vite.itnavs.com
 https://vivaldi.com
 https://vizard.ai
@@ -8881,6 +8906,7 @@ https://www.52pojie.cn
 https://www.52wiki.cn
 https://www.6666543.xyz
 https://www.6g04.top
+https://www.820010.xyz
 https://www.85la.com
 https://www.992266.xyz
 https://www.998877.best
@@ -9202,6 +9228,7 @@ https://www.eset.com
 https://www.ether.fi
 https://www.etnews.com
 https://www.euractiv.com
+https://www.euronews.com
 https://www.evan888.top
 https://www.eventbrite.com
 https://www.evernote.com
@@ -9240,6 +9267,7 @@ https://www.findsounds.com
 https://www.fineshare.com
 https://www.finghtly.store
 https://www.fiper.net
+https://www.fireflyapp.com
 https://www.fivefilters.org
 https://www.flaticon.com
 https://www.flixer.pro
@@ -9274,7 +9302,9 @@ https://www.fusejs.io
 https://www.futizi.net
 https://www.fxhcn.com
 https://www.fzyt1.com
+https://www.gacgroup.com
 https://www.gamedeveloper.com
+https://www.gamescom.global
 https://www.gamespot.com
 https://www.gan.ai
 https://www.gaojiyun.vip
@@ -9667,6 +9697,7 @@ https://www.notebookcheck-cn.com
 https://www.notebookcheck.net
 https://www.notion.com
 https://www.notion.so
+https://www.notism.io
 https://www.novipnoad.net
 https://www.novumsolar.vip
 https://www.now61.cn
@@ -9704,6 +9735,7 @@ https://www.openssl.org
 https://www.openstreetmap.org
 https://www.opentech.fund
 https://www.opera.com
+https://www.oracle.com
 https://www.oreilly.com
 https://www.oschina.net
 https://www.otcopusapp.cc
@@ -9754,6 +9786,7 @@ https://www.ppssqq.com
 https://www.prevoty.com
 https://www.primarymarkets.com
 https://www.privateinternetaccess.com
+https://www.prnewswire.co.uk
 https://www.prnewswire.com
 https://www.processon.com
 https://www.producthunt.com
@@ -10044,6 +10077,7 @@ https://www.vidu.studio
 https://www.viget.com
 https://www.vincentschmalbach.com
 https://www.vipole.com
+https://www.virtualcards.click
 https://www.virustotal.com
 https://www.vividon.ai
 https://www.vmware.com
@@ -10056,6 +10090,7 @@ https://www.vpngate.net
 https://www.vpnmiao.site
 https://www.vpnunlimitedapp.com
 https://www.vpsknow.com
+https://www.vsphone.com
 https://www.vtwoc3.top
 https://www.vtwoc4.top
 https://www.vultr.com
@@ -10152,6 +10187,7 @@ https://www.yahaha.plus
 https://www.yangshipin.cn
 https://www.yangzhiping.com
 https://www.yay520.com
+https://www.yc.xyz
 https://www.yckceo.com
 https://www.ycombinator.com
 https://www.ye-xiao.top
