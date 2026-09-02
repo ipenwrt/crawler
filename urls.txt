@@ -2008,6 +2008,7 @@ https://api-huacloud.net
 https://api-hx.02000.net
 https://api-hy.02000.net
 https://api-hy.02000.top
+https://api-hy.gonghailin.xin
 https://api-jx.02000.net
 https://api-jx.02000.top
 https://api-jx.02000.xin
@@ -3288,6 +3289,7 @@ https://crates.io
 https://crawlee.dev
 https://crazystresser.net
 https://creativecommons.org
+https://crispmac.app
 https://crocidb.com
 https://crontab.guru
 https://crontab.online
@@ -4005,6 +4007,7 @@ https://e04ecf1d.ghelper.me
 https://e1-f55.pages.dev
 https://e1.xxr9ft26m5.workers.dev
 https://e105039.lvcha.me
+https://e105062.lvcha.me
 https://e11e.alidayu.alipayqq.cn
 https://e1452652-32ee-b946-e3e7-d9be7070058e.buou.lol
 https://e1edeec0.ghelper.me
@@ -4101,6 +4104,7 @@ https://emoooo.club
 https://empty-mouse-fbb7.alizareh4024.workers.dev
 https://en.bitcoin.it
 https://en.cppreference.com
+https://en.sedaily.ai
 https://en.softonic.com
 https://en.wikibooks.org
 https://en.yna.co.kr
@@ -4233,6 +4237,7 @@ https://fcp-prod-mci1-remnawave.freesocks.org
 https://fctahfbxlk.eastasia.cloudapp.azure.com
 https://fddsf.zcr07.dns-dynamic.net
 https://fdhf-jhfksf.jilian.store
+https://fdroid.ironfoxoss.org
 https://fdyes.shop
 https://fed.chanceyu.com
 https://fed.taobao.org
@@ -5311,6 +5316,7 @@ https://kiking1223.xn--49st2e1z0f.xn--55qx5d
 https://king-gpt.ir
 https://king-movie.net
 https://king.likelike.ip-ddns.com
+https://kipfel.youzizi.top
 https://kite-demo.zzde.me
 https://kite.zzde.me
 https://kitsch.xn--8stx8olrwkucjq3b.com
@@ -5467,6 +5473,7 @@ https://let.bnsubservdom.com
 https://letsencrypt.org
 https://levelup.gitconnected.com
 https://leviko.godmojtaba.workers.dev
+https://lewiscampbell.tech
 https://lh2gry1fffkx.top
 https://li2.drsaina.com
 https://liangxin.xyz
@@ -5848,6 +5855,7 @@ https://misskey-hub.net
 https://mistral.ai
 https://misty-limit-ed241123.jamph137.workers.dev
 https://misub-eld.pages.dev
+https://misub.jknb.cc.cd
 https://misub.schzyc.de5.net
 https://mitce.com
 https://mitce.net
@@ -5914,6 +5922,7 @@ https://movie.douban.com
 https://movie1.dianying.lat
 https://movie2.dianying.lat
 https://mozilla.cloudflare-dns.com
+https://mozilla.org
 https://mozillagfx.wordpress.com
 https://mp.weixin.qq.com
 https://mp4.wanlidag.top
@@ -6051,6 +6060,7 @@ https://nanbei.click
 https://nanbei.cloud
 https://nanbei.cyou
 https://nanbeicloud.net
+https://nango.dev
 https://nannou.cc
 https://nano.nachoneko.cn
 https://nanobrew.trilok.ai
@@ -7806,9 +7816,11 @@ https://sub.zhilian.best
 https://sub.zingfast.vn
 https://sub.zlwl.org
 https://sub.zyfx6.xyz
+https://sub.zz2233.cyou
 https://sub.zzxxccvv.top
 https://sub01.jishu168.xyz
 https://sub01.sh-cloudflare.sbs:8443
+https://sub02.xacg.top
 https://sub1.591haoka.com
 https://sub1.91qaq.lol
 https://sub1.achaemenidempireofpersia.uk
@@ -7982,6 +7994,7 @@ https://subsss.999g.xyz
 https://substable.trevely.de5.net
 https://substack.com
 https://substore.220322.best
+https://substore.panell.top
 https://substore.zszweb.pp.ua
 https://subsub.surge.sh
 https://subsubsubsubsub.keledydz.uk
@@ -8655,6 +8668,7 @@ https://vpn.jsvpn.xyz
 https://vpn.linuxdo.pro
 https://vpn.nguyendinhnghi.id.vn
 https://vpn.shunjianboy.top
+https://vpn.yuzhe.cc.cd
 https://vpn6688.com
 https://vpnfast.online
 https://vpngiare.net
@@ -9728,6 +9742,7 @@ https://www.nutbit.net
 https://www.nutsfind.com
 https://www.nvenix.icu
 https://www.nvidia.com
+https://www.nyc.gov
 https://www.nytimes.com
 https://www.octopus.com
 https://www.oiioii.ai
@@ -10434,6 +10449,7 @@ https://xn--dlyx70g.xn--4gqs5ymhk43c.eu.org
 https://xn--ehq91fquq.com
 https://xn--ehqa22b.site
 https://xn--fhqu06a8m1asto.icu
+https://xn--frxs53apxw.lol
 https://xn--gckvb8fzb.com
 https://xn--h5qy75o.com
 https://xn--h6q53lcvpz7l.club
