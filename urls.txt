@@ -173,6 +173,7 @@ http://c.kilxs.cn
 http://c.xcvpn.me
 http://c9k.buzz
 http://cafebazaar.ir
+http://canva.com
 http://capture3millionsubscribers.thm
 http://carterzheng.synology.me:8008
 http://casabio.org
@@ -2343,6 +2344,7 @@ https://arize.com
 https://arjan.com.np
 https://ark.cn-beijing.volces.com
 https://arkime.com
+https://armature.tech
 https://arminli.com
 https://arnoldvink.com
 https://arstechnica.com
@@ -2614,6 +2616,7 @@ https://bitplane.net
 https://biu001.com
 https://biubiufast.com
 https://biubiux.online
+https://biz.chosun.com
 https://bjango.com
 https://blackhat.com
 https://blackpink.lulu.autos
@@ -2878,6 +2881,7 @@ https://calv.info
 https://campaigns.avira.com
 https://cangdu.org
 https://canmipai.com
+https://canva.com
 https://canvasblocker.kkapsner.de
 https://caoni-99.com
 https://caoyyds.top
@@ -4489,6 +4493,7 @@ https://gabmus.gitlab.io
 https://gajim.org
 https://galaxy.starcloud.monster
 https://galaxystore.samsung.com
+https://galvered.com
 https://game.skport.com
 https://gap.im
 https://gapi.mailsapi.com
@@ -6434,6 +6439,7 @@ https://panel.xingvoy.com
 https://panel.xuebifast.com
 https://panel.ykkk.best
 https://panel3.touhou.tel
+https://panstar.ai
 https://paolu.pics
 https://paper.dropbox.com
 https://pars.show
@@ -8841,6 +8847,7 @@ https://wizy.clyve.help
 https://wj-kc.com
 https://wj.qq.com
 https://wj.surveyking.cn
+https://wjhcrdja.shop
 https://wjkc123.com
 https://wjkc66.vip
 https://wk-auto-update-3e7.pages.dev
@@ -10032,6 +10039,7 @@ https://www.tnhh.net
 https://www.tntyun.cc
 https://www.tokeniko.com
 https://www.tomatov2.buzz
+https://www.tomsguide.com
 https://www.tomshardware.com
 https://www.toobit.com
 https://www.toodaylab.com
