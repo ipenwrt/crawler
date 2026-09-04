@@ -66,6 +66,7 @@ http://admin.vip.edu.kg
 http://admin.vlife.cc
 http://admin1.net2vip.com
 http://admin1337special.hackme.thm:40009
+http://adobe.com
 http://adventofcode.com
 http://aelr.cc
 http://aiease.ai
@@ -167,6 +168,7 @@ http://bugs.python.org
 http://build.clusterhq.com
 http://buoujichang.xyz
 http://burpsuite.applinzi.com
+http://bwrd.link
 http://by.xbygood.xyz
 http://c.biancheng.net
 http://c.kilxs.cn
@@ -2033,6 +2035,7 @@ https://api.abyssyun.top
 https://api.acaisbest.online
 https://api.acaisbest.shop
 https://api.adviceslip.xyz
+https://api.aeramc.su
 https://api.akijp.tokyo
 https://api.aniuo.com
 https://api.anquanke.com
@@ -2123,6 +2126,7 @@ https://api.ndsxfkjfvhzdsfio.quest
 https://api.neigui.us.kg
 https://api.neigui.us.kg:443
 https://api.nekocloud.top
+https://api.netlify.com
 https://api.nexconvert.com
 https://api.nfspeed01.com
 https://api.nicepay.co.kr
@@ -2727,6 +2731,7 @@ https://bluereader.org
 https://bm.ruankao.org.cn
 https://bmail.ag
 https://bnm.222560.xyz
+https://bnmofocua.shop
 https://bnxoibshfvvx.top
 https://board.0xcc.icu
 https://board.imaodou.xyz
@@ -3075,6 +3080,7 @@ https://clarityai.co
 https://clash.221207.xyz
 https://clash.jctaoo.site
 https://clash.llleman.com
+https://clash.md
 https://clash.myvm.cc
 https://clash.nite07.com
 https://clash.realiti.me
@@ -4261,6 +4267,7 @@ https://feedless.org
 https://feedly.com
 https://feeds.acast.com
 https://feeds.arstechnica.com
+https://feeds.bar
 https://feeds.bbci.co.uk
 https://feeds.feedburner.com
 https://feedwrangler.net
@@ -6289,6 +6296,7 @@ https://oldtoons.world
 https://ollama.com
 https://olsh.me
 https://omdia.tech.informa.com
+https://omdiaevents.com
 https://omim.org
 https://omni.k8s9.com
 https://omnifile.co
@@ -6473,6 +6481,7 @@ https://paws.community
 https://pay.ldxp.cn
 https://paybtc.com.au
 https://paydock.com
+https://payment.samantel.ir
 https://payoneer.custhelp.com
 https://pb.jiedianxielou.workers.dev
 https://pb.z9678.dns.army
@@ -6826,6 +6835,7 @@ https://r.saraf.app
 https://r1.840501.xyz
 https://r2-c11-dd.0-w.ccwu.cc
 https://r5t6.00890604.xyz
+https://raaznet.com
 https://rabbitpro-subscription.com
 https://radar-proxyvpnvip.pvvip.top
 https://radar.cloudflare.com
@@ -6868,6 +6878,7 @@ https://readine.app
 https://readkit.app
 https://readpo.com
 https://readwise.io
+https://realpython.com
 https://realvpn.v2yunvipaff.com
 https://realvtest.galaxyvipaff01.cc
 https://realvtest.qytvipaff.cc
@@ -7116,6 +7127,7 @@ https://sanfen005.xyz
 https://sanguayun.jiumaojiu.net
 https://sanqianlijinxiuheshan.us.kg
 https://sansuy.site
+https://santiagodevelopment.com
 https://sanxijichang.com
 https://sapi.ssapi.net
 https://saraf.app
@@ -8156,6 +8168,7 @@ https://teddy-chen-tw.blogspot.com
 https://tehransms.online
 https://telega.io
 https://telegra.ph
+https://telegram-feiyangdigital.v1.mk
 https://telegram.dog
 https://telegram.me
 https://telegraph.rayan-config.workers.dev
@@ -8327,6 +8340,7 @@ https://translator.broadinstitute.org
 https://travis-ci.org
 https://trc.metrix.ir
 https://trello.com
+https://trendo.com
 https://trendshift.io
 https://trigger.dev
 https://trj.zcr5.ddns-ip.net
@@ -8407,6 +8421,7 @@ https://ui.toast.com
 https://uijduvfglbmnuqwefvg.ifxfg.cn
 https://uimovement.com
 https://uk.finance.yahoo.com
+https://umbilical5005.cnqq.de
 https://ume.la
 https://uneasy.win
 https://unfiltered.adguard-dns.com
@@ -9074,6 +9089,7 @@ https://www.bumingbai.net
 https://www.business-standard.com
 https://www.businessinsider.com
 https://www.businesskorea.co.kr
+https://www.businesswire.com
 https://www.butnono.com
 https://www.buymeacoffee.com
 https://www.bybit.eu
@@ -9652,6 +9668,7 @@ https://www.mk2021.com:6003
 https://www.mk2031.com:9443
 https://www.mk2040.com:9163
 https://www.mk2120.com:9979
+https://www.mkcloud.net
 https://www.mm9.ltd
 https://www.mnucv.xyz
 https://www.moakt.com
@@ -10053,6 +10070,7 @@ https://www.torproject.org
 https://www.toutiao.com
 https://www.toyaml.com
 https://www.trackawesomelist.com
+https://www.transocks.com
 https://www.trash-mail.com
 https://www.trendforce.com
 https://www.tribler.org
@@ -10078,6 +10096,7 @@ https://www.unibo.it
 https://www.uniprot.org
 https://www.unrealengine.com
 https://www.uoyun.com
+https://www.upee.review
 https://www.uploadina.com
 https://www.uptvs.com
 https://www.upx8.com
@@ -10365,6 +10384,7 @@ https://xft.666676.xyz
 https://xg25418.xskjsvip.dpdns.org
 https://xgr1.xyz
 https://xgr2.xyz
+https://xgsd.2000601.xyz:2096
 https://xgxiongdi.com
 https://xh.583181.xyz
 https://xhamster.com
