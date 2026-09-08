@@ -100,6 +100,7 @@ http://api.wtcloud.xyz
 http://api.xn--14ra41gd24b.xyz
 http://api.yanxi520.cn
 http://apijson.cn
+http://apinex.bond
 http://app.exxanz.com
 http://app.lydiaex.ir
 http://app.mfish.com.cn:11119
@@ -369,6 +370,7 @@ http://generate.wgetcloud.org
 http://geojson.org
 http://get-set.cn
 http://ggiuwegivhe123.a123.bond
+http://gigazine.net
 http://gigix.thoughtworkers.org
 http://git.buildroot.net
 http://git.freeswitch.org
@@ -2557,6 +2559,7 @@ https://beautyandbeast.link
 https://bedrives.ir
 https://bee.82820.net
 https://bee2.cloud
+https://beebom.com
 https://beedcdd6.ghelper.me
 https://beef1917.com
 https://befriends.concubine.top
@@ -2761,6 +2764,7 @@ https://bookfere.com
 https://bootstrap.pypa.io
 https://boou.colacloud.free.hr
 https://bordn1.xyz
+https://borretti.me
 https://bot.chenoto.cn
 https://bozhi.591haoka.com
 https://bp.sub.cmliussss.net
@@ -4687,6 +4691,7 @@ https://greasyfork.org
 https://greatdk.com
 https://greatfirevpn.com
 https://greekreporter.com
+https://greened.kr
 https://gridsetapp.com
 https://gridsome.org
 https://grok.com
@@ -5061,6 +5066,7 @@ https://install.sdconfig.pro
 https://installers.privateinternetaccess.com
 https://instant.1point3acres.com
 https://instantworkstation.com
+https://intelligence-curse.ai
 https://intelx.io
 https://interestingengineering.com
 https://internals.rust-lang.org
@@ -6595,6 +6601,7 @@ https://pkvwq.no-mad-world.club
 https://placehold.it
 https://plainapp.app
 https://planetable.eth.limo
+https://plasmaone.onelink.me
 https://platform.adobe.io
 https://platform.claude.com
 https://platform.deepseek.com
@@ -6691,6 +6698,7 @@ https://privacy.openai.com
 https://privacycheck.sec.lrz.de
 https://privadovpn.com
 https://privnote.com
+https://prjrqinr.shop
 https://pro-api.coingecko.com
 https://pro.76898102.xyz
 https://pro.aiwtxx.xyz
@@ -7700,6 +7708,7 @@ https://sub.multiinterrnet.com
 https://sub.murphyweb.sbs
 https://sub.murphyweb.site
 https://sub.narutos.link
+https://sub.nekocloud.host
 https://sub.netv2.cc
 https://sub.nex7.us.kg
 https://sub.nexc.cc
@@ -8564,6 +8573,7 @@ https://uu.iqq8.top
 https://uuidleishen.xn--cjz291d.co
 https://uupload.ir
 https://uuu.glass
+https://uwu.femboy67.dpdns.org
 https://uy6.ur0njuu6gs.workers.dev
 https://uzh.xop.buzz
 https://v.ifeng.com
@@ -9023,6 +9033,7 @@ https://www.adobe.com
 https://www.affman.com.in
 https://www.ag-grid.com
 https://www.aibase.com
+https://www.aico.nyc
 https://www.aiease.ai
 https://www.aignes.com
 https://www.aimacloud.info
