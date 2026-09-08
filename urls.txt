@@ -1899,6 +1899,7 @@ https://aier.eu.cc
 https://aifreeforever.com
 https://aifun.trafficmanager.net
 https://aigame.totwo.xyz
+https://aihot.news
 https://aihot.virxact.com
 https://aikebang.net
 https://ailibri.com
@@ -2231,6 +2232,7 @@ https://api.ymvpnpro.cc:8700
 https://api.yourapp.com
 https://api.yuyan.lol
 https://api.yuyan.vin
+https://api.zqzone.cloud
 https://api.zuanshivpn.cn
 https://api.zzzzzl.me
 https://api0.bigmelook.com
@@ -4073,6 +4075,7 @@ https://easylist-downloads.adblockplus.org
 https://easywithai.com
 https://ebe396da.ghelper.me
 https://ebike-test.s3.dualstack.ap-southeast-1.amazonaws.com
+https://ebs.publicnow.com
 https://ec.europa.eu
 https://ec.ltn.com.tw
 https://ec5smonchl973s.wca1rs59sefb1kl655b0.online
@@ -4352,6 +4355,7 @@ https://fingerprint.com
 https://firebase.blog
 https://firecore.com
 https://firesidevpn.com
+https://firmus.co
 https://fish.audio
 https://fishchips.io
 https://fixupx.com
@@ -5851,6 +5855,7 @@ https://merlinblog.xyz
 https://messengerlivec26.iranlms.ir
 https://meta-7fk.pages.dev
 https://meta.wikimedia.org
+https://metalbear.com
 https://metallb.universe.tf
 https://metersphere.io
 https://metr.org
@@ -5879,7 +5884,9 @@ https://miku.onl
 https://milli.gold
 https://milus.one
 https://milvus.io
+https://mimo.mi.com
 https://mimo.xiaomi.com
+https://mimo.xiaomimimo.com
 https://min.io
 https://minapp.com
 https://mind-elixir.com
@@ -6399,6 +6406,7 @@ https://openmaps.fr
 https://openmdw.ai
 https://openpath.quest
 https://openproxylist.com
+https://openreview.net
 https://openrouter.ai
 https://opensend.namuh.co
 https://opensource.adobe.com
@@ -10326,6 +10334,7 @@ https://www.yfjc.xyz
 https://www.yhc1314dy.link
 https://www.yicai.com
 https://www.yiibai.com
+https://www.yingdev.com
 https://www.yingzi01.com
 https://www.yingzi02.com
 https://www.yiyuanjichang.net
