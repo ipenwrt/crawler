@@ -3250,6 +3250,7 @@ https://coderwall.com
 https://codesearch.aelve.com
 https://coding.net
 https://codypy.ir
+https://cognition.com
 https://cognito-idp.eu-central-1.amazonaws.com
 https://cognito-idp.us-east-1.amazonaws.com
 https://coinjar.com
@@ -4269,6 +4270,7 @@ https://fastly.jsdelivr.net
 https://fastraw.ixnic.net
 https://fastsend.ing
 https://fastsocks.xyz
+https://fasttool.org
 https://fatalentropy.com
 https://fb.fastnb.top
 https://fb.umgtb.cn
@@ -4581,6 +4583,7 @@ https://getinfo.bigbigwatermelon.com
 https://getinfo.bigwatermelon.org
 https://getmalus.com
 https://getnode.dksb.store
+https://getnohuman.com
 https://getomni.ai
 https://getoutline.org
 https://getstream.io
@@ -4735,6 +4738,7 @@ https://guihet.com
 https://gum.co
 https://gunicorn.org
 https://guobaotegong.me
+https://guobasubyx.pages.dev
 https://guojiang.website
 https://guolicheng.buzz
 https://guolicheng.cc
@@ -8272,6 +8276,7 @@ https://tengine.taobao.org
 https://terfghtll.dashuai.us
 https://terminusdb.org
 https://terraframe-inc.gitbook.io
+https://terrytao.wordpress.com
 https://test-123.westus.logic.azure.com:443
 https://test-api.asailor.org
 https://test-huld.sjukra.is
@@ -9682,6 +9687,7 @@ https://www.laoniu49.top
 https://www.laozuo.org
 https://www.laruence.com
 https://www.latepost.com
+https://www.latimes.com
 https://www.lava.xyz
 https://www.lbank.com
 https://www.lbxjc.online
