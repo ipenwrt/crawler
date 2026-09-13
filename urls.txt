@@ -775,6 +775,7 @@ http://split.tg
 http://spr.ly
 http://ss.045.node-for-bigairport.win:19000
 http://ss.pythonic.life
+http://ssl.fastly.com
 http://ssrdingyue.ueuo.com
 http://stackoverflow.com
 http://stairnode.cczzuu.top
@@ -3278,6 +3279,7 @@ https://config.foxiapi.com
 https://config.huojian111.com
 https://config.moe
 https://configuration.osk2.com
+https://connect-apps.s3.ir-thr-at1.arvanstorage.ir
 https://connect.linux.do
 https://connect.rom.miui.com
 https://connectivitycheck.gstatic.com
@@ -4015,6 +4017,7 @@ https://dy2.mmydy.xyz
 https://dy263.dukadi.info
 https://dy3.yunhu1.xyz
 https://dy4.mmydy.xyz
+https://dy5-8.fgqoq.online
 https://dy5.mmydy.xyz
 https://dy513.mmydy.xyz
 https://dy6.mmydy.xyz
@@ -4324,6 +4327,7 @@ https://feiniaoyun.xyz
 https://feiniaoyun11.life
 https://feitucloud.com
 https://feiwangacg.taobao.com
+https://feixiang1981.ccwu.cc
 https://felixnuesse.de
 https://fellayun.cc
 https://felo.me
@@ -4532,6 +4536,7 @@ https://g.luxury
 https://g1.subjsm.cyou
 https://g1.xfuti.com
 https://g105039.lvcha.me
+https://g105062.lvcha.me
 https://g15311cec.cdn.uunode.com
 https://g2a.xxx.cn
 https://g4rh0t1shzow.top
@@ -5171,6 +5176,7 @@ https://is.domainforsub.work
 https://ishare.ifeng.com
 https://isherv.in
 https://isi.gay
+https://isignal.ir
 https://isignthis.com
 https://isitai.com
 https://issues.apache.org
@@ -5482,6 +5488,7 @@ https://l.db-link01.top
 https://l.snpy.ir
 https://l.threads.com
 https://l.xfuti.com
+https://l105039.lvcha.me
 https://l1wn2.no-mad-world.club
 https://l5vzf.no-mad-world.club
 https://lab.magiconch.com
@@ -6587,6 +6594,7 @@ https://persepolis.getty.edu
 https://persianasports.com
 https://personal.dtcpay.com
 https://petapixel.com
+https://petrelvoyage.com
 https://pf.apz3xggbio.workers.dev
 https://pfjc.im
 https://pgbps.ccwu.cc
@@ -6765,6 +6773,7 @@ https://proxy.api.030101.xyz
 https://proxy.aries.ovh
 https://proxy.avgt.ink
 https://proxy.batiex.ink
+https://proxy.bingtao.xyz
 https://proxy.crazygeeky.com
 https://proxy.fldhhhhhh.top
 https://proxy.kinhweb.com
@@ -6955,6 +6964,7 @@ https://rcvps.cn
 https://reabble.cn
 https://react.dev
 https://reactbits.dev
+https://read.misalignedmag.com
 https://reader.960960.xyz
 https://readhub.cn
 https://readine.app
@@ -8292,6 +8302,7 @@ https://testingcf.jsdelivr.net
 https://texon.io
 https://textcortex.com
 https://textideo.com
+https://teyurixjknfa.shop
 https://tf.nikishop13.online
 https://tfajn.hcjwj.com
 https://tfboys.cloudtaste.xyz
@@ -8869,6 +8880,7 @@ https://web.archive.org
 https://web.coo.wiki
 https://web.dashbit.top
 https://web.dev
+https://web.eecs.utk.edu
 https://web.elevengo.ru
 https://web.gmssh.com
 https://web.nnpy.org
@@ -9008,6 +9020,8 @@ https://ww1.mfssr.xyz
 https://ww3.gcpay.com
 https://ww38.console.ly520.me
 https://ww38.klxq.djgskc.top
+https://wwaox.lanzouu.com
+https://wwaxs.lanzouu.com
 https://wwbbd.lanzouw.com
 https://wwbfs.lanzouv.com
 https://wwbpv.lanzouu.com
@@ -9248,6 +9262,7 @@ https://www.ckcloud.xyz
 https://www.clash.la
 https://www.clashverge.dev
 https://www.class.com.au
+https://www.claymath.org
 https://www.clipzap.ai
 https://www.cloudflare.com
 https://www.cloudlion.me
@@ -9392,6 +9407,7 @@ https://www.exalead.com
 https://www.exitlag.com
 https://www.expressvpn.com
 https://www.expressvpn.works
+https://www.ezer.cc
 https://www.f-secure.com
 https://www.f2ray.com
 https://www.faceseek.online
@@ -10141,6 +10157,7 @@ https://www.testingcatalog.com
 https://www.testspeed.ir
 https://www.textmagic.com
 https://www.tf1info.fr
+https://www.tgju.org
 https://www.thaiexaminer.com
 https://www.thatprivacyguy.com
 https://www.theatlantic.com
@@ -10449,8 +10466,10 @@ https://wwww.luoyun7.com
 https://wwwww.12.kg
 https://wwwx.qyshare.com
 https://wwx.lanzout.com
+https://wwxox.lanzouu.com
 https://wwy.yyenh.cn
 https://wwz.lanzout.com
+https://wwzdx.lanzouu.com
 https://wx.phocoon.com
 https://wx.wuxianjc.top
 https://wxw.moe
@@ -10939,6 +10958,7 @@ https://zu1k.com
 https://zulip.com
 https://zuul.openstack.org
 https://zww.me
+https://zxcvz.pages.dev
 https://zxx.im
 https://zyd.zbb.dns-dynamic.net
 https://zyd.zcr25.ggff.net
