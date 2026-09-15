@@ -69,6 +69,7 @@ http://admin1337special.hackme.thm:40009
 http://adobe.com
 http://adventofcode.com
 http://aelr.cc
+http://ai.studio
 http://aiease.ai
 http://aiforensics.org
 http://ainita.net
@@ -506,6 +507,7 @@ http://kalcaddle.com
 http://karmadecay.com
 http://kasku.ai
 http://kazimmt.ami.bd
+http://kh45.co
 http://khabaronline.ir
 http://kitty.sb
 http://kittyai.tech
@@ -1882,6 +1884,7 @@ https://afun-waf.trafficmanager.net
 https://afun.la
 https://ag.bnpm.dynu.net:30443
 https://agentrouter.org
+https://agentskills.io
 https://agmprojects.com
 https://agtv.me
 https://ai-bot.cn
@@ -3619,6 +3622,7 @@ https://di5ji.lat
 https://diamond.jp
 https://diffusesystems.net
 https://dify.ai
+https://digiato.global
 https://digimoviez.com
 https://digipostal.ir
 https://digital-strategy.ec.europa.eu
@@ -3913,6 +3917,7 @@ https://download.nextcloud.com
 https://download.pytorch.org
 https://download.sekurvpn.com
 https://download.wireguard.com
+https://download.zestlink.cc
 https://downloader.caorushizi.cn
 https://downloads.immortalwrt.org
 https://downloads.onelighter.site
@@ -5520,6 +5525,7 @@ https://laosijicc.top
 https://laratranslate.com
 https://latiaocloud.net
 https://laverna.cc
+https://law.justia.com
 https://laxcity.pages.dev
 https://layoutit.com
 https://lbank.com
@@ -5586,6 +5592,7 @@ https://linger.cc
 https://lingering-lab-7b1b.jamph137.workers.dev
 https://lingke-rss.icu
 https://linhongbo.com
+https://link.clashroyale.com
 https://link.dingyueapi.net
 https://link.esnclink.com
 https://link.gridpointgo.com
@@ -6886,6 +6893,7 @@ https://qingyun.zybs.eu.org
 https://qinwenfeng.com
 https://qishuijc.top
 https://qiuyw.lanzouq.com
+https://qixi.best
 https://qjget.xyz
 https://qkt83qnp2yuj.subconnect.org
 https://qlgq.top
@@ -7946,6 +7954,7 @@ https://sub1.efshop.cc
 https://sub1.elkcloud.top
 https://sub1.freehome.cfd
 https://sub1.gilloffroad.ir:2096
+https://sub1.gsafevpn.com
 https://sub1.haiqilai.lol
 https://sub1.huy.0.srl
 https://sub1.jade-brun.top
@@ -9749,6 +9758,7 @@ https://www.lydnb.cc
 https://www.m2net.cc
 https://www.m2net.lol
 https://www.macbl.com
+https://www.macobserver.com
 https://www.macrozheng.com
 https://www.macrumors.com
 https://www.macworld.com
@@ -10369,6 +10379,7 @@ https://www.xn--9kqx21a0sv.top
 https://www.xn--9kqz09d4qq.com
 https://www.xn--fjq92b69oa1913e.com
 https://www.xn--gmq09hwyu.fun
+https://www.xn--kivt58h.lol
 https://www.xn--qk5apn.com
 https://www.xnssr.com
 https://www.xqc.best
@@ -10636,6 +10647,7 @@ https://xn--ihq15i3w6b.club
 https://xn--ihqu10cn4cf3cfv5a.com
 https://xn--iiq540h.com
 https://xn--ioru3fc2t1hb.com
+https://xn--kivt58h.lol
 https://xn--kivx99h.xyz
 https://xn--l6qx3l9s1a.com
 https://xn--m5-yq5cua2b6473e.works
