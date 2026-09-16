@@ -192,6 +192,7 @@ http://chaojiji.one
 http://chatgpt.com
 http://chiguayun.fun
 http://china.hani.co.kr
+http://chopin.paxr.ir
 http://ciallo.elegy.icu:7001
 http://cinowu.duoshuo.com
 http://clash.razord.top
@@ -294,6 +295,7 @@ http://docs.oasis-open.org
 http://docs.openstack.org
 http://docs.z.ai
 http://dopebox.to
+http://dopr.rehan-iogsar.ir:4680
 http://down.dxiazaicc.com
 http://download.cirros-cloud.net
 http://download.oracle.com
@@ -3620,6 +3622,7 @@ https://di4e.kefu.email
 https://di5.di5ji.lat
 https://di5ji.lat
 https://diamond.jp
+https://diewithme.co
 https://diffusesystems.net
 https://dify.ai
 https://digiato.global
@@ -4107,6 +4110,7 @@ https://ed5d65ca.ghelper.me
 https://edd.zbb06.filegear-sg.me
 https://eddy1.snow00.us
 https://edfd8348.ghelper.me
+https://edg-2oo.pages.dev
 https://edge-x.me
 https://edgeonereclaim.ikkt.cn
 https://edget.269228.dpdns.org
@@ -5766,6 +5770,7 @@ https://m.youtube.com
 https://m01.huidu520.com
 https://m1.tohno-0.top
 https://m1.tohno-1.top
+https://m105039.lvcha.me
 https://m11.spwvpn.com
 https://m1564f3c46-a084-46fa-b4af-3224a41e7485.131.pp.ua
 https://m19-1.999990009.xyz
@@ -6461,6 +6466,7 @@ https://oracle.zoom.us
 https://orbot.app
 https://ordns.he.net
 https://origamiboy.herokuapp.com
+https://original.ifeng.com
 https://ornith.ai
 https://orymi.net
 https://os.phil-opp.com
@@ -8447,6 +8453,7 @@ https://tr.z9678.v6.army
 https://trac.parrot.org
 https://trace.moe
 https://trackawesomelist.us17.list-manage.com
+https://tradingview.com
 https://training.xfyun.cn
 https://transfer.52python.cn
 https://translatewiki.net
@@ -8946,6 +8953,7 @@ https://whatismy-ipaddress.com
 https://whatsapp.com
 https://whatshub.top
 https://whatson.bfi.org.uk
+https://wheel.nakhoda.trade
 https://whk.life
 https://whoer.net
 https://whoisyourdady.gfw-wdnmd.com
@@ -9302,6 +9310,7 @@ https://www.cordc.net
 https://www.coursera.org
 https://www.coze.com
 https://www.cra.ir
+https://www.crazygames.com
 https://www.crazymailing.com
 https://www.crew.icu
 https://www.cringely.com
@@ -9714,6 +9723,7 @@ https://www.laruence.com
 https://www.latepost.com
 https://www.latimes.com
 https://www.lava.xyz
+https://www.lawfaremedia.org
 https://www.lbank.com
 https://www.lbxjc.online
 https://www.lddgo.net
@@ -9773,6 +9783,7 @@ https://www.mate.vip
 https://www.maxkey.top
 https://www.maxmind.com
 https://www.mediafire.com
+https://www.mediatek.com
 https://www.mefcl.com
 https://www.mehrnews.com
 https://www.meiguodizhi.com
@@ -10221,6 +10232,7 @@ https://www.torproject.org
 https://www.toutiao.com
 https://www.toyaml.com
 https://www.trackawesomelist.com
+https://www.tradingview.com
 https://www.transocks.com
 https://www.trash-mail.com
 https://www.trendforce.com
