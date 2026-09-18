@@ -446,6 +446,7 @@ http://hpyjc.top
 http://html5weekly.com
 http://httb.ir
 http://httpbin.org
+http://htwins.net
 http://huggingface.co
 http://hukai.me
 http://humble-rodent.treefrog761.one
@@ -1964,6 +1965,7 @@ https://aluzz.mmzhk.website
 https://alvless.filegear-sg.me
 https://am-cf-tunnel-sub.lyqnihao.dpdns.org
 https://am.zcr4.ip-ddns.com
+https://am250719.xyjzz02.dpdns.org
 https://amarfact.com
 https://amatrixap.com
 https://amazing-apps.gitbook.io
@@ -2069,6 +2071,7 @@ https://api.biqibao.site
 https://api.bluesminds.com
 https://api.bppp.shop
 https://api.branch.io
+https://api.cline.bot
 https://api.cloudflare.com
 https://api.cloudflareclient.com
 https://api.cloudindex.ai
@@ -2326,6 +2329,7 @@ https://app.nextvpn.xyz
 https://app.notion.com
 https://app.operately.com
 https://app.patr.cloud
+https://app.payfar.org
 https://app.ppssqq.com
 https://app.rebrandly.com
 https://app.rookiebase.cn
@@ -3008,6 +3012,7 @@ https://cdnbao.foxi4.com
 https://cdnrss.starlinkclash.ggff.net
 https://ce433ae2.jego.vip
 https://ce898261.jego.vip
+https://celglfkvoldml0lwenh1ek4ok.fodpap8o5gdxv216p5642d9.workers.dev
 https://cellfie.ge
 https://cenguigui.cn
 https://cert-manager.io
@@ -4781,6 +4786,7 @@ https://gyyun.top
 https://h.bbydy.org
 https://h.xfuti.com
 https://h105039.lvcha.me
+https://h105062.lvcha.me
 https://h2o.apad.pro
 https://h4.linklick.ir
 https://h5.gicai.vip
@@ -6154,6 +6160,7 @@ https://mzh.moegirl.org.cn
 https://mzyglc.xyz
 https://n063ww4.wxll4.cfd
 https://n0z7w4tk.sdmao.online
+https://n105039.lvcha.me
 https://n3.leensasub.net
 https://n3.leensasub.us
 https://n4no.com
@@ -7277,6 +7284,7 @@ https://scalar.vector.im
 https://scamalytics.com
 https://scamminder.com
 https://scan.bestsky.tools
+https://scbzwz.scl168.club
 https://scdy03.scsub.com
 https://schema.getpostman.com
 https://schemas.ably.com
@@ -8468,6 +8476,7 @@ https://toshare.tosslk.xyz
 https://totalsportek.tips
 https://toting.top
 https://towardsai.net
+https://tower.jp
 https://toysforyou.top
 https://tpap.cloud
 https://tr.gogdog.xyz
@@ -8808,6 +8817,7 @@ https://vlso.1d.mom
 https://vlso1.1d.mom
 https://vlsovip.1d.mom
 https://vmax.ai
+https://vmess.fxxk.dedyn.io
 https://vms.drweb.com
 https://vms.drweb.ru
 https://vn.zcr25.netlib.re
@@ -9475,6 +9485,7 @@ https://www.fengchesub.com
 https://www.fengcheyun.xyz
 https://www.festival-cannes.com
 https://www.fhcloud.xyz
+https://www.figure.ai
 https://www.fileconverts.com
 https://www.filestash.app
 https://www.filimo.com
@@ -9500,6 +9511,7 @@ https://www.foxnews.com
 https://www.franxx.cloud
 https://www.freebuf.com
 https://www.freecadweb.org
+https://www.freeclash.top
 https://www.freeclashnode.com
 https://www.freecustom.email
 https://www.freedesktop.org
@@ -9587,6 +9599,7 @@ https://www.hidemyass.com
 https://www.hidoha.net
 https://www.himalaya.com
 https://www.hjtnt.link
+https://www.hk.chinamobile.com
 https://www.hk01.com
 https://www.hkfaa.com
 https://www.hneko.world
@@ -10404,6 +10417,7 @@ https://www.xingsu.lol
 https://www.xingsu.shop
 https://www.xinhuanet.com
 https://www.xiyou666.xyz
+https://www.xjpcanfly.shop
 https://www.xmfsubscribe.com
 https://www.xmfvpn.com
 https://www.xn--30q31nc3o033b.com
@@ -10532,6 +10546,7 @@ https://wyy.14kbuy.com
 https://wyy.yyenh.cn
 https://wzknb.pages.dev
 https://wzry-doc.pages.dev
+https://wzyun.oadvan.cn
 https://x-file-storage.xuyanwu.cn
 https://x-minus.pro
 https://x.ai
