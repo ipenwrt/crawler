@@ -187,6 +187,7 @@ http://cdn.kcz66.com
 http://cdnfire.xiaomispeed.com
 http://cfcloud.cyou
 http://cfhycoprmrr.shop
+http://cfvvv-ev1.pages.dev
 http://chabudai.org
 http://chaojiji.one
 http://chatgpt.com
@@ -2872,6 +2873,7 @@ https://c.eoa.ccwu.cc
 https://c.jichangs.com
 https://c.jiedianxielou.workers.dev
 https://c.kilxs.cn
+https://c.org
 https://c.seaspirit.dpdns.org
 https://c.xcvpn.me
 https://c.xfuti.buzz
@@ -3300,6 +3302,7 @@ https://connect.linux.do
 https://connect.rom.miui.com
 https://connectivitycheck.gstatic.com
 https://connectivitycheck.platform.hicloud.com
+https://connectix.space
 https://console.airrail.work
 https://console.aunoc.com
 https://console.cn-ping.asia
@@ -7115,6 +7118,7 @@ https://rss-starlink.ei38d3if3.xyz
 https://rss.51gpt.eu.org
 https://rss.arxiv.org
 https://rss.biteb-sub.com
+https://rss.bz
 https://rss.ccgfw.top
 https://rss.cnrss.xyz
 https://rss.com
@@ -9837,6 +9841,7 @@ https://www.meilisearch.com
 https://www.meiyiss.club
 https://www.metersphere.com
 https://www.metex.io
+https://www.mexc.com
 https://www.mga4k.co
 https://www.mgnet.sbs
 https://www.mhxxt.co
@@ -10067,6 +10072,7 @@ https://www.racevpn.com
 https://www.radiozamaneh.com
 https://www.radix-ui.com
 https://www.rainbond.com
+https://www.raksmart.com
 https://www.ralfj.de
 https://www.ranker.com
 https://www.raspberrypi.com
