@@ -757,6 +757,7 @@ http://shop.oreilly.com
 http://shoppingmall.electricbanana.click
 http://shortlink.nageoffer.com
 http://shoujiyanxishe.tk
+http://shuma.ccwu.cc
 http://shushu.icu
 http://sidebar.io
 http://signup.privadovpn.com
@@ -1953,6 +1954,7 @@ https://akool.com
 https://alex0.dev
 https://alexproxy001.herokuapp.com
 https://alexproxy002.herokuapp.com
+https://alibabacloud.com
 https://alice.dns-dynamic.net
 https://alice.zooid.dev
 https://alicenetwork.cloud
@@ -1989,6 +1991,7 @@ https://amz.awsy.top
 https://amzn.to
 https://ana.ir
 https://analyze.intezer.com
+https://ancreative.ca
 https://andaofu.xyz
 https://andreafortuna.org
 https://andrewzuo.com
@@ -3905,6 +3908,7 @@ https://doh.seby.io:8443
 https://doh3.dns.nextdns.io
 https://doi.org
 https://dokng.com
+https://domactions.com
 https://domain-admin.readthedocs.io
 https://domain.com
 https://domain.stackryze.com
@@ -6335,9 +6339,11 @@ https://nobitex.ir
 https://node-share.web.app
 https://node.666666222.xyz
 https://node.apqiang.com
+https://node.clash-party.cc
 https://node.freeclashnode.com
 https://node.nodefree.me
 https://node.oneclash.cc
+https://node.potatsolite.net
 https://node.reami.us
 https://node.v2rayu.cc
 https://node.yifang02.men
@@ -6745,6 +6751,7 @@ https://portal.7inet.com.cn
 https://portal.aws.amazon.com
 https://portal.cloudnium.net
 https://portal.f2vip.net
+https://portal.f3vip.net
 https://portal.gdmmdo.ga
 https://portal.mistea.cloud
 https://portal.mofeiyun.com
@@ -6959,6 +6966,7 @@ https://qr.alipay.com
 https://qrbaknw9lnde.top
 https://qriowkpqhgxjnapxpdgc.supabase.co
 https://qu.ax
+https://qualcomm.com
 https://quay.io
 https://quetta.net
 https://quhuo.com.cn
@@ -7753,6 +7761,7 @@ https://sub.extc.shop
 https://sub.eyujichang.com
 https://sub.feiji.ddns-ip.net
 https://sub.feiji.ip-ddns.com
+https://sub.femboy.us.ci
 https://sub.fnf.one
 https://sub.fnf.xyz
 https://sub.foxvpn.im
