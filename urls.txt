@@ -287,6 +287,7 @@ http://dlas1.tdmmov.xyz
 http://dlas3.tdmmov.xyz
 http://dlib.org
 http://dls2.iran-gamecenter-host.com
+http://dns.1111988.xyz
 http://doc.zhangwj.com
 http://docs.aws.amazon.com
 http://docs.ceph.com
@@ -2707,6 +2708,7 @@ https://blog.farmostwood.net
 https://blog.feediary.com
 https://blog.flipper.net
 https://blog.getpushmonkey.com
+https://blog.gitea.com
 https://blog.goatpeng.cn
 https://blog.guillaume-gomez.fr
 https://blog.guowenfh.com
@@ -3675,6 +3677,7 @@ https://dingy.886811.xyz
 https://dingy.zbb07.filegear-sg.me
 https://dingyue.bbec.cc
 https://dingyue.cloudaccess.icu
+https://dingyue.csnety.com
 https://dingyue.doushimeng.com
 https://dingyue.myzone.site
 https://dingyue.nezhasu.com
@@ -4882,6 +4885,7 @@ https://helloworld-gkhnaabtdcefa9d5.z01.azurefd.net
 https://helm.sh
 https://help.ether.fi
 https://help.instagram.com
+https://help.manus.im
 https://help.medium.com
 https://help.nextdns.io
 https://help.openai.com
@@ -5552,6 +5556,7 @@ https://kubadownload.com
 https://kubernetes.io
 https://kubernetes.slack.com
 https://kukeyun.cc
+https://kunkun.zmxoo.xyz
 https://kunlun.kunlun01.com
 https://kurdstore.info
 https://kurominetwork.ggff.net
@@ -5559,6 +5564,7 @@ https://kuromisubs.shop
 https://kutumu.top
 https://kuutamoinen.xyz
 https://kv.074167.xyz
+https://kx.csnety.com
 https://kxswa.tk
 https://kyvless.pages.dev
 https://l.dabai.in
@@ -6816,6 +6822,7 @@ https://pptr.dev
 https://pqjc.site
 https://pr.kuaifaka.com
 https://praemium.com
+https://prag-slots.com
 https://pre.paimon.gq
 https://predict.gamify3.com
 https://prefab.prefect.io
@@ -7000,6 +7007,7 @@ https://qqq.nfsq.us
 https://qqqqqqqqqqqqqqqqqqqq.n3el78lqhbc5yhb2.xyz
 https://qqwljs.cc
 https://qqww.yunjijd.xyz
+https://qqyst.sfht.kdns.fr
 https://qr.alipay.com
 https://qrbaknw9lnde.top
 https://qriowkpqhgxjnapxpdgc.supabase.co
@@ -7238,6 +7246,7 @@ https://rust.cc
 https://rustbest-cdgpbdccdfd8a8af.z01.azurefd.net
 https://rustcon.asia
 https://rustinblockchain.org
+https://rustyun-a.top
 https://rvorch.treze.cc
 https://rvps.duckking.shop:26720
 https://rwtdycukas.shop
@@ -7545,6 +7554,7 @@ https://sni.111000.dynv6.net
 https://sni.868001.xyz
 https://sni.skylee4.cloudns.ch
 https://snkc7wfop7w3.top
+https://snni.868001.xyz
 https://snowy.xiaonuo.vip
 https://snyk.io
 https://social-dog.net
@@ -8441,6 +8451,7 @@ https://tg9.lvcha.sbs
 https://tgdev.io
 https://tghjjcp.bestcloud.lol
 https://tglink.io
+https://tgproxy.pink
 https://tgscan.onrender.com
 https://tgz.heidong.cyou
 https://thanos.io
