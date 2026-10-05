@@ -1117,6 +1117,7 @@ http://www.umtry.com
 http://www.uucampus.com
 http://www.v2ex.com
 http://www.vogella.com
+http://www.volumeroot.com
 http://www.w3cfuns.com
 http://www.w3cplus.com
 http://www.w3ctech.com
@@ -2911,6 +2912,7 @@ https://c.yousu.cc
 https://c0660044.ghelper.me
 https://c0c6b56b.ghelper.me
 https://c1.bingclub.xyz
+https://c105039.lvcha.im
 https://c105039.lvcha.me
 https://c105062.lvcha.me
 https://c147793.parspack.net
@@ -3132,6 +3134,7 @@ https://chomthong.central-world.org
 https://chreke.com
 https://chrisabraham.com
 https://chriscoyier.net
+https://christitus.com
 https://chriswere.uk
 https://chronoframe.bh8.ga
 https://chuan-yun.cc
@@ -3730,6 +3733,7 @@ https://dl.cloudsmith.io
 https://dl.filefabot.ir
 https://dl.flyingbird.vip
 https://dl.k8s.io
+https://dl.landian.news
 https://dl.owokkvsxks.store
 https://dl.p6p.net
 https://dl.toolschi.com
@@ -4142,6 +4146,7 @@ https://e6b0b32e.ghelper.me
 https://e6bgteon34.yjbpi.cn
 https://e70a3294.ghelper.me
 https://e7399a94.ghelper.me
+https://earendil.com
 https://earnne.com
 https://earthworm.cuixueshe.com
 https://easycrypto.ai
@@ -5291,6 +5296,7 @@ https://j.sub12345.org
 https://j105039.lvcha.me
 https://j20-cloud.com
 https://j2s.buzz
+https://jabama.me
 https://jacarandafinance.com.au
 https://jack.cab
 https://jacko.io
@@ -5536,6 +5542,7 @@ https://kr-sel.doh.sb
 https://kr00lwbck8finkxhvskf8i7fhx4pwbfb.skygo0527.top
 https://krebsonsecurity.com
 https://krillapps.com
+https://krita.org
 https://krlutn.tckqxx.com
 https://kronos.plan9-dns.com
 https://ktm.qeayr.cn
@@ -5892,6 +5899,7 @@ https://mahanmusic.net
 https://maho.chipsfuck.fish
 https://mahour-music.ir:2053
 https://mahsaserver.com
+https://maiimg.com
 https://mail.networkwebmail.com
 https://mail.python.org
 https://mail.serv00.com
@@ -6880,6 +6888,7 @@ https://prometheus-operator.dev
 https://prometheus.ac.cn
 https://prometheus.io
 https://prometheus.monitor.azure.com
+https://prompt.ql.app
 https://prompts.chat
 https://prop.cf
 https://propellme.com.au
@@ -8971,6 +8980,7 @@ https://vpnyyds.link
 https://vps.aifoxin.com:37970
 https://vps.hosting
 https://vps.mc666.top
+https://vsdgyfcdosko.shop
 https://vtwoc1.top
 https://vtwoc3.top
 https://vue-admin-beautiful.com
@@ -9615,6 +9625,7 @@ https://www.fineshare.com
 https://www.finghtly.store
 https://www.fiper.net
 https://www.fireflyapp.com
+https://www.firefox.com
 https://www.fivefilters.org
 https://www.flaticon.com
 https://www.flixer.pro
@@ -9727,6 +9738,7 @@ https://www.hollywoodreporter.com
 https://www.home-assistant.io
 https://www.honeycomb.io
 https://www.hongx.sbs
+https://www.hostaff.com
 https://www.hostize.com
 https://www.hotlaplantat.com
 https://www.hp.com
