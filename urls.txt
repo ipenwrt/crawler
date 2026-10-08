@@ -2664,6 +2664,7 @@ https://bigproxies.herokuapp.com
 https://bihai.cf
 https://bil8.wjz2cdz3wr.workers.dev
 https://billing.dedirock.com
+https://billing.highendnetwork.com
 https://billing.stripe.com
 https://bin.mudfish.net
 https://bin.oksh.re
@@ -3130,6 +3131,7 @@ https://china.huawei-cloud.shop
 https://china.kyodonews.net
 https://chinese.aljazeera.net
 https://chiplis.com
+https://chloejs.org
 https://choc.watfaq.com
 https://chodocs.cn
 https://chomthong.central-world.org
@@ -3506,6 +3508,7 @@ https://dash.netflixs.net
 https://dash.pqjc.site
 https://dash.sinqin.net
 https://dash.sjakd.store
+https://dash.suwangcloud.xyz
 https://dash.tero.homes
 https://dash.tetocloud.online
 https://dash.xn--9kqt24a0kz.com
@@ -4292,6 +4295,7 @@ https://f-droid.org
 https://f.kxyz.eu.org
 https://f.www890604.dpdns.org
 https://f001.backblazeb2.com
+https://f105039.lvcha.im
 https://f105039.lvcha.me
 https://f105062.lvcha.me
 https://f1e7c332.ghelper.me
@@ -8395,6 +8399,7 @@ https://takcharkh.snappfood.ir
 https://talalinks.lyracraft.ir
 https://talk.citahub.com
 https://tam.gov.taipei
+https://tamago.network
 https://tamlok.gitee.io
 https://tanstack.com
 https://tanu095.tntvipaff.cc
@@ -9370,6 +9375,7 @@ https://www.bilibili.com
 https://www.billionmail.com
 https://www.binance.com
 https://www.bing.com
+https://www.biopharmadive.com
 https://www.bitduct.net
 https://www.bitget.com
 https://www.bitgetapp.com
@@ -10059,6 +10065,7 @@ https://www.nertron.net
 https://www.neteasegames.site
 https://www.netflix.com
 https://www.newapi.ai
+https://www.newconstructs.com
 https://www.newlearner.site
 https://www.news.cn
 https://www.newsbreak.com
