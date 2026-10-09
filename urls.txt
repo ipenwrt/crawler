@@ -685,6 +685,7 @@ http://pling.jondgoodwin.com
 http://plokasenuh.pro
 http://portablepython.com
 http://pp.dcd.one
+http://pphfree2.mvpnpvpn.de5.net:52351
 http://pr.k8s.io
 http://product.dangdang.com
 http://proxies.haisto.cn
@@ -3641,6 +3642,7 @@ https://dev-notifications-frontend.ashevillenc.gov
 https://dev-re.crm4.dynamics.com
 https://dev.emby.media
 https://dev.iw233.cn
+https://dev.jonahtreiber.com
 https://dev.maxmind.com
 https://dev.to
 https://developer.1password.com
@@ -4265,6 +4267,7 @@ https://etherscan.io
 https://etoneya.su
 https://etproxypool.cf
 https://etproxypool.ga
+https://eu.g3wip.uk
 https://eu.umami.is
 https://eu1.app.sysdig.com
 https://evef8ow37e.execute-api.us-east-1.amazonaws.com
@@ -4618,7 +4621,9 @@ https://g.cn-db01.top:40580
 https://g.luxury
 https://g1.subjsm.cyou
 https://g1.xfuti.com
+https://g105039.lvcha.im
 https://g105039.lvcha.me
+https://g105062.lvcha.im
 https://g105062.lvcha.me
 https://g15311cec.cdn.uunode.com
 https://g2a.xxx.cn
@@ -4666,6 +4671,7 @@ https://get.ninesub.us.kg
 https://get.rush.ml
 https://getafreenode.com
 https://getandroidfast.com
+https://getartcraft.com
 https://gethomepage.dev
 https://geti2p.net
 https://getinfo.bigbigwatermelon.com
@@ -5445,6 +5451,7 @@ https://k3d.io
 https://k61kz.no-mad-world.club
 https://k6k7.xyz
 https://k6rcy6a2leyehqhlphlwkkuppm0xxubn.lambda-url.us-east-1.on.aws
+https://kabel.entreri.de
 https://kad520.uk
 https://kafka.apache.org
 https://kaikaixinxin.jiumaojiu.net
@@ -6422,6 +6429,7 @@ https://node.yifang02.men
 https://node.zasublink.com
 https://node.zasublinkv1.com
 https://node.zyfx6.xyz
+https://node3.norkhizstudio.com:8000
 https://nodeazureus1.gitspeed.cyou
 https://nodebuf.com
 https://nodefree.org
@@ -6474,6 +6482,7 @@ https://nylohb.yau96.com
 https://nymvpn.com
 https://nypost.com
 https://nyxt-browser.com
+https://o.ofdma.de
 https://o7pl1.no-mad-world.club
 https://obdo.cc
 https://obeli.sk
@@ -7127,6 +7136,7 @@ https://realvtest.galaxyvipaff01.cc
 https://realvtest.qytvipaff.cc
 https://reborn.kaochang.ltd
 https://record.piao.news
+https://recording.privacy-vbox.de
 https://red-bank.ir
 https://red.anthropic.com
 https://red.colacloud.free.hr
@@ -7738,6 +7748,7 @@ https://steamstat.us
 https://steel68.qjty.buzz
 https://steemit.com
 https://step-vpn.cloud
+https://stockduty.xyz
 https://storage.iran.liara.space
 https://storage.to
 https://store.epicgames.com
@@ -7782,6 +7793,7 @@ https://sub-gfwairport2.cyou
 https://sub-go.xqxa.xyz
 https://sub-jam.cfd
 https://sub-ks.ksc1.xyz
+https://sub-net.nimhub.ir:2083
 https://sub-store.jalenx.me
 https://sub-xsus.com
 https://sub.198477.xyz
@@ -7980,6 +7992,7 @@ https://sub.sanfen021.xyz
 https://sub.sanqianlijinxiuheshan.us.kg
 https://sub.scp-nsc.top
 https://sub.scpnb.top
+https://sub.sefrtasad.com
 https://sub.shadowproxy66.workers.dev
 https://sub.shadowsokstes.workers.dev
 https://sub.shancloud.icu
@@ -8815,6 +8828,7 @@ https://v.youku.com
 https://v.zcr07.dynv6.net
 https://v0.app
 https://v0.crosswall.dpdns.org
+https://v03dy.cloudtop.cfd
 https://v1-4-2.qwunessles.online
 https://v1.chaojiji.one
 https://v1.cutdog.net
@@ -8862,6 +8876,7 @@ https://v2ray.neocities.org
 https://v2ray.top
 https://v2ray.zmkk.fun
 https://v2raya.net
+https://v2raydog.cczzuu.top
 https://v2rayfree1.online
 https://v2rayse.com
 https://v2rayshare.com
@@ -9178,6 +9193,7 @@ https://wocao.su7.me
 https://woeprgivbh.packios.com
 https://wogame.dev
 https://wolify.tk
+https://wordpress.far-east-investment.ru
 https://words.steveklabnik.com
 https://wordvice.ai
 https://workbuddy.ai
@@ -10157,6 +10173,7 @@ https://www.pcloud.com
 https://www.pdda.me
 https://www.pddc.me
 https://www.pentestpartners.com
+https://www.perplexity.ai
 https://www.persianboxx.com
 https://www.pewresearch.org
 https://www.pexels.com
@@ -10678,6 +10695,7 @@ https://www2.bigairport-eleventh-sub.com
 https://www2.ruhnama.net
 https://www2.shouldiblockads.com
 https://www3.nhk.or.jp
+https://www3.ruhnama.net
 https://www4.bing.com
 https://www5.bigairport-eleventh-sub.com
 https://www5.bigairport-thirteenth-sub.com
@@ -10998,6 +11016,7 @@ https://yenab4kq3ohqbpj4lxmlm47lpahaf0bk.skygo0527.top
 https://yep.top
 https://yes1.xn--mesv7f5toqlp.xyz
 https://yeslivetv.com
+https://yewirkxojf.shop
 https://yexiaowork.fmvp.al
 https://yfjc.xyz
 https://yfuye.com
