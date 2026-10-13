@@ -717,6 +717,7 @@ http://realnode.me
 http://redbeardlab.com
 http://redis.io
 http://refactoring.guru
+http://reg.samasoo.ir
 http://remna.st
 http://rentry.co
 http://repo.or.cz
@@ -1365,6 +1366,7 @@ https://231787.xyz
 https://23333.youzizizi.top
 https://234.qzz.io
 https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz
+https://2389.ai
 https://25054128.xyz
 https://262235.xyz
 https://27191197.ghelper.me
@@ -1787,8 +1789,10 @@ https://a1.lemao888.top
 https://a1.qingyun.site
 https://a105039.lvcha.me
 https://a105039.lvcha.my
+https://a105039.lvchavpn.co
 https://a105062.lvcha.me
 https://a105062.lvcha.my
+https://a105062.lvchavpn.co
 https://a105080.lvcha.me
 https://a105082.lvcha.me
 https://a10k.co
@@ -2440,6 +2444,7 @@ https://asterweb.jpl.nasa.gov
 https://astro.build
 https://astropad.com
 https://astutewheel.com.au
+https://asus.im
 https://async.rs
 https://at4am.io
 https://atacyun.yydsii.com
@@ -3393,6 +3398,7 @@ https://cors.buildtest.site
 https://coscup.org
 https://count.getloli.com
 https://counterpointresearch.com
+https://course.aiadvisoryboard.me
 https://cozhli177055.pages.dev
 https://cp.cloudflare.com
 https://cp.nb6.qzz.io
@@ -3539,6 +3545,7 @@ https://dashboard.mainnet.concordium.software
 https://dashboard.ngrok.com
 https://dashboard.nowhere.best
 https://dashboard.yunagrp.com
+https://dasho.pqjc.site
 https://dashteparvane.com
 https://dashuai.us
 https://data.bilibili.com
@@ -4177,6 +4184,7 @@ https://easycrypto.ai
 https://easylight.tech
 https://easylink.space
 https://easylist-downloads.adblockplus.org
+https://easylist.to
 https://easywithai.com
 https://ebe396da.ghelper.me
 https://ebike-test.s3.dualstack.ap-southeast-1.amazonaws.com
@@ -6044,6 +6052,7 @@ https://mianfei-73q.pages.dev
 https://miaomiao.xn--7rs48z0nlr6hc8cqz4a.com
 https://miaona.org
 https://miaosu.jiediandingyuejiji.homes
+https://micat.cyou
 https://micheer.net
 https://micro.blog
 https://microapp.gitee.io
@@ -6863,6 +6872,7 @@ https://portal.mofeiyun.com
 https://portal.qiniu.com
 https://portal.runroad.cloud
 https://portal.speedyyun.com
+https://portal.suwangyun.top
 https://portal.tkv.one
 https://portal.tototel.com
 https://portalx.1flyuntt.cc
@@ -8823,6 +8833,7 @@ https://user.1vpn.sbs
 https://user.bafang.vip
 https://user.dafeiji.one
 https://user.flylink.cyou
+https://user.godvpn.lol
 https://user.moviecloud.org
 https://user.vanilla.rest
 https://user.vvv123.store
@@ -8962,6 +8973,7 @@ https://vip.sgjc.top
 https://vip.taoqitu.pro
 https://vip.viefast.vn
 https://vip.wangdu.site
+https://vip8696.shandianshuaff.com
 https://vips.lol
 https://vipurl.giize.com
 https://vipxgyun.com
@@ -9776,6 +9788,7 @@ https://www.haifaka.com
 https://www.haijiaoshi.com
 https://www.haitunt.org
 https://www.handelsblatt.com
+https://www.hankyung.com
 https://www.hao6v.cc
 https://www.happ.su
 https://www.happymao.cat
@@ -9822,6 +9835,7 @@ https://www.hybrid-analysis.com
 https://www.hypercubic.ai
 https://www.hyproxy.xyz
 https://www.hzcat.net
+https://www.i-dont-care-about-cookies.eu
 https://www.i18ncode.com
 https://www.ia.ac.cn
 https://www.ibm.com
