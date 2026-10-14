@@ -488,6 +488,7 @@ http://ir.bbb-subbb.ir:2095
 http://ir.npvnot.com:10116
 http://ir.npvnot.com:10122
 http://ir.npvnot.com:11131
+http://iranopasmigirim.com
 http://ircf.space
 http://is.gd
 http://isherv.in
@@ -1219,7 +1220,9 @@ http://zzy.my
 https://00.222333123.xyz
 https://001.583180.xyz
 https://001.6891256.xyz
+https://0016100.xyz
 https://007e.icu
+https://010110.110001000.xyz
 https://031216.xyz
 https://03d.microcloudvm.com
 https://03d9d44f.jego.vip
@@ -3014,6 +3017,7 @@ https://cd2662bd.jego.vip
 https://cd520.xyz
 https://cdc.smslease.link
 https://cdk.linux.do
+https://cdn-130.triplebit.dev
 https://cdn-34.triplebit.dev
 https://cdn-35.triplebit.dev
 https://cdn-37.triplebit.dev
@@ -3178,6 +3182,7 @@ https://ckxxapp.ckxx.net
 https://claimd.geo-drops.com
 https://clang.llvm.org
 https://clarityai.co
+https://clash.20101103.xyz
 https://clash.221207.xyz
 https://clash.jctaoo.site
 https://clash.llleman.com
@@ -3201,6 +3206,7 @@ https://clashx-addtionrules.test1234.workers.dev
 https://classicgamezone.com
 https://claude.ai
 https://claude.com
+https://claude.dev
 https://clavis.to
 https://claw.cloud
 https://clawhub.ai
@@ -3688,6 +3694,7 @@ https://developers.redhat.com
 https://developers.sap.com
 https://developers.slashdot.org
 https://devework.com
+https://devolutions.net
 https://dewatermark.ai
 https://dexidp.io
 https://dexscreener.com
@@ -4789,6 +4796,7 @@ https://go.shr.lc
 https://go.uukk.de
 https://go.yueyun.de
 https://go4sgzyfszsd.top
+https://go4sharing.gv.uy
 https://godofprompt.ai
 https://gods.coding.net
 https://gogs.io
@@ -6464,6 +6472,7 @@ https://nodefree.org
 https://nodejs.org
 https://nodequality.com
 https://nodes.fanqiang.network
+https://nodes.tox.st
 https://nodesecurity.io
 https://nodeseek.com
 https://nodetics.com
@@ -6497,6 +6506,7 @@ https://nsloon.app
 https://nsm5o.no-mad-world.club
 https://nullnode.top
 https://num.763352.top
+https://number.localenby.is
 https://numfeel.996.ninja
 https://nuonuonet.uk
 https://nuxt.com
@@ -6732,6 +6742,7 @@ https://pastebin.pl
 https://pastehub.ir
 https://pastes.io
 https://pasteview.com
+https://pasx.fastlink.blog:2096
 https://pati.s6zc5ybzea.workers.dev
 https://paugram.com
 https://pavo.eu.org
@@ -7510,6 +7521,7 @@ https://sexoo.cloud
 https://sf.342242.icu
 https://sfafas.xyz
 https://sfdr.zaixianyouxi.dpdns.org
+https://sfgate.com
 https://sfj.sufujia.top
 https://sg.adhole.org
 https://sg.starryblu.com
@@ -7541,6 +7553,7 @@ https://shecan.ir
 https://sheepcloud.xyz
 https://sheets.works
 https://shensavpn.top
+https://shenvalleygamers.com
 https://shenyuan.in
 https://shibaadearner.top
 https://shimo.im
@@ -7834,6 +7847,7 @@ https://sub-xsus.com
 https://sub.198477.xyz
 https://sub.19993999.xyz
 https://sub.200566.xyz
+https://sub.31431411.xyz
 https://sub.372372.xyz
 https://sub.443888.xyz
 https://sub.5112233.xyz
@@ -8154,6 +8168,7 @@ https://sub01.jishu168.xyz
 https://sub01.sh-cloudflare.sbs:8443
 https://sub02.xacg.top
 https://sub03.dnsct.dpdns.org
+https://sub1.233874.xyz
 https://sub1.591haoka.com
 https://sub1.91qaq.lol
 https://sub1.achaemenidempireofpersia.uk
@@ -10341,6 +10356,7 @@ https://www.sensenova.cn
 https://www.sensetime.com
 https://www.servicemesher.com
 https://www.servicenow.com
+https://www.sfgate.com
 https://www.sharetribe.com
 https://www.sharghdaily.com
 https://www.sharpgan.com
@@ -10736,6 +10752,7 @@ https://www.zte.com.cn
 https://www.zuodianme.uk
 https://www1.gus.computer
 https://www1.liulianyuntt.xyz
+https://www1.ruhnama.net
 https://www11.henet.uk
 https://www16.bigairport-eleventh-sub.top
 https://www2.bigairport-eleventh-sub.com
