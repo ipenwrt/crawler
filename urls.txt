@@ -2745,6 +2745,7 @@ https://blog.hartwork.org
 https://blog.huoding.com
 https://blog.iany.me
 https://blog.imalan.cn
+https://blog.ja.playstation.com
 https://blog.japaric.io
 https://blog.jetbrains.com
 https://blog.kobin.cn
@@ -3152,6 +3153,7 @@ https://china.caixin.com
 https://china.huawei-cloud.shop
 https://china.kyodonews.net
 https://chinese.aljazeera.net
+https://chipagents.ai
 https://chiplis.com
 https://chloejs.org
 https://choc.watfaq.com
@@ -5351,6 +5353,7 @@ https://jacko.io
 https://jadeai.cturing.cn
 https://jahannews.com
 https://jamanetwork.com
+https://jamaran.news
 https://james82.ga
 https://jamesdaily.life
 https://jami.net
@@ -5719,6 +5722,7 @@ https://librechat.ai
 https://libredns.gr
 https://licensebuttons.net
 https://lichuanyang.top
+https://liekaile.mmmoyou.com
 https://ligahosting.com
 https://lightningspeed.zh-a-fengniaogames.com
 https://lightvela.com
@@ -6456,6 +6460,7 @@ https://node.666666222.xyz
 https://node.apqiang.com
 https://node.clash-party.cc
 https://node.freeclashnode.com
+https://node.lovehk.xyz
 https://node.nodefree.me
 https://node.oneclash.cc
 https://node.potatsolite.net
@@ -7534,6 +7539,7 @@ https://shadowmere.akiel.dev
 https://shadowmere.xyz
 https://shadowpocket.site
 https://shadowrocket.uk
+https://shahraranews.ir
 https://shan-cloud.xyz
 https://shandiandog.com
 https://shanlinks.com
@@ -9611,6 +9617,7 @@ https://www.digit77.com
 https://www.digitalocean.com
 https://www.digitimes.com
 https://www.digitimes.com.tw
+https://www.discogs.com
 https://www.diva.so
 https://www.dji.com
 https://www.djjc.cfd
@@ -9916,6 +9923,7 @@ https://www.jaegertracing.io
 https://www.jafiyun.today
 https://www.jafiyun2023.buzz
 https://www.jaided.ai
+https://www.jamaran.news
 https://www.javaguns.com
 https://www.javatang.com
 https://www.jcbb.top
@@ -10210,6 +10218,7 @@ https://www.openssl.org
 https://www.openstreetmap.org
 https://www.opentech.fund
 https://www.opera.com
+https://www.oppo.com
 https://www.oracle.com
 https://www.oreilly.com
 https://www.oschina.net
@@ -11088,6 +11097,7 @@ https://yfuye.com
 https://yfycdn.1010520.click
 https://yh.acyun.tk
 https://yhg.u07.dpdns.org
+https://yi2gmw3ns8.qinyues4.cc
 https://yifang.win
 https://yifenjichang.online
 https://yihui.org
