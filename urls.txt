@@ -461,6 +461,7 @@ http://hypercritical.co
 http://i.bybit.com
 http://i.fei.best
 http://i.sqeven.me
+http://i.weurl.co
 http://i0.hdslb.com
 http://i2.hdslb.com
 http://iSherv.in
@@ -536,6 +537,7 @@ http://kubernetes.io
 http://kxhy.softprize.com
 http://kyiv02.npvnot.com:443
 http://kzfeed.com
+http://l.snpp.link
 http://lab.lepture.com
 http://labnana.com
 http://lafusees.com
@@ -1277,6 +1279,7 @@ https://1122331.xyz
 https://114514.youzizizi.top
 https://115.com
 https://119dot29dot29dot29.cloudflare-dns.com
+https://11l.eu
 https://12123.org
 https://12222.xn--yfr360ebxhhsu.com
 https://123.gosurfing.net
@@ -2311,6 +2314,7 @@ https://apifox.com
 https://apii.xqc.best
 https://apilayer.com
 https://apinainiucloud.lat
+https://apinex.bond
 https://apisix.apache.org
 https://apisub.mcwy.xyz
 https://apisudunw.sudunv.com
@@ -2981,6 +2985,7 @@ https://callmesoul.cn
 https://calpaterson.com
 https://calv.info
 https://campaigns.avira.com
+https://campanula-test.caelum.moe
 https://cangdu.org
 https://canmipai.com
 https://canva.com
@@ -4673,6 +4678,7 @@ https://galaxy.starcloud.monster
 https://galaxystore.samsung.com
 https://galvered.com
 https://game.skport.com
+https://games.slashdot.org
 https://ganjoor.net
 https://gap.im
 https://gapi.mailsapi.com
@@ -5647,6 +5653,7 @@ https://kxswa.tk
 https://kyvless.pages.dev
 https://l.dabai.in
 https://l.db-link01.top
+https://l.snpp.link
 https://l.snpy.ir
 https://l.threads.com
 https://l.xfuti.com
@@ -6224,6 +6231,7 @@ https://muniucloud.net
 https://muse.ai
 https://mused.com
 https://musedash.peropero.net
+https://music.163.com
 https://music.douban.com
 https://music.easygourl.xyz
 https://music.ydev.tech
@@ -6846,6 +6854,7 @@ https://platform.adobe.io
 https://platform.claude.com
 https://platform.deepseek.com
 https://platform.djjc.cfd
+https://platform.experientiallabs.ai
 https://platform.kimi.com
 https://platform.openai.com
 https://platform.qianwenai.com
@@ -7353,6 +7362,7 @@ https://rustinblockchain.org
 https://rustyun-a.top
 https://rvorch.treze.cc
 https://rvps.duckking.shop:26720
+https://rwqteyxoof.shop
 https://rwtdycukas.shop
 https://rxl-nc.xyz
 https://rxxqa.no-mad-world.club
@@ -8583,6 +8593,7 @@ https://the-decoder.com
 https://the.exa.website
 https://theasc.com
 https://thebuild.com
+https://thecybersecguru.com
 https://thegameawards.com
 https://theguardian.com
 https://thehackerblog.com
@@ -8674,6 +8685,7 @@ https://too.st
 https://tool.chinaz.com
 https://tool.oschina.net
 https://tool.ren
+https://tool.yunkahulian.com
 https://toolpfan.xyz
 https://tools.ietf.org
 https://tools.liumingye.cn
@@ -10369,6 +10381,7 @@ https://www.sammobile.com
 https://www.samsung.com
 https://www.samsung.com.cn
 https://www.sbs.com.au
+https://www.scariflabs.com
 https://www.schneier.com
 https://www.science.org
 https://www.scifinow.co.uk
