@@ -2337,6 +2337,7 @@ https://app.cloudcone.com
 https://app.cloudcone.com.cn
 https://app.cloudlion.me
 https://app.cloudog.me
+https://app.deepchat.club
 https://app.deepnude.cc
 https://app.denza.xyz
 https://app.diagrams.net
@@ -4325,6 +4326,7 @@ https://extractor-demos.pages.dev
 https://extrm.info
 https://ez-a0a517.ezaccess15bd9b0.workers.dev
 https://ezaccess1-spider-ezaccess1-c797.up.railway.app
+https://ezfp.cn
 https://ezidebit.com
 https://f-35.store
 https://f-droid.org
@@ -5567,6 +5569,7 @@ https://kl05.ximicloud.net
 https://klap.app
 https://klausvpn.posyao.com
 https://klc.kunlun01.com
+https://kling.ai
 https://kling.kuaishou.com
 https://klingai.com
 https://klinkcc.one
@@ -5786,6 +5789,7 @@ https://links.azurefd.net
 https://links.bocchi2b.top
 https://links.etekanesh.com
 https://links.freebustraveler.uk
+https://links.krea.ai
 https://linktr.ee
 https://linkuserssnk.xxyjx.cc
 https://linlinjava.gitbook.io
@@ -6648,6 +6652,7 @@ https://ornith.ai
 https://orymi.net
 https://os.phil-opp.com
 https://osf.io
+https://osintjet.com
 https://osintteam.blog
 https://osjdkdkk6469uajsm197.xn--5hqx9e52gdss.xyz
 https://oskolkhan.site
@@ -7480,6 +7485,7 @@ https://scwljsq.cfooov.xyz
 https://scwljsq.scl168.club
 https://scys.org
 https://sd02.sudun1.top
+https://sdfox.cc
 https://sdgvps.com
 https://sdk-fls53vl6.27101666.com
 https://sdkdns.co
@@ -8491,6 +8497,7 @@ https://tarahno.com
 https://tas360.au
 https://taskfile.dev
 https://tategaki.de
+https://tavis.tw
 https://tc.cmnet.cc.cd
 https://tc.qy1357.top
 https://tc.r07.cloudns.be
@@ -8549,6 +8556,7 @@ https://test.qhrgobull.fun
 https://test.stytch.com
 https://testcf.motherfuck.dpdns.org
 https://testingcf.jsdelivr.net
+https://tetalla.bond
 https://texon.io
 https://textcortex.com
 https://textideo.com
@@ -8817,6 +8825,7 @@ https://updates.midjourney.com
 https://updates.push.services.mozilla.com
 https://upee.substack.com
 https://upld.zone.id
+https://upload.am
 https://uploadb.com
 https://uploadb.me
 https://uploadboy.com
@@ -8958,6 +8967,7 @@ https://vanced.to
 https://vapp.linkedton.com
 https://variety.com
 https://vase.bengalj.com
+https://vasv35-vasvv.asdasf.sbs
 https://vben.vvbin.cn
 https://vcros.net
 https://vdfbdi.dou.it.com
@@ -9798,6 +9808,7 @@ https://www.gnu.org
 https://www.godofprompt.ai
 https://www.goftino.com
 https://www.goldenhillsoftware.com
+https://www.goldenhorse.org.tw
 https://www.goodsunlc.com
 https://www.googo.ml
 https://www.grc.com
@@ -10756,6 +10767,7 @@ https://www.zhangxinxu.com
 https://www.zhaobg.com
 https://www.zhenyevpn.xyz
 https://www.zhihu.com
+https://www.zhujue.net
 https://www.ziyoufly.com
 https://www.zmonster.me
 https://www.zmrenwu.com
