@@ -2106,6 +2106,7 @@ https://api.anquanke.com
 https://api.anthropic.com
 https://api.apihs.cfd
 https://api.asailor.org
+https://api.beatapi.io
 https://api.bigme.online:8211
 https://api.bilibili.com
 https://api.biqibao.site
@@ -4781,6 +4782,7 @@ https://gitlab.redox-os.org
 https://gitlab.torproject.org
 https://gitter.im
 https://gitverse.ru
+https://gitwal.com
 https://gizmodo.com
 https://gjds.lanzouh.com
 https://gkd.li
@@ -5910,6 +5912,7 @@ https://lzone.de
 https://lzsub.zzko.cn
 https://lzw.me
 https://lzysub.online
+https://m.163.com
 https://m.172.org.cn
 https://m.betforward.com
 https://m.bilibili.com
@@ -6415,6 +6418,7 @@ https://news.ifeng.com
 https://news.itsfoss.com
 https://news.layervault.com
 https://news.mindynode.com
+https://news.mtn.co.kr
 https://news.now.com
 https://news.qq.com
 https://news.remarkable.com
@@ -7017,6 +7021,7 @@ https://proxypoolabc.andyc.eu.org
 https://proxypoolss.tk
 https://proxypoolsstest.herokuapp.com
 https://proxypoolv2.tk
+https://proxyscrape.com
 https://proxyvip.xyz
 https://proxyway.com
 https://ps.air-outer.com
@@ -7149,6 +7154,7 @@ https://r.ftqq.com
 https://r.saraf.app
 https://r1.840501.xyz
 https://r105039.lvcha.me
+https://r1c.ir
 https://r2-c11-dd.0-w.ccwu.cc
 https://r4fo.com
 https://r5t6.00890604.xyz
@@ -7407,6 +7413,7 @@ https://s.winniezz.top
 https://s.youyun666.site
 https://s.yyme.me
 https://s.yyzzyyds.xyz
+https://s0hjw1.doggygosubs.com:8443
 https://s1-u2-b3.484845845.xyz
 https://s1.bnpublicsub.com
 https://s1.bnpublicsub.net
@@ -7733,6 +7740,7 @@ https://spidermonkey.dev
 https://splus.ir
 https://spr.278986.xyz
 https://spring.io
+https://sps.yy-gp.com
 https://spug.cc
 https://sputnik57.ru
 https://sputniknews.cn
@@ -8749,6 +8757,7 @@ https://tt.sbs
 https://tt.vg
 https://ttc01.xyz
 https://ttcloud.xyz
+https://ttr.ir
 https://tts-doc.loker.vip
 https://ttt.r07.cloudns.be
 https://ttt.zbb25.filegear-sg.me
@@ -9741,6 +9750,7 @@ https://www.fastea.top
 https://www.fastly.com
 https://www.fbi.gov
 https://www.fdzdk.xyz
+https://www.federalregister.gov
 https://www.feedspot.com
 https://www.feiniaoyun.xyz
 https://www.feiw.cc
@@ -9912,6 +9922,7 @@ https://www.imgurl.ir
 https://www.imperva.com
 https://www.imvbox.com
 https://www.imwzh.com
+https://www.inceptionlabs.ai
 https://www.independent.co.uk
 https://www.infomaniak.com
 https://www.infoq.cn
@@ -9978,6 +9989,7 @@ https://www.jiqizhixin.com
 https://www.jiux001.cc
 https://www.jiuyuelu.xyz
 https://www.jokerps.com
+https://www.joouz.com
 https://www.joshmatthews.net
 https://www.js8686.top
 https://www.json.org
