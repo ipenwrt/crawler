@@ -447,6 +447,7 @@ http://hk12.bilibili.com
 http://hm.suol.cc
 http://home.tiscali.cz
 http://hooshran.app
+http://host.taghvimtime.ir
 http://hotforknowledge.com
 http://hpyjc.top
 http://html5weekly.com
@@ -1894,6 +1895,7 @@ https://adk.dev
 https://adm.unicoridor.ru
 https://admin-tmpl-test.rencaiyoujia.cn
 https://admin.apigyuyjioh.xyz
+https://admin.harnesscom.com
 https://admin.jarvis.cx
 https://admin.nezha.su
 https://admin.shanlian.app
@@ -2031,6 +2033,7 @@ https://andaofu.xyz
 https://andreafortuna.org
 https://andrewzuo.com
 https://android.codeideally.com
+https://androidauthority.com
 https://andy.usuallyask.dpdns.org
 https://andygrove.io
 https://angel.co
@@ -2701,6 +2704,7 @@ https://bird.1024.one
 https://birdohub.site
 https://bit.ly
 https://bitbucket.org
+https://bitbucket.status.atlassian.com
 https://biteb.club
 https://biteb.me
 https://bitinn.net
@@ -3096,6 +3100,7 @@ https://cf-workers-sub-9s8.pages.dev
 https://cf.7854128.xyz
 https://cf.buliang0.cf
 https://cf.cloudflare-gateway.com
+https://cf.frnhk.xyz
 https://cf.hughhad.us.kg
 https://cf.iranhope.org
 https://cf.lemshow.top
@@ -4481,6 +4486,7 @@ https://fieldcalc.app
 https://file.sbno.de
 https://file.uhsea.com
 https://filecxx.com
+https://filee.sh
 https://filen.io
 https://files.bitrot.cz
 https://files.bokhary.fun
@@ -5423,6 +5429,7 @@ https://jiguang.dev
 https://jihuyun.icu
 https://jike.info
 https://jikipedia.com
+https://jikun.zmxoo.xyz
 https://jileiyun.us.kg
 https://jilu.uuvpn.xyz
 https://jimmysong.io
@@ -6763,6 +6770,7 @@ https://parsuptime.com
 https://parsvip0.sbs:8443
 https://parsvip0.xyz:8443
 https://pasnet.ru
+https://pasqualepillitteri.it
 https://passer-by.com
 https://passport.8338.hk
 https://passport.huasheng.cn
@@ -8770,6 +8778,7 @@ https://ttcloud.xyz
 https://ttr.ir
 https://tts-doc.loker.vip
 https://ttt.r07.cloudns.be
+https://ttt.tg
 https://ttt.zbb25.filegear-sg.me
 https://tuanzi.site
 https://tuanzi.xyz
@@ -9949,6 +9958,7 @@ https://www.instamod.app
 https://www.insuredbyus.com
 https://www.intc.com
 https://www.integrapay.com.au
+https://www.intel.com
 https://www.interactivebrokers.com
 https://www.invenglobal.com
 https://www.investing.com
@@ -10313,6 +10323,7 @@ https://www.pexels.com
 https://www.pfu.ricoh.com
 https://www.philips.com.cn
 https://www.phodal.com
+https://www.phonearena.com
 https://www.phonevalidator.com
 https://www.phontron.com
 https://www.phoronix.com
@@ -11346,6 +11357,7 @@ https://zongyunti.site
 https://zoogvpn.com
 https://zookeeper.apache.org
 https://zoom.us
+https://zoomon.ir
 https://zoonavigator.elkozmon.com
 https://zotez2.ezbio.net
 https://zou666.vip
