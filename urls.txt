@@ -845,6 +845,7 @@ http://t.smxhx.com
 http://tabdeal.org
 http://tapirgo.com
 http://targetkiller.net
+http://tclkhivumika.pro
 http://tech.youzan.com
 http://teddy-chen-tw.blogspot.com
 http://telegra.ph
@@ -1363,6 +1364,7 @@ https://202502181121431.chibaba.ggff.net
 https://202503021722111.chibaba.ggff.net
 https://202503212313501.chibaba.ggff.net
 https://202503230057441.chibaba.ggff.net
+https://2026.tiff-jp.net
 https://2026.youzizizi.top
 https://2060224a.angel-7ih.pages.dev
 https://20647ea7.ghelper.me
@@ -1960,6 +1962,7 @@ https://ailibri.com
 https://aimanman.me
 https://aimlesslygoingforward.com
 https://aini.200566.xyz
+https://ainita.net
 https://ainita.s3.eu-north-1.amazonaws.com
 https://ainly.lijingquan.us.kg
 https://aiosjhdy.forbit-api.boats
@@ -2891,6 +2894,7 @@ https://bsc-blockbook.nownodes.io
 https://bscscan.com
 https://bst.xlkjjs.top
 https://bsub.douyincdns.top:8888
+https://bt6jqcsxj1ao.top
 https://bteam.tw
 https://btwaf-demo.bt.cn:8379
 https://btxst.eu.cc
@@ -3437,6 +3441,7 @@ https://crawlee.dev
 https://crazystresser.net
 https://creativecommons.org
 https://crispmac.app
+https://cristyc.edgenovaaff.cc
 https://crocidb.com
 https://crontab.guru
 https://crontab.online
@@ -4788,6 +4793,7 @@ https://gitea.coracle.social
 https://gitea.sysmocom.de
 https://gitee.com
 https://gitlab.com
+https://gitlab.futo.org
 https://gitlab.gnome.org
 https://gitlab.icarephone.com
 https://gitlab.redox-os.org
@@ -5361,6 +5367,7 @@ https://itlao6.com
 https://itnext.io
 https://itns.s3.us-east-2.amazonaws.com
 https://itubego.com
+https://iuenc35ziec.684821.xyz
 https://ivira.ai
 https://ivuxy.tech
 https://iw233.cn
@@ -5378,6 +5385,7 @@ https://jack.cab
 https://jacko.io
 https://jadeai.cturing.cn
 https://jahannews.com
+https://jakubcwirlej.com
 https://jamanetwork.com
 https://jamaran.news
 https://james82.ga
@@ -5532,6 +5540,7 @@ https://kaneo.app
 https://kaochang.click
 https://kaolacloud.site
 https://karing.app
+https://karzar.net
 https://kate-editor.org
 https://kawaiifreevpn-7ds.pages.dev
 https://kawaiifreevpn.pages.dev
@@ -7480,9 +7489,11 @@ https://sahebkhabar.ir
 https://saibolys.one
 https://sainaex.ir
 https://sajarin.com
+https://sakhtafzarmag.com
 https://sakuracat1203.xn--3iq226gfdb94q.com
 https://sakutto.ai
 https://salsa.debian.org
+https://samantel.ir
 https://sammyguru.com
 https://samradapi-test.devland.is
 https://sandogh.flowshipnet.com
@@ -7664,6 +7675,7 @@ https://site01.stardad.lol
 https://sitelutions.com
 https://sitoi.gitee.io
 https://sj.solotown.monster:8443
+https://skillry.dev
 https://skills.sh
 https://skinat.world.tmall.com
 https://skkdff.doggygo.top:8443
@@ -8071,6 +8083,7 @@ https://sub.paasmi.com
 https://sub.pai.yt
 https://sub.pardazeshvip.org
 https://sub.passgfw.top
+https://sub.patrikk.xyz:2096
 https://sub.pddf.shop
 https://sub.phantombot.ru
 https://sub.pianyi.info
@@ -9675,6 +9688,7 @@ https://www.definestudio.in
 https://www.demainilpleut.fr
 https://www.dengget.com
 https://www.descript.com
+https://www.designarena.ai
 https://www.deutscher-filmpreis.de
 https://www.devicetree.org
 https://www.devontechnologies.com
@@ -10038,6 +10052,7 @@ https://www.kdocs.cn
 https://www.kernel.org
 https://www.keycloak.org
 https://www.khabaronline.ir
+https://www.kimi.ai
 https://www.kimi.com
 https://www.kindle8.cc
 https://www.kitslabs.com
@@ -10457,6 +10472,7 @@ https://www.showdoc.com.cn
 https://www.shuge.org
 https://www.shuyz.com
 https://www.siderolabs.com
+https://www.sigma-global.com
 https://www.silvergames.com
 https://www.sismics.com
 https://www.sixyin.com
