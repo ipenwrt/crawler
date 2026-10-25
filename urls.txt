@@ -798,6 +798,7 @@ http://south-a1.pkyun.xyz:23743
 http://speedtest.net
 http://split.tg
 http://spr.ly
+http://spys.one
 http://ss.045.node-for-bigairport.win:19000
 http://ss.pythonic.life
 http://ssl.fastly.com
@@ -1528,6 +1529,7 @@ https://54efa77f.ghelper.me
 https://55.77vy.xyz
 https://557d0133.ghelper.me
 https://5587c578.ghelper.me
+https://55dbref.pro
 https://56.77vy.xyz
 https://562dd2da-d6a6-49ca-8ec2-f65fbb4b2e2c.xn--l6qx3lcvp58x.com
 https://562f.ffcjiiyrt.cc
@@ -2474,6 +2476,7 @@ https://atong88.top
 https://attach.fahares.com
 https://attachments.convertkitcdnn2.com
 https://attack.mitre.org
+https://atvpn.cc
 https://au.linkedin.com
 https://au.payapps.com
 https://audioconverterai.io
@@ -3631,6 +3634,7 @@ https://ddsfsdfsdf.tiktok.casa
 https://ddys.yunjisuan.cf
 https://ddys.yunjisuan.gq
 https://ddyun.org
+https://deallocatedobjects.com
 https://deamnetd.3seed.ru:8888
 https://deb.nodesource.com
 https://debe9623.ghelper.me
@@ -4127,6 +4131,7 @@ https://dy.tsmpi.xyz
 https://dy.twittei.link
 https://dy.ucat.live
 https://dy.veri-tickets.top
+https://dy.vistart.art
 https://dy.vpneee.top
 https://dy.wangchen.xyz
 https://dy.xiaozhupeiqix.com
@@ -5015,6 +5020,7 @@ https://hi.10010.dev
 https://hi94740.gitee.io
 https://hiddify.com
 https://hiddify0422.pages.dev
+https://hidemy.name
 https://higgsfield.ai
 https://hikaripe-sc.hikaricalyx.com
 https://hiking.waymarkedtrails.org
@@ -5842,6 +5848,7 @@ https://lists.thekelleys.org.uk
 https://lite.tiktok.com
 https://lite.yuansu.app
 https://litewindy.top
+https://litport.net
 https://littleqqq.co
 https://liulangdiqiu.cc
 https://liuyingyun.work
@@ -7022,6 +7029,7 @@ https://proud-fire-1775.mahmmod2025.workers.dev
 https://proxies.bihai.cf
 https://proxy-manager-ggeu.onrender.com
 https://proxy-seller.com
+https://proxy-spider.com
 https://proxy.api.030101.xyz
 https://proxy.aries.ovh
 https://proxy.avgt.ink
@@ -7038,9 +7046,12 @@ https://proxy.xiaofeiya.xyz
 https://proxy.yiun.xyz
 https://proxy.yugogo.xyz
 https://proxy6.net
+https://proxycheck.app
 https://proxydetect.live
 https://proxygo.org
+https://proxyhub.me
 https://proxyinfo.net
+https://proxylister.com
 https://proxypool.dmit.dpdns.org
 https://proxypool.ednovas.xyz
 https://proxypool.ga
@@ -7051,7 +7062,11 @@ https://proxypoolabc.andyc.eu.org
 https://proxypoolss.tk
 https://proxypoolsstest.herokuapp.com
 https://proxypoolv2.tk
+https://proxyranker.com
 https://proxyscrape.com
+https://proxyspace.pro
+https://proxystack.com
+https://proxyverity.com
 https://proxyvip.xyz
 https://proxyway.com
 https://ps.air-outer.com
@@ -9220,6 +9235,7 @@ https://weavr.ai
 https://web-production-402d8.up.railway.app
 https://web-production-8db71.up.railway.app
 https://web.archive.org
+https://web.bujidian.com
 https://web.coo.wiki
 https://web.dashbit.top
 https://web.dev
@@ -9834,6 +9850,7 @@ https://www.freedesktop.org
 https://www.freeflyingcloud.xyz
 https://www.freefq.com
 https://www.freepik.com
+https://www.freeproxy.world
 https://www.freess.best
 https://www.freie-messenger.de
 https://www.ft.com
@@ -10375,6 +10392,7 @@ https://www.proofatlas.ai
 https://www.prop.cf
 https://www.propublica.org
 https://www.proxifier.com
+https://www.proxynova.com
 https://www.proxyvip.xyz
 https://www.pseudoyu.com
 https://www.ptt.cc
@@ -10904,6 +10922,7 @@ https://wzyun.oadvan.cn
 https://wzyun666.top
 https://x-file-storage.xuyanwu.cn
 https://x-minus.pro
+https://x-pas.gwo-book.shop:2083
 https://x.ai
 https://x.ant.design
 https://x.com
