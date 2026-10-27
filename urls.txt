@@ -486,6 +486,7 @@ http://iobio.io
 http://ip-api.com
 http://ip.koolcenter.com
 http://ip123.in
+http://ipok.io
 http://ipv6-test.ch
 http://iqdb.org
 http://ir.bbb-subbb.ir:2095
@@ -518,6 +519,7 @@ http://jp01.vezzura.net:25084
 http://jp3.yohototo.top
 http://jshou.top
 http://julio.meroh.net
+http://kala.fortresshost.ir
 http://kalbod-team.ir
 http://kalcaddle.com
 http://karmadecay.com
@@ -776,6 +778,7 @@ http://shoujiyanxishe.tk
 http://shuma.ccwu.cc
 http://shushu.icu
 http://sidebar.io
+http://signin.aws.amazon.com
 http://signup.privadovpn.com
 http://silver.diginetv.online:2052
 http://sixrevisions.com
@@ -2040,6 +2043,7 @@ https://andreafortuna.org
 https://andrewzuo.com
 https://android.codeideally.com
 https://androidauthority.com
+https://androiddev.cloudflareaccess.com
 https://andy.usuallyask.dpdns.org
 https://andygrove.io
 https://angel.co
@@ -2067,6 +2071,7 @@ https://anycast.dns.nextdns.io
 https://anycast.uncensoreddns.org
 https://anyshortcut.com
 https://aoe.o.eoa.ccwu.cc
+https://aomedia.org
 https://aoop.top
 https://aotu.io
 https://ap.niaodi.top
@@ -2473,6 +2478,7 @@ https://atjason.com
 https://atlasvpn.com
 https://atomicmail.io
 https://atong88.top
+https://atppp.bienetrebycara.com
 https://attach.fahares.com
 https://attachments.convertkitcdnn2.com
 https://attack.mitre.org
@@ -3402,6 +3408,7 @@ https://console.aunoc.com
 https://console.cn-ping.asia
 https://console.easemob.com
 https://console.gmicloud.ai
+https://console.groq.com
 https://console.leancloud.cn
 https://console.ly520.me
 https://console.tancloud.cn
@@ -3900,6 +3907,7 @@ https://docs.ceph.com
 https://docs.cfw.lbyczf.com
 https://docs.cherry-ai.com
 https://docs.cilium.io
+https://docs.ckan.org
 https://docs.cloudbees.com
 https://docs.codax.site
 https://docs.comfy.org
@@ -5343,6 +5351,7 @@ https://iqiaqia.xyz
 https://ir.amd.com
 https://ir.bbb-subbb.ir
 https://ir.logitech.com
+https://ir.voanews.com
 https://irananker.com
 https://iranbax.net
 https://irancell.ir
@@ -5850,6 +5859,7 @@ https://lists.cncf.io
 https://lists.thekelleys.org.uk
 https://lite.tiktok.com
 https://lite.yuansu.app
+https://liteapks.com
 https://litewindy.top
 https://litport.net
 https://littleqqq.co
@@ -6633,6 +6643,7 @@ https://on.soundcloud.com
 https://on.substack.com
 https://on1vejas4m6z.w7yxefcx0i11.click
 https://one-off.email
+https://one.ajiasu.top
 https://one.ginfem.com
 https://one.one.one.one
 https://oneclash.cc
@@ -9142,6 +9153,7 @@ https://vot.278986.xyz
 https://vot.689861.xyz
 https://vot.981176.xyz
 https://vox.nockserv.cloud
+https://voxcpm.com
 https://vp3.yysyy.online
 https://vpiv.ing
 https://vpn-1yo.pages.dev
@@ -11094,6 +11106,7 @@ https://xn--kivx99h.xyz
 https://xn--l6qx3l9s1a.com
 https://xn--m5-yq5cua2b6473e.works
 https://xn--mes358a9urctx.com
+https://xn--mes358aby2apfg.com
 https://xn--mes358acgm99l.com
 https://xn--mes358aijj3t9a.shop
 https://xn--mes358awwugpa.com
