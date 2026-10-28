@@ -167,6 +167,7 @@ http://bot.sobhanpor.ir:1080
 http://boto3.readthedocs.io
 http://bp.wbno1.xyz
 http://brovee.myds.me:12580
+http://bugs.launchpad.net
 http://bugs.python.org
 http://build.clusterhq.com
 http://buoujichang.xyz
@@ -737,6 +738,7 @@ http://rj.lmapp.cc
 http://rk2.izoizoizo.top:43505
 http://rot.9o9.top:880
 http://router.asus.com
+http://rpshcticke.shop
 http://rss.probe.earth:8280
 http://rssrad.io
 http://ru.moktana.app:51523
@@ -1094,6 +1096,7 @@ http://www.paoche.ooo
 http://www.passjava.cn
 http://www.phodal.com
 http://www.pingzicloud.top
+http://www.pleadcourt.org
 http://www.pouet.net
 http://www.powereasy.net
 http://www.powermockup.com
@@ -1124,6 +1127,7 @@ http://www.thepaper.cn
 http://www.thetimezoneconverter.com
 http://www.tkgj.life
 http://www.toodaylab.com
+http://www.trusteeforward.com
 http://www.tutorialspoint.com
 http://www.uderzo.it
 http://www.ui.cn
@@ -3801,6 +3805,7 @@ https://djjc.cfd
 https://djnwh3du8fmc.top
 https://dk11.testdd.us.ci
 https://dk3.yunxiangvip.mom
+https://dl-cdn.alpinelinux.org
 https://dl.apktops.ir
 https://dl.cloudsmith.io
 https://dl.filefabot.ir
@@ -4029,6 +4034,7 @@ https://dongwang.lics.vip
 https://donnadie.top
 https://dontquotetheai.com
 https://donya-e-eqtesad.com
+https://doory.art
 https://doris.apache.org
 https://dotnetthoughts.net
 https://doub.io
@@ -4051,6 +4057,7 @@ https://download.beeper.com
 https://download.elasticsearch.org
 https://download.eset.com
 https://download.gamescdn.ir:2050
+https://download.iaas.uio.no
 https://download.mcloud.139.com
 https://download.nextcloud.com
 https://download.pytorch.org
@@ -4729,6 +4736,7 @@ https://gboard.dev
 https://gbshct.spphhnhg.top
 https://gbtgurl.me
 https://gcore.jsdelivr.net
+https://gcvmm.no-mad-sub.one
 https://gdpr.tvtime.com
 https://geekshare.org
 https://geektutu.com
@@ -4779,6 +4787,7 @@ https://ghcr.io
 https://ghj.apocalypse.cc.cd
 https://ghostcc.cc
 https://ghproxy.com
+https://ghproxy.net
 https://giaoyun.xyz
 https://giftarticle.ft.com
 https://gijn.org
@@ -4848,6 +4857,7 @@ https://go4sgzyfszsd.top
 https://go4sharing.gv.uy
 https://godofprompt.ai
 https://gods.coding.net
+https://goftino.com
 https://gogs.io
 https://goii.cc
 https://gokrazy.org
@@ -5091,6 +5101,7 @@ https://hooks.slack.com
 https://hooshio.com
 https://hootfun.top
 https://hop1.zv8zrbffhh.workers.dev
+https://hopfoxvpn.com
 https://hoshinonetwork.xx.kg
 https://host.ssrbox.com
 https://hostloc.com
@@ -5310,6 +5321,7 @@ https://iosninja.io
 https://iospifa.com
 https://ip-api.com
 https://ip.ikez.dpdns.org
+https://ip.net.coffee
 https://ip.skk.moe
 https://ipa.store
 https://ipaspot.app
@@ -5759,6 +5771,7 @@ https://lei-su.me
 https://lemmy.ml
 https://lemonade.changedetection.io
 https://lemoncake.xyz
+https://leon-made-this.work
 https://lepture.com
 https://let.bnsubservdom.com
 https://letsencrypt.org
@@ -6874,6 +6887,7 @@ https://photorumors.com
 https://photos.caixin.com
 https://php.404003.xyz
 https://phwalls.com
+https://phwcj2gq8zigg.pro
 https://pianyi.jiediandingyuejiji.homes
 https://pianyi.sub.sub.subsub123456789.com
 https://pianyijc.xyz
@@ -6964,6 +6978,7 @@ https://portal.f3vip.net
 https://portal.gdmmdo.ga
 https://portal.mistea.cloud
 https://portal.mofeiyun.com
+https://portal.niulaijichang.xyz
 https://portal.qiniu.com
 https://portal.runroad.cloud
 https://portal.speedyyun.com
@@ -7110,6 +7125,7 @@ https://punkmovie.xyz
 https://punkpaste.ir
 https://pur.xkg09s1a1b.workers.dev
 https://puredns.org
+https://purge.jsdelivr.net
 https://push-api.cloud.huawei.com
 https://pushalert.co
 https://pushover.net
@@ -7335,6 +7351,7 @@ https://rewards.bing.com
 https://rexcima.com
 https://rfi.my
 https://rgergergergerg6555.saojc.xyz
+https://ri.firesbox.com
 https://rickyhan.com
 https://ridiqulous.com
 https://rifiv.no-mad-world.club
@@ -8961,6 +8978,7 @@ https://us2.app.sysdig.com
 https://us2.campaign-archive.com
 https://usa.bulger.au
 https://usa.yuyuki.link
+https://usemagpie.ai
 https://usepanda.com
 https://user.1vpn.sbs
 https://user.bafang.vip
@@ -9184,6 +9202,7 @@ https://vpnyyds.link
 https://vps.aifoxin.com:37970
 https://vps.hosting
 https://vps.mc666.top
+https://vps.xiaoxiaodong.ai
 https://vsdgyfcdosko.shop
 https://vtwoc1.top
 https://vtwoc3.top
@@ -9364,6 +9383,7 @@ https://wk-auto-update-3e7.pages.dev
 https://wk.baodaoji.com
 https://wk392.sakuracloud.vip
 https://wl.awcmam.com
+https://wloc.xepesw.workers.dev
 https://wly312.buzz
 https://wm01dy.wmyun.men
 https://wocao.su7.me
@@ -9374,6 +9394,7 @@ https://wordpress.far-east-investment.ru
 https://words.steveklabnik.com
 https://wordvice.ai
 https://workbuddy.ai
+https://workbuddy.homes
 https://worker2.alavi-sina-1977-5fc.workers.dev
 https://workflowy.com
 https://world.kbs.co.kr
@@ -9570,6 +9591,7 @@ https://www.biff.kr
 https://www.biglybt.com
 https://www.bigmodel.cn
 https://www.bilibili.com
+https://www.bilirec.org
 https://www.billionmail.com
 https://www.binance.com
 https://www.bing.com
@@ -9722,6 +9744,7 @@ https://www.deepseek.com
 https://www.definestudio.in
 https://www.demainilpleut.fr
 https://www.dengget.com
+https://www.dengta12.com
 https://www.descript.com
 https://www.designarena.ai
 https://www.deutscher-filmpreis.de
@@ -9744,6 +9767,7 @@ https://www.dji.com
 https://www.djjc.cfd
 https://www.dl.farsroid.com
 https://www.dma.icu
+https://www.dmit.io
 https://www.dmoe.cc
 https://www.docz.site
 https://www.dogfight360.com
@@ -10425,6 +10449,7 @@ https://www.qclnn.com
 https://www.qhrgo.sbs
 https://www.qhrgobull.fun
 https://www.qijianli.com
+https://www.qilan.de
 https://www.qilin2.com
 https://www.qlgq.top
 https://www.qqorw.cn
@@ -10923,6 +10948,7 @@ https://wwww.12.kg
 https://wwww.luoyun7.com
 https://wwwww.12.kg
 https://wwwww.luoyun7.com
+https://wwwwww.luoyun7.com
 https://wwwx.qyshare.com
 https://wwx.lanzout.com
 https://wwxox.lanzouu.com
