@@ -289,6 +289,7 @@ http://dlas3.tdmmov.xyz
 http://dlib.org
 http://dls2.iran-gamecenter-host.com
 http://dns.1111988.xyz
+http://dns22.m3hrzd.ir:8044
 http://doc.zhangwj.com
 http://docs.aws.amazon.com
 http://docs.ceph.com
@@ -1923,6 +1924,7 @@ https://ae86.235999.xyz
 https://aecc-dfghjkk.kaell.top
 https://aeccghuyjftyg.shop
 https://aero.moe
+https://aerolink.lat
 https://aeza.net
 https://af.kuaifan.club
 https://af078381-fcf9-457a-b03a-7bfaf506cd0b.xn--l6qx3lcvp58x.com
@@ -2074,6 +2076,7 @@ https://antonz.org
 https://anycast.dns.nextdns.io
 https://anycast.uncensoreddns.org
 https://anyshortcut.com
+https://ao.news
 https://aoe.o.eoa.ccwu.cc
 https://aomedia.org
 https://aoop.top
@@ -3142,6 +3145,7 @@ https://cfp.rustcon.asia
 https://cfproxy.wukaige.com
 https://cfyun.top
 https://cfyun01.sbs
+https://cgapi.aerolink.lat
 https://cglhoel1zeio.top
 https://ch.cukug.website
 https://ch.owokkvsxks.store
@@ -3546,6 +3550,7 @@ https://daka778.top
 https://dalao.ru
 https://damp-mode-4de5.6006101.workers.dev
 https://danaplus.net
+https://danesh-bonyan.com
 https://dango-docs.ap-sh.starivercs.cn
 https://daniel.haxx.se
 https://daniu.e300daniu.top
@@ -4817,6 +4822,7 @@ https://gitea.com
 https://gitea.coracle.social
 https://gitea.sysmocom.de
 https://gitee.com
+https://gitlab.alpinelinux.org
 https://gitlab.com
 https://gitlab.futo.org
 https://gitlab.gnome.org
@@ -5717,6 +5723,7 @@ https://l.threads.com
 https://l.xfuti.com
 https://l105039.lvcha.me
 https://l1wn2.no-mad-world.club
+https://l2enzbet.site
 https://l5vzf.no-mad-world.club
 https://lab.magiconch.com
 https://lab.passiomatic.com
@@ -5870,6 +5877,7 @@ https://liqiang.io
 https://lisahost.com
 https://lists.cncf.io
 https://lists.thekelleys.org.uk
+https://lite.ego.app
 https://lite.tiktok.com
 https://lite.yuansu.app
 https://liteapks.com
@@ -6183,6 +6191,7 @@ https://minizz.online
 https://minority-extreme-thompson-elite.trycloudflare.com
 https://miranda-ng.org
 https://miranda.today
+https://mirendil.com
 https://mireya233.com
 https://mirror.ghproxy.com
 https://mirrors.huaweicloud.com
@@ -6745,6 +6754,7 @@ https://ossrdbms-aad.database.usgovcloudapi.net
 https://ossrdbms-aad.database.windows.net
 https://ossrs.io
 https://ossrs.net
+https://otakufans.net
 https://oukasou.xyz
 https://ouraring.com
 https://ourl.cn
@@ -10349,6 +10359,7 @@ https://www.nushell.sh
 https://www.nutbit.net
 https://www.nutsfind.com
 https://www.nvenix.icu
+https://www.nvenix.shop
 https://www.nvidia.com
 https://www.nyc.gov
 https://www.nytimes.com
@@ -11171,6 +11182,7 @@ https://xn--z4q48lcvpsq0c.com
 https://xn--z7q48k8ya184b1ug.com
 https://xn--z7x96bx27c.com
 https://xnyun.wiki
+https://xodns.net
 https://xq7yq.hf4m5d3.com
 https://xqc.best
 https://xqcloud.net
@@ -11251,6 +11263,7 @@ https://yaxianzhi.shop
 https://yay520.com
 https://ycx.mxjs.xyz
 https://ydapi.dingyuetot.vip
+https://ye.yeyeyun.net
 https://yefengjc.xyz
 https://yek.link
 https://yenab4kq3ohqbpj4lxmlm47lpahaf0bk.skygo0527.top
