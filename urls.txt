@@ -290,6 +290,7 @@ http://dlib.org
 http://dls2.iran-gamecenter-host.com
 http://dns.1111988.xyz
 http://dns22.m3hrzd.ir:8044
+http://dns9.m3hrzd.ir:8044
 http://doc.zhangwj.com
 http://docs.aws.amazon.com
 http://docs.ceph.com
@@ -357,6 +358,7 @@ http://file.tangdouz.com
 http://filmeh.tk
 http://filmeh.tk:8080
 http://filusdt.461553.best:1588
+http://firefox.com
 http://firstibox.com
 http://fishlab.ucdavis.edu
 http://fitzgeraldnick.com
@@ -815,6 +817,7 @@ http://start.boldvoice.com
 http://statics01.qingmang.mobi
 http://steamcommunity.com
 http://store.mmins.top
+http://sub.158361.xyz
 http://sub.966888.xyz
 http://sub.adtchrome.com
 http://sub.cdn.tele-bot-mmdleecher.site
@@ -1946,6 +1949,7 @@ https://ag.bnpm.dynu.net:30443
 https://agentrouter.org
 https://agentskills.io
 https://agmprojects.com
+https://agriculture.magda.io
 https://agtv.me
 https://ai-bot.cn
 https://ai-coustics.com
@@ -2442,6 +2446,7 @@ https://arize.com
 https://arjan.com.np
 https://ark.cn-beijing.volces.com
 https://arkime.com
+https://arkm.com
 https://armature.tech
 https://arminli.com
 https://arnoldvink.com
@@ -2500,6 +2505,7 @@ https://australianfintech.com.au
 https://auth.mistral.ai
 https://auth.newlikebooks.xyz
 https://auth.openai.com
+https://authentication.business.gov.au
 https://authjs.dev
 https://auto.mitce.com
 https://autoglm-acceleration-api.zhipuai.cn
@@ -3602,6 +3608,7 @@ https://dasho.pqjc.site
 https://dashteparvane.com
 https://dashuai.us
 https://data.bilibili.com
+https://data.gov.au
 https://data.huasheng.cn
 https://database.caixin.com
 https://dataease.cn
@@ -5215,6 +5222,7 @@ https://ictna.ir
 https://id.discourse.com
 https://id.keepsolid.com
 https://id233.com
+https://idc.com
 https://idealclover.top
 https://identity-server.dev01.devland.is
 https://idev.dev
@@ -7237,6 +7245,7 @@ https://qxzy.top
 https://qy1357.top
 https://qybndbviblvt.us-west-1.clawcloudrun.com
 https://qyoo.aibvs.cn
+https://r.333344444.xyz
 https://r.ftqq.com
 https://r.saraf.app
 https://r1.840501.xyz
@@ -7342,6 +7351,7 @@ https://repzt3P1yq.qinyues4.cc
 https://research.adobe.com
 https://research.meta.ai
 https://research.myshell.ai
+https://research.nvidia.com
 https://research.roundtable.ai
 https://research.swtch.com
 https://research.web3.foundation
@@ -9020,6 +9030,7 @@ https://uuu.glass
 https://uwu.femboy67.dpdns.org
 https://uy6.ur0njuu6gs.workers.dev
 https://uzh.xop.buzz
+https://v.douyin.com
 https://v.ifeng.com
 https://v.mqs.hk
 https://v.spwvpn.com
@@ -9613,6 +9624,7 @@ https://www.bitgetapp.com
 https://www.bitunix.com
 https://www.bizcover.com.au
 https://www.bjch999.com
+https://www.bland.ai
 https://www.bleepingcomputer.com
 https://www.blindambition.co.uk
 https://www.blogger.com
@@ -10977,6 +10989,7 @@ https://wyy.14kbuy.com
 https://wyy.yyenh.cn
 https://wzknb.pages.dev
 https://wzry-doc.pages.dev
+https://wzyp.cn
 https://wzyun.oadvan.cn
 https://wzyun666.top
 https://x-file-storage.xuyanwu.cn
