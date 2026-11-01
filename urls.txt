@@ -291,6 +291,7 @@ http://dlib.org
 http://dls2.iran-gamecenter-host.com
 http://dns.1111988.xyz
 http://dns22.m3hrzd.ir:8044
+http://dns23.m3hrzd.ir:8044
 http://dns9.m3hrzd.ir:8044
 http://doc.zhangwj.com
 http://docs.aws.amazon.com
@@ -449,6 +450,7 @@ http://hk.bazhuayujiasu.cc:9919
 http://hk.bazhuayujiasu.cc:9920
 http://hk.bazhuayujiasu.cc:9921
 http://hk.bazhuayujiasu.cc:9922
+http://hk.huahua.wiki
 http://hk12.bilibili.com
 http://hm.suol.cc
 http://home.tiscali.cz
@@ -1784,6 +1786,7 @@ https://a-gvgya9fuh2fyd7bx.z01.azurefd.net
 https://a.545437.xyz
 https://a.aik88.top
 https://a.aikllc.tech
+https://a.buouah.cn
 https://a.fanqie.work
 https://a.fsyun.xyz
 https://a.hajimi.icu
@@ -2017,6 +2020,7 @@ https://alibabacloud.com
 https://alice.dns-dynamic.net
 https://alice.zooid.dev
 https://alicenetwork.cloud
+https://alignment.anthropic.com
 https://alignment.openai.com
 https://alink123.com
 https://alioth-lists.debian.net
@@ -2677,6 +2681,7 @@ https://beiyon.hanbao.lol
 https://beiyon4.hanbao.lol
 https://bellingcat.gitbook.io
 https://belowthesurface.amsterdam
+https://benalman.com
 https://benches.date
 https://benchmarksgame-team.pages.debian.net
 https://bengalj.com
@@ -3120,6 +3125,7 @@ https://cdn2.xmrth.one
 https://cdn4.telesco.pe
 https://cdn5.telesco.pe
 https://cdnbao.foxi4.com
+https://cdnjs.cloudflare.com
 https://cdnrss.starlinkclash.ggff.net
 https://ce433ae2.jego.vip
 https://ce898261.jego.vip
@@ -4079,6 +4085,7 @@ https://download.mcloud.139.com
 https://download.nextcloud.com
 https://download.pytorch.org
 https://download.sekurvpn.com
+https://download.torproject.org
 https://download.wireguard.com
 https://download.zestlink.cc
 https://downloader.caorushizi.cn
@@ -5997,6 +6004,7 @@ https://lzw.me
 https://lzysub.online
 https://m.163.com
 https://m.172.org.cn
+https://m.bet120x.com
 https://m.betforward.com
 https://m.bilibili.com
 https://m.chinastarmarket.cn
@@ -6168,6 +6176,7 @@ https://mianfei-73q.pages.dev
 https://miaomiao.xn--7rs48z0nlr6hc8cqz4a.com
 https://miaona.org
 https://miaosu.jiediandingyuejiji.homes
+https://mibei77com.blogspot.com
 https://micat.cyou
 https://micheer.net
 https://micro.blog
@@ -6554,6 +6563,7 @@ https://niracler.com
 https://nitromer.com
 https://niu.wzai.top
 https://niua.eu.cc
+https://niubi110.pages.dev
 https://niuniucloud.life
 https://nkpvpn.site
 https://nltimes.nl
@@ -7541,6 +7551,7 @@ https://s1.taoqitu.lol
 https://s1.trojanflare.one
 https://s105039.lvcha.me
 https://s2.equinoxaa.com
+https://s2.pacy.cc
 https://s2.sub.gfw.gg
 https://s21.uupload.ir
 https://s3-us-west-1.amazonaws.com
@@ -7552,6 +7563,7 @@ https://s33.uupload.ir
 https://s34.picofile.com
 https://s4-f45.pages.dev
 https://s4.laoda666.com
+https://s4.pacy.cc
 https://s5.8878.tech
 https://s5.995677.xyz
 https://s6.ssysub1.xyz
@@ -9424,6 +9436,7 @@ https://wm01dy.wmyun.men
 https://wocao.su7.me
 https://woeprgivbh.packios.com
 https://wogame.dev
+https://wokfjcuhds.shop
 https://wolify.tk
 https://wordpress.far-east-investment.ru
 https://words.steveklabnik.com
@@ -10489,6 +10502,7 @@ https://www.qhrgobull.fun
 https://www.qijianli.com
 https://www.qilan.de
 https://www.qilin2.com
+https://www.qiniu.com
 https://www.qlgq.top
 https://www.qqorw.cn
 https://www.qualcomm.cn
