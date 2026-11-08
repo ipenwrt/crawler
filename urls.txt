@@ -1905,6 +1905,7 @@ https://acg.dev
 https://achobby.taobao.com
 https://acl.syyn.pw
 https://acme-v02.api.letsencrypt.org
+https://acombcom.cn
 https://acsub.kyapi.xyz
 https://act.qzone.qq.com
 https://acx3s.gardenparty.one
@@ -2203,6 +2204,7 @@ https://api.honeycomb.io
 https://api.huasheng.cn
 https://api.hy2.lol
 https://api.iamhc.cn
+https://api.icp-verify.dynamic.hwsdn.com:666
 https://api.ikuuu.science
 https://api.immtel.co
 https://api.immtel.me
@@ -10903,6 +10905,7 @@ https://www.wihlidal.com
 https://www.wikihow.com
 https://www.wikimoe.com
 https://www.wildberries.ru
+https://www.window-swap.com
 https://www.windowscentral.com
 https://www.windowslatest.com
 https://www.wings666.me
