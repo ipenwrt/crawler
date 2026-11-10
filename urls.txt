@@ -157,6 +157,7 @@ http://blog.segmentfault.com
 http://blog.sina.com.cn
 http://blog.smartbear.com
 http://blog.sunnyxx.com
+http://blog.worldoftanks.eu
 http://blog.zhaojie.me
 http://blogpage.xiaozhuhouses.asia
 http://bnmod.ir
@@ -185,6 +186,7 @@ http://carterzheng.synology.me:8008
 http://casabio.org
 http://catalog.rs-heat.com
 http://catchen.biz
+http://cdn.akamai.steamstatic.com
 http://cdn.kcz66.com
 http://cdnfire.xiaomispeed.com
 http://cfcloud.cyou
@@ -589,6 +591,7 @@ http://main.pythash.tr
 http://man7.org
 http://mao.kipfel.kdns.fr
 http://maprdocs.mapr.com
+http://media.onecloudtraining.com
 http://mengbaoyingshi.cn
 http://mesos.apache.org
 http://mf.kejifan88.top
@@ -636,6 +639,7 @@ http://nbvpn.top
 http://nc.cm.xiaomi-api.xyz:19581
 http://nedellis.com
 http://nekox.eu5.org
+http://news.bushyjenz.cyou:42878
 http://nffs.tk
 http://nfps9s1zyj6p.pro
 http://nginx.org
@@ -749,6 +753,7 @@ http://router.asus.com
 http://rpshcticke.shop
 http://rs.tdwg.org
 http://rss.probe.earth:8280
+http://rss.worldoftanks.eu
 http://rssrad.io
 http://ru.moktana.app:51523
 http://rubika.ir
@@ -935,6 +940,7 @@ http://v2rayse.com
 http://v3.pkqshidazhubi.live
 http://vegapit.com
 http://venus.hidencloud.com:25657
+http://view-link.cx
 http://vip-ca-1.hkd4fwmg.xyz:10586
 http://vip.365cloud.me
 http://vip2.xxyjc.xyz
@@ -6362,6 +6368,7 @@ https://mtf.lat
 https://mtt.xyz
 https://mtvpn.net
 https://muacloud3.live
+https://muapi.ai
 https://muguacloud.top
 https://mullvad.net
 https://multiformats.io
