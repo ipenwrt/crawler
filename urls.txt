@@ -2032,6 +2032,7 @@ https://akarin.dev
 https://akile.ai
 https://akool.com
 https://alex0.dev
+https://alexandria.firecrawl.dev
 https://alexproxy001.herokuapp.com
 https://alexproxy002.herokuapp.com
 https://alibabacloud.com
@@ -2457,6 +2458,7 @@ https://apps2app.com
 https://appssalon.de
 https://appstoreprice.org
 https://appurl.ppacc.cc
+https://april-zhu.com
 https://aps-workspaces.us-west-2.amazonaws.com
 https://apt-y-install.sd-yun.xyz
 https://apt.download-config-ppy.cyou
@@ -2510,6 +2512,8 @@ https://assets.theregister.com
 https://asterweb.jpl.nasa.gov
 https://astro.build
 https://astropad.com
+https://astrovpn-official-proxy.astrovpnofficial.workers.dev
+https://astrovpnofficial.dpdns.org
 https://astutewheel.com.au
 https://asus.im
 https://async.rs
@@ -3465,6 +3469,7 @@ https://console.groq.com
 https://console.leancloud.cn
 https://console.ly520.me
 https://console.tancloud.cn
+https://console.volcengine.com
 https://console.xrcloud.com
 https://console.yunna.net
 https://consumer.huawei.com
@@ -6060,6 +6065,7 @@ https://m.betforward.com
 https://m.bilibili.com
 https://m.chinastarmarket.cn
 https://m.cnbeta.com
+https://m.cnstock.com
 https://m.economictimes.com
 https://m.etnews.com
 https://m.freeopenvpn.org
@@ -6164,6 +6170,7 @@ https://mastodon.feedly.com
 https://mastodon.goldenhillsoftware.com
 https://mastodon.social
 https://masuit.com
+https://matcha.ltd
 https://matcha.su
 https://matin.matinmo.top:2096
 https://matreshkavpn.com
@@ -7044,6 +7051,7 @@ https://plus-sub.marzgozari.com
 https://plus.chongzhi.art
 https://plus.jd.com
 https://plus.rainzone.ir
+https://plutocore.vip
 https://pm.enjoy.cloudns.biz
 https://pm2.keymetrics.io
 https://pmn.uitsrt.top
@@ -10744,6 +10752,7 @@ https://www.szse.cn
 https://www.tabnak.ir
 https://www.tabnine.com
 https://www.tahlilbazaar.com
+https://www.tahlildadeh.com
 https://www.taipeiff.taipei
 https://www.taishan.pro
 https://www.talkwalker.com
