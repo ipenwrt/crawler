@@ -292,6 +292,7 @@ http://dlas3.tdmmov.xyz
 http://dlib.org
 http://dls2.iran-gamecenter-host.com
 http://dns.1111988.xyz
+http://dns22.m3hrzd.ir:1348
 http://dns22.m3hrzd.ir:8044
 http://dns23.m3hrzd.ir:8044
 http://dns9.m3hrzd.ir:8044
@@ -786,6 +787,7 @@ http://server9.9966338.xyz
 http://sgp02.network-cdn-gw-yd.net:45507
 http://shadowmere.akiel.dev
 http://shiyuanyinian.xyz
+http://shop-goldserver.shop
 http://shop.88hy.top
 http://shop.oreilly.com
 http://shoppingmall.electricbanana.click
@@ -889,6 +891,7 @@ http://this.how
 http://thume.ca
 http://tiamo.ip-ddns.com:7001
 http://tianyi.qrspeed.pro
+http://tic.nlomasterpanel.ru
 http://tiker.cc
 http://til.ac
 http://tilin.ir
@@ -3281,6 +3284,7 @@ https://clash.myvm.cc
 https://clash.nite07.com
 https://clash.realiti.me
 https://clash.shinvck.com
+https://clash.theconsole.top
 https://clash0811-backup.rss-node.com
 https://clash0811-main.rss-node.com
 https://clashe.eu.org
@@ -3403,6 +3407,7 @@ https://cn.xn--iiq540h.com
 https://cn.yna.co.kr
 https://cn2.cardsakura.buzz
 https://cn4.cyberairport.work
+https://cnbeta.com.tw
 https://cnfeat.com
 https://cnnic.cnnic.link
 https://coa-web-2.auth.us-east-1.amazoncognito.com
@@ -4541,6 +4546,7 @@ https://feeds.feedburner.com
 https://feedwrangler.net
 https://feedx.net
 https://feel.xylive.cc
+https://fefeeu.dhkvfug.cn
 https://feichanghaotlszuduanshiwodeyumingxuanzhuan.esucloud.com
 https://feijige.rujiao.icu
 https://feima.xn--fiqr3f3yq87hgq1c.com
@@ -4799,6 +4805,7 @@ https://gauss.lol
 https://gawrgura.moe
 https://gaxcdn.koihost.com
 https://gb-www.digitimes.com.tw
+https://gbhackers.com
 https://gboard.dev
 https://gbshct.spphhnhg.top
 https://gbtgurl.me
@@ -5028,6 +5035,7 @@ https://h4.linklick.ir
 https://h5.gicai.vip
 https://h5.guangyapan.com
 https://h5.mgtv.com
+https://h5.nf.migu.cn
 https://h5ctywhr.api.moji.com
 https://h7-83w.pages.dev
 https://habitica.com
@@ -5466,6 +5474,7 @@ https://isi.gay
 https://isignal.ir
 https://isignthis.com
 https://isitai.com
+https://iskrabot.ru
 https://issues.apache.org
 https://issues.k8s.io
 https://istio.io
@@ -5539,6 +5548,7 @@ https://jgpyjc.top
 https://jhet0n.online
 https://jianhancloud.cn
 https://jiasu.la
+https://jiasu.one
 https://jich.tih2.eu.org
 https://jichang.123417.xyz
 https://jichang.miaoge110.cf
@@ -6008,6 +6018,7 @@ https://login.dg5.biz
 https://login.djjc.cfd
 https://login.eset.com
 https://login.yfjc.xyz
+https://login520.fugui.lol
 https://logspot.hocgin.top
 https://lokistack-dev-gateway-http.openshift-logging.svc:8080
 https://lolicode.gitee.io
@@ -6100,6 +6111,7 @@ https://m.youtube.com
 https://m01.huidu520.com
 https://m1.tohno-0.top
 https://m1.tohno-1.top
+https://m1.tohno-2.top
 https://m105039.lvcha.me
 https://m11.spwvpn.com
 https://m1564f3c46-a084-46fa-b4af-3224a41e7485.131.pp.ua
@@ -6145,6 +6157,7 @@ https://maktabkhooneh.org
 https://maktabsharif.ir
 https://maku.net
 https://malcat.fr
+https://mallard-ai.com
 https://mambu.com
 https://man7.org
 https://manaedge.com
@@ -6815,6 +6828,7 @@ https://openproxylist.com
 https://openresty.org
 https://openreview.net
 https://openrouter.ai
+https://openrung.org
 https://opensend.namuh.co
 https://opensource.adobe.com
 https://opensource.com
@@ -7757,6 +7771,7 @@ https://setapp.com
 https://seup.shop
 https://sexoo.cloud
 https://sf.342242.icu
+https://sf55d7a13a49f.flszjy.com
 https://sfafas.xyz
 https://sfdr.zaixianyouxi.dpdns.org
 https://sfgate.com
@@ -8046,6 +8061,7 @@ https://step-vpn.cloud
 https://stockduty.xyz
 https://storage.iran.liara.space
 https://storage.to
+https://store.dji.com
 https://store.epicgames.com
 https://store.kakocloud.pro
 https://store.lizhi.io
@@ -8113,6 +8129,7 @@ https://sub.abcdefghijklmnopqrstuvwxyz1234567890.xyz
 https://sub.akilacloud.net
 https://sub.alice.sale
 https://sub.alink123.com
+https://sub.alphasubnet.ir:8000
 https://sub.amiralter.com
 https://sub.andaofu.xyz
 https://sub.aoyou.stream
@@ -8850,6 +8867,7 @@ https://theresanaiforthat.com
 https://thetubepro.com
 https://thetvapp.to
 https://think.codingit.cn
+https://thinkingmachines.ai
 https://this-week-in-rust.org
 https://tholman.com
 https://threedots.tech
@@ -10866,6 +10884,7 @@ https://www.twitch.tv
 https://www.typeless.com
 https://www.u9bbbb.com
 https://www.uber.com
+https://www.uciexpress.org
 https://www.udacity.com
 https://www.udemy.com
 https://www.udomain.hk
