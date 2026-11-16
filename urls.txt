@@ -4167,6 +4167,7 @@ https://duckduckgo.security
 https://duijie.cfyun.top
 https://duijie.pingziyun.top
 https://dump.facal.one
+https://duolingo.com
 https://dupay.one
 https://durovscode.com
 https://dvflxrsj0d0b.top
@@ -4530,6 +4531,7 @@ https://fed.chanceyu.com
 https://fed.taobao.org
 https://fedidb.org
 https://feed.iggv5.com
+https://feed.itsfoss.com
 https://feed1.chitanda-eru.com
 https://feed2exec.readthedocs.io
 https://feedafever.com
@@ -5697,6 +5699,7 @@ https://kfc.v50.su
 https://kfccloud.com
 https://kfm-bn0.pages.dev
 https://kg-hub.berkeleybop.io
+https://khabaronline.ir
 https://ki.hello1.xyz
 https://kiali.io
 https://kiking1223.xn--49st2e1z0f.xn--55qx5d
@@ -5935,6 +5938,7 @@ https://link.rittbo.kdns.fr
 https://link.rstar.cloud
 https://link.ssthy.net
 https://link.yes-elegant.world
+https://link.zhihu.com
 https://link01.fliggylink.xyz
 https://link01.nobodys.uk
 https://link01.pikachucloud.site
@@ -6849,6 +6853,7 @@ https://openvuln.vulnhunter.pro
 https://openweathermap.org
 https://openwrt.org
 https://opinion.caixin.com
+https://or.ayanami.kdns.fr
 https://oracle.zoom.us
 https://orbot.app
 https://ordns.he.net
@@ -7070,6 +7075,7 @@ https://play.rust-lang.org
 https://playfast.org
 https://playwright.dev
 https://plinkc.click
+https://pll.harvard.edu
 https://plus-doc.dromara.org
 https://plus-sub.marzgozari.com
 https://plus.chongzhi.art
@@ -8162,6 +8168,7 @@ https://sub.cdcloud.mingri.icu
 https://sub.cfnode.shop
 https://sub.chasing.sbs:21600
 https://sub.chuannc.tk
+https://sub.chy11.cc
 https://sub.cjcloud.cc
 https://sub.cliclooud.top
 https://sub.cloudlion.me
