@@ -2223,6 +2223,7 @@ https://api.ikuuu.science
 https://api.immtel.co
 https://api.immtel.me
 https://api.ipify.org
+https://api.ivira.ai
 https://api.ixiaowai.cn
 https://api.jiux001.cc
 https://api.jsm.one
@@ -2450,6 +2451,7 @@ https://app.vnet.ltd
 https://app.wallabag.it
 https://app.wazhua.org
 https://app.webwap.cyou
+https://app.wovia.global
 https://app.yebekhe.link
 https://app.zilihaijichang.top
 https://app.zoogvpn.com
@@ -3007,6 +3009,7 @@ https://byvoid.com
 https://bzim.gitlab.io
 https://c.066664.xyz
 https://c.buyzur.com
+https://c.cloudz.fun
 https://c.eoa.ccwu.cc
 https://c.jichangs.com
 https://c.jiedianxielou.workers.dev
@@ -4471,6 +4474,7 @@ https://factcheckingday.com
 https://faf047da-5e7e-4da7-8414-2799d48ad63a.nginxcatnet.xyz
 https://fairfun.meme
 https://faka.wiki
+https://fakeit.receivefreesms.co.uk
 https://fal.ai
 https://falco.656266656.xyz
 https://falco.org
@@ -4669,10 +4673,12 @@ https://forks.giegie.loan
 https://form-create.com
 https://forms.gle
 https://formulae.brew.sh
+https://fortune.com
 https://forum.koishi.xyz
 https://forum.naixi.net
 https://forum.proxmox.com
 https://forum.qoder.com
+https://forum.torproject.org
 https://fosstodon.org
 https://four.htmx.org
 https://fpacecloud.com
@@ -4961,6 +4967,7 @@ https://gopeed.com
 https://gophers.slack.com
 https://goplay.space
 https://gopro.com
+https://gorugoru.top
 https://gotham.rs
 https://gotraceui.dev
 https://goudan.site
@@ -6074,6 +6081,7 @@ https://lwn.net
 https://ly.ba000.cc
 https://ly.ccwink.cc
 https://ly.ee88.tk
+https://lydy1.lydyylch.com:8888
 https://lyly.649844.xyz
 https://lyrics.run
 https://lyt-top.gitee.io
@@ -7163,6 +7171,7 @@ https://privacycheck.sec.lrz.de
 https://privadovpn.com
 https://privnote.com
 https://prjrqinr.shop
+https://prnewswire.com
 https://pro-api.coingecko.com
 https://pro.76898102.xyz
 https://pro.aiwtxx.xyz
@@ -7580,6 +7589,7 @@ https://ruleset.skk.moe
 https://run-s2.jiedianxielou.workers.dev
 https://runapi.net
 https://runbooks.prometheus-operator.dev
+https://runkiri.com
 https://runlian.cc
 https://runner-cortex-tenant.beta.runwhen.com
 https://runtimewire.com
@@ -9998,6 +10008,7 @@ https://www.elecrow.com
 https://www.elinksapi.com
 https://www.emqx.com
 https://www.endgame.com
+https://www.enea.com
 https://www.engadget.com
 https://www.entekhab.ir
 https://www.envoyproxy.io
@@ -10883,6 +10894,7 @@ https://www.torlock.com
 https://www.torproject.org
 https://www.toutiao.com
 https://www.toyaml.com
+https://www.toyota.com.cn
 https://www.trackawesomelist.com
 https://www.tradingview.com
 https://www.trae.ai
@@ -11489,6 +11501,7 @@ https://yiyuanyun.xyz
 https://yjssub.pro
 https://yjy.lol
 https://yke.lanzout.com
+https://ykiko.me
 https://ykkcloud.324456.xyz
 https://ylccloud.top
 https://ylimly.net
