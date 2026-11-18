@@ -343,6 +343,7 @@ http://en.wikibooks.org
 http://ent.people.com.cn
 http://epg.51zmt.top:8000
 http://epg.aptvapp.com
+http://etienne.design
 http://event.weibo.com
 http://evjd8xfji5of.cdn000.com:31404
 http://exchange.gameaurela.click:52952
@@ -355,6 +356,7 @@ http://fdevops.com:8001
 http://fdgdr0dg3.xbvpn.vip
 http://feed.cnblogs.com
 http://feed.feedsky.com
+http://feedrinse.com
 http://feeds.feedburner.com
 http://feeds.my.aol.com
 http://feigou.zhunchuanpb.com
@@ -1085,6 +1087,7 @@ http://www.javahai.top
 http://www.jcp.org
 http://www.jianshu.com
 http://www.jokinkuang.info
+http://www.jotwewe.de
 http://www.kiwi2.zxzn.xyz
 http://www.kkidc.com
 http://www.kodiplayer.cn
@@ -1630,6 +1633,7 @@ https://68422fde.jego.vip
 https://6953.sub-bpa8xsvb-huojian.top
 https://698436.xyz
 https://69yun.top
+https://69yun69.com
 https://6GWNE.subxly.cfd:8443
 https://6a073033.ghelper.me
 https://6a21678a.ghelper.me
@@ -1876,6 +1880,7 @@ https://aaaa.gay
 https://aac.wzai.top
 https://aaxc.club
 https://ab.551221.xyz
+https://ab.chatgpt.com
 https://ab.dabai.in
 https://abadis.ir
 https://abc.52pokemon.cc
@@ -1999,6 +2004,7 @@ https://aier.eu.cc
 https://aifreeforever.com
 https://aifun.trafficmanager.net
 https://aigame.totwo.xyz
+https://aiguanchao.com
 https://aihot.news
 https://aihot.virxact.com
 https://aikebang.net
@@ -2020,6 +2026,8 @@ https://airflow.apache.org
 https://airflow.readthedocs.io
 https://airi.moeru.ai
 https://airport-1.com
+https://airport-2.com
+https://airport-3.com
 https://airport.kobee.top
 https://airport.rabbitfish.now.cc
 https://airport.raloar.top
@@ -2550,6 +2558,7 @@ https://auth.openai.com
 https://authentication.business.gov.au
 https://authjs.dev
 https://auto.mitce.com
+https://autodub.net
 https://autoglm-acceleration-api.zhipuai.cn
 https://autoglm.zhipuai.cn
 https://autowzry.pages.dev
@@ -2603,6 +2612,7 @@ https://b105039.lvcha.me
 https://b105062.lvcha.im
 https://b105062.lvcha.me
 https://b105082.lvcha.me
+https://b19.se
 https://b1a11a83.ghelper.me
 https://b1tf1t.top
 https://b2.seaspirit.dpdns.org
@@ -3106,6 +3116,7 @@ https://cccloud.zangcloud.xyz
 https://cchh2.pages.dev
 https://ccm.cmseesfs.top
 https://ccymq.no-mad-sub.one
+https://cd.tttizi.com
 https://cd2662bd.jego.vip
 https://cd520.xyz
 https://cdc.smslease.link
@@ -3237,6 +3248,7 @@ https://checkbox.ai
 https://checker.in
 https://checkhere.top
 https://checkout.soundcloud.com
+https://cheltenham-od.uk
 https://chencoding.top:8090
 https://chentiansaber.notion.site
 https://chenxing.shop
@@ -3555,6 +3567,7 @@ https://cubic.dev
 https://curl.qcloud.com
 https://currencyfair.com
 https://cursor.com
+https://cutefish.org
 https://cutt.ly
 https://cv2ray.xyz
 https://cve.mitre.org
@@ -3778,10 +3791,12 @@ https://dev-elu2z98r.auth0.com
 https://dev-eus.vf.hrdev.io
 https://dev-notifications-frontend.ashevillenc.gov
 https://dev-re.crm4.dynamics.com
+https://dev.cmeerw.org
 https://dev.emby.media
 https://dev.iw233.cn
 https://dev.jonahtreiber.com
 https://dev.maxmind.com
+https://dev.standardbeagle.com
 https://dev.to
 https://developer.1password.com
 https://developer.amd.com.cn
@@ -3826,6 +3841,7 @@ https://diamond.jp
 https://diewithme.co
 https://diffusesystems.net
 https://dify.ai
+https://digestai.news
 https://digiato.global
 https://digimoviez.com
 https://digipostal.ir
@@ -4002,6 +4018,7 @@ https://docs.figma-console-mcp.southleft.com
 https://docs.flipper.net
 https://docs.fluentbit.io
 https://docs.fluentd.org
+https://docs.fxembed.com
 https://docs.getoutline.com
 https://docs.gitea.com
 https://docs.gitlab.com
@@ -4114,6 +4131,7 @@ https://doubledou.win
 https://doucat.top
 https://douyun.sbs
 https://dove.589669.xyz
+https://dovee.cc
 https://down.000zb09.com
 https://down.dginv.click
 https://down.feituyun.xyz
@@ -4648,6 +4666,7 @@ https://fly.puroc.cc
 https://fly.xxl123.fun
 https://fly0001.buzz
 https://flybirdy.xyz
+https://flybit.my
 https://flybit.pages.dev
 https://flybit.vip
 https://flycnb.tk
@@ -4841,6 +4860,7 @@ https://get.ninesub.us.kg
 https://get.rush.ml
 https://getafreenode.com
 https://getandroidfast.com
+https://getapps.cafe
 https://getartcraft.com
 https://gethomepage.dev
 https://geti2p.net
@@ -5622,6 +5642,7 @@ https://josig-f74b41601fc7.herokuapp.com
 https://journals.aps.org
 https://journals.sagepub.com
 https://joust.com.au
+https://jp.sharp
 https://jp.taishan.pro
 https://jp.taishan1.pro
 https://jp.tdns.dev
@@ -6487,6 +6508,7 @@ https://myboard.co
 https://myclaude.mydata.su:8445
 https://mydy.xlm.plus
 https://myelf.club
+https://myfeed.space
 https://myfriendsandi.xyz
 https://myheritage.com
 https://myiphide.com
@@ -6609,6 +6631,7 @@ https://news.clateway.com
 https://news.cri.cn
 https://news.ifeng.com
 https://news.itsfoss.com
+https://news.kiwistand.com
 https://news.lavx.hu
 https://news.layervault.com
 https://news.mindynode.com
@@ -6627,6 +6650,7 @@ https://newsdig.tbs.co.jp
 https://newshacker.me
 https://newsify.co
 https://newsletter.semianalysis.com
+https://newsnow.busiyi.world
 https://newsroom.amd.com
 https://newsroom.arm.com
 https://newsroom.ibm.com
@@ -7195,6 +7219,7 @@ https://prometheus.monitor.azure.com
 https://prompt.fffarda.ir
 https://prompt.ql.app
 https://prompts.chat
+https://proofite.com
 https://prop.cf
 https://propellme.com.au
 https://proprivacy.com
@@ -7443,6 +7468,7 @@ https://red.anthropic.com
 https://red.colacloud.free.hr
 https://red90-hh.click
 https://redash.io
+https://redhat.atlassian.net
 https://redis.io
 https://redis.tinycraft.cc
 https://redisp.life
@@ -7475,6 +7501,7 @@ https://renshui.so-fast.org
 https://rentry.co
 https://renzhesub.com
 https://replicate.com
+https://repo.or.cz
 https://reports.exodus-privacy.eu.org
 https://repzt3P1yq.qinyues4.cc
 https://research.adobe.com
@@ -7522,12 +7549,14 @@ https://rocket.rs
 https://rockstarintel.com
 https://rockvpn.4bmg9.online
 https://rocm.blogs.amd.com
+https://rom.msdmcp.top
 https://ronancat.com
 https://rook.io
 https://ropayi2026.ir
 https://ropsten.etherscan.io
 https://ror.org
 https://rostam.app
+https://route77.online
 https://roxiestreams.su
 https://roxijet.cloud
 https://roxybrowser.com
@@ -7556,6 +7585,7 @@ https://rss.newlearner.site
 https://rss.nodeseek.com
 https://rss.okggrss.buzz
 https://rss.paoluz.xyz
+https://rss.realmarketapi.com
 https://rss.rss-node.com
 https://rss.rssforever.com
 https://rss.srss.xyz
@@ -7565,6 +7595,7 @@ https://rss2.jkl-sub.com
 https://rss2024.jkl-sub.com
 https://rss202407.mugua-sub.com
 https://rssbrain.com
+https://rssemit.com
 https://rssfeed.today
 https://rsshub.aboutrss.now.sh
 https://rsshub.app
@@ -7741,10 +7772,12 @@ https://scmscjmvjs.583838.xyz
 https://scrapling.readthedocs.io
 https://screego.net
 https://scsc.fefeef.cn
+https://sct.ftqq.com
 https://scwljsq.cfooov.xyz
 https://scwljsq.scl168.club
 https://scys.org
 https://sd02.sudun1.top
+https://sddf7e85f5a.uohhfbxqmfd5kfnnrpsi5v02owaqdjesmswxnzk0nvuo9qjgzmzg4.eu.cc
 https://sdfox.cc
 https://sdgvps.com
 https://sdk-fls53vl6.27101666.com
@@ -7985,6 +8018,7 @@ https://speedx2net.postshup.ir:2052
 https://speice.io
 https://spidermonkey.dev
 https://splus.ir
+https://sponder.app
 https://spr.278986.xyz
 https://spring.io
 https://sps.yy-gp.com
@@ -8062,6 +8096,7 @@ https://stash.ws
 https://stashh.io
 https://stat.ripe.net
 https://static-file-global.353355.xyz
+https://static.aiguanchao.com
 https://static.ranker.com
 https://static.rust-lang.org
 https://static.stepfun.com
@@ -8471,6 +8506,7 @@ https://sub1.5yunapi.sbs
 https://sub1.91qaq.lol
 https://sub1.achaemenidempireofpersia.uk
 https://sub1.all--green.com
+https://sub1.aoyou.stream
 https://sub1.bbjc.xyz
 https://sub1.efshop.cc
 https://sub1.elkcloud.top
@@ -9002,6 +9038,7 @@ https://trello.com
 https://trendo.com
 https://trendshift.io
 https://trigger.dev
+https://trivy.dev
 https://trj.zcr5.ddns-ip.net
 https://tro.zqwnan.tk
 https://trojanfree-76s.pages.dev
@@ -9570,6 +9607,8 @@ https://wk-auto-update-3e7.pages.dev
 https://wk.baodaoji.com
 https://wk392.sakuracloud.vip
 https://wl.awcmam.com
+https://wloc-pages.pages.dev
+https://wloc-spoofer.wloc.workers.dev
 https://wloc.xepesw.workers.dev
 https://wly312.buzz
 https://wm01dy.wmyun.men
@@ -9890,6 +9929,7 @@ https://www.cnbeta.com.tw
 https://www.cnblogs.com
 https://www.cncf.io
 https://www.cnfeat.com
+https://www.cnn.com
 https://www.cnstock.com
 https://www.cockroachlabs.com
 https://www.cocotoyou.com
@@ -10239,6 +10279,7 @@ https://www.insuredbyus.com
 https://www.intc.com
 https://www.integrapay.com.au
 https://www.intel.com
+https://www.intelcue.ai
 https://www.interactivebrokers.com
 https://www.invenglobal.com
 https://www.investing.com
@@ -10768,6 +10809,7 @@ https://www.sony.com
 https://www.sonyalpharumors.com
 https://www.sonymusic.co.jp
 https://www.sordum.org
+https://www.sosjsq.com
 https://www.space.com
 https://www.spacebar.news
 https://www.spacex.com
@@ -10812,6 +10854,7 @@ https://www.tahlildadeh.com
 https://www.taipeiff.taipei
 https://www.taishan.pro
 https://www.talkwalker.com
+https://www.tangsan.fun
 https://www.tannel.xyz
 https://www.tavus.io
 https://www.tcip.top
@@ -11097,6 +11140,7 @@ https://www.ymmk.xyz
 https://www.yna.co.kr
 https://www.yodlee.com
 https://www.youneed.win
+https://www.yourtrace.online
 https://www.youtube-nocookie.com
 https://www.youtube.com
 https://www.youxincloud.net
@@ -11227,6 +11271,7 @@ https://xclient.info
 https://xconfig.pages.dev
 https://xcyun.co
 https://xdxsb.top
+https://xetabit.com
 https://xf.gl
 https://xf88j.no-mad-world.club
 https://xfa9.eu.org
