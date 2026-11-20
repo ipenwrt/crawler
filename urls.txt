@@ -484,6 +484,7 @@ http://iajnzfwzca.shop
 http://iamsujie.com
 http://ibcl.us
 http://ice77.top
+http://icloud.com
 http://icy-hall-8013.386-58c.workers.dev
 http://identifiers.org
 http://iec.ch
@@ -560,7 +561,9 @@ http://labnana.com
 http://lafusees.com
 http://laobideng.xyz
 http://latency-test.skk.moe
+http://leviko-de3729.shopingggg.ir:19999
 http://leviko-de8397.shopingggg.ir:19999
+http://leviko-sg3477.shopingggg.ir:19999
 http://lianjiasub.work
 http://liberize.me
 http://lichuanyang.top
@@ -1559,6 +1562,7 @@ https://52pokemon.xz61.cn
 https://52pokemon.yunjnet.com
 https://52xiaohongniang.com
 https://52yunwang.dpdns.org
+https://531724fd.ghelper.me
 https://54264944.xyz
 https://544313cb.ghelper.me
 https://548a2bc0.ghelper.me
@@ -4914,6 +4918,7 @@ https://git.ir
 https://git.k8s.io
 https://git.libremobileos.com
 https://git.myrrlyn.net
+https://git.notrexed.dev
 https://git.openwrt.org
 https://git.pictuga.com
 https://git.sr.ht
@@ -6688,6 +6693,7 @@ https://ninite.com
 https://ninjasub.com
 https://niracler.com
 https://nitromer.com
+https://nitter.cf
 https://niu.wzai.top
 https://niua.eu.cc
 https://niubi110.pages.dev
@@ -6986,6 +6992,7 @@ https://parsroute.net
 https://parsuptime.com
 https://parsvip0.sbs:8443
 https://parsvip0.xyz:8443
+https://partners.charisma.ir
 https://pasnet.ru
 https://pasqualepillitteri.it
 https://passer-by.com
@@ -7409,6 +7416,7 @@ https://r.saraf.app
 https://r1.840501.xyz
 https://r105039.lvcha.me
 https://r1c.ir
+https://r1wovcg.com
 https://r2-c11-dd.0-w.ccwu.cc
 https://r4fo.com
 https://r5t6.00890604.xyz
@@ -10410,6 +10418,7 @@ https://www.lepton.ai
 https://www.lesswrong.com
 https://www.lfhacks.com
 https://www.lframework.com
+https://www.lg.com
 https://www.liangyuandian.at
 https://www.liangyuandian.life
 https://www.librechat.ai
@@ -10573,6 +10582,7 @@ https://www.nintendo.com.hk
 https://www.nintendolife.com
 https://www.nist.gov
 https://www.nite07.com
+https://www.nitter.cf
 https://www.niulaoban.shop
 https://www.nodeloc.com
 https://www.nodeseek.com
@@ -10718,6 +10728,7 @@ https://www.rabbitmq.com
 https://www.racevpn.com
 https://www.radiozamaneh.com
 https://www.radix-ui.com
+https://www.radixark.com
 https://www.rainbond.com
 https://www.raksmart.com
 https://www.ralfj.de
@@ -10749,6 +10760,7 @@ https://www.right.com.cn
 https://www.rijksmuseum.nl
 https://www.riolu.me
 https://www.rjctx.com
+https://www.rnievent.ir
 https://www.robustperception.io
 https://www.roc-taiwan.taipei
 https://www.rockstargames.com
@@ -11258,6 +11270,7 @@ https://x2b.eans.top
 https://x35mwskdaobf.top
 https://x74uicwgbyhk.top
 https://x7t2qctb.xoomlia.com
+https://xavier.wang
 https://xb-0609.xiaobaivpn.cyou
 https://xb.6315687.xyz
 https://xb.ekxo.cn
