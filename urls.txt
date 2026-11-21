@@ -5342,6 +5342,7 @@ https://idc.com
 https://idealclover.top
 https://identity-server.dev01.devland.is
 https://idev.dev
+https://idshare001.me
 https://ieeexplore.ieee.org
 https://iehswe.lobonet.cn
 https://ieoruyxtsud.shop
@@ -6324,6 +6325,7 @@ https://milvus.io
 https://mimo.mi.com
 https://mimo.xiaomi.com
 https://mimo.xiaomimimo.com
+https://mimoe.su
 https://min.io
 https://minapp.com
 https://mind-elixir.com
@@ -7019,6 +7021,7 @@ https://paugram.com
 https://pavo.eu.org
 https://paws.community
 https://pay.ldxp.cn
+https://pay.nicepay.co.kr
 https://paybtc.com.au
 https://paydock.com
 https://payfar.org
@@ -7887,6 +7890,7 @@ https://shizuku.rikka.app
 https://shnkybz1yt2f.top
 https://shoes.mintstore.store
 https://shop-piqiu.makadns.com
+https://shop.88hy.top
 https://shop.as12138.click
 https://shop.banyunxiaoxi.icu
 https://shop.mci.ir
@@ -9928,6 +9932,7 @@ https://www.clashverge.dev
 https://www.class.com.au
 https://www.claymath.org
 https://www.clipzap.ai
+https://www.clockenflap.com
 https://www.cloudflare.com
 https://www.cloudlion.me
 https://www.cloudns.net
@@ -10195,6 +10200,7 @@ https://www.goldenhillsoftware.com
 https://www.goldenhorse.org.tw
 https://www.goodsunlc.com
 https://www.googo.ml
+https://www.grammy.com
 https://www.grc.com
 https://www.greyblake.com
 https://www.gstatic.com
@@ -10574,6 +10580,7 @@ https://www.newsworks.co.kr
 https://www.newyorker.com
 https://www.nfsq.us
 https://www.nginx.com
+https://www.nhk.or.jp
 https://www.niemanlab.org
 https://www.nikon.com
 https://www.nintendo.co.jp
@@ -11376,6 +11383,7 @@ https://xn--6p1awey07c.com
 https://xn--6stp4p.com
 https://xn--74qp04m.org
 https://xn--94q649dc94a.com
+https://xn--94qz53l48aoxs.com
 https://xn--9kq838ftid.shop
 https://xn--9kq85xcu6b.com
 https://xn--9kq902dpj2a.com
@@ -11417,6 +11425,7 @@ https://xn--kivt58h.lol
 https://xn--kivx99h.xyz
 https://xn--l6qx3l9s1a.com
 https://xn--m5-yq5cua2b6473e.works
+https://xn--mes358a4plh5m.com
 https://xn--mes358a9urctx.com
 https://xn--mes358aby2apfg.com
 https://xn--mes358acgm99l.com
@@ -11592,6 +11601,7 @@ https://your-server.com
 https://your-sub-domain.com
 https://your-worker.workers.dev
 https://your.domain
+https://your.site.com
 https://your.subscription.com
 https://yourco.webhook.office.com
 https://yourdomain.com
