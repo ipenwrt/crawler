@@ -189,6 +189,7 @@ http://catalog.rs-heat.com
 http://catchen.biz
 http://cdn.akamai.steamstatic.com
 http://cdn.kcz66.com
+http://cdn19.sharfvpn.top
 http://cdnfire.xiaomispeed.com
 http://cfcloud.cyou
 http://cfhycoprmrr.shop
@@ -248,6 +249,7 @@ http://d222.d222.xyz
 http://dad.xiaobaivpn.cyou
 http://dannpu.com
 http://daramet.com
+http://dash.chiex.ir:1349
 http://dash.cloudflare.com
 http://dashabi.ping-zi-yun.icu
 http://dashboard.yudao.iocoder.cn
@@ -3094,6 +3096,7 @@ https://caoyyds.top
 https://cap.cloud.sap
 https://cap.so
 https://capify.com.au
+https://cardgenr.com
 https://careers.mozilla.org
 https://cassandra.apache.org
 https://castbox.fm
@@ -3514,6 +3517,7 @@ https://conversiontools.io
 https://convert.zephyrwork.work
 https://convertio.co
 https://coolace.site
+https://coolmuster.com
 https://coolors.co
 https://coolshell.cn
 https://coproducer.output.com
@@ -6238,6 +6242,8 @@ https://mastodon.social
 https://masuit.com
 https://matcha.ltd
 https://matcha.su
+https://math.mit.edu
+https://math216.wordpress.com
 https://matin.matinmo.top:2096
 https://matreshkavpn.com
 https://matrix.to
@@ -8241,6 +8247,7 @@ https://sub.cnkizzc.eu.org
 https://sub.colacloud.net
 https://sub.coo.ga
 https://sub.cucloud.top
+https://sub.curtinp.cc.cd
 https://sub.czrk168.top
 https://sub.dafei.de
 https://sub.danhu.ddns-ip.net
@@ -8977,6 +8984,7 @@ https://times1750269890.subxiandan.top:9604
 https://times1786120435.subnodejs-catnet.com
 https://tineye.com
 https://tingtalk.me
+https://tinker.thinkingmachines.ai
 https://tiny.ofnwmbg9dl.workers.dev
 https://tiny4.org
 https://tinysystems.io
@@ -8989,6 +8997,7 @@ https://tj.hhll.qqs.me
 https://tjjd.yzyx1.v6.army
 https://tjsd.site
 https://tjvpn.ml
+https://tk-03-cn-hk-cdn.dy-dlam-2.xyz
 https://tk.z07.isgre.at
 https://tkbaohe.com
 https://tkmfa0izv5ge.top
@@ -9957,9 +9966,11 @@ https://www.codewoody.com
 https://www.coindesk.com
 https://www.commoninja.com
 https://www.computerworld.com
+https://www.comss.ru
 https://www.consul.io
 https://www.conventionalcommits.org
 https://www.coolapk.com
+https://www.coolmuster.com
 https://www.cordc.net
 https://www.coursera.org
 https://www.coze.com
@@ -10665,6 +10676,7 @@ https://www.parsturbo6.ir
 https://www.partforge.ai
 https://www.pasyun.com
 https://www.patreon.com
+https://www.payate.com
 https://www.pcgamer.com
 https://www.pclnn.com
 https://www.pcloud.com
@@ -11174,6 +11186,7 @@ https://www.youxincloud.net
 https://www.youzi.pw
 https://www.youzikaryl.top
 https://www.youzilite.help
+https://www.youzizi.top
 https://www.youzizizi.top
 https://www.ytdy666.buzz
 https://www.yunduovpn.xyz
