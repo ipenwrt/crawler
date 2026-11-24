@@ -107,6 +107,7 @@ http://apinex.bond
 http://app.exxanz.com
 http://app.lydiaex.ir
 http://app.mfish.com.cn:11119
+http://app.sublink.works
 http://app.weibo.com
 http://app.xn--cloud-et5i500m.biz
 http://appium.io
@@ -2496,6 +2497,7 @@ https://apt.releases.hashicorp.com
 https://arax.ncats.io
 https://archa.com.au
 https://archerydms.com
+https://architectlabs.com
 https://archive.org
 https://arctic-intelligence.com
 https://arena.ai
@@ -2531,6 +2533,7 @@ https://ascii2d.net
 https://asdf-vm.com
 https://asdf.888545.xyz
 https://asdf.fifafa.vip
+https://asdfghjkl11.clydslove.shop
 https://asia.nikkei.com
 https://asiatech.ir
 https://ask.xsccusm.com:8888
@@ -2854,6 +2857,7 @@ https://blog.imalan.cn
 https://blog.ja.playstation.com
 https://blog.japaric.io
 https://blog.jetbrains.com
+https://blog.kagi.com
 https://blog.kobin.cn
 https://blog.kuaiyu.cc
 https://blog.laputa.io
@@ -5094,6 +5098,7 @@ https://hackage.haskell.org
 https://hacker-podcast.agi.li
 https://hackernoon.com
 https://hackerone.com
+https://hacklocal.beacon.host
 https://hacks.mozilla.org
 https://hacs.xyz
 https://hagsteel.com
@@ -5702,6 +5707,7 @@ https://k6rcy6a2leyehqhlphlwkkuppm0xxubn.lambda-url.us-east-1.on.aws
 https://kabel.entreri.de
 https://kad520.uk
 https://kafka.apache.org
+https://kagi.com
 https://kaikaixinxin.jiumaojiu.net
 https://kaikaixinxin.me
 https://kaimenlai.com
@@ -6965,6 +6971,7 @@ https://packages.bleemeo.com
 https://packages.openvpn.net
 https://packages.sury.org
 https://pai.yt
+https://pake.run
 https://pan.b23.buzz
 https://pan.huang1111.cn
 https://pan.liutaishuai.cn
@@ -7420,6 +7427,7 @@ https://quq.world
 https://qwe.097482.xyz
 https://qwen.ai
 https://qwer.freewebsite1.shop:2096
+https://qwertyuiop.clydslove.shop
 https://qwerzfdsfgrtds.mejd.cn
 https://qxnav.com
 https://qxuig4.youxuan.wiki
@@ -8980,6 +8988,7 @@ https://tiktokcn.xyz
 https://tiktokvoice.net
 https://tikv.org
 https://tilin.ir
+https://timberfestival.org.uk
 https://time.com
 https://time.localenby.is
 https://time1717401601.nginxcaiyun.xyz
@@ -9364,6 +9373,7 @@ https://video.monikacloud.net
 https://videocardz.com
 https://videofetch.readthedocs.io
 https://videomazani.com
+https://view-link.cx
 https://vifast.net
 https://vika.cn
 https://vikunja.io
@@ -9630,6 +9640,7 @@ https://wingpt.winning.com.cn
 https://winro.io
 https://wire.com
 https://wiresock.net
+https://wiro.ai
 https://wisr.com.au
 https://within.sephirah.icu
 https://wizy.clyve.help
@@ -9871,6 +9882,7 @@ https://www.bitgetapp.com
 https://www.bitunix.com
 https://www.bizcover.com.au
 https://www.bjch999.com
+https://www.blackberry.com
 https://www.bland.ai
 https://www.bleepingcomputer.com
 https://www.blindambition.co.uk
