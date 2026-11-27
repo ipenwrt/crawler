@@ -191,6 +191,7 @@ http://catalog.rs-heat.com
 http://catchen.biz
 http://cdn.akamai.steamstatic.com
 http://cdn.kcz66.com
+http://cdn.weloverkn.ru
 http://cdn19.sharfvpn.top
 http://cdnfire.xiaomispeed.com
 http://cfcloud.cyou
@@ -784,6 +785,7 @@ http://s.api50951.ir:443
 http://s.b6v.cn
 http://s.kalaa.me
 http://s1.subcsyun.online
+http://s23.fusetea.ir:2089
 http://s3.amazonaws.com
 http://s3.subcsyun.online
 http://s4.subcsyun.online
@@ -901,6 +903,7 @@ http://tg.cyy200.xyz
 http://tgdev.io
 http://tgdingyuecenter.dmit.us.kg:31159
 http://tgideas.qq.com
+http://tgju.org
 http://tgstat.com
 http://thanos-receiver-0.thanos-receiver:8081
 http://the-sz.com
@@ -1054,6 +1057,7 @@ http://www.cssforest.org
 http://www.cttz.xyz
 http://www.datagear.tech
 http://www.dataorienteddesign.com
+http://www.datarover.com
 http://www.datastax.com
 http://www.dell.com
 http://www.devbridge.com
@@ -2507,6 +2511,7 @@ https://architectlabs.com
 https://archive.org
 https://arctic-intelligence.com
 https://arena.ai
+https://aresluna.org
 https://argo-rollouts.readthedocs.io
 https://argovpn.com
 https://aricke.com
@@ -2745,6 +2750,7 @@ https://beiten.ir
 https://beiyon.hanbao.lol
 https://beiyon4.hanbao.lol
 https://bellingcat.gitbook.io
+https://bellroy.com
 https://belowthesurface.amsterdam
 https://benalman.com
 https://benches.date
@@ -3261,6 +3267,7 @@ https://chat.qwenlm.ai
 https://chat.tawana.online
 https://chat.whatsapp.com
 https://chat2db.opensource.alibaba.com
+https://chata.cc.cd
 https://chatboxai.app
 https://chatbuzzteamtest.behnambb277369.workers.dev
 https://chatgpt.aicnm.cc
@@ -3589,6 +3596,7 @@ https://csyun.t1csyun.shop
 https://ctp.ct8.pl
 https://ctrn.club
 https://cubic.dev
+https://culturedcode.com
 https://curl.qcloud.com
 https://currencyfair.com
 https://cursor.com
@@ -3857,6 +3865,7 @@ https://dfgsdfg.ghkjfgjkdfghrjfghjvbnm.cfd
 https://dfjc.xyz
 https://dftyfdf1j00ll.dashuai.us
 https://dggcb.no-mad-sub.one
+https://dgka.me
 https://dgthrhfrht.kaixincloud.top
 https://dhhrp.no-mad-sub.one
 https://di4e.kefu.email
@@ -4995,6 +5004,7 @@ https://go4sgzyfszsd.top
 https://go4sharing.gv.uy
 https://godofprompt.ai
 https://gods.coding.net
+https://godscypher.com
 https://goftino.com
 https://gogs.io
 https://goii.cc
@@ -5418,6 +5428,7 @@ https://in.mesl.cloud
 https://inangua.lwjyj.com
 https://index.ros.org
 https://indieapps.space
+https://indiegoodies.com
 https://inessential.com
 https://inews.hket.com
 https://inference.dahl.global
@@ -6258,6 +6269,7 @@ https://markmap.js.org
 https://markonreview.com
 https://martinfowler.com
 https://marzban.panelmarzban.com
+https://masablog.tw
 https://mashable.com
 https://mashdigi.com
 https://mastodon.feedly.com
@@ -6390,6 +6402,7 @@ https://mitce.com
 https://mitce.net
 https://mjdgb9htadbj.top
 https://mjj.ee
+https://mjtsai.com
 https://mkewfoduja.shop
 https://mktb.me
 https://mktnews.net
@@ -6445,6 +6458,7 @@ https://monkeys.cafe
 https://monzo.com
 https://morerss.com
 https://morphe-patches.software
+https://morphe.software
 https://mosquitto.org
 https://motherboard.vice.com
 https://mouha.be
@@ -7757,6 +7771,7 @@ https://s3.pacy.cc
 https://s31.uupload.ir
 https://s33.uupload.ir
 https://s34.picofile.com
+https://s361775d8f8.62960722.cc
 https://s4-f45.pages.dev
 https://s4.laoda666.com
 https://s4.pacy.cc
@@ -7937,6 +7952,7 @@ https://shop.tg10000.com
 https://shop.wwkejishe.top
 https://shop.xiaolongyun.buzz
 https://shorturl.731808.eu.org
+https://shottr.cc
 https://shouyeren.uk
 https://shp.ee
 https://shrtm.nu
@@ -8032,6 +8048,7 @@ https://sockboom.me
 https://sockpuppet.org
 https://sodacloud.pw
 https://soft98.ir
+https://software.charliemonroe.net
 https://sogomn.gitlab.io
 https://soho.komect.com
 https://sokg.net
@@ -8305,6 +8322,7 @@ https://sub.foxvpn.im
 https://sub.fqzsnai.ggff.net
 https://sub.free.n125.xyz
 https://sub.fuckyou.pp.ua
+https://sub.fugui.lol
 https://sub.gacloudltd.store
 https://sub.galafirewall.online
 https://sub.giga-downloader.com
@@ -8828,6 +8846,7 @@ https://syynweb.xyz
 https://szadmin.cn
 https://szdol.com
 https://szhz.dport.top
+https://t.555555666.xyz
 https://t.bxkjm.com
 https://t.chatzy.ir
 https://t.co
@@ -9143,6 +9162,7 @@ https://tuzi226.top
 https://tv-l4um.onrender.com
 https://tv.cctv.com
 https://tv.modemhub.work
+https://tv.youtube.com
 https://tv.zaringo.sbs
 https://tv2.zaringo.sbs
 https://tvbox.catvod.com
@@ -9375,6 +9395,7 @@ https://vel.gg
 https://venturebeat.com
 https://veoaifree.com
 https://veops.cn
+https://vera20k.org
 https://veracrypt.fr
 https://vercel.com
 https://verdaccio.org
@@ -9656,6 +9677,7 @@ https://windowsv1.com
 https://windscribe.com
 https://wingpt.winning.com.cn
 https://winro.io
+https://wins.cool
 https://wire.com
 https://wiresock.net
 https://wiro.ai
@@ -9996,6 +10018,7 @@ https://www.cnbeta.com
 https://www.cnbeta.com.tw
 https://www.cnblogs.com
 https://www.cncf.io
+https://www.cnet.com
 https://www.cnfeat.com
 https://www.cnn.com
 https://www.cnstock.com
@@ -10015,6 +10038,7 @@ https://www.cordc.net
 https://www.coursera.org
 https://www.coze.com
 https://www.cra.ir
+https://www.craft.do
 https://www.crazygames.com
 https://www.crazymailing.com
 https://www.crew.icu
@@ -10120,6 +10144,7 @@ https://www.emqx.com
 https://www.endgame.com
 https://www.enea.com
 https://www.engadget.com
+https://www.enpass.io
 https://www.entekhab.ir
 https://www.envoyproxy.io
 https://www.epicgames.com
@@ -10207,6 +10232,7 @@ https://www.freie-messenger.de
 https://www.ft.com
 https://www.ftchinese.com
 https://www.ftclashcloud.mom
+https://www.fubo.tv
 https://www.fujifilm.com
 https://www.fujirumors.com
 https://www.funds2growth.com
@@ -10275,6 +10301,7 @@ https://www.happymao.cat
 https://www.haproxy.com
 https://www.haproxy.org
 https://www.haraldjoergens.com
+https://www.hbomax.com
 https://www.hcaptcha.com
 https://www.heavens-above.com
 https://www.helingqi.com
@@ -10306,6 +10333,7 @@ https://www.huasheng.cn
 https://www.huawei.com
 https://www.huaweicloud.com
 https://www.huaxia.cyou
+https://www.hulu.com
 https://www.huluohu.com
 https://www.humansecurity.com
 https://www.hume.ai
@@ -10461,6 +10489,7 @@ https://www.laodayun.net
 https://www.laoniu49.top
 https://www.laozuo.org
 https://www.laruence.com
+https://www.lastpass.com
 https://www.latepost.com
 https://www.latimes.com
 https://www.lava.xyz
@@ -10713,6 +10742,7 @@ https://www.paopao.info
 https://www.paopaoyunyi.top
 https://www.paperbunny.asia
 https://www.parallels.com
+https://www.paramountplus.com
 https://www.parity.io
 https://www.parsturbo6.ir
 https://www.partforge.ai
@@ -10724,6 +10754,7 @@ https://www.pclnn.com
 https://www.pcloud.com
 https://www.pdda.me
 https://www.pddc.me
+https://www.peacocktv.com
 https://www.pentestpartners.com
 https://www.perplexity.ai
 https://www.persianboxx.com
@@ -10745,6 +10776,7 @@ https://www.pkqcloud.com
 https://www.plan.ir
 https://www.plantuml.com
 https://www.playstation.com
+https://www.plex.tv
 https://www.plonkit.net
 https://www.pluchon.com
 https://www.pokemon.com
@@ -10877,6 +10909,7 @@ https://www.sjys6.cloud
 https://www.skyhomevpn.com
 https://www.skyreels.ai
 https://www.skysports.com
+https://www.sling.com
 https://www.sltrib.com
 https://www.smashingmagazine.com
 https://www.smcow.com
@@ -10905,10 +10938,12 @@ https://www.ssllabs.com
 https://www.ssrtool.com
 https://www.sstank.top
 https://www.ssy61.com
+https://www.stacksocial.com
 https://www.star-history.com
 https://www.starlinkss.vip
 https://www.starryblu.com
 https://www.startracecloud.com
+https://www.starz.com
 https://www.stcn.com
 https://www.stdaily.com
 https://www.stellar.org
@@ -11100,6 +11135,7 @@ https://www.vpnmiao.site
 https://www.vpnunlimitedapp.com
 https://www.vpsknow.com
 https://www.vpslayer.net
+https://www.vsco.co
 https://www.vsphone.com
 https://www.vtwoc3.top
 https://www.vtwoc4.top
@@ -11231,6 +11267,7 @@ https://www.youzilite.help
 https://www.youzizi.top
 https://www.youzizizi.top
 https://www.ytdy666.buzz
+https://www.yubico.com
 https://www.yunduovpn.xyz
 https://www.yunq001.xyz
 https://www.yunruigold.cc
@@ -11405,6 +11442,7 @@ https://xkcd.com
 https://xkiro.com
 https://xlog.app
 https://xmake.io
+https://xmind.com
 https://xmission-slc-1.edge.nextdns.io
 https://xmm.maimaiyun.shop
 https://xmrhuman.644222.xyz:8081
@@ -11579,6 +11617,7 @@ https://xysxwk250428.3344550.xyz
 https://xyz.gosurfing.net
 https://xz.54264944.xyz
 https://xzjb8.no-mad-world.club
+https://y.1106-8.kdns.fr
 https://y.j-0.de5.net
 https://y.kukeyun.cc
 https://y.yfkpay.com
