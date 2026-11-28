@@ -80,6 +80,7 @@ http://airbrush.com
 http://aiseeke.dpdns.org
 http://allenlow.com
 http://alouette.top
+http://amnezia.org
 http://ams1.fromblancwithlove.com:19175
 http://android.com
 http://animenewsnetwork.com
@@ -1696,6 +1697,7 @@ https://7628dd64.ghelper.me
 https://774.gs
 https://7742dabd.ghelper.me
 https://777.youtu6.shop
+https://7777699.xyz
 https://781.jiasu.asia
 https://789.st
 https://78fb170a-8f5c-46e9-991c-2b12fe04c1d1.xn--mes358a.art
@@ -1935,6 +1937,7 @@ https://access.redhat.com
 https://acck.364685.xyz:2098
 https://account.arkain.io
 https://account.bilibili.com
+https://accounts.adblockplus.org
 https://accounts.binance.com
 https://accounts.firefox.com
 https://accounts.hcaptcha.com
@@ -1968,6 +1971,7 @@ https://admin-tmpl-test.rencaiyoujia.cn
 https://admin.apigyuyjioh.xyz
 https://admin.harnesscom.com
 https://admin.jarvis.cx
+https://admin.mistral.ai
 https://admin.nezha.su
 https://admin.shanlian.app
 https://admin.vip.edu.kg
@@ -3013,6 +3017,7 @@ https://bugs.python.org
 https://bugstack.cn
 https://bugzilla.redhat.com
 https://bugzilla.suse.com
+https://bui.preetham.top
 https://build.nvidia.com
 https://buildwindows.wordpress.com
 https://bujidao.cc
@@ -3312,6 +3317,7 @@ https://chy.fit
 https://chy888.xyz
 https://chyyuu.gitbooks.io
 https://ciallo.775678.xyz
+https://cindori.com
 https://circlevpn.net
 https://circloud123.com
 https://citi.terminal69.win
@@ -3355,6 +3361,7 @@ https://claw.cloud
 https://clawhub.ai
 https://clck.ru
 https://cleanbrowsing.org
+https://cleanshot.com
 https://clear-languages.org
 https://cleardynamics.com.au
 https://cleave.edudigy.cc
@@ -3793,6 +3800,7 @@ https://demo.filebrowser.org
 https://demo.filegator.io
 https://demo.gin-vue-admin.com
 https://demo.maku.net
+https://demo.nodewarden.app
 https://demo.open.renren.io
 https://demo.opendevops.cn
 https://demo.opsli.bedebug.com
@@ -3937,10 +3945,15 @@ https://dl.p6p.net
 https://dl.toolschi.com
 https://dl.vfkum.website
 https://dl1.androidcloob.com
+https://dl12.megadl.click
+https://dl13.megadl.click
 https://dl2-extractleech.runflare.run
+https://dl3.megadl.click
+https://dl4.megadl.click
 https://dl8.tabartosh35.fun
 https://dlaa.me
 https://dlang.org
+https://dlc.megadl.click
 https://dler.cloud
 https://dlercloud.com
 https://dles.gg
@@ -4425,6 +4438,7 @@ https://ehsawn8bot.top
 https://eitaa.com
 https://ejq9qy8emd.feishu.cn
 https://eladmin.vip
+https://electronics.sony.com
 https://eleduck.com
 https://element.eleme.io
 https://element.io
@@ -4488,6 +4502,7 @@ https://events.humanitix.com
 https://events.pagerduty.com
 https://everappz.com
 https://evershop.io
+https://every.to
 https://evozi.zendesk.com
 https://eway.com.au
 https://exo.cloudtaste.xyz
@@ -4505,6 +4520,7 @@ https://ezidebit.com
 https://f-35.store
 https://f-droid.org
 https://f.kxyz.eu.org
+https://f.winniezz.top
 https://f.www890604.dpdns.org
 https://f001.backblazeb2.com
 https://f105039.lvcha.im
@@ -4673,6 +4689,7 @@ https://firmus.co
 https://fish.audio
 https://fishchips.io
 https://fixupx.com
+https://fjc.best
 https://fk.wangdu.site
 https://fk.wwkjs.top
 https://fku-ppg.co.uk
@@ -4934,6 +4951,7 @@ https://ghproxy.com
 https://ghproxy.net
 https://giaoyun.xyz
 https://giftarticle.ft.com
+https://giga.chat
 https://gijn.org
 https://gikken.co
 https://giorgiocalderolla.com
@@ -5043,6 +5061,7 @@ https://grail.cs.washington.edu
 https://grantjenks.com
 https://graphviz.org
 https://greasyfork.org
+https://great-mihomo-converter.leo-dream.workers.dev
 https://greatdk.com
 https://greatfirevpn.com
 https://greekreporter.com
@@ -5112,6 +5131,7 @@ https://h5.nf.migu.cn
 https://h5ctywhr.api.moji.com
 https://h7-83w.pages.dev
 https://habitica.com
+https://habr.com
 https://hackage.haskell.org
 https://hacker-podcast.agi.li
 https://hackernoon.com
@@ -5911,6 +5931,7 @@ https://land.maktabkhooneh.org
 https://landing.saamim.com
 https://lansecs.oxdtangx.top
 https://lansecs.top
+https://lantern.darkpx.workers.dev
 https://lantern.io
 https://lanternpay.com
 https://lanxincloud.xyz
@@ -6132,6 +6153,7 @@ https://ltx.io
 https://lucide.dev
 https://lucifer.ren
 https://lucky666.cn
+https://lujiji.top
 https://lukefan.com
 https://lumina.yakit.de5.net
 https://luminak.net
@@ -6217,6 +6239,7 @@ https://mQzmgK.mcsslk.xyz
 https://mac.sibapp.ir
 https://mac2winer.cfd
 https://macoshome.com
+https://macpaw.com
 https://macshuo.com
 https://mafbet.com
 https://mafclub.online
@@ -7068,6 +7091,7 @@ https://pati.s6zc5ybzea.workers.dev
 https://paugram.com
 https://pavo.eu.org
 https://paws.community
+https://pay.ethena.fi
 https://pay.ldxp.cn
 https://pay.nicepay.co.kr
 https://paybtc.com.au
@@ -7139,6 +7163,7 @@ https://pinpoint-apm.gitbook.io
 https://pip.pypa.io
 https://piped.video
 https://pipfeed.com
+https://pitchfork.com
 https://pixeldrain.com
 https://pixelfed.org
 https://pixman.io
@@ -7508,6 +7533,7 @@ https://raw.liucn.cc
 https://raw.niuma666bet.buzz
 https://raw.staticdn.net
 https://rawstatic.com
+https://rca1b.no-mad-sub.one
 https://rcktnl.site
 https://rcvps.cn
 https://reabble.cn
@@ -7546,6 +7572,7 @@ https://reedfern.com
 https://refactoring.guru
 https://reference-url-citation.invalid
 https://reffpa.com
+https://refine.sh
 https://refor1314.us.kg
 https://refpa3665.com
 https://refpakrtsb.top
@@ -7892,6 +7919,7 @@ https://service.furyun.org
 https://service.mf-api1.site
 https://service.mofangcloud.shop
 https://services.cu-te.cn
+https://services.goodsync.com
 https://setapp.com
 https://seup.shop
 https://sexoo.cloud
@@ -7947,6 +7975,7 @@ https://shop-piqiu.makadns.com
 https://shop.88hy.top
 https://shop.as12138.click
 https://shop.banyunxiaoxi.icu
+https://shop.dxo.com
 https://shop.mci.ir
 https://shop.tg10000.com
 https://shop.wwkejishe.top
@@ -8048,6 +8077,7 @@ https://sockboom.me
 https://sockpuppet.org
 https://sodacloud.pw
 https://soft98.ir
+https://softorino.com
 https://software.charliemonroe.net
 https://sogomn.gitlab.io
 https://soho.komect.com
@@ -8185,6 +8215,7 @@ https://status.soyoteam.com
 https://status.x.ai
 https://stealward.app
 https://steamcommunity.com
+https://steamdb.info
 https://steamstat.us
 https://steel68.qjty.buzz
 https://steemit.com
@@ -8423,6 +8454,7 @@ https://sub.pingboostermmd.xyz
 https://sub.pmsub.me
 https://sub.porter6.eu.org
 https://sub.ppbox.xyz
+https://sub.pqtx.ir:2083
 https://sub.proconnection.ir
 https://sub.proxygo.org
 https://sub.proxyvip.de
@@ -8990,6 +9022,7 @@ https://thehackerblog.com
 https://thehackernews.com
 https://theidco.com
 https://theinitium.com
+https://themacapps.com
 https://themarkup.org
 https://themeisle.com
 https://thenewcamera.com
@@ -9208,6 +9241,7 @@ https://uk.77777.bond
 https://uk.finance.yahoo.com
 https://umbilical5005.cnqq.de
 https://ume.la
+https://unclutterapp.com
 https://uneasy.win
 https://unfiltered.adguard-dns.com
 https://unicode.org
@@ -9271,6 +9305,7 @@ https://us-proxypool.herokuapp.com
 https://us.fairphone.com
 https://us.freecat.cloud
 https://us.nothing.tech
+https://us.ovhcloud.com
 https://us.ziyun.cyou
 https://us02-lax.beijing.st
 https://us1.zhuk.dpdns.org
@@ -9392,6 +9427,7 @@ https://vdmwy.itr.lol
 https://vdocs.vmr.dpdns.org
 https://veeruntech.xyz
 https://vel.gg
+https://veneno.veneno.cyou
 https://venturebeat.com
 https://veoaifree.com
 https://veops.cn
@@ -9862,6 +9898,8 @@ https://www.apkmirror.com
 https://www.appinn.com
 https://www.applnn.cc
 https://www.applnn.com
+https://www.apps.deals
+https://www.apptorium.com
 https://www.are.na
 https://www.artificial-intelligence.blog
 https://www.ascendaflow.com
@@ -10027,6 +10065,7 @@ https://www.cocotoyou.com
 https://www.codeflicker.ai
 https://www.codewoody.com
 https://www.coindesk.com
+https://www.colocrossing.com
 https://www.commoninja.com
 https://www.computerworld.com
 https://www.comss.ru
@@ -10087,6 +10126,7 @@ https://www.diffchecker.com
 https://www.digikala.com
 https://www.digit77.com
 https://www.digitalocean.com
+https://www.digitaltrends.com
 https://www.digitimes.com
 https://www.digitimes.com.tw
 https://www.discogs.com
@@ -10110,6 +10150,7 @@ https://www.dosk.win
 https://www.douban.com
 https://www.doubao.com
 https://www.douluoyun.xyz
+https://www.douluoyundingyue.space
 https://www.douyin.com
 https://www.downloadnth.com
 https://www.dpreview.com
@@ -10452,6 +10493,7 @@ https://www.kcex.com
 https://www.kdcloud.uk
 https://www.kdocs.cn
 https://www.kernel.org
+https://www.keychron.com
 https://www.keycloak.org
 https://www.khabaronline.ir
 https://www.kimi.ai
@@ -10636,6 +10678,7 @@ https://www.namasha.com
 https://www.namava.ir
 https://www.name.com
 https://www.namecheap.com
+https://www.namesilo.com
 https://www.nanobananamaker.com
 https://www.napster.com
 https://www.narro.co
@@ -10665,6 +10708,7 @@ https://www.nginx.com
 https://www.nhk.or.jp
 https://www.niemanlab.org
 https://www.nikon.com
+https://www.nikonusa.com
 https://www.nintendo.co.jp
 https://www.nintendo.com
 https://www.nintendo.com.hk
@@ -10752,6 +10796,7 @@ https://www.payate.com
 https://www.pcgamer.com
 https://www.pclnn.com
 https://www.pcloud.com
+https://www.pcmag.com
 https://www.pdda.me
 https://www.pddc.me
 https://www.peacocktv.com
@@ -10819,6 +10864,7 @@ https://www.qualcomm.com
 https://www.qunima.cc
 https://www.rabbitmq.com
 https://www.racevpn.com
+https://www.racknerd.com
 https://www.radiozamaneh.com
 https://www.radix-ui.com
 https://www.radixark.com
@@ -10954,6 +11000,7 @@ https://www.sublink.club
 https://www.sumatrapdfreader.org
 https://www.suncloud.fun
 https://www.sunmao-design.top
+https://www.superlist.com
 https://www.supertechfans.com
 https://www.suxieban.com
 https://www.svpn.asia
@@ -11090,6 +11137,7 @@ https://www.uptvs.com
 https://www.upx8.com
 https://www.ure.best
 https://www.us-cert.gov
+https://www.usa.canon.com
 https://www.usatoday.com
 https://www.usdt.gl
 https://www.usitc.gov
@@ -11274,6 +11322,7 @@ https://www.yunruigold.cc
 https://www.yuntt.sbs
 https://www.yuque.com
 https://www.yutu.pw
+https://www.yxdzqb.com
 https://www.yystv.cn
 https://www.yzhxr.vip
 https://www.z1z1.top
@@ -11419,6 +11468,7 @@ https://xianyuwangluo.vip
 https://xiaobai.klizi.cn
 https://xiaobing-my.sharepoint.com
 https://xiaobot.net
+https://xiaoeyu.xyz
 https://xiaofeigun.online
 https://xiaoheicn.top
 https://xiaoheijc.top
